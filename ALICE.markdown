@@ -25,8 +25,9 @@ What to consider when setting up workflow in own organisation e.g. data manageme
 ## Equipment Requirements
 
 ## Other Sources
+Price, Benjamin W., Steen Dupont, Elizabeth L. Allan, Vladimir Blagoderov, Alice J. Butcher, James Durrant, Pieter Holtzhausen, et al. 2018. “ALICE: Angled Label Image Capture and Extraction for High Throughput Insect Specimen Digitisation.” OSF Preprints. November 5. doi:10.31219/osf.io/s2p73.
 
-Links to journal articles and blog posts
+Dupont S, Price BW (2019) ALICE, MALICE and VILE: High throughput insect specimen digitisation using angled imaging techniques. Biodiversity Information Science and Standards 3: e37141. https://doi.org/10.3897/biss.3.37141
 
 ## Authors
 
