@@ -5,7 +5,7 @@ permalink: /ALICE/
 ---
 ## ALICE - Pinned Insect Digitisation
 
-![Alice example picture](https://github.com/lmfrench/lmfrench.github.io/blob/master/images/Pinned%20insect%20stage%20one%20753%20x%20435.jpg)
+![Alice example picture](https://github.com/lmfrench/lmfrench.github.io/blob/master/images/Pinned%20insect%20stage%20one%20753%20x%20435.jpg?raw=true)
 
 # Overview
 
