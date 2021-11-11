@@ -3,7 +3,17 @@ layout: page
 title: ALICE
 permalink: /ALICE/
 ---
-##Testing testing
+##ALICE - Pinned Insect Digitisation
+
+#Overview
+
+This is a section to give a summary about the workflow
+
+#Workflow Diagram
+
+![workflow example](https://github.com/lmfrench/lmfrench.github.io/blob/master/images/workflowtest.PNG?raw=true)
+
+#
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 #Test 2
