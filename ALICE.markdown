@@ -3,13 +3,13 @@ layout: page
 title: ALICE
 permalink: /ALICE/
 ---
-##ALICE - Pinned Insect Digitisation
+## ALICE - Pinned Insect Digitisation
 
-#Overview
+# Overview
 
 This is a section to give a summary about the workflow
 
-#Workflow Diagram
+# Workflow Diagram
 
 ![workflow example](https://github.com/lmfrench/lmfrench.github.io/blob/master/images/workflowtest.PNG?raw=true)
 
