@@ -44,8 +44,9 @@ What to consider when setting up workflow in own organisation e.g. data manageme
 * [XNConvert](https://www.xnview.com/en/xnconvert/)
 
 ### Camera Settings
-| **Camera EXIF Name(s)** | **Make and model** | **View**    | **Image settings**                  |
-|:---------------------|:----------------|:---------|:---------------------------------|
+
+| Camera EXIF Name(s) | Make and model | View    | Image settings                  |
+|---------------------|----------------|---------|---------------------------------|
 | ALICE1              | Canon 5DS R    | Dorsal  | f/20; ss = 1/80 sec; ISO = 400. |
 | ALICE2              | Canon 5DS R    | Lateral | f/14; ss = 1/50 sec; ISO = 400. |
 | ALICE3,4,5,6        | Canon 750D     | Labels  | f/20; ss = 1/50 sec; ISO = 400. |
