@@ -5,7 +5,7 @@ permalink: /ALICE/
 ---
 # ALICE - Pinned Insect Digitisation
 
-![Alice example picture](https://github.com/lmfrench/lmfrench.github.io/blob/master/images/IMG_20211021_153943.jpg?raw=true)
+![Alice example picture](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/IMG_20211021_153943.jpg?raw=true)
 
 ## Overview
 
@@ -13,7 +13,7 @@ ALICE (Angled Label Image Capture and Extraction) is a custom-built multi-camera
 
 ## Workflow Diagram
 
-![workflow example](https://github.com/lmfrench/lmfrench.github.io/blob/master/images/workflowtest.PNG?raw=true)
+![workflow example](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/workflowtest.PNG?raw=true)
 
 ## Workflow Instructions
 
