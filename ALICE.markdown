@@ -5,7 +5,7 @@ permalink: /ALICE/
 ---
 # ALICE - Pinned Insect Digitisation
 
-<img width='250' height='YYY' src="https://github.com/lmfrench/lmfrench.github.io/blob/main/images/IMG_20211021_153943.jpg" alt='DiSSCo logo'>
+<img width='250' height='YYY' src="https://github.com/lmfrench/lmfrench.github.io/blob/main/images/IMG_20211021_153943.jpg?raw=true" alt='Picture of ALICE'>
   
 ## Overview
 
