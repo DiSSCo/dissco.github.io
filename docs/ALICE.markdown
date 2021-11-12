@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ALICE
-permalink: /ALICE/
 parent: Pinned Insects
 ---
 # ALICE - Pinned Insect Digitisation
-
+{: .no_toc }
 
  ## Contents
-1. TOC
+ {: .no_toc .text-delta }
+- TOC
 {:toc}
 
  
