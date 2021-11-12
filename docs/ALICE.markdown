@@ -1,15 +1,13 @@
 ---
-layout: page
+layout: default
 title: ALICE
 parent: Pinned Insects
-permalink: /ALICE/
 nav_order: 2
 ---
 # ALICE - Pinned Insect Digitisation
 {: .no_toc }
 
- ## Contents
- {: .no_toc .text-delta }
+  {: .no_toc .text-delta }
 <details open markdown="block">
   <summary>
     Table of contents
