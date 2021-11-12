@@ -2,6 +2,7 @@
 layout: page
 title: ALICE
 parent: Pinned Insects
+nav_order: 2
 ---
 # ALICE - Pinned Insect Digitisation
 {: .no_toc }
