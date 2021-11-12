@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pinned Insects
+title: Pinned
 has_childen: true
 nav_order: 1
 ---
