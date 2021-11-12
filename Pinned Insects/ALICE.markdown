@@ -6,9 +6,10 @@ parent: Pinned Insects
 ---
 # ALICE - Pinned Insect Digitisation
 
-<img width='250' height='YYY' src="https://github.com/lmfrench/lmfrench.github.io/blob/main/images/IMG_20211021_153943.JPG" alt='Picture of ALICE'>
+<img width='250' height='YYY' src="https://github.com/lmfrench/lmfrench.github.io/blob/main/images/IMG_20211021_153943.jpg" alt='Picture of ALICE'>
  
  ## Contents
+1. TOC
 {:toc}
 
  
