@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Pinned Insect
-parent: Pinned Insects
-nav_order: 2
+parent: Pinned
+nav_order: 1
 ---
 
 ## This is a test page
