@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Pinned Insect
+parent: Pinned Insects
 permalink: /PinnedInsectWorkflow/
 ---
 
