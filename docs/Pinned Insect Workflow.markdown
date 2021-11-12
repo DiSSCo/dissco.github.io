@@ -2,7 +2,7 @@
 layout: page
 title: Pinned Insect
 parent: Pinned Insects
-permalink: /PinnedInsectWorkflow/
+nav_order: 2
 ---
 
 ## This is a test page
