@@ -2,11 +2,16 @@
 layout: page
 title: ALICE
 permalink: /ALICE/
+parent: Pinned Insects
 ---
 # ALICE - Pinned Insect Digitisation
 
-<img width='250' height='YYY' src="https://github.com/lmfrench/lmfrench.github.io/blob/main/images/IMG_20211021_153943.jpg?raw=true" alt='Picture of ALICE'>
-  
+<img width='250' height='YYY' src="https://github.com/lmfrench/lmfrench.github.io/blob/main/images/IMG_20211021_153943.JPG" alt='Picture of ALICE'>
+ 
+ ## Contents
+{:toc}
+
+ 
 ## Overview
 
 ALICE (Angled Label Image Capture and Extraction) is a custom-built multi-camera setup for high throughput pinned insect specimen digitisation.
