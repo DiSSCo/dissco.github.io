@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 #remote_theme: pmarsceill/just-the-docs
 title: DiSSCo Digitisation Guides
-logo: "https://github.com/lmfrench/lmfrench.github.io/blob/main/images/dissco-logo-high-res.png"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a test
