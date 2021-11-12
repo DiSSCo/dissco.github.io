@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: Pinned Insects
-permalink: /PinnedInsects/
 has_childen: true
 ---
 
