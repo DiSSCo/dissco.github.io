@@ -32,6 +32,43 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 heading_anchors: true
+
+
+ Aux links for the upper right navigation
+aux_links:
+  "DiSSCo":
+    - "https://dissco.eu"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
+# Sort order for navigation links
+# nav_sort: case_insensitive # default, equivalent to nil
+nav_sort: case_sensitive # Capital letters sorted before lowercase
+
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+plugins:
+  - jekyll-seo-tag
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+  # ignore:
+  #   envs: all
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
