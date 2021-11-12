@@ -1,7 +1,6 @@
 ---
 layout: default
 title: ALICE
-parent: Pinned Insects
 nav_order: 1
 ---
 # ALICE - Pinned Insect Digitisation
