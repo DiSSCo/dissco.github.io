@@ -1,7 +1,6 @@
 ---
-title: Grandchild of Test
-parent: Child of Test
-grand_parent: Test
+title: Standard Pinned Insect
+parent: Pinned Insects
 nav_order: 1
 ---
 

@@ -1,8 +1,6 @@
 ---
-title: Child of Test
-parent: Test
-has_children: true
-nav_order: 1
+title: ALICE
+parent: Pinned Insects
 ---
 # ALICE - Pinned Insect Digitisation
 {: .no_toc }
@@ -23,9 +21,22 @@ ALICE (Angled Label Image Capture and Extraction) is a custom-built multi-camera
 
 ![Image shows ALICE camera set up on the left, and examples of specimen images taken by ALICE on the right](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICE.PNG?raw=true)
 
-## Workflow Diagram
+## Example Workflow
 
-![workflow example](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/workflowtest.PNG?raw=true)
+**Pre-Digitisation Curation**
+![ALICE PreDigitisation Curation workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/workflowtest.PNG?raw=true)
+
+**Specimen Image Capture**
+![ALICE Specimen Image Capture workflow]
+
+**Specimen Image Processing**
+![ALICE Specimen Image Processing workflow]
+
+
+**Electronic Data Capture** 
+![ALICE Electronic Data Capture workflow]
+
+
 
 ## Workflow Instructions
 

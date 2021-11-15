@@ -1,6 +1,6 @@
 ---
-title: Test
-has_childen: true
+title: Pinned Insects
+has_children: true
 nav_order: 1
 ---
 
