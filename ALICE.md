@@ -24,19 +24,17 @@ ALICE (Angled Label Image Capture and Extraction) is a custom-built multi-camera
 ## Example Workflow
 
 **Pre-Digitisation Curation**
-![ALICE PreDigitisation Curation workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/workflowtest.PNG?raw=true)
+![ALICE PreDigitisation Curation workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICEPreDig.PNG?raw=true)
 
 **Specimen Image Capture**
-![ALICE Specimen Image Capture workflow]
+![ALICE Specimen Image Capture workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICEImageCap.PNG?raw=true)
 
 **Specimen Image Processing**
-![ALICE Specimen Image Processing workflow]
+![ALICE Specimen Image Processing workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICEImageProc.PNG?raw=true)
 
 
 **Electronic Data Capture** 
-![ALICE Electronic Data Capture workflow]
-
-
+![ALICE Electronic Data Capture workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICEData.PNG?raw=true)
 
 ## Workflow Instructions
 
@@ -86,4 +84,6 @@ Dupont S, Price BW (2019) **ALICE, MALICE and VILE: High throughput insect speci
 ## Licence
 
 ## Document Control
+
+## Citation
 
