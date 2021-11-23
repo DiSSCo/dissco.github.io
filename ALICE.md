@@ -17,7 +17,7 @@ parent: Pinned Insects
  
 ## Overview
 
-ALICE (Angled Label Image Capture and Extraction) is a custom-built multi-camera setup for high throughput pinned insect specimen digitisation. It is particularly useful for projects which require label images for transcription, and does not require specimen labels to be removed from the pin during imaging.
+ALICE (Angled Label Image Capture and Extraction) is a custom-built multi-camera setup for high throughput pinned insect specimen digitisation. This method allows for label images to be captured without removing them from the pin.
 
 ![Image shows ALICE camera set up on the left, and examples of specimen images taken by ALICE on the right](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICE.PNG?raw=true)
 
