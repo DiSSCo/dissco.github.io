@@ -17,14 +17,14 @@ parent: Pinned Insects
  
 ## Overview
 
-ALICE (Angled Label Image Capture and Extraction) is a custom-built multi-camera setup for high throughput pinned insect specimen digitisation. It is particularly advantageous for projects which require label images for transcription.
+ALICE (Angled Label Image Capture and Extraction) is a custom-built multi-camera setup for high throughput pinned insect specimen digitisation. It is particularly useful for projects which require label images for transcription, and does not require specimen labels to be removed from the pin during imaging.
 
 ![Image shows ALICE camera set up on the left, and examples of specimen images taken by ALICE on the right](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICE.PNG?raw=true)
 
 ## Workflow
 **Pre-Digitisation Curation**
-*Is the section about index lots needed or is this specifc to NHM processes?*
 ![ALICE PreDigitisation Curation workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICEPreDig.PNG?raw=true)
+*Is the section about index lots needed or is this specifc to NHM processes?*
 * Unique barcodes are added to each specimen. It is important that these barcodes are visible when the specimen is viewed from above.
 
 **Specimen Image Capture**
@@ -51,7 +51,7 @@ ALICE has been used to digitise the Natural History Museum's Ephemeroptera (mayf
 **Pre-Digitisation Curation**\
 * We put specimens into unit trays, with one species per unit tray. If there are too many specimens from the same species to fit into one tray, we add another. We make sure to leave enough space between specimens so they can be removed without touching any part of another specimen.
 * We add a label detailing the genus and species name, and pin this to the bottom of each tray. If no genus or species name is given, we add a label to the highest taxnomic level available.
-* Each drawer is given a label indicating the family and drawer number, which we add to the front of the drawer.
+* Each drawer is given a label indicating the family and drawer number.
 * If a specimen is damaged during the digitisation process, we place the damaged pieces into a gel capsule or paper envelope. If there is room on the specimen pin, we attach this underneath the specimen. Otherwise, we attach a small label with the specimen's barcode number so this can be easily associated with the correct specimen.
 * If we find loose pieces of specimens in the drawer or unit tray which we cannot associate with a specimen, we collect this into a gel capsule. We then label this capsule as 'unassociated material' and place it in the corner of a unit tray.\
 * Rather than populating our Collections Management System (CMS) directly with species and drawer location, our digitisers instead input this information into a spreadsheet. This spreadsheet is then given to a database manager, who updates this in our CMS. The index lot barcode is then added to the unit tray directly before imaging.
@@ -61,9 +61,9 @@ ALICE has been used to digitise the Natural History Museum's Ephemeroptera (mayf
 * We use Google sheets for our transcription, which allows multiple people to edit the document at the same time. This is then imported into our CMS by a database manager. We transcribe from the images captured by ALICE.
 * For this project, we transcribed as a minimum the locality, country (if possible) and the collection date. The locality and collection date are transcribed verbatim, and the country name is interpreted. The country may differ from the specimen label, often due to historical border changes (we use the current country name).
 
-*Is there another project to use as an example? (Only worth adding if there was any differences in the workflows)*
+*Is there another project to use as an example? (Only worth adding if there were differences in the workflows)*
 
-## Requirements <a name="Requirements"><\a>
+## Requirements <a name="Requirements"></a>
 ### Hardware
 * 5 x EOS 700D with Canon EFS 60mm
 * 1 x EOS 5DSR with Tamron 90mm
