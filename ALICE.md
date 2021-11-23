@@ -22,7 +22,7 @@ ALICE (Angled Label Image Capture and Extraction) is a custom-built multi-camera
 ![Image shows ALICE camera set up on the left, and examples of specimen images taken by ALICE on the right](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICE.PNG?raw=true)
 
 ## Workflow
-**Getting Started**\n
+**Getting Started**\
 This workflow assumes that the ALICE stage has already been set-up. More information about the camera arrangement can be found in the [ALICE paper](https://doi.org/10.31219/osf.io/s2p73)
 
 **Pre-Digitisation Curation**
