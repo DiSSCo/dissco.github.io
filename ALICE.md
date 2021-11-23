@@ -48,7 +48,7 @@ This section gives more information about how these workflows have been applied 
 ALICE has been used to digitise the Natural History Museum's Ephemeroptera (mayflies), Plecoptera (stoneflies) and Trichoptera (caddisflies) (EPT) collection. This project was funded by the [SYNTHESYS+](https://www.synthesys.info/) Virtual Access. More information can be found on [our blog](https://naturalhistorymuseum.blog/2021/02/17/digitisation-on-demand-riverflies-and-redlists-digital-collections/).
 *Add photo, link to Data Portal?*
 
-**Pre-Digitisation Curation**\
+**Pre-Digitisation Curation**
 * We put specimens into unit trays, with one species per unit tray. If there are too many specimens from the same species to fit into one tray, we add another. We make sure to leave enough space between specimens so they can be removed without touching any part of another specimen.
 * We add a label detailing the genus and species name, and pin this to the bottom of each tray. If no genus or species name is given, we add a label to the highest taxnomic level available.
 * Each drawer is given a label indicating the family and drawer number.
