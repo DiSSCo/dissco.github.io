@@ -31,12 +31,12 @@ ALICE (Angled Label Image Capture and Extraction) is a custom-built multi-camera
 ![ALICE Specimen Image Capture workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICEImageCap.PNG?raw=true)
 * Specimens must be positioned in the ALICE stage with their barcode visible from above.
 * The index lot barcode should be positioned in the top left hand corner.
-* Hardware requirements can be found [below](#Hardwarelink)
+* Hardware requirements can be found [below](https://lmfrench.github.io/ALICE.html#hardware)
 *create a first image of the day workflow? e.g  calibration*
 
 **Specimen Image Processing**
 ![ALICE Specimen Image Processing workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICEImageProc.PNG?raw=true)
-* The software used this workflow is listed [below](#Softwarelink). BarcodeFiler and Bulk Rename Utility are used to rename the images. XnConvert is used to crop the images.
+* The software used this workflow is listed [below](https://lmfrench.github.io/ALICE.html#software)). BarcodeFiler and Bulk Rename Utility are used to rename the images. XnConvert is used to crop the images.
 
 **Electronic Data Capture** 
 ![ALICE Electronic Data Capture workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICEData.PNG?raw=true)
@@ -65,7 +65,7 @@ ALICE has been used to digitise the Natural History Museum's Ephemeroptera (mayf
 
 ## Requirements
 ### Hardware
-* 5 x EOS 700D with Canon EFS 60mm <a name="Hardwarelink"></a>
+* 5 x EOS 700D with Canon EFS 60mm
 * 1 x EOS 5DSR with Tamron 90mm
 * 6 x Tethering cables
 * 6 x AC adapters
