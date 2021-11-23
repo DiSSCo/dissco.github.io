@@ -48,7 +48,7 @@ This workflow assumes that the ALICE stage has already been set-up. More informa
 This section gives more information about how these workflows have been applied in practice. Workflows often need to be adapted for the requirements of a specific project.
 
 ### EPT
-ALICE has been used to digitise the Natural History Museum's Ephemeroptera (mayflies), Plecoptera (stoneflies) and Trichoptera (caddisflies) (EPT) collection. This project was funded by the [SYNTHESYS+](https://www.synthesys.info/) Virtual Access. More information can be found on [our blog](https://naturalhistorymuseum.blog/2021/02/17/digitisation-on-demand-riverflies-and-redlists-digital-collections/).
+ALICE has been used to digitise the Ephemeroptera (mayflies), Plecoptera (stoneflies) and Trichoptera (caddisflies) (EPT) collection in the Natural History Museum, London. This project was funded by the [SYNTHESYS+](https://www.synthesys.info/) Virtual Access. More information can be found on [our blog](https://naturalhistorymuseum.blog/2021/02/17/digitisation-on-demand-riverflies-and-redlists-digital-collections/).
 *Add photo, link to Data Portal?*
 
 **Pre-Digitisation Curation**
