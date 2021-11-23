@@ -63,7 +63,7 @@ ALICE has been used to digitise the Natural History Museum's Ephemeroptera (mayf
 
 *Is there another project to use as an example? (Only worth adding if there were differences in the workflows)*
 
-## Requirements <a name="Requirements"></a>
+## Requirements
 ### Hardware
 * 5 x EOS 700D with Canon EFS 60mm
 * 1 x EOS 5DSR with Tamron 90mm
