@@ -55,10 +55,10 @@ This shows an example workflow for a transcription project.
 **Multi-specimen sheets:**
 
 **Languages:**
-Specimen label information is often written in a language that the transcriber is not fluent in. You should decide whether this label information will be transcribed, or whether this should be skipped. It is likely the transcriber will need to transcribe these labels verbatim, 
-and they may also misinterpet the correct data field (Groom *et al.* 2019). It is particularly difficult to transcribe labels using writing systems not familiar to the transcriber.
+Specimen label information is often written in a language that the transcriber is not fluent in. You should decide whether this label information will be transcribed. It is likely the transcriber will need to transcribe these labels verbatim, 
+and they may also misinterpet which field the information should be recorded under (Groom *et al.* 2019). It is particularly difficult to transcribe labels using writing systems not familiar to the transcriber.
  
-There may be symbols that are not found on the transcriber's keyboard, for example UK keyboards do not typically include accented letters. The [Useful Shortcuts](https://usefulshortcuts.com/alt-codes/accents-alt-codes.php) website can be used to either copy and paste the required letter, or to find the keyboard shortcut
+There may be symbols that are not found on the transcriber's keyboard, for example UK keyboards do not typically include accented letters. 
 
 ## Other Sources
 
