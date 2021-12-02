@@ -18,8 +18,7 @@ parent: Electronic Data Capture
 
 
 ## Overview
-Transcription is often the most time-consuming and resource intensive element of a digitisation workflow. This page provides a brief overview of 'in house' transcription, where a transcriber manually transcribes specimen labels. 
-Much more information is available in the links listed under 'Other Sources'.
+Transcription is often the most time-consuming and resource intensive element of a digitisation workflow. This page provides a brief overview of manual transcription, with a focus on project planning.
 
 ## Workflow
 
@@ -32,10 +31,9 @@ For most projects it is likely only part of the label information will be transc
 
 **Verbatim vs Interpretation:**\
 You should agree with the curator or project lead in advance what label information will be transcribed verbatim or what items can be interpreted. You should also define rules around interpretation, so all transcribers are following the same practices.
-For example, some curators may prefer locality to be transcribed in a specific order, by perhaps always recording the largest area first, whereas others might prefer locality to be transcribed exactly how it appeared
-on the label. 
-Interpreted data is often better for improving the findability of specimens and aggregating data, but recording verbatim data can help for later data cleaning if something has been interpreted incorrectly. Label images
-are often now used in place of verbatim transcription (Wilkinson *et al.*, 2016, Groom *et al.* 2019). 
+For example, some curators may prefer locality to be transcribed in a specific order, by perhaps always recording the largest area first, whereas others might prefer locality to be transcribed exactly how it appeared on the label. 
+
+Interpreted data is often better for improving the findability of specimens and aggregating data, but recording verbatim data can help for later data cleaning if something has been interpreted incorrectly. Label images are often now used in place of verbatim transcription (Wilkinson *et al.*, 2016, Groom *et al.* 2019). 
 
 Even when transcribing verbatim, there will be instances where some interpretation may be necessary - for example if handwriting is difficult to read or the label has faded. You should decide rules around how this should be recorded.
 
@@ -71,7 +69,7 @@ The first step is to identify the main objectives and goals for the transcriptio
 
 The potential resource requirements for transcribing becomes easier to assess the more transcription projects you do, particularly if you keep a record of past transcription rates. 
 
-Once you have an estimate of the impact and resource implications for transcribing each field, you can then add them to the impact effort matrix. It is likely you will want to transcribe anything classified in the 'high impact, low effort' quadrant, and to not transcribe fields in the 'high impact, high effort' quadrant.
+Once you have an estimate of the impact and resource implications for transcribing each field, you can then add them to the impact effort matrix. It is likely you will want to transcribe anything classified in the 'high impact, low effort' quadrant, and not transcribe fields in the 'low impact, high effort' quadrant.
 
 It is a good idea to continually assess resource during a project, particularly if you are working with a collection that the team was unfamiliar with. You may need to make adjustments to the fields that are transcribed if it is more time-consuming than expected.
 
