@@ -32,12 +32,12 @@ For most projects it is likely only part of the label information will be transc
 
 **Verbatim vs Interpretation:**\
 You should agree with the curator or project lead in advance what label information will be transcribed verbatim or what items can be interpreted. You should also define rules around interpretation, so all transcribers are following the same practices.
-For example, some curators may prefer locality to be transcribed in a specific order, by perhaps always recording the largest area first,  whereas others might prefer locality to be transcribed exactly how it appeared
+For example, some curators may prefer locality to be transcribed in a specific order, by perhaps always recording the largest area first, whereas others might prefer locality to be transcribed exactly how it appeared
 on the label. 
-Interpreted data is often better for improving the finability of specimens and aggregating data, but  recording verbatim data can help for later data cleaning if something has been interpreted incorrectly. Label images
+Interpreted data is often better for improving the findability of specimens and aggregating data, but recording verbatim data can help for later data cleaning if something has been interpreted incorrectly. Label images
 are often now used in place of verbatim transcription (Wilkinson *et al.*, 2016, Groom *et al.* 2019). 
 
-Even when transcribing verbatim, there will be instances where some interpretation may be neccessary - for example if handwriting is difficult to read or the label has faded. You should decide rules around how this should be recorded.
+Even when transcribing verbatim, there will be instances where some interpretation may be necessary - for example if handwriting is difficult to read or the label has faded. You should decide rules around how this should be recorded.
 
 **Multi-determination:** 
 Some specimens may have multiple species determinations, and you will need to decide whether to transcribe all determinations or perhaps only the most recent determination.
@@ -67,15 +67,15 @@ This shows an example workflow for a transcription project.
 
 Using an impact effort matrix at the start of a transcription project can help teams to determine what to transcribe. 
 
-The first step is to identify the main objectives and goals for the transcription project. This can help the team to assess the potential impact of transcribing each type of label information. 
+The first step is to identify the main objectives and goals for the transcription project. This can help with assessing the potential impact of transcribing each field.
 
-The potential resource requirements for transcribing becomes easier to assess the more transcription projects you do, particulalry if you keep a record of past transcription rates. 
+The potential resource requirements for transcribing becomes easier to assess the more transcription projects you do, particularly if you keep a record of past transcription rates. 
 
-Once you have an estimate of the impact and resource implications for transcribing each field, you can then add them to the impact effort matrix. It is likely you will want to transcribe anything classified in the 'high impact, low effort' quadrant, and to not transcribe fields in the 'high impact, high effort' quadrant. The rest will be a decision for the project team.
+Once you have an estimate of the impact and resource implications for transcribing each field, you can then add them to the impact effort matrix. It is likely you will want to transcribe anything classified in the 'high impact, low effort' quadrant, and to not transcribe fields in the 'high impact, high effort' quadrant.
 
-It is still a good idea to continually assess resource during a project, particularly if you are working with a collection or collector that the team was unfamiliar with. You may, for example, need to make adjustments to what fields are transcribed if it is more time-consuming than expected.
+It is a good idea to continually assess resource during a project, particularly if you are working with a collection that the team was unfamiliar with. You may need to make adjustments to the fields that are transcribed if it is more time-consuming than expected.
 
-The impact and effort for each transcription task will differ between projects - for exmaple, sometimes it will be really important to geo-reference, and for others this may have less impact. The amount of resources available and the expertise of the transcribers may also differ between projects, as will the readability of the specimen labels.
+The impact and effort for each transcription task will differ between projects - sometimes it might be really important to geo-reference, and for others this may have less impact. The amount of resources available and the expertise of the transcribers may also differ between projects, as will the readability of the specimen labels.
 
 ## Challenges
 **Multi-specimen sheets:** 
@@ -83,7 +83,7 @@ Multiple specimens can often be found on herbarium sheets. This can be challengi
 
 **Languages:**
 Specimen label information is often written in a language that the transcriber is not fluent in. You should decide whether this label information will be transcribed, or whether this should be skipped. It is likely the transcriber will need to transcribe these labels verbatim, 
-and they may also misinterpet the correct data field. It is particularly difficult to transcribe labels using writing systems not familiar to the transcriber ((Groom *et al.* 2019, )
+and they may also misinterpret the correct data field. It is particularly difficult to transcribe labels using writing systems not familiar to the transcriber ((Groom *et al.* 2019, )
  
 There may be symbols that are not found on the transcriber's keyboard, for example UK keyboards do not typically include accented letters. The [Useful Shortcuts](https://usefulshortcuts.com/alt-codes/accents-alt-codes.php) website can be used to either copy and paste the required letter, or to find the keyboard shortcut
 
