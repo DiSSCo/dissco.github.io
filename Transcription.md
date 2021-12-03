@@ -29,6 +29,8 @@ For most projects it is likely only part of the label information will be transc
 
 ![Image shows some decisions that need to be made at the beginning of a transcription project. These are described in detail below](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/TranscPP.PNG?raw=true)
 
+**This section needs to be amended to include something about DarwinCore*
+
 **Verbatim vs Interpretation:**\
 You should agree with the curator or project lead in advance what label information will be transcribed verbatim or what items can be interpreted. You should also define rules around interpretation, so all transcribers are following the same practices.
 For example, some curators may prefer locality to be transcribed in a specific order, by perhaps always recording the largest area first, whereas others might prefer locality to be transcribed exactly how it appeared on the label. 
