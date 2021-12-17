@@ -63,7 +63,7 @@ Georeferencing was not part of the initial project, and a new project was set up
 During the georeferencing process, it became clear that some of the existing transcribed information did not match the specimen label and up to 80% of the locality information originally entered was inaccurate. 
 We published a [paper](https://doi.org/10.3897/BDJ.8.e50503) in 2020 which describes our transcription methodology for the new georeferencing project (Lohonya *et al.*, 2020). For this project, a set of rules were agreed to transcribe the specimens, and one of the flow diagrams we used can be seen below. For more complex transcription projects, it can be helpful to formalise the methodology through flow charts to ensure that all transcribers are able to follow the same process.
 
-![Image shows a flowchart from the NHM's botanical Chinese Type collection transcription project. Reference Lohonya et al 2020](https://github.com/lmfrenc/lmfrench.github.io/blob/main/images/oo_372869.jpg?raw=true)
+![Image shows a flowchart from the NHM's botanical Chinese Type collection transcription project. Reference Lohonya et al 2020](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/oo_372869.jpg?raw=true)
 
 ## Workflow
 *I think this section is a bit redundant, and instead could recommend use of flowcharts like the example above?*
