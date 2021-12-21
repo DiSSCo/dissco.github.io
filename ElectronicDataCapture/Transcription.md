@@ -131,6 +131,8 @@ Phaedra Kokkini
 ## References
 Groom, Q., Dillen, M., Hardy, H., Phillips, S., Willemse, L. & Zhengzhe, W. (2019) Improved standardization of transcribed digital specimen data, Database, Volume 2019, baz129, https://doi.org/10.1093/database/baz129
 
+Walton S., Livermore L., Dillen M., De Smedt S., Groom Q., Koivunen A. & Phillips S. (2020) A cost analysis of transcription systems. Research Ideas and Outcomes 6: e56211. https://doi.org/10.3897/rio.6.e56211
+
 Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. (2016) The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018. https://doi.org/10.1038/sdata.2016.18
 
 ## Licence
