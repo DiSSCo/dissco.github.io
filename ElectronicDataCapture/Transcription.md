@@ -91,9 +91,9 @@ At the NHM, London, we ask our transcribers to record the number of specimens th
 
 Using an impact effort matrix at the start of a transcription project can help teams to determine what to transcribe. 
 
-The first step is to identify the main objectives and goals for the transcription project. This can help with assessing the potential impact of transcribing each field.
+The first step is to identify the main objectives and goals for the transcription project - this helps to assess the potential impact of transcribing each field.
 
-The potential resource requirements for transcribing becomes easier to assess the more transcription projects you do, particularly if you keep a record of past transcription rates. 
+The 'effort' can be assessed by considering how much time it will take to transcribe each field. The potential resource requirements for transcribing becomes easier to assess the more transcription projects you do, particularly if you keep a record of past transcription rates per specimen (see ['cost and transcription rates'](https://lmfrench.github.io/ElectronicDataCapture/Transcription.html#costs-and-transcription-rates). The difficulty of reading the label and the level of interpretation required will impact this, as does the expertise and knowledge of your transcribers. 
 
 Once you have an estimate of the impact and resource implications for transcribing each field, you can then add them to the impact effort matrix. It is likely you will want to transcribe anything classified in the 'high impact, low effort' quadrant, and not transcribe fields in the 'low impact, high effort' quadrant.
 
