@@ -114,10 +114,10 @@ Multiple specimens can often be found on herbarium sheets. This can be challengi
 Partial dates are often found on transcription labels - for example, only recording month and year. The year can also be shortened, meaning interpretation is required to know whether for example '27' refers to 1827 or 1927.
 
 ## Other Sources
-Websites/
+Websites\
 [Darwin Core](https://www.tdwg.org/standards/dwc/)
 
-Journal Articles/
+Journal Articles\
 [A cost analysis of transcription systems](https://doi.org/10.3897/rio.6.e56211)\
 [Improved standardization of transcribed digital specimen data](https://doi.org/10.1093/database/baz129)\
 [Georeferencing the Natural History Museum's Chinese type collection](https://doi.org/10.3897/BDJ.8.e50503)
