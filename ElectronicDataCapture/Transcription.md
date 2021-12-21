@@ -64,6 +64,7 @@ During the georeferencing process, it became clear that some of the existing tra
 We published a [paper](https://doi.org/10.3897/BDJ.8.e50503) in 2020 which describes our transcription methodology for the new georeferencing project (Lohonya *et al.*, 2020). For this project, a set of rules were agreed to transcribe the specimens, and one of the flow diagrams we used can be seen below. For more complex transcription projects, it can be helpful to formalise the methodology through flow charts to ensure that all transcribers are able to follow the same process.
 
 ![Image shows a flowchart from the NHM's botanical Chinese Type collection transcription project. Reference Lohonya et al 2020](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/TranscFlowChart.jpg?raw=true)
+*Figure: Flowchart describing one step of the NHM botanical Chinese Type Collection geo-referencing project, which outlines some of the rules our transcribers followed in this project (Lohonya, et al, 2020)._
 
 ## Workflow
 *I think this section is a bit redundant, and instead could recommend use of flowcharts like the example above?*
