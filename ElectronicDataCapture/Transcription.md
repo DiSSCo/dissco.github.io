@@ -1,9 +1,9 @@
 ---
-title: Transcription
+title: Manual Transcription
 parent: Electronic Data Capture
 ---
 
-# Transcription
+# Manual Transcription
 {: .no_toc }
 
   {: .no_toc .text-delta }
@@ -18,17 +18,19 @@ parent: Electronic Data Capture
 
 
 ## Overview
-Transcription is often the most time-consuming and resource intensive element of a digitisation workflow. This page provides a brief overview of manual transcription, with a focus on project planning.
+Transcription is often the most time-consuming and resource intensive element of a digitisation workflow. This page provides a brief overview of manual, in-house transcription, with a focus on project planning.
 
 ## Project Planning
 
-We recommend working very closely with the curator or project lead to determine a plan for transcription before a project starts. You will need to decide what, if anything, you will be transcribing from the labels. 
+We recommend working very closely with the curator or project lead to determine a plan for transcription before a project starts. You will need to decide what, if anything, you will be transcribing from the labels. You will also need to determine whether to transcribe from digital images of the label or from the specimen.
+
 For many projects only part of the label information will be transcribed, and the diagram below shows the key areas to consider before starting a project.
 
 ![Image shows some decisions that need to be made at the beginning of a transcription project. These are described in detail below](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/TranscPP.PNG?raw=true)
 
 **Verbatim vs Interpretation:**\
 You should agree with the curator or project lead in advance what label information will be transcribed verbatim or what items can be interpreted. You should also define rules around interpretation, so all transcribers are following the same practices.
+
 For example, some curators may prefer locality to be transcribed in a specific order, by perhaps always recording the largest area first, whereas others might prefer locality to be transcribed exactly how it appeared on the label. 
 
 Interpreted data is often better for improving the findability of specimens and aggregating data, but recording verbatim data can help for later data cleaning if something has been interpreted incorrectly. Label images are often now used in place of verbatim transcription (Wilkinson *et al.*, 2016, Groom *et al.* 2019). 
@@ -46,15 +48,13 @@ Data may also be incomplete, for example the label may not have complete localit
 
 **Darwin Core**\
 [Darwin Core](https://dwc.tdwg.org/) is a community-developed biodiversity data standard. It includes a glossary of terms which aim to help the sharing of information about biological diversity. It includes identifiers, labels and definitions. 
+
 These definitions can be helpful to consult when deciding what transcription rules to follow in a project.
 *I don't think the Darwin Core term website is easy for non-technical users to understand - is there a site that I've missed that explains what Darwin Core is + why and how someone should use it?*
 
 **Minimum Information about a Digital Specimen**\
-The Minimum Information about a Digitil Specimen (MIDS) standard will specific the minimum information that is required when providing digital access to specimens. It aims to provide clarity to digitisers about the minimum 
-quantity and quality of information that should be published. There are several levels of digitisation, from basic to extended, with each level outlining the set of information elements that are expected to be present in published digital specimen data.
+The Minimum Information about a Digitil Specimen (MIDS) standard will specific the minimum information that is required when providing digital access to specimens. It aims to provide clarity to digitisers about the minimum quantity and quality of information that should be published. There are several levels of digitisation, from basic to extended, with each level outlining the set of information elements that are expected to be present in published digital specimen data. This standard is still under development, and more information can be found on the Biodiversity Information Standards (TDWG) [website](https://www.tdwg.org/community/cd/mids/)
 *I haven't included '0' Bare in the MIDS levels because I don't think it really applies to this guide - at the point of doing some transcription you are going beyond this -  trying to keep this as brief as possible*
-
-This standard is still under development, and more information can be found on the Biodiversity Information Standards (TDWG) [website](https://www.tdwg.org/community/cd/mids/)
 
 **Transcription Rules Example**\
 The Natural History Museum, London digitised its botanical type collection as part of the Global Plants Inititative, which was supported by the Adnrew W. Mellon Foundation. 
@@ -71,10 +71,19 @@ We published a [paper](https://doi.org/10.3897/BDJ.8.e50503) in 2020 which descr
 This shows an example workflow for a transcription project. 
 
 * In some projects, label images will be used for transcription. In others, the labels may be transcribed directly from the specimen. There is often a mix of approaches with, for example, taxonomic information being transcribed during imaging and the rest of the label transcribed from the images at a later date.
-* Transcription data will often be transcribed into a spreadsheet, as shown in this workflow, with a database manager later importing this into the institution's collection management system afterwards. This is often much faster than entering data directly into the collections management system.  
+* Transcription data will often be transcribed into a spreadsheet, as shown in this workflow, with a database manager later importing this into the institution's collection management system afterwards. 
 
 ## Costs and Transcription Rates
-*to do*
+There are three primary considerations when considering the rate of transcription:
+
+1. The amount of information to be transcribed for each specimen
+2. The difficulty of reading the label (e.g. handwriting, label damage)
+3. The level of interpretation required (georeferencing is particularly time-consuming)
+
+The expertise and knowledge of the transcriber will also influence the speed and accuracy of transcription (Walton *et al.*, 2020). 
+
+At the NHM, London, we ask our transcribers to record the number of specimens they transcribe each day(?) for each project. This allows us to calculate maximum, minimum and median transcription rates, which we can use during a project to assess whether we need to make any adjustments (e.g. reduce what is being transcribed to meet deadlines), and to make estimates for how long similar projects will take. We can also use this information to calculate the cost of transcription per specimen (using staff costs).
+*We also have calculations per hour/min - how do we actually record this info?*
 
 ## Impact and Effort Matrix
 ![Image shows an impact effort matrix](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ImpactEffort.PNG?raw=true)
@@ -92,14 +101,14 @@ It is a good idea to continually assess resource during a project, particularly 
 The impact and effort for each transcription task will differ between projects - sometimes it might be really important to geo-reference, and for others this may have less impact. The amount of resources available and the expertise of the transcribers may also differ between projects, as will the readability of the specimen labels.
 
 ## Challenges
-**Multi-specimen sheets:** 
-Multiple specimens can often be found on herbarium sheets. This can be challenging to transcribe, as it is often not clear which labels are associated with each specimen.
-
 **Languages:**
 Specimen label information is often written in a language that the transcriber is not fluent in. You should decide whether this label information will be transcribed, or whether this should be skipped. It is likely the transcriber will need to transcribe these labels verbatim, 
 and they may also misinterpret the correct data field. It is particularly difficult to transcribe labels using writing systems not familiar to the transcriber ((Groom *et al.* 2019, )
  
 There may be symbols that are not found on the transcriber's keyboard, for example UK keyboards do not typically include accented letters. The [Useful Shortcuts](https://usefulshortcuts.com/alt-codes/accents-alt-codes.php) website can be used to either copy and paste the required letter, or to find the keyboard shortcut
+
+**Multi-specimen sheets:** 
+Multiple specimens can often be found on herbarium sheets. This can be challenging to transcribe, as it is often not clear which labels are associated with each specimen.
 
 **Collection Date**
 Partial dates are often found on transcription labels - for example, only recording month and year. The year can also be shortened, meaning interpretation is required to know whether for example '27' refers to 1827 or 1927.
