@@ -18,7 +18,7 @@ parent: Electronic Data Capture
 
 
 ## Overview
-Transcription is often the most time-consuming and resource intensive element of a digitisation workflow. This page provides a brief overview of manual, in-house transcription, with a focus on project planning.
+Transcription is often the most time-consuming and resource intensive element of a digitisation workflow. This page provides a brief overview of manual transcription, with a focus on project planning.
 
 ## Project Planning
 
