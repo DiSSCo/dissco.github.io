@@ -44,6 +44,11 @@ The workflow below show the transcription process for the skin collection. All i
 The next workflow shows the transcription process for the spirit and skull collection. The difference in these workflows is the specimen often needed to be removed from its vial or jar for the full label information to be visible.
 ![Image shows the workflow to transcribe specimen label from the skull and spirit collection](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/BatEDC2.PNG?raw=true)
 
+## Other Sources
+Blogs
+[How natural history museums can help fight future pandemics](https://www.nhm.ac.uk/discover/how-natural-history-museums-can-help-fight-future-pandemics.html)
+[Digitisation on demand: mobilising natural history data to address society's biggest challenges](https://naturalhistorymuseum.blog/2021/02/10/digitisation-on-demand-mobilising-natural-history-data-to-address-societys-biggest-challenges/)
+
 
 ## Authors
 Phaedra Kokkini, Lisa French, Laurence Livermore.
