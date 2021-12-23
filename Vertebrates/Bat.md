@@ -32,7 +32,7 @@ These records are flagged in the spreadsheet, so they can then be checked agains
 Common record issues included duplicate records and unique identifiers not recorded in the correct format. A single bat specimen is often present in the collection in multiple preservation types e.g. it may have both its skin and skull preserved, but this information was often not correctly recorded in the CMS.
 
 **Step 2:** Once the records in the CMS have been exported and an initial check completed, the next stage was to look at the specimens and compare this against the digital record. The workflow below was completed for our skin, spirit and skull collections.
-In some cases, no record for the specimen existed, and this was added. For specimens where issues were flagged during step 1, the digitiser used the specimen labels to resolve these record issues (see Example Projects for more detail on the type of record issues encountered)
+In some cases, no record for the specimen existed, and this was added. For specimens where issues were flagged during step 1, the digitiser used the specimen labels to resolve these record issues.
 
 ![Image shows second workflow in the bat digitisation workflow, described above](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/BatPreDig2.PNG?raw=true)
 
