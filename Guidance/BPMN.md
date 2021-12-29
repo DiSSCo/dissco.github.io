@@ -40,7 +40,7 @@ Gateways are used to show points in a workflow where a process diverges into two
 Events are shown with circles. The start and stop event symbols are shown above, and are found in all of our workflows, and indicate the beginning and end of a workflow.
 
 ## Software
-We have used [diagrams.net](https://diagrams.net) (previously known as draw.io) to create many of the diagrams on this site. The BPMN symbols can be accessed in this software by selecting 'View', then 'Shapes'. Scroll down to 'Business', and then select 'BPMN 2.0' and all the symbols will appear as options to select on the left hand side of the window.
+We have used [diagrams.net](https://diagrams.net) (previously known as draw.io) to create many of the diagrams on this site. The BPMN symbols can be accessed in this software by selecting 'View', then 'Shapes'. Scroll down to 'Business', and then select 'BPMN 2.0', click 'Apply' and all the symbols will appear as options to select on the left hand side of the window.
 
 ## Reference
 [BPMN Website](https://bpmn.org): Official BPMN Website, which includes the full BPMN documentation.
