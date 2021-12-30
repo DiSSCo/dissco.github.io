@@ -4,7 +4,7 @@ parent: Microscope Slides
 ---
 
 ---
-# Template Workflow Page
+# Microscope Slides - Mass Digitisation
 {: .no_toc }
 
   {: .no_toc .text-delta }
