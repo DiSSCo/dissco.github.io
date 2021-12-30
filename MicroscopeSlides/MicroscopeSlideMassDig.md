@@ -52,8 +52,8 @@ and in these cases the envelope was also placed into the template and an image c
  More information on all these steps can be found in the [Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides](https://doi.org/10.5281/zenodo.3364481)  paper (Allan *et al.*, 2019).
 
 ## Example Projects
-**Phthiraptera**
-This workflow was piloted at the Natural History Museum, London, in order to digitise our Phthtiraptera lice collection, which consists of ~70,000 slides. The table below shows the digitisation rates achieved during this project (Allan *et al.*, 2019.
+**Phthiraptera**\
+This workflow was piloted at the Natural History Museum, London, in order to digitise our Phthiraptera lice collection, which consists of ~70,000 slides. The table below shows the digitisation rates achieved during this project (Allan *et al.*, 2019.
 
 Table: Estimates of digitised slides per person per day (Allan *et al.*, 2019)
 
