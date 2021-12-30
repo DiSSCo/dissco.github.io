@@ -78,7 +78,7 @@ Table: Estimates of digitised slides per person per day (Allan *et al.*, 2019)
 
 ![Image on left shows custom built lightbox, image on right shows the template used to position the slides](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/SlideSetup.png?raw=true)
 Figure 3: a) Shows the imaging set-up: vertically mounted DSLR camera, lightbox and slide imaging template. b) Slide imaging template with raised 'L shaped' edge. The slide is positioned at this edge, 
-and there is a grooved location to place the location and taxon barcodes (Allan *et al.*, 2019).
+and there is a grooved area to place the location and taxon barcodes (Allan *et al.*, 2019).
 
 ### Software
 * EOS Utility
