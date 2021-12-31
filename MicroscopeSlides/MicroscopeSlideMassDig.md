@@ -20,7 +20,8 @@ parent: Microscope Slides
 ## Overview
 This pages outlines the semi-automated mass digitisation workflow used by the Natural History Museum, London, to digitise its microscope slide collection. It provides a short summary of the workflow developed as part of
 the [ICEDIG](https://icedig.eu) project, with more detail to be found in the [Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides](https://doi.org/10.5281/zenodo.3364481)  paper (Allan *et al.*, 2019).
-This workflow shows how to image and add unique identifier (UID) barcodes to specimens which already have a  digital record in a Collection Management System (CMS).
+
+This workflow shows how to image and add unique identifier (UID) barcodes to slides which already have a  digital record in a Collection Management System (CMS).
 
 ## Workflow
 
@@ -66,7 +67,8 @@ Table: Estimates of digitised slides per person per day (Allan *et al.*, 2019)
 | Standard Deviation (b-a)/6| 105                           | 106                    |
 | Error Rate                | 0.006                                                  |
 
-*focused testing shows the rate when only digitisation activities are occurring, which is unlikely to be achieved in every day work due to meetings, emails etc.
+*focused testing shows the rate when only digitisation activities are occurring, which is unlikely to be achieved in every day work due to meetings and other interuptions
+*Are these rates for the image capture step?*
 
 ## Requirements
 
