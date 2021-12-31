@@ -23,26 +23,30 @@ ALICE (Angled Label Image Capture and Extraction) is a custom-built multi-camera
 
 ## Workflow
 **Getting Started**\
-This workflow assumes that the ALICE stage has already been set-up. More information about the camera arrangement can be found in the [ALICE paper](https://doi.org/10.31219/osf.io/s2p73)
+This workflow assumes that the ALICE stage has already been set-up. More information about the camera arrangement can be found in the [ALICE paper](https://doi.org/10.31219/osf.io/s2p73).
 
 **Pre-Digitisation Curation**
 ![ALICE PreDigitisation Curation workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICEPreDig.PNG?raw=true)
 *Is the section about index lots needed or is this specifc to NHM processes?*
-* Unique barcodes are added to each specimen. It is important that these barcodes are visible when the specimen is viewed from above.
+* The workflow shows the pre-digitisation curation steps, including rehousing the specimens where they either overlap or need to be moved from a coork lined drawer into a platazote tray.
+* Unique identifier barcode labels are added to each specimen pin. It is important that these barcodes are visible when the specimen is viewed from above.
 
 **Specimen Image Capture**
 ![ALICE Specimen Image Capture workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICEImageCap.PNG?raw=true)
-* Specimens must be positioned in the ALICE stage with their barcode visible from above.
+
+* This shows the imaging step. Specimens must be positioned in the ALICE stage with their barcode visible from above.
 * The index lot barcode should be positioned in the top left hand corner.
 * Hardware requirements can be found [below](https://lmfrench.github.io/ALICE.html#hardware)
 *create a first image of the day workflow? e.g  calibration*
 
 **Specimen Image Processing**
 ![ALICE Specimen Image Processing workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICEImageProc.PNG?raw=true)
-* The software used this workflow is listed [below](https://lmfrench.github.io/ALICE.html#software). BarcodeFiler and Bulk Rename Utility are used to rename the images. XnConvert is used to crop the images.
+* This workflow shows the impaging processing steps, some of which are semi-automated. 
+* The software used this workflow is listed [below](https://lmfrench.github.io/ALICE.html#software). BardecodeFiler and Bulk Rename Utility are used to rename the images. XnConvert is used to crop the images.
 
 **Electronic Data Capture** 
 ![ALICE Electronic Data Capture workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICEData.PNG?raw=true)
+* This shows the transcription steps, and are optional depending on the project. The label images are used to transcribe the labels. More information on manual transcription can be found in our [transcription guide](https://lmfrench.github.io/ElectronicDataCapture/Transcription.html).
 
 ## Example Projects
 This section gives more information about how these workflows have been applied in practice. Workflows often need to be adapted for the requirements of a specific project.
