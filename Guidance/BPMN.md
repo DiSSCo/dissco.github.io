@@ -42,6 +42,11 @@ Events are shown with circles. The start and stop event symbols are shown above,
 ## Software
 We have used [diagrams.net](https://diagrams.net) (previously known as draw.io) to create many of the diagrams on this site. The BPMN symbols can be accessed in this software by selecting 'View', then 'Shapes'. Scroll down to 'Business', and then select 'BPMN 2.0', click 'Apply' and all the symbols will appear as options to select on the left hand side of the window.
 
+## Other Resources
+[BPMN Website](https://bpmn.org): Official BPMN Website, which includes the full BPMN documentation. The quick guide gives a helpful overview of the symbols used, including symbols not included on this page.
+
 ## Reference
-[BPMN Website](https://bpmn.org): Official BPMN Website, which includes the full BPMN documentation.
+Object Management Group (2011) Business Process Model and Notation Version 2.0. Available at: https://www.omg.org/spec/BPMN/2.0/PDF
+
+
 
