@@ -29,11 +29,12 @@ For many projects only part of the label information will be transcribed, and th
 ![Image shows some decisions that need to be made at the beginning of a transcription project. These are described in detail below](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/TranscPP.PNG?raw=true)
 
 **Verbatim vs Interpretation:**\
-You should agree with the curator or project lead in advance what label information will be transcribed verbatim or what items can be interpreted. You should also define rules around interpretation, so all transcribers are following the same practices.
+You should agree with the curator or project lead in advance what label information will be transcribed verbatim or what items can be interpreted.  You should also define rules around interpretation, so all transcribers are following the same practices.
+*Verbatim can mean different things - exactly 
 
 For example, some curators may prefer locality to be transcribed in a specific order, by perhaps always recording the largest area first, whereas others might prefer locality to be transcribed exactly how it appeared on the label. 
 
-Interpreted data is often better for improving the findability of specimens and aggregating data, but recording verbatim data can help for later data cleaning if something has been interpreted incorrectly. Label images are often now used in place of verbatim transcription (Wilkinson *et al.*, 2016, Groom *et al.* 2019). 
+Interpreted data is often better for improving the findability of specimens and aggregating data, but recording verbatim data can help for later data cleaning if something has been interpreted incorrectly (Wilkinson *et al.*, 2016, Groom *et al.* 2019). 
 
 Even when transcribing verbatim, there will be instances where some interpretation may be necessary - for example if handwriting is difficult to read or the label has faded. You should decide rules around how this should be recorded.
 
@@ -53,11 +54,11 @@ These definitions can be helpful to consult when deciding what transcription rul
 *I don't think the Darwin Core term website is easy for non-technical users to understand - is there a site that I've missed that explains what Darwin Core is + why and how someone should use it?*
 
 **Minimum Information about a Digital Specimen**\
-The Minimum Information about a Digitil Specimen (MIDS) standard will specific the minimum information that is required when providing digital access to specimens. It aims to provide clarity to digitisers about the minimum quantity and quality of information that should be published. There are several levels of digitisation, from basic to extended, with each level outlining the set of information elements that are expected to be present in published digital specimen data. This standard is still under development, and more information can be found on the Biodiversity Information Standards (TDWG) [website](https://www.tdwg.org/community/cd/mids/)
+The Minimum Information about a Digital Specimen (MIDS) standard will specific the minimum information that is required when providing digital access to specimens. It aims to provide clarity to digitisers about the minimum quantity and quality of information that should be published. There are several levels of digitisation, from basic to extended, with each level outlining the set of information elements that are expected to be present in published digital specimen data. This standard is still under development, and more information can be found on the Biodiversity Information Standards (TDWG) [website](https://www.tdwg.org/community/cd/mids/)
 *I haven't included '0' Bare in the MIDS levels because I don't think it really applies to this guide - at the point of doing some transcription you are going beyond this -  trying to keep this as brief as possible*
 
 **Transcription Rules Example**\
-The Natural History Museum, London digitised its botanical type collection as part of the Global Plants Inititative, which was supported by the Adnrew W. Mellon Foundation. 
+The Natural History Museum, London digitised its botanical type collection as part of the Global Plants Inititative, which was supported by the Andrew W. Mellon Foundation. 
 Georeferencing was not part of the initial project, and a new project was set up in to georeference the botanical Chinese type collection. 
 
 During the georeferencing process, it became clear that some of the existing transcribed information did not match the specimen label and up to 80% of the locality information originally entered was inaccurate. 
