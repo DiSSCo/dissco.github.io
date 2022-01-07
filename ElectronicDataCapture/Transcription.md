@@ -26,10 +26,10 @@ We recommend working very closely with the curator or project lead to determine 
 
 For many projects only part of the label information will be transcribed, and the diagram below shows the key areas to consider before starting a project.
 
-![Image shows some decisions that need to be made at the beginning of a transcription project. These are described in detail below](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/TranscPP.PNG?raw=true)
+**Verbatim and/or Interpretation:**\
+![Image shows flow chart of decisions to be taken, which are described in detail below](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/TranscPP1.PNG?raw=true)
 
-**Verbatim vs Interpretation:**\
-You should agree with the curator or project lead in advance what label information will be transcribed verbatim or what items can be interpreted.  You should also define rules around interpretation, so all transcribers are following the same practices. This includes deciding how you will indicate when a field has been interpreted.
+You should agree with the curator or project lead in advance what label information will be transcribed verbatim and/or what items can be interpreted.  You should also define rules around interpretation, so all transcribers are following the same practices. This includes deciding how you will indicate when a field has been interpreted.
 
 For example, in some projects locality may need to be transcribed in a specific order, by perhaps always recording the largest area first, whereas others might prefer locality to be transcribed exactly how it appeared on the label. You may decide to interpet the full year when only a partial date appears on a label (e.g. '26' vs '1926') , or the country of collection where full locality information is not written on the label.  
 
@@ -38,9 +38,11 @@ Interpreted data is often better for improving the findability of specimens and 
 Even when transcribing verbatim, there will be instances where some interpretation may be necessary - for example if handwriting is difficult to read or the label has faded. You should decide rules around how this should be recorded.
 
 **Multi-determination:** \
+![Image shows flow chart of decisions to be taken, which are described in detail below](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/TranscPP2.PNG?raw=true)\
 Some specimens may have multiple species determinations, and you will need to decide whether to transcribe all determinations or perhaps only the most recent determination.
 
 **Unknown or incomplete data:**\
+![Image shows flow chart of decisions to be taken, which are described in detail below](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/TranscPP3.PNG?raw=true)\
 You should agree how data that is missing from the label will be recorded. Most transcription projects do not record all label data, and it is important that afterwards you can differentiate between information that was missing from the label, and data that was not entered by the transcriber.
 
 Data may also be incomplete, for example the label may not have complete locality information and again you should ensure you can distinguish between incomplete data and data that was not entered.
@@ -63,7 +65,7 @@ During the georeferencing process, it became clear that some of the existing tra
 We published a [paper](https://doi.org/10.3897/BDJ.8.e50503) in 2020 which describes our transcription methodology for the new georeferencing project (Lohonya *et al.*, 2020). For this project, a set of rules were agreed to transcribe the specimens, and one of the flow diagrams we used can be seen below. For more complex transcription projects, it can be helpful to formalise the methodology through flow charts to ensure that all transcribers are able to follow the same process.
 
 ![Image shows a flowchart from the NHM's botanical Chinese Type collection transcription project. Reference Lohonya et al 2020](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/TranscFlowChart.jpg?raw=true)
-*Figure: Flowchart describing one step of the NHM botanical Chinese Type Collection geo-referencing project, which outlines some of the rules our transcribers followed in this project (Lohonya, et al, 2020).*
+Figure: Flowchart describing one step of the NHM botanical Chinese Type Collection geo-referencing project, which outlines some of the rules our transcribers followed in this project. Creating a flow chart like this can help ensure consistency between transcribers (Lohonya, et al, 2020).
 
 ## Workflow
 ![Image shows a transcription workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/TranscWF.PNG?raw=true)
@@ -122,6 +124,7 @@ Journal Articles\
 
 ## Authors
 Lisa French, Krisztina Lohonya, Laurence Livermore
+Natural History Museum, London
 
 ## Contributors
 Phaedra Kokkini
