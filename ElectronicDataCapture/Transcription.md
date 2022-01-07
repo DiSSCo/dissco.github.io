@@ -29,10 +29,9 @@ For many projects only part of the label information will be transcribed, and th
 ![Image shows some decisions that need to be made at the beginning of a transcription project. These are described in detail below](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/TranscPP.PNG?raw=true)
 
 **Verbatim vs Interpretation:**\
-You should agree with the curator or project lead in advance what label information will be transcribed verbatim or what items can be interpreted.  You should also define rules around interpretation, so all transcribers are following the same practices.
-*Verbatim can mean different things - exactly 
+You should agree with the curator or project lead in advance what label information will be transcribed verbatim or what items can be interpreted.  You should also define rules around interpretation, so all transcribers are following the same practices. This includes deciding how you will indicate when a field has been interpreted.
 
-For example, some curators may prefer locality to be transcribed in a specific order, by perhaps always recording the largest area first, whereas others might prefer locality to be transcribed exactly how it appeared on the label. 
+For example, in some projects locality may need to be transcribed in a specific order, by perhaps always recording the largest area first, whereas others might prefer locality to be transcribed exactly how it appeared on the label. You may decide to interpet the full year when only a partial date appears on a label (e.g. '26' vs '1926') , or the country of collection where full locality information is not written on the label.  
 
 Interpreted data is often better for improving the findability of specimens and aggregating data, but recording verbatim data can help for later data cleaning if something has been interpreted incorrectly (Wilkinson *et al.*, 2016, Groom *et al.* 2019). 
 
@@ -42,8 +41,7 @@ Even when transcribing verbatim, there will be instances where some interpretati
 Some specimens may have multiple species determinations, and you will need to decide whether to transcribe all determinations or perhaps only the most recent determination.
 
 **Unknown or incomplete data:**\
-You should agree how data that is missing from the label will be recorded. Most transcription projects do not record all label data, and it is important that afterwards you can differentiate between information that was
-missing from the label, and data that was not entered by the transcriber.
+You should agree how data that is missing from the label will be recorded. Most transcription projects do not record all label data, and it is important that afterwards you can differentiate between information that was missing from the label, and data that was not entered by the transcriber.
 
 Data may also be incomplete, for example the label may not have complete locality information and again you should ensure you can distinguish between incomplete data and data that was not entered.
 
@@ -68,12 +66,11 @@ We published a [paper](https://doi.org/10.3897/BDJ.8.e50503) in 2020 which descr
 *Figure: Flowchart describing one step of the NHM botanical Chinese Type Collection geo-referencing project, which outlines some of the rules our transcribers followed in this project (Lohonya, et al, 2020).*
 
 ## Workflow
-*I think this section is a bit redundant, and instead could recommend use of flowcharts like the example above?*
 ![Image shows a transcription workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/TranscWF.PNG?raw=true)
 This shows an example workflow for a transcription project. 
 
-* In some projects, label images will be used for transcription. In others, the labels may be transcribed directly from the specimen. There is often a mix of approaches with, for example, taxonomic information being transcribed during imaging and the rest of the label transcribed from the images at a later date.
-* Transcription data will often be transcribed into a spreadsheet, as shown in this workflow, with a database manager later importing this into the institution's collection management system afterwards. 
+* In some projects, label images will be used for transcription. In others, the labels may be transcribed directly from the specimen. There is often a mix of approaches with, for example, taxonomic information being transcribed during imaging and the rest of the label transcribed from the images at a later date.  
+* Transcription data will often be transcribed into a spreadsheet, with a database manager later importing this into the institution's collection management system afterwards. This should be discussed with the database manager before starting to ensure the information is transcribed in the right format.
 
 ## Costs and Transcription Rates
 There are three primary considerations when considering the rate of transcription:
@@ -84,17 +81,16 @@ There are three primary considerations when considering the rate of transcriptio
 
 The expertise and knowledge of the transcriber will also influence the speed and accuracy of transcription (Walton *et al.*, 2020). 
 
-At the NHM, London, we ask our transcribers to record the number of specimens they transcribe each day(?) for each project. This allows us to calculate maximum, minimum and median transcription rates, which we can use during a project to assess whether we need to make any adjustments (e.g. reduce what is being transcribed to meet deadlines), and to make estimates for how long similar projects will take. We can also use this information to calculate the cost of transcription per specimen (using staff costs).
-*We also have calculations per hour/min - how do we actually record this info?*
+At the NHM, London, we ask our transcribers to record the number of specimens they transcribe each day for each project. This allows us to calculate maximum, minimum and median transcription rates, which we can use during a project to assess whether we need to make any adjustments (e.g. reduce what is being transcribed to meet deadlines), and to make estimates for how long similar projects will take. We can also use this information to calculate the cost of transcription per specimen (using staff costs).
 
-## Impact and Effort Matrix
+### Impact and Effort Matrix
 ![Image shows an impact effort matrix](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ImpactEffort.PNG?raw=true)
 
 Using an impact effort matrix at the start of a transcription project can help teams to determine what to transcribe. 
 
 The first step is to identify the main objectives and goals for the transcription project - this helps to assess the potential impact of transcribing each field.
 
-The 'effort' can be assessed by considering how much time it will take to transcribe each field. The potential resource requirements for transcribing becomes easier to assess the more transcription projects you do, particularly if you keep a record of past transcription rates per specimen (see ['cost and transcription rates'](https://lmfrench.github.io/ElectronicDataCapture/Transcription.html#costs-and-transcription-rates). The difficulty of reading the label and the level of interpretation required will impact this, as does the expertise and knowledge of your transcribers. 
+The 'effort' can be assessed by considering how much time it will take to transcribe each field. The potential resource requirements for transcribing becomes easier to assess the more transcription projects you do, particularly if you keep a record of past transcription rates per specimen (see ['cost and transcription rates'](https://lmfrench.github.io/ElectronicDataCapture/Transcription.html#costs-and-transcription-rates). You could also run trials using stopwatches to record transcription rates to get an estimate. The difficulty of reading the label and the level of interpretation required will impact this, as does the expertise and knowledge of your transcribers. 
 
 Once you have an estimate of the impact and resource implications for transcribing each field, you can then add them to the impact effort matrix. It is likely you will want to transcribe anything classified in the 'high impact, low effort' quadrant, and not transcribe fields in the 'low impact, high effort' quadrant.
 
@@ -104,7 +100,7 @@ The impact and effort for each transcription task will differ between projects -
 
 ## Challenges
 **Languages:**
-Specimen label information is often written in a language that the transcriber is not fluent in. You should decide whether this label information will be transcribed, or whether this should be skipped. It is likely the transcriber will need to transcribe these labels verbatim, 
+Specimen label information is often written in a language that the transcriber is not fluent in. You should decide whether this label information will be transcribed, or whether this will be flagged as not transcribed. It is likely the transcriber will need to transcribe these labels  verbatim, 
 and they may also misinterpret the correct data field. It is particularly difficult to transcribe labels using writing systems not familiar to the transcriber ((Groom *et al.* 2019, )
  
 There may be symbols that are not found on the transcriber's keyboard, for example UK keyboards do not typically include accented letters. The [Useful Shortcuts](https://usefulshortcuts.com/alt-codes/accents-alt-codes.php) website can be used to either copy and paste the required letter, or to find the keyboard shortcut
@@ -125,7 +121,7 @@ Journal Articles\
 [Georeferencing the Natural History Museum's Chinese type collection](https://doi.org/10.3897/BDJ.8.e50503)
 
 ## Authors
-Krisztina Lohonya, Marla Spencer, Lisa French, Laurence Livermore
+Lisa French, Krisztina Lohonya, Laurence Livermore
 
 ## Contributors
 Phaedra Kokkini
