@@ -109,7 +109,8 @@ ALICE has been used to digitise the Ephemeroptera (mayflies), Plecoptera (stonef
 [EPT Digitisation](https://naturalhistorymuseum.blog/2021/02/17/digitisation-on-demand-riverflies-and-redlists-digital-collections/)
 
 ## Authors
-Robyn Crowther, Kate Holub-Young, Krisztina Lohonya, Marla Spencer, Lisa French, Laurence Livermore
+Lisa French, Robyn Crowther, Kate Holub-Young, Krisztina Lohonya, Laurence Livermore
+Natural History Museum, London 
 
 ## Contributors
 
