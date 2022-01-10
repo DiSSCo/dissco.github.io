@@ -19,7 +19,6 @@ parent: Vertebrates
 This workflow describes the digitisation of the bat collection at the Natural History Museum, London, (NHM) funded by a [SYNTHESYS+](synthesys.info) Virtual Access Project. 
 The NHM Bat Collection includes skins, skulls and specimens preserved in spirit. Some of the collection was already partially digitised, and this workflow describes some of the challenges that digitisers can face when dealing with inconsistent data quality from past digitisation efforts.
 This project did not include image capture. \
-*Although the type skull specimens have now had images taken - this will be added after the milestone is due*
 ![Image of bat skull](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/Bat.PNG?raw=true)
 
 ## Workflow
