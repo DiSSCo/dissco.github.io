@@ -95,7 +95,7 @@ and there is a grooved area to place the location and taxon barcodes (Allan *et 
 
 ## Other Sources
 **Journal Article**\
-[Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides](https://doi.org/10.5281/zenodo.3364481)
+[Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides](https://doi.org/10.5281/zenodo.3364481)\
 **Blog Post**\
 [Digitising the louse collection: we've been itching to tell you more](https://www.nhm.ac.uk/discover/news/2018/february/digitising-the-louse-collection-we-ve-been-itching-to-tell-you-.html)
 
