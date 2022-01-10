@@ -58,7 +58,7 @@ ALICE has been used to digitise the Ephemeroptera (mayflies), Plecoptera (stonef
 * We add a label detailing the genus and species name, and pin this to the bottom of each tray. If no genus or species name is given, we add a label to the highest taxnomic level available.
 * Each drawer is given a label indicating the family and drawer number.
 * If a specimen is damaged during the digitisation process, we place the damaged pieces into a gel capsule or paper envelope. If there is room on the specimen pin, we attach this underneath the specimen. Otherwise, we attach a small label with the specimen's barcode number so this can be easily associated with the correct specimen.
-* If we find loose pieces of specimens in the drawer or unit tray which we cannot associate with a specimen, we collect this into a gel capsule. We then label this capsule as 'unassociated material' and place it in the corner of a unit tray.\
+* If we find loose pieces of specimens in the drawer or unit tray which we cannot associate with a specimen, we collect this into a gel capsule. We then label this capsule as 'unassociated material' and place it in the corner of a unit tray.
 * Rather than populating our Collections Management System (CMS) directly with species and drawer location, our digitisers instead input this information into a spreadsheet. This spreadsheet is then given to a database manager, who updates this in our CMS. The index lot barcode is then added to the unit tray directly before imaging.
 
 **Electronic Data Capture**
