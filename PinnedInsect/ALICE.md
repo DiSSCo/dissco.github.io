@@ -95,11 +95,11 @@ ALICE has been used to digitise the Ephemeroptera (mayflies), Plecoptera (stonef
 | ALICE3,4,5,6        | Canon 750D     | Labels  | f/20; ss = 1/50 sec; ISO = 400. |
 
 ## Other Sources
-**Papers**
+**Papers**\
 [ALICE: Angled Label Image Capture and Extraction for High Throughput Insect Specimen Digitisation](https://doi.org/10.31219/osf.io/s2p73)\
 [ALICE, MALICE and VILE: High throughput insect specimen digitisation using angled imaging techniques](https://doi.org/10.3897/biss.3.37141)
 
-**Blogs**\
+**Blogs and Articles**\
 [Pinned Insect Digitisation](https://www.nhm.ac.uk/our-science/our-work/digital-collections/digital-collections-programme/pinned-insect-digitisation.html)\
 [EPT Digitisation](https://naturalhistorymuseum.blog/2021/02/17/digitisation-on-demand-riverflies-and-redlists-digital-collections/)
 
