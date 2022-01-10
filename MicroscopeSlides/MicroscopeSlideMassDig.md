@@ -94,7 +94,7 @@ and there is a grooved area to place the location and taxon barcodes (Allan *et 
 | Canon 5DS R    | f 1/5.6; ss = 1/80 sec; ISO = 200. |
 
 ## Other Sources
-**Journal Article**\
+**Papers**\
 [Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides](https://doi.org/10.5281/zenodo.3364481)\
 **Blogs and Articles**\
 [Digitising the louse collection: we've been itching to tell you more](https://www.nhm.ac.uk/discover/news/2018/february/digitising-the-louse-collection-we-ve-been-itching-to-tell-you-.html)
