@@ -32,7 +32,7 @@ These sections are used to add BPMN workflows. Text can also be included to help
 **Preserving and Publishing Data**
 
 ## Example Projects
-This section gives more information about how these workflows have been applied in practice. Workflows often need to be adapted for the requirements of a specific project.
+*This section* gives more information about how these workflows have been applied in practice. Workflows often need to be adapted for the requirements of a specific project.
 
 ## Requirements
 ### Hardware
@@ -57,4 +57,6 @@ Section for links out to other related resources e.g blog posts, journal article
 ## Citation
 
 Example of how to show image: ![Image shows ALICE camera set up on the left, and examples of specimen images taken by ALICE on the right](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICE.PNG?raw=true)
+
+
 (Images are stored in the 'images' folder)
