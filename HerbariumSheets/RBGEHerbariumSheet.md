@@ -20,7 +20,7 @@ This section gives a brief (2-3 sentence) overview of the workflow
 ## Workflow
 These sections are used to add BPMN workflows. Text can also be included to help someone follow the workflow. Not all subheadings will be required for every workflow.\
 
-![Overview of the Mass Digitisation workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Workflow%20overview.JPG)
+![Overview of the Mass Digitisation workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20workflow%20overview.PNG)
 
 **Pre-Digitisation Curation**
 
