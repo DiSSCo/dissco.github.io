@@ -57,7 +57,6 @@ Figure 2: [Ephemeroptera specimen](https://data.nhm.ac.uk/object/b22b18c3-93a7-4
 
 ### EPT
 ALICE has been used to digitise the Ephemeroptera (mayflies), Plecoptera (stoneflies) and Trichoptera (caddisflies) (EPT) collection in the Natural History Museum, London. This project was funded by the [SYNTHESYS+](https://www.synthesys.info/) Virtual Access. More information can be found on [our blog](https://naturalhistorymuseum.blog/2021/02/17/digitisation-on-demand-riverflies-and-redlists-digital-collections/).
-*Add photo, link to Data Portal?*
 
 **Pre-Digitisation Curation**
 * We put specimens into unit trays, with one species per unit tray. If there are too many specimens from the same species to fit into one tray, we add another. We make sure to leave enough space between specimens so they can be removed without touching any part of another specimen.
@@ -120,7 +119,7 @@ Dupont S, Price BW (2019) **ALICE, MALICE and VILE: High throughput insect speci
 
 Price, Benjamin W., Steen Dupont, Elizabeth L. Allan, Vladimir Blagoderov, Alice J. Butcher, James Durrant, Pieter Holtzhausen, et al. 2018. **ALICE: Angled Label Image Capture and Extraction for High Throughput Insect Specimen Digitisation.** OSF Preprints. November 5. DOI: [10.31219/osf.io/s2p73](https://doi.org/10.31219/osf.io/s2p73)
 
-Natural History Museum (20xx). Natural History Museum Data Portal (data.nhm.ac.uk). https://data.nhm.ac.uk/object/b22b18c3-93a7-4fb2-a29e-d56b5c5b885f
+Natural History Museum (2021). Natural History Museum Data Portal (data.nhm.ac.uk). https://data.nhm.ac.uk/object/b22b18c3-93a7-4fb2-a29e-d56b5c5b885f
 
 ## Licence
 
