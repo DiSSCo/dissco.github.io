@@ -36,7 +36,7 @@ A key part of the pre-digitisation curation is to ensure that key information fo
 
 If either genus or species folders are too full they are split into additional folders to help ensure that the specimens are stored well, to help ensure their long term preservation. 
 
-![An overful Genus cover]()
+![An overful Genus cover](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20too%20full%20folder.PNG?raw=true)
 
 Taxonomy and Names
 
