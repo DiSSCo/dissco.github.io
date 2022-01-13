@@ -119,8 +119,9 @@ Digitisers are provided guidance on the best placement of the barocode on a spec
 
 In addition to this we capture relationships between specimens when there are multiple specimens mounted on a single sheet, or when a single specimen is mounted across multiple sheets.
 
-[Multiple specimens mounted on a single sheet](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20multi%20specimen%20sheet.PNG?raw=true)
-[A single specimen mounted on multiple sheets](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20multi%20specimen%20sheet.PNG?raw=true)
+![Multiple specimens mounted on a single sheet](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20multi%20specimen%20sheet.PNG?raw=true)
+
+![A single specimen mounted on multiple sheets](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20multi%20sheet%20specimen.PNG?raw=true)
 
 **Specimen Image Capture**
 
