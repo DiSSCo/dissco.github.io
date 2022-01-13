@@ -108,16 +108,32 @@ Examples of repairs:
 
 ![Minimal Data Capture workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Minimal%20Data%20Entry.PNG?raw=true)
 
-The workflow used for the mass digitisation of herbarium sheets captures information that is shared between sheets to enable finding of them within the herbarium and online resources. Additional projects address adding additional information to the data records.
+The electronic data capture task results in minimal data records equivalent to MIDS-1. The workflow captures information on the specimen folders, shared by all specimens within, along with the barcode for each specimen. This results in a record for each specimen which contains a unique identifier and the specimen filing location represented by the folder information. 
 
-For the purposes of this project the following information is captured:
-* Filing name
-* Filing region
-* Barcode
+A barcode is applied to each specimen. Digitisers are provided guidance on the best placement of the barcode. Barcodes are assigned to specimens using the procedure below: 
 
-Digitisers are provided guidance on the best placement of the barocode on a specimen.
+* Each separate, loanable item will be assigned a unique barcode. This includes each individual sheet, where a single specimen has been mounted over several herbarium sheets. 
 
-In addition to this we capture relationships between specimens when there are multiple specimens mounted on a single sheet, or when a single specimen is mounted across multiple sheets.
+* Each specimen with different collecting event information or a different identification will be assigned a unique barcode. This includes each specimen where multiple specimens have been mounted on a single herbarium sheet, and each element of a mixed gathering where a single collection has been later split into two different species. 
+
+A software process for the electronic data capture was developed and implemented externally as a standalone application and then internally in the institutional collection management system.  
+
+The user enters the following data: 
+
+* Taxon filing name (Higher taxon, Family, Genus, Species)
+* Geographical filing region 
+* Barcode 
+
+The application enters the following metadata: 
+
+* User name 
+* Record created date 
+* Institution code 
+* Type of specimen (eg, Herbarium sheet) 
+
+The application checks the barcode to ensure that a record does not already exist, and then creates a specimen record for each new barcode, entering the data and metadata. 
+
+More complex specimens, including multiple specimens mounted on a single sheet, or when a single specimen is mounted across multiple sheets, have additional information entered manually into the specimen records. 
 
 ![Multiple specimens mounted on a single sheet](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20multi%20specimen%20sheet.PNG?raw=true)
 
@@ -134,7 +150,7 @@ At present there are 3 different imaging stations being used for the imaging of 
 General principals of the image capture workflow:
 
 * Specimens are placed on a backboard which have a fixed colour chart and scale bar.
-* The barcode is used as the filename for the image and this allowd for later linking to the data record for display on our online catalogue and export to data partners.
+* The barcode is used as the filename for the image and this allows for later linking to the data record for display on our online catalogue and export to data partners.
 * Barcodes are scanned manually using a barcode scanner.
 * The processing of RAW files to TIFFs is done automatically by the software with a small number of software based modifications e.g. the application of sharpening
 
