@@ -16,7 +16,10 @@ parent: Herbarium Sheets
 </details>
  
 ## Overview
-This section gives a brief (2-3 sentence) overview of the workflow
+This workflow is designed for the digitisation of flat herbarium sheets, undertaken as part of an in-house mass digitisation programme at The Royal Botanic Garden Edinburgh. The workflow is based on the concepts outlined in early publications for creating minimal data specimen records and includes a level of specimen curation and conservation identified as a balance between quality and efficiency. 
+
+The workflow includes a level of automation to create the data records with associated metadata and to process the image files with associated metadata. The image processing pipeline includes Optical Character Recognition (OCR) which is carried out on all images. 
+
 ## Workflow
 These sections are used to add BPMN workflows. Text can also be included to help someone follow the workflow. Not all subheadings will be required for every workflow.
 
@@ -77,7 +80,8 @@ Examples of conservation interventions:
 * Replacing non-brass paperclips or pins - non-brass materials can become rusty and cause damage to the specimen
 ![A rusty paperclip holding a paper capsule closed](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20rusty%20paperclip.PNG?raw=true)
 
-* Placing a fragile specimenin a protective cover - if a specimen is on fragile or brittle paper it can be placed in a protective cover to prevent further damage
+* Placing a fragile specimen in a protective cover - if a specimen is on fragile or brittle paper it can be placed in a protective cover to prevent further damage
+
 ![A specimen mounted on brittle paper](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20fragile%20specimen.PNG?raw=true)
 
 Examples of repairs:
@@ -96,9 +100,27 @@ Examples of repairs:
 ![A specimen with flowers covered with cellophane](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20specimen%20with%20cellophane.PNG?raw=true)
 ![A specimen attached to the sheet with sellotape](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20specimen%20with%20sellotape.PNG?raw=true)
 
+* Specimens with insect damage - this can be either recent or historic. If the damage appears to be recent specimens are treated to ensure that there is no continuing activity. In either case the specimen is cleaned prioe to imaging.
+
+![Examples of insect damage to specimens](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20insect%20damage.PNG?raw=true)
+
 **Electronic Data Capture**
 
 ![Minimal Data Capture workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Minimal%20Data%20Entry.PNG?raw=true)
+
+The workflow used for the mass digitisation of herbarium sheets captures information that is shared between sheets to enable finding of them within the herbarium and online resources. Additional projects address adding additional information to the data records.
+
+For the purposes of this project the following information is captured:
+* Filing name
+* Filing region
+* Barcode
+
+Digitisers are provided guidance on the best placement of the barocode on a specimen.
+
+In addition to this we capture relationships between specimens when there are multiple specimens mounted on a single sheet, or when a single specimen is mounted across multiple sheets.
+
+[Multiple specimens mounted on a single sheet](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20multi%20specimen%20sheet.PNG?raw=true)
+[A single specimen mounted on multiple sheets](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20multi%20specimen%20sheet.PNG?raw=true)
 
 **Specimen Image Capture**
 
