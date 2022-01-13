@@ -20,6 +20,8 @@ This workflow is designed for the digitisation of flat herbarium sheets, underta
 
 The workflow includes a level of automation to create the data records with associated metadata and to process the image files with associated metadata. The image processing pipeline includes Optical Character Recognition (OCR) which is carried out on all images. 
 
+![Herbarium flat sheets](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20herbarium%20flat%20sheets.PNG?raw=true)
+
 ## Workflow
 These sections are used to add BPMN workflows. Text can also be included to help someone follow the workflow. Not all subheadings will be required for every workflow.
 
