@@ -226,7 +226,4 @@ Nelson G, Paul D, Riccardi G, Mast AR. Five task clusters that enable efficient 
 
 ## Citation
 
-Example of how to show image: ![Image shows ALICE camera set up on the left, and examples of specimen images taken by ALICE on the right](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICE.PNG?raw=true)
 
-
-(Images are stored in the 'images' folder)
