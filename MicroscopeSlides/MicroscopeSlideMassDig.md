@@ -4,7 +4,7 @@ parent: Microscope Slides
 ---
 
 ---
-# Microscope Slides - Mass Digitisation
+# Microscope Slides - Mass Digitisation (ICEDIG)
 {: .no_toc }
 
   {: .no_toc .text-delta }
@@ -19,15 +19,15 @@ parent: Microscope Slides
  
 ## Overview
 This pages outlines the semi-automated mass digitisation workflow used by the Natural History Museum, London, to digitise its microscope slide collection. It provides a short summary of the workflow developed as part of
-the [ICEDIG](https://icedig.eu) project, with more detail to be found in the [Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides](https://doi.org/10.5281/zenodo.3364481)  paper (Allan *et al.*, 2019).
+the [ICEDIG](https://icedig.eu) project, with more detail to be found in the [Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides](https://doi.org/10.5281/zenodo.3364481) paper (Allan *et al.*, 2019).
 
-This workflow shows how to image and add unique identifier (UID) barcodes to slides which already have a  digital record in a Collection Management System (CMS).
+![Image shows a barcode being added to a microscope slide](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/SlideFront.png?raw=true)
 
 ## Workflow
 
 **Pre-Digitisation Curation**
 ![Image shows the pre-digitisation curation workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/SlidePreDig.PNG?raw=true)
-The workflow above shows the steps taken in the pre-digitisation curation stage. Location and taxon barcode labels were printed from the Museum's CMS (Figure 1a). These are then inserted into the collection (Figure 1b).
+The workflow above shows the steps taken in the pre-digitisation curation stage. Drawer location and taxon barcode labels were printed from the Museum's CMS (Figure 1a). These are then inserted into the collection (Figure 1b).
 If there was no label for a slide, or the label information was incorrect, this information was passed to the curator who then updates the CMS.
 
 ![Image on left shows the temporary taxon and location barcodes, image on right an example of how the labels were added to the collection](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/SlideLabel.png?raw=true)
@@ -44,11 +44,10 @@ and in these cases the envelope was also placed into the template and an image c
 **Specimen Image Processing & Electronic Data Capture**
 ![Image shows the image processing and data capture workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/SlideEDC.PNG?raw=true)
 * The workflow above shows the specimen image processing and electronic data capture stages, with most of this semi-automated. 
-* BardecodeFiler reads the three barcodes in the image, and renames the image files.
-* XnConvert was used to rotate the images 180 degrees and to crop the location and taxon barcodes *why is the rotate needed i.e. why isn't image taken at this rotation?*
-* For images with a missing UID barcode (i.e. envelope images, reverse slide images), the image is saved into an exceptions folder. BardecodeFiler uses the previously read barcode to name the image file. *Is the move into the exceptions folder automated or manual? i.e. Should it be part of the image capture workflow?*
-* At the end of each day, the cropped image files were manually quality checked. The images in the exceptions folder are also checked, and these are manually copied into the XnConvert software to crop the pictures.
-* The renamed and processed files are then ingested into the CMS using a script.
+* BardecodeFiler reads the three barcodes in the image, and renames the image files. For images with a missing UID barcode (i.e. envelope images, reverse slide images), BardecodeFiler saves the image into an exceptions folder, naming it with the most recently read barcode..
+* XnConvert was used to rotate the images 180 degrees and to crop the location and taxon barcodes. The rotation is required because the camera is facing backwards compared to where the digitiser sits in front of the lightbox. The specimens and barcodes are positioned in the lightbox so the digitiser can still read them, and the image is then rotated during image processing.
+* At the end of each day, the cropped image files were manually quality checked. The images in the exceptions folder are also checked, and the XnConvert software crops and rotates these pictures.
+* The renamed and processed files are then ingested into the CMS using a script. For images that do not yet have a record in the CMS, a new record is created at the same time as the image is uploaded, with the image file name containing the barcode number to create the record.
 
  More information on all these steps can be found in the [Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides](https://doi.org/10.5281/zenodo.3364481)  paper (Allan *et al.*, 2019).
 
@@ -68,19 +67,28 @@ Table: Estimates of digitised slides per person per day (Allan *et al.*, 2019)
 | Error Rate                | 0.006                                                  |
 
 *focused testing shows the rate when only digitisation activities are occurring, which is unlikely to be achieved in every day work due to meetings and other interuptions
-*Are these rates for the image capture step?*
+
+
+**Natural History Museum, London: Adaptations to the ICEDIG workflow**\
+We have made some changes to the ICEDIG workflow:\
+
+*Pre-Digitisation Curation:* In addition to the drawer location and taxonomy barcodes, we now include country of collection and type/non type barcodes (Figure 3).
+
+![Image shows a slide with country, non-type, drawer location and taxonomy barcodes](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/SlideTaxonomy.png?raw=true)\
+Figure 3: Shows the country, non-type, drawer location and taxonomy barcodes that are including in the microscope slide image
+
+*Specimen Image Processing:* We now have an Excel macro which can automatically checks the filenames of images for a range of data quality issues, giving stronger quality assurance.
 
 ## Requirements
 
 ### Hardware
 * 1 x Canon EOS 5DS R with Tamron 90mm Lens, vertically mounted
 * 1 x 32 W Circline VLR Full Spectrum Vita-Lite 5500 K flourescent ring bulb
-* 1 x custom-built lightbox (Figure 3a) *do we have any information we can add on how we built this?*
-* 1 x template (made with durable white plastic, with raised 'L-shaped' edge to ensure slides can be positioned in same location) (Figure 3b).
+* 1 x custom-built lightbox (Figure 4a) 
+* 1 x template (made with durable white plastic, with raised 'L-shaped' edge to ensure slides can be positioned in same location) (Figure 4b).
 
 ![Image on left shows custom built lightbox, image on right shows the template used to position the slides](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/SlideSetup.png?raw=true)
-Figure 3: a) Shows the imaging set-up: vertically mounted DSLR camera, lightbox and slide imaging template. b) Slide imaging template with raised 'L shaped' edge. The slide is positioned at this edge, 
-and there is a grooved area to place the location and taxon barcodes (Allan *et al.*, 2019).
+Figure 4: a) Shows the imaging set-up: vertically mounted DSLR camera, lightbox and slide imaging template. b) Slide imaging template with raised 'L shaped' edge. The slide is positioned at this edge, and there is a grooved area to place the location and taxon barcodes (Allan *et al.*, 2019).
 
 ### Software
 * EOS Utility
@@ -100,6 +108,7 @@ and there is a grooved area to place the location and taxon barcodes (Allan *et 
 [Digitising the louse collection: we've been itching to tell you more](https://www.nhm.ac.uk/discover/news/2018/february/digitising-the-louse-collection-we-ve-been-itching-to-tell-you-.html)
 
 ## Authors
+Lisa French, Larissa Welton, Laurence Livermore
 
 ## Contributors
 
