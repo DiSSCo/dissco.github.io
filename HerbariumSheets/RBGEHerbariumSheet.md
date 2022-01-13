@@ -16,7 +16,7 @@ parent: Herbarium Sheets
 </details>
  
 ## Overview
-This workflow is designed for the digitisation of flat herbarium sheets, undertaken as part of an in-house mass digitisation programme at The Royal Botanic Garden Edinburgh. The workflow is based on the concepts outlined in early publications for creating minimal data specimen records and includes a level of specimen curation and conservation identified as a balance between quality and efficiency. 
+This workflow is designed for the digitisation of flat herbarium sheets, undertaken as part of an in-house mass digitisation programme at The Royal Botanic Garden Edinburgh. The workflow is based on the concepts outlined in early publications for creating minimal data specimen records. The data element of the workflow results in minimal data records, equivalent to MIDS-1, in this first stage of digitisation. The enhancement of these records will then be achieved as part of subsequent digitisation workflows. The physical curation element includes a level of specimen curation and conservation identified as a balance between achieving high throughput rates and maintaining best practice curation standards. 
 
 The workflow includes a level of automation to create the data records with associated metadata and to process the image files with associated metadata. The image processing pipeline includes Optical Character Recognition (OCR) which is carried out on all images. 
 
