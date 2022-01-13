@@ -127,6 +127,17 @@ In addition to this we capture relationships between specimens when there are mu
 
 ![Specimen Image Capture workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Specimen%20Image%20Capture.PNG?raw=true)
 
+At present there are 3 different imaging stations being used for the imaging of flat herbarium sheets. Whilst each has some slight differences the overall principals for the image capture workflow remain the same. 
+
+![An example of an imaging station](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20example%20imaging%20setup.PNG?raw=true)
+
+General principals of the image capture workflow:
+
+* Specimens are placed on a backboard which have a fixed colour chart and scale bar.
+* The barcode is used as the filename for the image and this allowd for later linking to the data record for display on our online catalogue and export to data partners.
+* Barcodes are scanned manually using a barcode scanner.
+* The processing of RAW files to TIFFs is done automatically by the software with a small number of software based modifications e.g. the application of sharpening
+
 **Specimen Image Processing**
 
  ![Specimen Image Processing workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Specimen%20Image%20Processing.PNG?raw=true)
@@ -134,6 +145,8 @@ In addition to this we capture relationships between specimens when there are mu
 **Georeferencing Specimen Data**
 
 **Preserving and Publishing Data**
+
+![Data publishing pipeline](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20DAta%20publishing.PNG?raw=true)
 
 ## Example Projects
 *This section* gives more information about how these workflows have been applied in practice. Workflows often need to be adapted for the requirements of a specific project.
