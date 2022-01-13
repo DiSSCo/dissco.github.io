@@ -26,27 +26,27 @@ These sections are used to add BPMN workflows. Text can also be included to help
 
 Genus and Species covers
 
-![Pre-Digitisation Curation: Genus and Species covers workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Genus%20and%20Species%20covers.JPG?raw=true)
+![Pre-Digitisation Curation: Genus and Species covers workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Genus%20and%20Species%20covers.PNG?raw=true)
 
 Taxonomy and Names
 
-![Pre-Digitisation Curation: Taxonomy and Names workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Taxonomy%20and%20names.JPG?raw=true)
+![Pre-Digitisation Curation: Taxonomy and Names workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Taxonomy%20%26%20Names.PNGraw=true)
 
 Conservation Assessment
 
-![Pre-Digitisation Curation: Conservation Assessment workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMNConservation%20Assessment.JPG?raw=true)
+![Pre-Digitisation Curation: Conservation Assessment workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Conservation%20Assessment.PNG?raw=true)
 
 **Electronic Data Capture**
 
-![Minimal Data Capture workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Minimal%20Data%20Capture.JPG?raw=true)
+![Minimal Data Capture workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Minimal%20Data%20Entry.PNG?raw=true)
 
 **Specimen Image Capture**
 
-![Specimen Image Capture workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Specimen%20Image%20Capture.JPG?raw=true)
+![Specimen Image Capture workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Specimen%20Image%20Capture.PNG?raw=true)
 
 **Specimen Image Processing**
 
- ![Specimen Image Processing workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Specimen%20Image%20Processing.JPG?raw=true)
+ ![Specimen Image Processing workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Specimen%20Image%20Processing.PNG?raw=true)
 
 **Georeferencing Specimen Data**
 
