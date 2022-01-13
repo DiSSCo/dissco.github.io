@@ -44,13 +44,13 @@ The next workflow shows the transcription process for the spirit and skull colle
 ![Image shows the workflow to transcribe specimen label from the skull and spirit collection](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/BatEDC2.PNG?raw=true)
 
 ## Other Sources
-**Blogs**\
+**Blogs and Articles**\
 [How natural history museums can help fight future pandemics](https://www.nhm.ac.uk/discover/how-natural-history-museums-can-help-fight-future-pandemics.html)\
 [Digitisation on demand: mobilising natural history data to address society's biggest challenges](https://naturalhistorymuseum.blog/2021/02/10/digitisation-on-demand-mobilising-natural-history-data-to-address-societys-biggest-challenges/)
 
 
 ## Authors
-Phaedra Kokkini, Lisa French, Laurence Livermore.
+Phaedra Kokkini, Lisa French, Laurence Livermore.\
 Natural History Museum, London
 
 ## Contributors
