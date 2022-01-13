@@ -141,6 +141,23 @@ General principals of the image capture workflow:
 **Specimen Image Processing**
 
  ![Specimen Image Processing workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Specimen%20Image%20Processing.PNG?raw=true)
+ 
+The image processing workflow has been designed to use a folder structure to derive metadata for user and equipment, with image metadata being derived from the image files themselves. This has created a workflow where there is a minimal amount of input needed by the digitisers to process their specimen images. 
+
+An initial check is run by the digitiser to ensure that the specimens do not already have an image, using a website created inhouse to query the image database. If there are any duplicate images they can be removed from the batch prior to processing. 
+
+Files are copied to watched folder, the folder structure of which creates the operator and equipment metadata. 
+
+
+
+The image processing script takes image pairs (a RAW file and TIFF) and processes them to create a JPG and a tiled image for use on the online catalogue. A copy of the TIFF file is created and sent to an OCR pipeline, the results of this are written to an OCR output database. The RAW and TIFF files are archived. 
+
+As part of this process some basic QC checks are performed on the image files:
+* The filename is checked for length it should be an E followed by 8 numbers. If it is too long, short or doesn't follow this pattern it is returned to an errors folder. Suffixes can be added to image files using a _.
+* File size is checked - if it is too large it is returned to an errors folder
+
+Once the images have been processed the digitisers carry out a second check using the online tool to ensure that they have all been successfully processed prior to deletion of the files.
+
 
 **Georeferencing Specimen Data**
 
