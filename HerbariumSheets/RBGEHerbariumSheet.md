@@ -148,7 +148,7 @@ An initial check is run by the digitiser to ensure that the specimens do not alr
 
 Files are copied to watched folder, the folder structure of which creates the operator and equipment metadata. 
 
-
+![Image processing file structure](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20image%20processing%20file%20structure.PNG?raw=true)
 
 The image processing script takes image pairs (a RAW file and TIFF) and processes them to create a JPG and a tiled image for use on the online catalogue. A copy of the TIFF file is created and sent to an OCR pipeline, the results of this are written to an OCR output database. The RAW and TIFF files are archived. 
 
