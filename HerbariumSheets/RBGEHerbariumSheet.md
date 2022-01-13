@@ -34,6 +34,10 @@ A key part of the pre-digitisation curation is to ensure that key information fo
 
 ![Species cover overview](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20species%20cover.PNG?raw=ture)
 
+If either genus or species folders are too full they are split into additional folders to help ensure that the specimens are stored well, to help ensure their long term preservation. 
+
+![An overful Genus cover]()
+
 Taxonomy and Names
 
 ![Pre-Digitisation Curation: Taxonomy and Names workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Taxonomy%20%26%20Names.PNG?raw=true)
