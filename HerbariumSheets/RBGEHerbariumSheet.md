@@ -30,6 +30,7 @@ There are three key tasks that form the pre-digitisation task cluster at RBGE:
 2. Taxonomy and Names
 3. Conservation Assessment
 
+
 1. Genus and Species covers
 
 ![Pre-Digitisation Curation: Genus and Species covers workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Genus%20and%20Species%20covers.PNG?raw=true)
