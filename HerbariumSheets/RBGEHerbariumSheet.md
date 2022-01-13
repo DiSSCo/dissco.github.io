@@ -191,6 +191,12 @@ The data is automatically harvested from the CMS once every 24h hours (usually 4
 
 ### Software
 
+* BG-BASE
+* Capture One photo editing software
+* Adobe Photoshop Elements
+
+We also use a number of applications and tools that have been built in house
+
 ### Camera Settings
 
 ## Other Sources
@@ -198,9 +204,21 @@ Section for links out to other related resources e.g blog posts, journal article
 
 ## Authors
 
+Elspeth Haston, Robert Cubey, Robyn Drinkwater, Sally King
+
 ## Contributors
 
+This work is built upon the working practices of the RBGE staff.
+
 ## References
+
+Haston, E, Cubey, R & Harris, DJ (2012). Data concepts and their relevance for data capture in large scale digitisation of biological collections. International Journal of Humanities and Arts Computing, 6:1-2, 111-119. DOI: https://doi.org/10.3366/ijhac.2012.0042 
+
+Haston, E, Cubey, R, Pullan, M, Atkins, H, & Harris, D (2012). Developing integrated workflows for the digitisation of herbarium speci-mens using a modular and scalable approach.ZooKeys, 209,93–102. DOI: https://doi.org/10.3897/zookeys.209.3121 
+
+Drinkwater R, Cubey R, Haston E (2014) The use of Optical Character Recognition (OCR) in the digitisation of herbarium specimen labels. PhytoKeys 38: 15-30. DOI: https://doi.org/10.3897/phytokeys.38.7168 
+
+Nelson G, Paul D, Riccardi G, Mast AR. Five task clusters that enable efficient and effective digitization of biological collections. Zookeys. 2012;(209):19-45. DOI: https://doi.org/10.3897/zookeys.209.3135 
 
 ## Licence
 
