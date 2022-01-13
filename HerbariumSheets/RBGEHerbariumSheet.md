@@ -2,7 +2,7 @@
 title: RBGE Herbarium Sheet Mass Digitisation
 parent: Herbarium Sheets
 ---
-# Template Workflow Page
+# RBGE Herbarium Sheet Mass Digitisation
 {: .no_toc }
 
   {: .no_toc .text-delta }
@@ -16,7 +16,7 @@ parent: Herbarium Sheets
 </details>
  
 ## Overview
-This workflow is designed for the digitisation of flat herbarium sheets, undertaken as part of an in-house mass digitisation programme at The Royal Botanic Garden Edinburgh. The workflow is based on the concepts outlined in early publications for creating minimal data specimen records. The data element of the workflow results in minimal data records, equivalent to MIDS-1, in this first stage of digitisation. The enhancement of these records will then be achieved as part of subsequent digitisation workflows. The physical curation element includes a level of specimen curation and conservation identified as a balance between achieving high throughput rates and maintaining best practice curation standards. 
+This workflow is designed for the digitisation of flat herbarium sheets, undertaken as part of an in-house mass digitisation programme at The Royal Botanic Garden Edinburgh (RBGE). The workflow is based on the concepts outlined in early publications for creating minimal data specimen records. The data element of the workflow results in minimal data records, equivalent to MIDS-1, in this first stage of digitisation. The enhancement of these records will then be achieved as part of subsequent digitisation workflows. The physical curation element includes a level of specimen curation and conservation identified as a balance between achieving high throughput rates and maintaining best practice curation standards. 
 
 The workflow includes a level of automation to create the data records with associated metadata and to process the image files with associated metadata. The image processing pipeline includes Optical Character Recognition (OCR) which is carried out on all images. 
 
@@ -79,7 +79,7 @@ Where possible the repair work is carried out prior to the specimen being imaged
 
 Examples of conservation interventions:
 
-* Replacing non-brass paperclips or pins - non-brass materials can become rusty and cause damage to the specimen
+* Replacing non-brass paperclips or pins - non-brass materials can become rusty and cause damage to the specimen\
 ![A rusty paperclip holding a paper capsule closed](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20rusty%20paperclip.PNG?raw=true)
 
 * Placing a fragile specimen in a protective cover - if a specimen is on fragile or brittle paper it can be placed in a protective cover to prevent further damage
@@ -185,9 +185,6 @@ Once the images have been processed the digitisers carry out a second check usin
 
 The data is automatically harvested from the CMS once every 24h hours (usually 4am) and written to a holding database using an export template and code to re-combine data into multiple appropriate formats for downstream uses. One format is a set of linked DwC (Darwin Core files) that are automatically copied and moved to a public-facing server. These DwC files can be harvested (automatically or manually) by our data partners who aggregated data appropriately. 
 
-## Example Projects
-*This section* gives more information about how these workflows have been applied in practice. Workflows often need to be adapted for the requirements of a specific project.
-
 ## Requirements
 ### Hardware
 
@@ -198,11 +195,6 @@ The data is automatically harvested from the CMS once every 24h hours (usually 4
 * Adobe Photoshop Elements
 
 We also use a number of applications and tools that have been built in house
-
-### Camera Settings
-
-## Other Sources
-Section for links out to other related resources e.g blog posts, journal articles
 
 ## Authors
 
