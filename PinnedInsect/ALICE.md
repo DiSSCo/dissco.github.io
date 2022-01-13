@@ -17,7 +17,7 @@ parent: Pinned Insects
  
 ## Overview
 
-ALICE (Angled Label Image Capture and Extraction) is a custom-built multi-camera setup for high throughput pinned insect specimen digitisation. This method allows for label images to be captured without removing them from the pin.
+ALICE (Angled Label Image Capture and Extraction) is a custom-built multi-camera setup for high throughput pinned insect specimen digitisation, used at the Natural History Museum, London. This method allows for label images to be captured without removing them from the pin.
 
 ![Image shows ALICE camera set up on the left, and examples of specimen images taken by ALICE on the right](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICE.PNG?raw=true)
 
@@ -27,16 +27,19 @@ This workflow assumes that the ALICE stage has already been set-up. More informa
 
 **Pre-Digitisation Curation**
 ![ALICE PreDigitisation Curation workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICEPreDig.PNG?raw=true)
-*Is the section about index lots needed or is this specifc to NHM processes?*
+
 * The pre-digitisation curation steps includes rehousing specimens where they either overlap or need to be moved from a cork lined drawer into a platazote tray.
-* Unique identifier barcode labels are added to each specimen pin. It is important that these barcodes are visible when the specimen is viewed from above.
+* Unique identifier barcode labels are added to each specimen pin. It is important that these barcodes are visible when the specimen is viewed from above (Figure 1).
+
+![Image shows an Ephemeroptera specimen, showing the barcode label when viewed from above](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICEBarcode.PNG?raw=true)\
+Figure 1: [Ephemeroptera specimen](https://data.nhm.ac.uk/object/b22b18c3-93a7-4fb2-a29e-d56b5c5b885f/1642032000000) with barcode label visible from above (http://creativecommons.org/licenses/by/4.0/)
 
 **Specimen Image Capture**
 ![ALICE Specimen Image Capture workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICEImageCap.PNG?raw=true)
 * This shows the imaging step. Specimens must be positioned in the ALICE stage with their barcode visible from above.
 * The index lot barcode should be positioned in the top left hand corner.
 * Hardware requirements can be found [below](https://lmfrench.github.io/ALICE.html#hardware)
-*create a first image of the day workflow? e.g  calibration*
+
 
 **Specimen Image Processing**
 ![ALICE Specimen Image Processing workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICEImageProc.PNG?raw=true)
@@ -45,7 +48,10 @@ This workflow assumes that the ALICE stage has already been set-up. More informa
 
 **Electronic Data Capture** 
 ![ALICE Electronic Data Capture workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICEData.PNG?raw=true)
-* This shows the transcription steps, and are optional depending on the project. The label images are used to transcribe the labels. More information on manual transcription can be found in our [transcription guide](https://lmfrench.github.io/ElectronicDataCapture/Transcription.html).
+* This shows the transcription steps, and are optional depending on the project. The label images are used to transcribe the labels (Figure 2). More information on manual transcription can be found in our [transcription guide](https://lmfrench.github.io/ElectronicDataCapture/Transcription.html).
+
+![Image shows an Ephemeroptera specimen, showing how the images look for transcription](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/ALICETranscription.png?raw=true)\
+Figure 2: [Ephemeroptera specimen](https://data.nhm.ac.uk/object/b22b18c3-93a7-4fb2-a29e-d56b5c5b885f/1642032000000), showing the images that can be used for transcription. The transcriber can switch between the different images captured to be able to decipher the labels. (http://creativecommons.org/licenses/by/4.0/)
 
 ## Example Projects
 
@@ -110,9 +116,11 @@ Natural History Museum, London
 ## Contributors
 
 ## References
+Dupont S, Price BW (2019) **ALICE, MALICE and VILE: High throughput insect specimen digitisation using angled imaging techniques.** Biodiversity Information Science and Standards 3: e37141. DOI: [10.3897/biss.3.37141](https://doi.org/10.3897/biss.3.37141)
+
 Price, Benjamin W., Steen Dupont, Elizabeth L. Allan, Vladimir Blagoderov, Alice J. Butcher, James Durrant, Pieter Holtzhausen, et al. 2018. **ALICE: Angled Label Image Capture and Extraction for High Throughput Insect Specimen Digitisation.** OSF Preprints. November 5. DOI: [10.31219/osf.io/s2p73](https://doi.org/10.31219/osf.io/s2p73)
 
-Dupont S, Price BW (2019) **ALICE, MALICE and VILE: High throughput insect specimen digitisation using angled imaging techniques.** Biodiversity Information Science and Standards 3: e37141. DOI: [10.3897/biss.3.37141](https://doi.org/10.3897/biss.3.37141)
+Natural History Museum (20xx). Natural History Museum Data Portal (data.nhm.ac.uk). https://data.nhm.ac.uk/object/b22b18c3-93a7-4fb2-a29e-d56b5c5b885f
 
 ## Licence
 
