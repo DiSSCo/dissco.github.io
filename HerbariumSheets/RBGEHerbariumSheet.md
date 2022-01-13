@@ -72,10 +72,29 @@ Whilst this step is included as part of the Pre-digitisation curation task clust
 
 Where possible the repair work is carried out prior to the specimen being imaged.
 
-Examples of repair work:
+Examples of conservation interventions:
 
 * Replacing non-brass paperclips or pins - non-brass materials can become rusty and cause damage to the specimen
-* 
+![A rusty paperclip holding a paper capsule closed](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20rusty%20paperclip.PNG?raw=true)
+
+* Placing a fragile specimenin a protective cover - if a specimen is on fragile or brittle paper it can be placed in a protective cover to prevent further damage
+![A specimen mounted on brittle paper](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20fragile%20specimen.PNG?raw=true)
+
+Examples of repairs:
+
+* Specimens mounted on very small sheets of paper, or attached with pins - these specimens can cause damage to other specimens within the species cover and need to be mounted on to a larger sheet. 
+
+![A very small specimen that needs to be remounted](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20small%20specimen.PNG?raw=true)
+![A small speciemn that has been attached to a larger sheet with a pin](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20specimen%20attached%20with%20pin.PNG?raw=true)
+
+* Specimens with loose or broken pieces - if a specimen is fragile or mounted on too flexible a mounting board it can cause the specimen to break. Depending on the extent of the damage it is possible for small pieces of loose material to be added to a capsule if present on the sheet. If the damage is more extensive it needs to be repaired by the conservator
+
+![A specimen with loose material](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20specimen%20with%20loose%20material.PNG?raw=true)
+
+* Specimens with cellophane covering material or fixed with sellotape - where possible these are imaged following the repair. 
+
+![A specimen with flowers covered with cellophane](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20specimen%20with%20cellophane.PNG?raw=true)
+![A specimen attached to the sheet with sellotape](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20specimen%20with%20sellotape.PNG?raw=true)
 
 **Electronic Data Capture**
 
