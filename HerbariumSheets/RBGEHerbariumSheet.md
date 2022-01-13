@@ -181,6 +181,8 @@ Once the images have been processed the digitisers carry out a second check usin
 
 ![Data publishing pipeline](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20DAta%20publishing.PNG?raw=true)
 
+The data is automatically harvested from the CMS once every 24h hours (usually 4am) and written to a holding database using an export template and code to re-combine data into multiple appropriate formats for downstream uses. One format is a set of linked DwC (Darwin Core files) that are automatically copied and moved to a public-facing server. These DwC files can be harvested (automatically or manually) by our data partners who aggregated data appropriately. 
+
 ## Example Projects
 *This section* gives more information about how these workflows have been applied in practice. Workflows often need to be adapted for the requirements of a specific project.
 
