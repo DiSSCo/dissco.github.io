@@ -31,7 +31,7 @@ There are three key tasks that form the pre-digitisation task cluster at RBGE:
 3. Conservation Assessment
 
 
-1. Genus and Species covers
+**Genus and Species covers**
 
 ![Pre-Digitisation Curation: Genus and Species covers workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Genus%20and%20Species%20covers.PNG?raw=true)
 
@@ -45,13 +45,37 @@ If either genus or species folders are too full they are split into additional f
 
 ![An overful Genus cover](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20too%20full%20folder.PNG?raw=true)
 
-Taxonomy and Names
+If any specimens are particularly large or bulky, they should be placed at the top of the specimen cover to reduce the risk of specimens warping and becoming damaged.
+
+![A bulky specimen causing warping of surrounding specimens](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20bulky%20specimen.PNG?raw=true)
+
+**Taxonomy and Names**
 
 ![Pre-Digitisation Curation: Taxonomy and Names workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Taxonomy%20%26%20Names.PNG?raw=true)
 
-Conservation Assessment
+For this project the names are entered as they are found in the cabinets, a later project will assess all of the names in use and determine whether they should be use. The key principal is that the name used should allow the specimens to be found.
+
+If a name is not present in the database it needs to be added. We are recommending the use of certain online resouces for this purpose:
+
+1. IPNI (https://www.ipni.org/)
+2. Tropicos (www.tropicos.org)
+
+Other resources if the name cannot be found above include:
+* The World Flora Online (http://www.worldfloraonline.org/)
+* Plants of the World Online (POWO) (http://www.plantsoftheworldonline.org/)
+
+**Conservation Assessment**
 
 ![Pre-Digitisation Curation: Conservation Assessment workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Conservation%20Assessment.PNG?raw=true)
+
+Whilst this step is included as part of the Pre-digitisation curation task cluster it is generally carried out after the Electronic Data Capture prior to Specimen Image Capture.
+
+Where possible the repair work is carried out prior to the specimen being imaged.
+
+Examples of repair work:
+
+* Replacing non-brass paperclips or pins - non-brass materials can become rusty and cause damage to the specimen
+* 
 
 **Electronic Data Capture**
 
