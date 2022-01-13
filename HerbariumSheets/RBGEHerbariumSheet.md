@@ -28,6 +28,12 @@ Genus and Species covers
 
 ![Pre-Digitisation Curation: Genus and Species covers workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Genus%20and%20Species%20covers.PNG?raw=true)
 
+A key part of the pre-digitisation curation is to ensure that key information for the finding of specimens is present and correct on both the genus and species covers.  The collections are organised systematically firstly by family number. Within families the specimens are ordered by genus number. Genera are then organised by geographic regions that the specimens were collected. Within each genus cover the specimens are in species covers, with the species epithet on the bottom right hand corner of the cover. 
+
+![Genus cover overview](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20Genus%20cover%20information.PNG?raw=ture)
+
+![Species cover overview](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20species%20cover.PNG?raw=ture)
+
 Taxonomy and Names
 
 ![Pre-Digitisation Curation: Taxonomy and Names workflow](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/RBGE%20BPMN%20Taxonomy%20%26%20Names.PNG?raw=true)
