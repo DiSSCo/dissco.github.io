@@ -33,6 +33,8 @@ The presented diagrams is composed of six steps:
 5. Imaging Archiving
 6. Post-digitization Curation
 
+The detailed description of the workflow is available [here](https://github.com/PORBIOTA/ISA_DMP/blob/main/LISI_DigitizationWorkflow.pdf).
+
 [TODO]
 Add image overview of the Digitisation workflow
 
