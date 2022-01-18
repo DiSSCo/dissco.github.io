@@ -18,7 +18,7 @@ parent: Microscope Slides
 </details>
  
 ## Overview
-This pages outlines the semi-automated mass digitisation workflow used by the Natural History Museum, London, to digitise its microscope slide collection. It provides a short summary of the workflow developed as part of
+This page outlines the semi-automated mass digitisation workflow used by the Natural History Museum, London, to digitise its microscope slide collection. It provides a short summary of the workflow developed as part of
 the [ICEDIG](https://icedig.eu) project, with more detail to be found in the [Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides](https://doi.org/10.5281/zenodo.3364481) paper (Allan *et al.*, 2019).
 
 ![Image shows a barcode being added to a microscope slide](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/SlideFront.png?raw=true)

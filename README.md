@@ -7,3 +7,5 @@ This repository hosts the prototype [Digitisation Community Manual](https://lmfr
 [DiSSCo Prepare](https://www.dissco.eu/dissco-prepare/) as part of Work Package 3 "Capacity Enhancement".
 
 It uses GitHub Pages with the [Just the Docs](https://pmarsceill.github.io/just-the-docs/) Jekyll theme
+
+test
