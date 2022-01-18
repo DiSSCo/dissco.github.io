@@ -51,11 +51,9 @@ Data may also be incomplete, for example the label may not have complete localit
 [Darwin Core](https://dwc.tdwg.org/) is a community-developed biodiversity data standard. It includes a glossary of terms which aim to help the sharing of information about biological diversity. It includes identifiers, labels and definitions. 
 
 These definitions can be helpful to consult when deciding what transcription rules to follow in a project.
-*I don't think the Darwin Core term website is easy for non-technical users to understand - is there a site that I've missed that explains what Darwin Core is + why and how someone should use it?*
 
 **Minimum Information about a Digital Specimen**\
 The Minimum Information about a Digital Specimen (MIDS) standard will specific the minimum information that is required when providing digital access to specimens. It aims to provide clarity to digitisers about the minimum quantity and quality of information that should be published. There are several levels of digitisation, from basic to extended, with each level outlining the set of information elements that are expected to be present in published digital specimen data. This standard is still under development, and more information can be found on the Biodiversity Information Standards (TDWG) [website](https://www.tdwg.org/community/cd/mids/)
-*I haven't included '0' Bare in the MIDS levels because I don't think it really applies to this guide - at the point of doing some transcription you are going beyond this -  trying to keep this as brief as possible*
 
 **Transcription Rules Example**\
 The Natural History Museum, London digitised its botanical type collection as part of the Global Plants Inititative, which was supported by the Andrew W. Mellon Foundation. 
