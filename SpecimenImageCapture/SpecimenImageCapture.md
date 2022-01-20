@@ -4,7 +4,7 @@ has_children: true
 nav_order: 9
 ---
 
-#Introduction\
+# Introduction\
 In our modern visual world photographic images are all around us, and we have all personally produced hundreds if not thousands of pictures. Since the first photograph in 1827 cameras have become smaller and more portable and most of us carry one around in our pockets every day. 
 
 image = ![](.png)
