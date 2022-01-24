@@ -33,7 +33,7 @@ In this module, we have several sections that will take you through various aspe
 ## Types of cameras
 There are many types of cameras available. With the pace of technology, it can be very hard to keep pace with developments and what is right for you to use for your digitisation project. The most used type of camera used in digitisation workflows are SLR cameras, (Single Lens Reflex), modern versions of which are sometimes referred to as DSLR (Digital Single Lens Reflex). SLR cameras have been around for nearly 90 years and widely used by professional photographers for the [last 60](https://en.wikipedia.org/wiki/Nikon_F), with many of the defining images of the latter half of the last century being taken on 35mm film using an SLR. Some examples, showing the evolution of such cameras are shown below:
 
-image = ![SLr evolution](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/evolution_of_slrs.png)
+![SLr evolution](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/evolution_of_slrs.png?raw=true)
 
 **Advantages of SLRs include:**\
 * Full control of all settings during taking of the photograph (we will discuss why this is important later)
