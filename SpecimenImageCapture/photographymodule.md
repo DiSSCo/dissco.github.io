@@ -11,7 +11,7 @@ parent: Specimen Image Capture
 Table of contents
 {: .text-delta } - TOC {:toc}
 
-##Introduction
+## Introduction
 The purpose of digitisation projects is to create a digital record of a specimen for data sharing, analysis, and cataloguing. A major part of digitisation is the creation of a visual image for each specimen. This image can then be stored and made available via an online portal which allows others, both within and outside our collections to access specimens without the need for direct contact with them. The digital image of the specimens also helps preserve it for prosperity and future generations in case the specimen is damaged.
 
 Taking a photo is the simplest way to create a visual digital record of a specimen. Ultimately any photo, taken with any camera or setup, could count towards digitisation efforts:
@@ -30,24 +30,25 @@ Photography as means for specimen digitisation is most efficiently applied to sm
 
 In this module, we have several sections that will take you through various aspects of digital photography. This is not an exhaustive review, but should help those of you who are new to photography with your digitisation projects. If you’re interested, additional links are provided at the end of this page.
 
-##Types of cameras
+## Types of cameras
 There are many types of cameras available. With the pace of technology, it can be very hard to keep pace with developments and what is right for you to use for your digitisation project. The most used type of camera used in digitisation workflows are SLR cameras, (Single Lens Reflex), modern versions of which are sometimes referred to as DSLR (Digital Single Lens Reflex). SLR cameras have been around for nearly 90 years and widely used by professional photographers for the [last 60](https://en.wikipedia.org/wiki/Nikon_F), with many of the defining images of the latter half of the last century being taken on 35mm film using an SLR. Some examples, showing the evolution of such cameras are shown below:
 
 image = ![SLr evolution](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/evolution_of_slrs.png)
 
 **Advantages of SLRs include:**\
-  Full control of all settings during taking of the photograph (we will discuss why this is important later)
-  Convenient size for professional use - not too large or too small
-  Interchangeable lenses for different situations (close-up, wide-angle etc)
-  Can be connected to other accessories - e.g. studio flash units
-  Optics are good enough to allow reasonably high resolution of detail
+* Full control of all settings during taking of the photograph (we will discuss why this is important later)
+* Convenient size for professional use - not too large or too small
+* Interchangeable lenses for different situations (close-up, wide-angle etc)
+* Can be connected to other accessories - e.g. studio flash units
+* Optics are good enough to allow reasonably high resolution of detail
 
 During the decade from 2000-2010 digital image sensors began to become available which had potential to replace traditional silver based film emulsions in regular cameras. Initially these were expensive, somewhat clunky factory modifications of existing film based cameras, and they came with numerous limitations, but very soon these problems were resolved, and prices began to drop to affordable levels which further hastened adoption levels. Today, digital has replaced film in all but a few very limited, niche applications.
 
 Digital SLRs retain all of the features listed above, but by eliminating the use of film being in several extra attributes, such as:
-  Live video feed from the sensor, which makes complex focusing and exposure scenarios much easier
-  Results automatically available in a form that can be stored electronically and shared via the internet
-  Very low cost per photograph if the camera is used intensively (you might expect a lifetime from a quality camera body to be around100,000 frames or more)
+* Live video feed from the sensor, which makes complex focusing and exposure scenarios much easier
+* Instant preview of results via the LCD screen (now higher resolution than some TVs)
+* Results automatically available in a form that can be stored electronically and shared via the internet
+* Very low cost per photograph if the camera is used intensively (you might expect a lifetime from a quality camera body to be around100,000 frames or more)
 
 Arguably it is the last two points on this list which have been transformative in allowing off-the-shelf DSLR’s to be used in museum mass digitisation projects. It would be impossible to do the kind of things we are discussing here if using a film SLR.
 
@@ -68,7 +69,7 @@ image = ![conservative camera design](https://github.com/lmfrench/lmfrench.githu
 
 Finally, remember that the best camera body in the world will not produce decent results if the attached lens is not up to the same standards, so you should budget for the lenses you will need in your calculations. Some cameras will be sold bundled with inexpensive “kit” lenses which are suitable for general photography, but you may also want to look at professional specialist lenses as well. In some cases, second-hand cameras or lenses could provide a more cost effective way to acquire the necessary equipment.
 
-##Camera basics
+## Camera basics
 Once you have decided on which camera you are going to use and have received it, ensure you are familiar with how it works. Each make of camera will be different, but make sure you take the time to get to know yours before using it for acquiring specimen photos.Here is a checklist of things to do before taking images of specimens:
 
 1) Set the date and time. Make sure these are correct – affects file naming (see below).
@@ -85,19 +86,19 @@ e - Focus\
 
 Details on how to do each of these steps should be found in the manual included with your camera. If you have lost your manual they can be often found online. Partiualry useful is youtube which contains several videos of how to use some of the main camera brands  Check [https://www.butkus.org/chinon/](https://www.butkus.org/chinon/) which has a wide range of downloadable camera manuals.
 
-##Depth of field
+## Depth of field
 A consideration when photographing 3D specimens is depth of field - the distance between the lens and parts of an object that are in focus. Depth of field is determined by the camera’s aperture setting (see glossary), lens focal length, and the distance to the subject.
 
 The effect of depth of field. Both pictures are taken of the same specimen using the same camera but using different apertures (left, f3.2; right, f32). The smaller aperture creates better contrast and clarity in the image but also required seven times as much light. Image from Callomon 2021.
 
 **Increase depth of field**
- - Narrow your aperture (larger f-number)
- - Move farther from the subject (less in frame)
- - Shorten focal length (zoom, or change prime)
+* Narrow your aperture (larger f-number)
+* Move farther from the subject (less in frame)
+* Shorten focal length (zoom, or change prime)
 **Decrease depth of field**
- - Widen your aperture (smaller f-number)
- - Move closer to the subject (more in frame)
- - Lengthen your focal length
+* Widen your aperture (smaller f-number)
+* Move closer to the subject (more in frame)
+* Lengthen your focal length
 
 It is tempting to think that all that needs to be done is to “stop down” the lens to its narrowest aperture (often f/32) but beyond a certain point whilst you will gain depth of field, the overall resolution of the image will be limited by diffraction. Lenses are usually sharpest closed down around three stops from the maximum aperture. f/16 is often given as an ideal aperture for scientific work.
 
@@ -105,17 +106,15 @@ While the aperture can be altered to optimise the depth of view, some specimens 
 
 For example, the photos below are shot with the same depth of field but focused over different distances. In the left photo the fly’s head is in focus, but not its abdomen. The right photo the abdomen is in focus, but not its head. Taken by [Muhammad Mahdi Karim](https://commons.wikimedia.org/wiki/User:Muhammad_Mahdi_Karim)
 
-image = ![fly_depths](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/fly_limited_depth_of_field.png)
+![fly_depths](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/fly_limited_depth_of_field.png)
 
 In some cases, such as this, the issue of depth of view on 3D-objects can be resolved by image stacking:
 
-
-image = ![stacked_fly_photo](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/stacked_fly.png)
+![stacked_fly_photo](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/stacked_fly.png)
 
 Depth of field is a highly complex factor to control. If you are interested check out this very [thorough account of depth of field](https://www.largeformatphotography.info/articles/DoFinDepth.pdf)
 
-\
-##Resolution
+## Resolution
 The quality and clarity of an image is determined by its resolution. Digital images are displayed on screens using pixels, and the image displayed is created by controlling the colour/brightness of each pixel. The more pixels making up a screen, the more fine detail the image can depict. Below we have a series of images of different resolutions each attempting to show the same letter R.
 
 ![R resolution exmaple](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/Resolution_illustration.png)
@@ -137,19 +136,19 @@ The resolution is typically expressed in megapixels, i.e. the number of million 
 
 Although more pixels means better quality images, more pixels also results in larger images, which take up more storage space and are slower to transfer. Also, an increase in image quality may not be observable for some users if their display screen is not also of a high resolution or if the image is not zoomed in enough. When deciding on an image size in megapixels it is important to consider these other factors rather than chasing ever higher numbers of pixels.
 
-##File types
+## File types
 Digital images are produced and stored in many different ways which gives rise to a number of different file formats which can be confusing.
 The standard output from a digital camera for digitisation is the RAW format. A RAW image is the purest version of what the camera sees, and RAW images have not been altered, compressed, or encrypted in any manner. For specimen digitisation, it is **strongly advised** to shoot and acquire all initial photos from the camera in the RAW format. Doing so means that even if alterations occur to shared copies the original photo still exists and can be used for analysis.
 
 RAW files are typically very large and are not therefore typically used for file sharing through online portals. To address this, photos are often processed and converted into another picture format such as a .tiff or. jpg (see below). This is often done during post-image processing steps such as cropping or colour/white balance correction. Post-image processing also allows idiosyncrasies between cameras RAW output to be accounted for making photos taken on different setups easier to compare. The conversion of images to other file formats results in file compression, of which there are two forms:
 
-**Lossless compression** – algorithm that preserves a perfect copy of an original image while reducing file size (e.g., TIFF)
-**Lossy compression** – algorithm that doesn’t preserve a perfect copy of original image while reducing file size (e.g., JPEG)
+**Lossless compression** – algorithm that preserves a perfect copy of an original image while reducing file size (e.g. TIFF)
+**Lossy compression** – algorithm that doesn’t preserve a perfect copy of original image while reducing file size (e.g. JPEG)
 For long-term archival storage of images it is recommended to use a lossless compression format such as TIFF.
 
 Whatever file format is used for uploading data for digital access, it's important to shoot and save photos in a RAW format before processing photos for analysis and accessibility.
 
-**Abbreviations of photo file versions**
+### Abbreviations of photo file versions
 Unfortunately, abbreviations are quite common in computational topics such as files name extensions. It’s not greatly important how each file type is different other than knowing which type you want to store or publish data as. File types can typically be converted from one to the other and can be generated from the original RAW file if needed.
 
 Photo extension names either refer to the way in which a file type stores data (e.g. .tiff) or the group who created it (e.g. .jpg).
@@ -157,8 +156,7 @@ Photo extension names either refer to the way in which a file type stores data (
 ![Table_of_file-types_and_compression](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/comnpression_table.png)
 \
 \
-
-##Light
+## Light
 In specimen photography it is essential to have a consistent source and level of light. Each image should be taken under the same lighting conditions. This allows comparisons to be made between images as all light is standardised.
 
 There are broadly three attributes that need to be considered when you are specifying lighting. These are:
@@ -186,9 +184,9 @@ A good way to check if you have mixed lighting is to take two photos, camera set
 This is a complex and sometimes contentious issue, as there are so many issues to consider - but as long as your light meets the criteria outlined at the start of this section, there are a number of choices you could make. In recent years there has been significant crossover between the sectors of photography and cinematography, and as a result, many light types can now be considered as “dual-purpose”.
 
 ![table of different lighting sources](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/lighting_table.png)
-\
-\
-##Colour and white balance**
+
+
+## Colour and white balance**
 The previous section raises one of the key issues with digital photography – light affects image colour and is inconsistent. Light affects the colour, as does the camera, and the screen on which an image is viewed. This is a serious problem for digitisation efforts as we wish to capture specimens in the most accurate way possible and in a way that is comparable between specimens, cameras, set ups, and other collections.
 
 The solution to this is to use colour standards or a white balance chart to calibrate images. These are composed of spots of colour or white/grey scale shade that have specific reflective ranges. Colour/brightness is observed when different wavelengths of light are reflected by an image. Standards which reflect certain wavelengths and quantities can be used to correctly colour images by comparison. Digitally displayed colours can be described using several predefined systems such as a colours RAL (link of description) or a hex number which is unique to a specific colour and shade. The colour and whiteness of an image can be corrected on the computer when these values are known for included standards.
@@ -197,19 +195,17 @@ Standards can simply be a white/grey scale used to control the brightness or ref
 
 image ![shade and colour pallates](.png)
 
-
 Palettes and standards can be bought [online](https://www.xrite.com/) and are s standard feature in photography. Prices generally range between £50 and £100 which can seem a bit steep for what seems like a bit of card, but they are important to produce quality and comparable digital images of specimens.
 
-##Photography set ups
+## Photography set ups
 From the above sections you can see that there is a lot to consider when setting up specimen photography. A useful way to standardise and control your digitisation imaging is to have a dedicated set up and camera rig connected to a computer, for example:
 
 image ![photo of single camera set up  - insects or slides](.png)
 Image ![photo of a herbarium set up](.png)
 
 A set up like this allows you to standardise the light in each image, avoid external or fluctuating light sources, have a consistent defined image size, a stable shot, and even a scale when the camera is a defined distance from the object. All these aspects make the images captured more consistent between days and setups and improve the quality of analysis that can be performed upon digitised images.
-\
 
-##What to include in the photo?##
+### What to include in the photo?
 When setting up your imaging setup you also need to consider what you would like to include in the photo. Here is a list of what you should be capturing in each image:
 1) **The specimen.** Including the whole specimen (or as much as possible) in the image. Images should aim to be centred on the specimen and not have it cramped up to any of the sides.
 2) **Specimen labels.** Labels contain all the additional metadata on the specimen and are vital to include. Often the label information is even more important than physical details of the specimen itself. Make sure they are readable.
@@ -218,8 +214,7 @@ When setting up your imaging setup you also need to consider what you would like
 5) **Barcodes.** If barcodes have been added to specimens make sure these are readable. These can be read by the computer, provide additional information, and help contrast digital databases.
 6) **Background.** Make sure the background of the image is plain (white or grey) with no additional patterns. For specimens such as herbarium sheets the background will be the sheet itself which may have markings which is unavoidable.
 
-\
-##Taking photos with the computer
+## Taking photos with the computer
 In most digitisation workflows images are captured using a tethering program on a computer. The camera and computer are linked using a cable. Most major camera brands have tethering programs that automatically launch when the camera is connected. An example of one is shown here:
 
 ![annotated tethring diagram](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/tethering_settings.png)
@@ -232,7 +227,7 @@ Finally, the ‘live view’ available on most tethering programs is useful for 
 
 In this view, we can look through the camera from the comfort of the computer screen which enables us to test the settings and framing of the image we are going to take.
 
-##Computer programs for automation\
+## Computer programs for automation\
 Images captured by the camera via the tethering program are automatically placed into a folder on your computer. It’s recommended to have a new folder for photos taken on a specific day to avoid confusion (name folders with the date). You can also keep track of the photos by ensuring that the number of photos in the folder is what you expect from the number of specimens that have been processed.
 
 However, taking the image is only the first step in the digitisation process. We’ll cover more in our module on data mobilisation but here we’ll cover a few steps and processes to help prepare your images for sharing.
@@ -262,7 +257,7 @@ This process can be automated if images are in a series and the image size and t
 **Automated text reading**
 A major area of interest for digitisation is the potential for automatic transcription and the reading of specimen labels by artificial intelligence software. A lot of time is spent transcribing label information from images to produce detailed electronic records of each specimen. Computer programs have been developed to read text and translate this into electronic records, however this currently works much better with printed labels rather than handwritten ones. The technology is not currently good enough to be used on mass with digitisation efforts but improvements continue to be made and this may be a valuable and time-saving feature in the future. An example of such developments is described [here](https://riojournal.com/article/58030/)
 
-##Glossary of technical photography terms and their relationships
+## Glossary of technical photography terms and their relationships
 Photography comes with a lot of jargon terms and abbreviations. To help make sense of these, we have tried to explain a few of the more common photography terms below. These should help in understanding the advice of specimen workflows and other photography materials.
 
 **The exposure triangle**
@@ -300,14 +295,13 @@ Again, below we show a series of images taken with different aperture sizes.
 
 Clockwise from top left the aperture sizes are: f/3.2, f/7.1, f/14, and f/25. The larger the aperture, the more light enters the camera and the brighter the image is.
 
-**Exposure summary**\
+### Exposure summary
 The ISO, aperture, and shutter speed all affect the exposure (i.e. the amount of light) in different ways and need to be optimised and balanced to create a decent specimen image. The images below all have different settings, but the resultant image is almost the same in each one as the different settings are balanced.
 
 ![similar photos with different settings](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/comp_diff_settings_same_result.png)
 
 The different camera settings can be confusing to get your head around. The following figure should help with this and summarises the effect of each factor. However, following the specifications in established workflows will hopefully prevent you from taking under or over exposed photos. For a different approach to explaining exposure check out his video (https://www.youtube.com/watch?v=YAt4315-uH4).
 
-\
 ## Concluding, references and other sources
 This module aimed to give a better understanding of the factors involved in specimen photography and should help you with your own digitisation efforts. This page is not and definitive source of information, but should give you a good starting point to build your understanding. Different specimen types and situation may require alternative approaches to those we've covered here.
 Below is a list of resources where you can find additional information. Many were used in the creation of this page.
@@ -319,9 +313,11 @@ Below is a list of resources where you can find additional information. Many wer
 **UPDIG** – universal photographic digital imaging guidelines. A collection of resources on digital photography – quick guides cover the important points of using digital photography. [Site](http://www.updig.org/resources.html)
 **Wikipedia** – a huge source of photography subjects. Check out this category page to get more information on many of the topics discussed [here](https://en.wikipedia.org/wiki/Category:Photography).
 
-##Examples of photography workflows
+## Examples of photography workflows
 Pinned insects – (link page when it exists)
 Herbarium sheets - (link page when it exists)
 
 
-This page was written by Michael Jardine (Natural History Museum London (NHM)) and Simon Harris (British Geological Survey). Additional input was provided by:  Lawrence Livermore, Peter Wing, Ella Howes, Lisa French, and Helen Hardy (all NHM).
+
+
+This page was written by Michael Jardine (Natural History Museum London (NHM)) and Simon Harris (British Geological Survey). Additional input was provided by: Lawrence Livermore, Peter Wing, Ella Howes, Lisa French, and Helen Hardy (all NHM).
