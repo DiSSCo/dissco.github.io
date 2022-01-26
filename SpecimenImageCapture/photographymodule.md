@@ -325,3 +325,4 @@ Herbarium sheets - (link page when it exists)
 \
 \
 This page was written by Michael Jardine (Natural History Museum London (NHM)) and Simon Harris (British Geological Survey). Additional input was provided by: Lawrence Livermore, Peter Wing, Ella Howes, Lisa French, and Helen Hardy (all NHM).
+All images and text, apart from were it is specifically stated optherwise, are the property of the authors, DiSSCo UK, and the Natural History Museum London, and are availible through a [creative commons liscence](http://creativecommons.org/licenses/by/4.0/) 
