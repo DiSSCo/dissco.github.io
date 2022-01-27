@@ -5,19 +5,19 @@ nav_order: 9
 ---
 
 # Introduction
-In our modern visual world photographic images are all around us, and we have all personally produced hundreds if not thousands of pictures. Since the first photograph in 1827 cameras have become smaller and more portable and most of us carry one around in our pockets every day. 
+We have all personally created thousands of digital images in our lifetimes and are comforatbly familar using cameras to take photos of everytday life.
 
-image = ![](.png)
+In digitisation the best way to supplement a digital record of a specimen is to have an accompanying image which captures the specimen. The imaging of specimens is typically performed using either a camera or a flat-bed scanner, although 3D scanning of specimens has also [applied]() despite the added time and financial costs.
 
-Photography is by far the simplest and widely used method to capture digital information about museum specimens. In fact some of the first photographs taken by camera pioneer William Fox Talbot were of botanical specimens.
+![different digital images of specimens](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/different_image_types.png)
 
-Image = ![](.png)
+**Photography** is by far the simplest and widely used method to capture digital information about museum specimens. In fact some of the first photographs taken by camera pioneer William Fox Talbot in the were of botanical specimens which look very simailar to those we take today.
 
-These photographs taken in the 1804s to 1860s are possibly the earliest digitalisation specimen images, and are not that different from some of those we take today.
+![fox_talbot_example_umbelifer](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/umbelifer_fox_talbot.jpg)
 
-Specimen photography (or macro-photography) is a widely used approach to digitisation, and typically involves taking either a single or multiple images of a specimen using a camera. The cameras involved should be reasonably familiar to most users and often don’t differ much (is at all) from those that can be bought off the shelf.  
+Specimen photography (or macro-photography) is the most widely used and easiest approach to digitisation imaging, and typically involves taking either a single or multiple images of a specimen using a camera. The cameras involved should be reasonably familiar to most users and don’t differ much from those that can be bought off the shelf.  
 
-We have put together an introductory module for specimen photography that aims to make clear the objectives, technical information, and jargon associated with photography. This should be a guide to making sense of specimen photography for our own digitalisation efforts and allow you to understand the advice given in the specimen workflows. (link to main module here)?
+We have put together an [introductory module for specimen photography](https://lmfrench.github.io/SpecimenImageCapture/photographymodule.html) that aims clearify the objectives, technical information, and jargon associated with specimen photography. This should be a guide to making sense of specimen photography for your own digitalisation efforts and allow you to understand the advice given in the specimen workflows.
 
-We have additionally put together these pages - 1) a kit list of generally recommended imaging equipment with pricing; 2) a gallery of images of good specimen photographs. 
+We will additionally put together these pages - 1) a kit list of generally recommended imaging equipment with pricing; 2) a gallery of images of good specimen photographs. 
 
