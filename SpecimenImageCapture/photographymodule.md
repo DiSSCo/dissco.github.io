@@ -22,7 +22,7 @@ While the above photos are digital representations of specimens, they do not pro
 
 In digitisation we want to produce an image of high quality and standardisation which captures as much detail about the specimen as possible. This includes colour, morphology, date of collection, species, and additional label information. The more aspects of a specimen that can be, the more information can be extracted about the specimen without the need to handle the specimen itself. Including label data in the image allows more of the information connected to a specimen to be kept together and this simplifies later analysis.
 
-![images exmaples](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/inset_and_plant.png?raw=true)
+![images exmaples](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/insect_and_plant.png.png?raw=true)
 
 The aim of this module is to provide a general background to the use of photography for digitising museum specimens. We give an overview of many aspects of photography, from camera set up to automated photo editing. This module also introduces and explains many of the jargon terms in the photographic workflows detailed elsewhere on this site. The aim is for users to be familiar with technical terms used in workflows and understand why certain settings/specifications are recommended. The core message is that you do not need to be a photography expert to produce good digitisation images of your specimens, but a grasp of basic ideas will aid in workflow implementation, help you to understand the photography process and help resolve issues that may arise.
 
@@ -76,7 +76,7 @@ Once you have decided on which camera you are going to use and have received it,
 
 1) **Set the date and time.** Make sure these are correct – affects file naming (see below).\
 2) If available, set up **sensor cleaning.**\
-3) Work out how to access the manual **controls** of the camera - this will probably involve taking it out of “P” or “Programme” mode and selecting “M” for “Manual”. You will want to be able to alter:
+3) Work out how to access the manual **controls** of the camera - this will probably involve taking it out of “P” or “Programme” mode and selecting “M” for “Manual”. You will want to be able to alter:\
 a - ISO sensitivity\
 b - White balance\
 c - Shutter speed\
@@ -92,8 +92,10 @@ Details on how to do each of these steps should be found in the manual included 
 A consideration when photographing 3D specimens is depth of field - the distance between the lens and parts of an object that are in focus. Depth of field is determined by the camera’s aperture setting (see glossary), lens focal length, and the distance to the subject.
 
 ![Callomon depth of field exmaple](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/depth_of_field_example.PNG?raw=true)
+Figure : The effect of depth of field on a specimen - image from [Callomon 2021](https://www.researchgate.net/publication/350530306_A_basic_guide_to_specimen_photography_in_museum_collections). 
 
-The effect of depth of field. Both pictures are taken of the same specimen using the same camera but using different apertures (left, f3.2; right, f32). The smaller aperture creates better contrast and clarity in the image but also required seven times as much light. Image from [Callomon 2021](https://www.researchgate.net/publication/350530306_A_basic_guide_to_specimen_photography_in_museum_collections).
+Both pictures are taken of the same specimen using the same camera but using different apertures (left, f3.2; right, f32). The smaller aperture creates better contrast and clarity in the image but also required seven times as much light. 
+
 
 **Increase depth of field**
 * Narrow your aperture (larger f-number)
