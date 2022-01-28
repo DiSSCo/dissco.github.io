@@ -190,7 +190,7 @@ Colour temperature controls how warm or cold the light feels. Contrast the cold 
 The colour temperature can affect the appearance of the specimen image. Imaging set ups should use a neutral Kelvin level that maintains accurate colouration as much as possible while also being well lit and bright.  Something in the region of 4000 to 5500 is ideal. Kelvin can be measured using either a spectrometer (often very expensive), or alternatively this is usually stated on lightbulbs. It is also possible to get a measure of Kelvin from the camera itself.
 
 ![representation of light colour scale](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/kelvin_scale.png?raw=true)
-Figure 12: Illustration of the Kelvin scale. 
+Figure 12: Illustration of the Kelvin scale. Lower Kelvin values produce warmer/yellower light, whereas higher Kelvin values produce colder/bluer light. Image adpated from [LEDlightingwholesaleinc.com](https://www.ledlightingwholesaleinc.com/Understanding-Lumens-vs-Kelvin-s/399.htm).
 
 Sources of ambient light - lighting in the studio, coming in through the windows - will cause a condition known as “mixed lighting” and will change the colour correctness of the image. Unless you are using strobes/flash, all of that will matter. Camera rigs and light boxes that can help remove sources of ambient light are an excellent way to get consistent light levels in images.
 
@@ -212,7 +212,7 @@ The solution to this is to use colour standards or a white balance chart to cali
 Standards can simply be a white/grey scale used to control the brightness or reflectance of an image while other are larger palettes with a range of colours. These are more useful when colour is an aim of the specimen’s image capture:
 
 [shade and colour pallates](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/standards_examples.png?raw=true)
-Figure : Examples fo colour palletes used in specimen photography. The left-hand image is a close up of the palette used in [herbarium sheet photogrrphy at the NHM](link when ready) and used several colours and shades. The right-hand image shows an exmaple from [Cooney et al. 2019](https://www.nature.com/articles/s41467-020-16257-x) where only grey-scale standards are used.
+Figure 13: Examples fo colour palletes used in specimen photography. The left-hand image is a close up of the palette used in [herbarium sheet photogrrphy at the NHM](link when ready) and used several colours and shades. The right-hand image shows an exmaple from [Cooney et al. 2019](https://www.nature.com/articles/s41467-020-16257-x) where only grey-scale standards are used.
 
 Palettes and standards can be bought [online](https://www.xrite.com/) and are a standard feature in photography. Prices generally range between £50 and £100 which may seem a bit steep for what seems like a bit of card, but they are important to produce quality and comparable digital images of specimens.
 
@@ -220,7 +220,7 @@ Palettes and standards can be bought [online](https://www.xrite.com/) and are a 
 From the above sections you can see that there is a lot to consider when setting up specimen photography. A useful way to standardise and control your digitisation imaging is to have a dedicated set up and camera rig connected to a computer, for example:
 
 ![image of two setups](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/set_ups.png?raw=true)
-Figure : two imaging set ups for imagign different specimen types, on the left slide imaging, and on the herbarium sheets. The setups themselves are quite similar, with a copy stand fixing a single camera above a light box, into which the speimen is placed. 
+Figure 14: two imaging set ups for imagign different specimen types, on the left slide imaging, and on the herbarium sheets. The setups themselves are quite similar, with a copy stand fixing a single camera above a light box, into which the speimen is placed. 
 
 Set ups like these allows you to standardise the light in each image, avoid external or fluctuating light sources, have a consistent defined image size, a stable shot, and even a scale when the camera is a defined distance from the object. All these aspects make the images captured more consistent between days and setups and improve the quality of analysis that can be performed upon digitised images.
 
@@ -237,14 +237,16 @@ When setting up your imaging setup you also need to consider what you would like
 In most digitisation workflows images are captured using a tethering program on a computer. The camera and computer are linked using a cable. Most major camera brands have tethering programs that automatically launch when the camera is connected. An example of one is shown here:
 
 ![annotated tethering diagram](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/tethering_settings.png?raw=true)
+Figure 15: A close up of a tethering program window (for Canon EOS models). The three main controls, ISO, shutter-speed, and arperture are highlighted (Details of these later in the module). 
 
 The advantage of such programs is that the camera can be left untouched during the image capture process. Manual touching of the camera could inadvertently move the position of the camera or a change in settings. Photo settings can also be set on the computer which can often be clearer and more obvious to do than on the camera itself.
 
 Finally, the ‘live view’ available on most tethering programs is useful for showing what the camera sees without looking through the lens. This is particularly useful when the camera is fixed in an awkward position, as is typical with photography rigs.
 
-![live camera view exmaple](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/live_screen.png?raw=true)
+![live camera view exmaple](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/brighter_live screen_capture_slide.png?raw=true)
+Figure 16: Example of the live camera view window. Here a slide of *Thrips tabaci* is shown. The image appears unsidedown due to the oruienattion fo the camera - this can be fixed later.
 
-In this view, we can look through the camera from the comfort of the computer screen which enables us to test the settings and framing of the image we are going to take.
+With the live view, we can look through the camera from the comfort of the computer screen which enables us to test the settings and framing of the image we are going to take.
 
 ## Computer programs for automation
 Images captured by the camera via the tethering program are automatically placed into a folder on your computer. It’s recommended to have a new folder for photos taken on a specific day to avoid confusion (name folders with the date). You can also keep track of the photos by ensuring that the number of photos in the folder is what you expect from the number of specimens that have been processed.
@@ -254,22 +256,26 @@ However, taking the image is only the first step in the digitisation process. We
 ### Barcode reading
 Barcoding is a standard step in digitisation. Barcodes are used to assign unique identifiers to specimens, as well as to indicate their physical location within collections and additional information such as the specimen collector, place or origin or type status.
 
-![annotated barcode image](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/annotated_barcode_image.png?raw=true)
+Programs such as [**BardecodeFiler**](https://www.bardecode.com/en1/app/bardecodefiler/) can read barcodes from images. It can use these to read which species the image depicts and create a digital record for that image. For example, the image of slide below:
 
-Programs such as [**BardecodeFiler**](https://www.bardecode.com/en1/app/bardecodefiler/) can read barcodes (2D or 3D) from images. It can use these to read which species the image depicts and create a digital record for that image. For example, the image of slide below:
+![annotated barcode image](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/annotated_barcode_image.png?raw=true)
+Figure 17: Slide specimen of the thrip *Quadraceps hopkinsi* showing all associated barcodes. Each barcode tells us somethings different about the specimen and allows a digital record to be created. 
+
+By using ‘hot folders’ the process of barcode reading can be automated as each photo is passed to BarcodeFiler as soon as the photo appears in the folder. Barcodefiler is also able to split barcodes when several specimens appear in the same image, for example:
 
 ![herbarium sheet with many barcodes](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/many_barcode_herbarium_example.png)
-
-Each barcode tells us something different. By using ‘hot folders’ the process of barcode reading can be automated as each photo is passed to BarcodeFiler as soon as the photo appears in the folder. Barcodefiler is also able to split barcodes when several specimens appear in the same image, for example:
+Figure 18: A single herbaium sheet with multiple specimens of *Cardamine pratensis*. To image each of these speimens independantly would be difficult and time consuimg. A barcode is attached to each specimen meanign that a single image can apply to several specimens. 
 
 ### Auto-cropping
 Specimen photographs often contain extra information that we don’t want to publish like drawer numbers, storage location, bar codes etc. For example consider this picture:
 
 ![pre cropped slide](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/pre-cropped_slide.png?raw=true)
+Figure 19: A slide specimen of the thrip *Quadraceps hopkinsi* as initially imaged byt he camera.
 
 The information at the top of this picture is unnecessary or even a security risk as it the barcodes on the right include where the specimen is stored within the museum. Such sensitive information can be removed by cropping.
 
 ![slide post cropping](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/cropped_slide.png?raw=true)
+Figure 20: The same image shown in Figure 19, but passed through automated software to cropout barcodes. This image can be used for publication. 
 
 This process can be automated if images are in a series and the image size and the location of cropped information is standardised. The above example was performed using [**XnConvert**](https://www.xnview.com/en/xnconvert/) and can automatically cut a specified number of pixels from each photo that is taken.
 
@@ -285,8 +291,9 @@ The main three terms used in photography are **ISO**, **aperture**, and **shutte
 To illustrate the different components of photo exposure we will make comparison to this well exposed photo:
 
 ![base settings image for comparison](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/base_settings_F_10_ISO400.JPG?raw=true)
+Figure 21: Image shows a single specimen of *Colias hyale* (the pale clouded yellow). The exposure settings used were: shutter speed = 1/80; ISO = 400, and aperture f/10. 
 
-This image shows a single specimen of *Colias hyale* (the pale clouded yellow) The exposure settings used were: shutter speed = 1/80; ISO = 400, and aperture f/10. We will now explore how each of these three factors affects the images produced.
+We will now explore how each of these three factors affects the images produced.
 
 **ISO** – standing for ‘International Organization for Standardization’, ISO values typically range between 200 and 2000 and is a measure of the camera’s sensitivity to light. The higher the ISO the brighter a photo will be. Specimen imaging workflows use a range of ISO depending on the specimen and available lighting. For example, our herbarium sheet workflow uses a lower ISO value of 200 since additional light sources mean too high an ISO would produce an overexposed image. ISO stands for International Organization for Standardization.
 Unless you have a good reason not to, you should keep the ISO as low as possible. Increasing the ISO not only amplifies the image data (the signal) but also unwanted random data off the sensor (the noise). It is preferable to keep the signal-to-noise-ratio as low as possible.
@@ -294,8 +301,9 @@ Unless you have a good reason not to, you should keep the ISO as low as possible
 Altering the ISO in our example photo from before, we can see the effect different ISO values have on the image.
 
 ![photos of different ISOs](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/comp_ISO.png?raw=true)
+Figure 22: Same specimen as Figure 21, but with different ISO values applied. Starting with the top image and then left to right, the ISO in each image is: 100, 1000, 3200.
 
-In each of these images the shutter speed and aperture are unchanged from the original photo (1/80, f/10), but with different ISO values. Starting with the top image and then left to right, the ISO in each image is: 100, 1000, 3200. You’ll see that the higher the ISO the brighter the image is as the sensor is more sensitive to light that is coming into the camera.
+In each of these images the shutter speed and aperture are unchanged from the original photo (1/80, f/10), but with different ISO values. You’ll see that the higher the ISO the brighter the image is as the sensor is more sensitive to light that is coming into the camera.
 
 **Shutter speed** – how long the shutter of the camera is open, allowing light to enter the camera. The length of time the shutter is open controls the exposure of the shot.
 Shutter speed is measured by the length of time the shutter is open, usually in fractions of a second, e.g. 1/200, 1/100, 1/80 etc.
@@ -303,29 +311,38 @@ Shutter speed is measured by the length of time the shutter is open, usually in 
 Look at these images of our example specimen which were taken with different shutter speeds.
 
 ![photos of different SS](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/comp_SS.png?raw=true)
+Figure 23: Same specimen as Figure 21, but with different shutter speeds used. Clockwise starting from the top left, the shutter speeds used were: 1/6, 1/30, 1/1600, 1/800. 
 
-Clockwise starting from the top left, the shutter speeds used were: 1/6, 1/30, 1/1600, 1/800. Remember that these are expressed in fractions of a second , meaning that an shutter speed of ⅙ mean s that the shutter is open for much longer than a shutter speed of 1/800. The longer the shutter is open, the more light falls on the sensor, creating a brighter image.
+Remember that shutter speeds are expressed in fractions of a second , meaning that an shutter speed of ⅙ mean s that the shutter is open for much longer than a shutter speed of 1/800. The longer the shutter is open, the more light falls on the sensor, creating a brighter image.
 
 **Aperture** – the size of the opening in the lens through which light passes. Controls how much and the area of light that enters. Aperture affects the depth of field of a photo (see below). Aperture is measured as a f-number, written as f/##. A smaller f-number, e.g. f/1.4, indicates a larger aperture, whereas a larger number, e.g. f/16, indicates a smaller aperture.
 
-Again, below we show a series of images taken with different aperture sizes.
+![aperture range](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/arperture_size.jpg?raw=true)
+Figure 24: Range of relative aperture sizes with thier F/# notation. [Wikimedia commons](https://commons.wikimedia.org/wiki/File:Aperture_diagram.svg)
+
+Below we have a series of images taken with different aperture sizes.
 
 ![photos of different aperture](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/comp_arpeture.png?raw=true)
+Figure 25:  Same specimen as Figure 21, but with different apertures used. Clockwise from top left the aperture sizes are: f/3.2, f/7.1, f/14, and f/25. 
 
-Clockwise from top left the aperture sizes are: f/3.2, f/7.1, f/14, and f/25. The larger the aperture, the more light enters the camera and the brighter the image is.
+We can see that the larger the aperture, the more light enters the camera and the brighter the image is.
 
 ### Exposure summary
-The ISO, aperture, and shutter speed all affect the exposure (i.e. the amount of light) in different ways and need to be optimised and balanced to create a decent specimen image. The images below all have different settings, but the resultant image is almost the same in each one as the different settings are balanced.
+The ISO, aperture, and shutter speed all affect the exposure (i.e. the amount of light) in different ways and need to be optimised and balanced to create a decent specimen image. 
 
 ![similar photos with different settings](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/comp_diff_settings_same_result.png?raw=true)
+Figure 26: Three images of the *Colias hyale* specimen taken with different exposure settings. Despite the differe settings applied, the resultant images are almost the same as in each one the different settings are balanced. Top - 1/80 400, f/10; bottom left - 1/10, 100, f/14; bottom right - 1/50, 1600, f/25. 
 
-The different camera settings can be confusing to get your head around. The following figure should help with this and summarises the effect of each factor. However, following the specifications in established workflows will hopefully prevent you from taking under or over exposed photos. For a different approach to explaining exposure check out his video (https://www.youtube.com/watch?v=YAt4315-uH4).
+The different camera settings can be confusing to get your head around. The following figure should help with this and summarises the effect of each factor. However, following the specifications in established workflows will hopefully prevent you from taking under or over exposed photos. 
+
+![exposure triangle diagram](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/exposure_triangle.png?raw=true)
+Figure 27: Representation of the exposure triangle of ISO, shutter speed, and aperture. For a different approach to explaining exposure check out his [video](https://www.youtube.com/watch?v=YAt4315-uH4).
 
 ## Concluding, references and other sources
 This module aimed to give a better understanding of the factors involved in specimen photography and should help you with your own digitisation efforts. This page is not and definitive source of information, but should give you a good starting point to build your understanding. Different specimen types and situation may require alternative approaches to those we've covered here.\
 Below is a list of resources where you can find additional information. Many were used in the creation of this page.\
 **iDigBio** – run by the University of Florida, iDigBio is an online research infrastructure which helps US collections to digitalise and publish their collections. Many of the pages have useful information for photography. Start by looking at this [page](https://www.idigbio.org/wiki/index.php/Digitization_Resources) and the links within.\
-**Callamon 2021** – a detailed and very readable overview of museum specimen photography. [Availible here from reserach gate](https://www.researchgate.net/publication/350530306_A_basic_guide_to_specimen_photography_in_museum_collections)\
+**Callamon 2021** – a detailed and very readable overview of museum specimen photography. [Availible here from research gate](https://www.researchgate.net/publication/350530306_A_basic_guide_to_specimen_photography_in_museum_collections)\
 **UPDIG** – universal photographic digital imaging guidelines. A collection of resources on digital photography – quick guides cover the important points of using digital photography. [Site](http://www.updig.org/resources.html)\
 **Wikipedia** – a huge source of photography subjects. Check out this category page to get more information on many of the topics discussed [here](https://en.wikipedia.org/wiki/Category:Photography).\
 **GitHub** – previous digitisation resources which cover the use of photography are available through github. Two useful ones are:
