@@ -119,7 +119,7 @@ The sheet is placed into the imaging station, with the top of the sheet on the l
 Figure : specimen sheet in position in the imaging station as seen from the cameras eye view.
 
 
-Many herbarium sheets do not lie flat since sheet are usually stacked together and the plant specimens warp the paper. If this is the case  for your specimen, use a small amount of blu tack to fix down any corners that stick up. It doesn't matter if the sheet is completely flat, but a flatter sheet is better than a wavy one.
+Many herbarium sheets do not lie flat since sheet are usually stacked together and the plant specimens warp the paper. If this is the case  for your specimen, use a small (pin head sized) amount of blu tack to fix down any corners that stick up. It doesn't matter if the sheet is completely flat, but a flatter sheet is better than a wavy one.
 
 ![before and after blu tack sheet](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/flattening_sheet.png?raw=true)
 Figure : Use blu to tack to help flatten sheets, before (left) and after (right). In this case, the use of blu tack pins down the top right corner which will improve the readability of the label in this area of the sheet.
@@ -130,7 +130,7 @@ The camera takes several photos which will be heard as several clicking sounds. 
 
 The image will appear in your *windows explorer window*. It will be given a generic image name. We want to change this to a unique file name using the specimen's barcode.
 
-Highlight the image file, and then use the *barcode scanner* to read the barcode on the specimen sheet (usually in the top right corner). This will rename the image file.
+Highlight the image file, and then use the *barcode scanner* to read the barcode on the specimen sheet (usually in the top right corner). This will rename the image file. This does not require additional software other than the driver associated with the scanner. 
 
 ![re-naming the image file name](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/change_file_name.png?raw=true)
 Figure : before (left) and after (right) file renaming using the barcode scanner.
@@ -195,7 +195,7 @@ The precise settings you chose will depend on your setup, but at the NHM we chan
 We then set our 'File Settings'. We choose the options:\
 * Image format = TIFF
 * Compression = None
-* Colour Space = sRGB
+* Colour Space = sRGB - most consisatnt colours between different screens. 
 * Bit Depth = 16 bits/component
 Additionally in 'Image Sizing' we set Resolution to 240 pixels per inch.
 
