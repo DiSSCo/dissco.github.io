@@ -263,13 +263,13 @@ Figure 17: Slide specimen of the thrip *Quadraceps hopkinsi* showing all associa
 
 By using ‘hot folders’ the process of barcode reading can be automated as each photo is passed to BarcodeFiler as soon as the photo appears in the folder. Barcodefiler is also able to split barcodes when several specimens appear in the same image, for example:
 
-<img src="https://github.com/lmfrench/lmfrench.github.io/blob/main/images/many_barcode_herbarium_example.png?raw=true" alt="herbarium sheet with many barcodes" height="500">
+<img src="https://github.com/lmfrench/lmfrench.github.io/blob/main/images/bdherbexample.png" alt="herbarium sheet with many barcodes" height="500">
 Figure 18: A single herbaium sheet with multiple specimens of *Cardamine pratensis*. To image each of these speimens independantly would be difficult and time consuimg. A barcode is attached to each specimen meanign that a single image can apply to several specimens.  
 
 ### Auto-cropping
 Specimen photographs often contain extra information that we don’t want to publish like drawer numbers, storage location, bar codes etc. For example consider this picture:
 
-![pre cropped slide](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/pre-cropped_slide.png?raw=true)
+![pre cropped slide](/images/pre-cropped_slide.png?raw=true)
 Figure 19: A slide specimen of the thrip *Quadraceps hopkinsi* as initially imaged byt he camera.
 
 The information at the top of this picture is unnecessary or even a security risk as it the barcodes on the right include where the specimen is stored within the museum. Such sensitive information can be removed by cropping.
