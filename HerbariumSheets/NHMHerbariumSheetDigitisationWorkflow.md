@@ -89,8 +89,9 @@ Use the 'LV' button in the top left to open the live view.
 First either:
 * Download the auto import settings for Lightroom (link at the end of the page)
 or,
-* Create your own auto settings
+* Create your own auto settings. For help with doing this try [this guide from Adobe](https://helpx.adobe.com/uk/lightroom-cc/how-to/create-your-own-presets.html).
 
+To load and set up your automatic presets:
 First, go to 'File' -> 'Import Devlop Profiles and Presets' and select the preset file. Ours is called 'Lumix-lightbox-1'.
 
 Next, go to 'File' -> 'Auto Import' and tick 'Enable Auto Import'
