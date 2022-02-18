@@ -258,13 +258,13 @@ Barcoding is a standard step in digitisation. Barcodes are used to assign unique
 
 Programs such as [**BardecodeFiler**](https://www.bardecode.com/en1/app/bardecodefiler/) can read barcodes from images. It can use these to read which species the image depicts and create a digital record for that image. For example, the image of slide below:
 
-![annotated barcode image](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/annotated_barcode_image.png?raw=true)
+![annotated barcode image](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/annotated_barcode_image.png?raw=true) 
 Figure 17: Slide specimen of the thrip *Quadraceps hopkinsi* showing all associated barcodes. Each barcode tells us somethings different about the specimen and allows a digital record to be created. 
 
 By using ‘hot folders’ the process of barcode reading can be automated as each photo is passed to BarcodeFiler as soon as the photo appears in the folder. Barcodefiler is also able to split barcodes when several specimens appear in the same image, for example:
 
-<img src="https://github.com/lmfrench/lmfrench.github.io/blob/main/images/many_barcode_herbarium_example.png" alt="herbarium sheet with many barcodes" height="500">
-Figure 18: A single herbaium sheet with multiple specimens of *Cardamine pratensis*. To image each of these speimens independantly would be difficult and time consuimg. A barcode is attached to each specimen meanign that a single image can apply to several specimens. 
+<img src="https://github.com/lmfrench/lmfrench.github.io/blob/main/images/many_barcode_herbarium_example.png?raw=true" alt="herbarium sheet with many barcodes" height="500">
+Figure 18: A single herbaium sheet with multiple specimens of *Cardamine pratensis*. To image each of these speimens independantly would be difficult and time consuimg. A barcode is attached to each specimen meanign that a single image can apply to several specimens.  
 
 ### Auto-cropping
 Specimen photographs often contain extra information that we don’t want to publish like drawer numbers, storage location, bar codes etc. For example consider this picture:
