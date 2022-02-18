@@ -28,21 +28,14 @@ For the imaging and post-processing parts of this workflow, check out this video
 ![herbarium video](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/herbarium_video_1080p)
 
 ## Workflow
-These sections are used to add BPMN workflows. Text can also be included to help someone follow the workflow. Not all subheadings will be required for every workflow.
 
-![overall workflow diagram](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/overall_workflow_diagram.png?raw=true)
+![overall workflow diagram](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/?raw=true)
 
 **Pre-Digitisation Curation**
 
-**Electronic Data Capture**
-
-**Georeferencing Specimen Data**
-
-One study carried out at the NHM covers some the difficulties encountered in the georeferencing of herbarium sheets - [Lohonya et al. 2020.](https://bdj.pensoft.net/article/50503/) which was carried out at the NHM.
-
 **Specimen Image Capture**
 
-For additional help and instruction for this workflow, check out the video at the top of the page which we have produced. This video is broken down into four sections: 1) ; 2) ; 3) ; and 4) which are used to annotate the headings below.
+For additional help and instruction for this workflow, check out the video at the top of the page which we have produced. This video is broken down into four sections: 1) Imaging set up; 2) PC set up and programs; 3) Imaging; and 4) Post imaging processing, which are used to annotate the headings below.
 
 **Section 1 - Imaging set up**
 
@@ -54,18 +47,19 @@ Figure : herbarium sheet digitisation setup. On the left we have the imaging sta
 Inside the imaging station we have some other pieces of equipment.
 
 ![annotated look down on the imaging set up](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/annotated_interior_imaging_setup.png?raw=true)
+
 Figure : this view looks down on the imaging set up from the same point of view as the camera. These items are used for the positioning, scaling, and colour of the specimens.
 
 Details of the kit used in this setup is included in the relevant sections below.
 
 Make sure that the camera is on and connected to the computer via a cable. To link the camera and the computer, once the camera is on select the PC (Tether) option from the USB mode menu.
 
-![choosing PC tether option](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/pc_tether_option.png?raw=true)
+![choosing PC tether option](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/pc_tether_option.jpg?raw=true)
 Figure : Select the PC(Tether) option (highlighted).
 
 **Section 2 - PC set up and programs**
 
-This workflow uses a number of programs to take and process the herbarium sheet images. There are 4 windows open on the screen at anyone time. These are:\
+This workflow uses a number of programs to take and process the herbarium sheet images. There are 4 windows open on the screen at anyone time. These are:
 * Adobe Lightroom Classic.
 * Windows explorer - set to the folder where you import images from the camera.
 * Panasonic Lumix tethering program.
@@ -89,7 +83,7 @@ Set the 'picture quality' option to **RAW**.
 
 Go to settings and set the 'import folder'. This is where images will be imported too.
 
-Use the 'LV' bottom in the top left to open the live view.
+Use the 'LV' button in the top left to open the live view.
 
 **Lightroom** settings.
 First either:
@@ -115,7 +109,7 @@ Once this is completed, we are ready to begin imaging.
 
 The sheet is placed into the imaging station, with the top of the sheet on the left side of the cameras view. The top left corner is fitted to the right-angled frame to keep the sheet in a stable and consistent position.
 
-![sheet fitted in position](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/sheet_image?raw=true)
+![sheet fitted in position](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/sheet_image.png?raw=true)
 Figure : specimen sheet in position in the imaging station as seen from the cameras eye view.
 
 
@@ -161,7 +155,7 @@ This processing is performed in Lightroom. Check that the number of images in Li
 **Rotate images**
 We rotate our images so that the top of the sheet is at the top of the screen.
 
-![sheet on its side arrow sheet in portrait](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/rotate_images?raw=true)
+![sheet on its side arrow sheet in portrait](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/rotate_images.png?raw=true)
 Figure : rotate images to the right.
 
 This is done by highlighting all the images we have in Lightroom, and then right clicking on one of them and choosing the option 'rotate right'. A popup notification will appear also informing you as to the number of  images that have been rotated.
@@ -173,6 +167,7 @@ Cropping is performed by first selecting the 'Develop' tab in the top right. Thi
 On the right, now select the aspect option, and change this from 'Original' to '5x7'.
 
 ![5x7 selecting crop image](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/choose_crop.png?raw=true)
+
 Figure : Partial screen shot of the Lightroom screen with aspect sizing options menu.
 
 To apply this to all images, click the 'Sync...' button in the bottom right. That brings up this screen:
@@ -192,7 +187,7 @@ The precise settings you chose will depend on your setup, but at the NHM we chan
 
 ![export location details](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/export_location_settings.png?raw=true)
 
-We then set our 'File Settings'. We choose the options:\
+We then set our 'File Settings'. We choose the options:
 * Image format = TIFF
 * Compression = None
 * Colour Space = sRGB
@@ -204,43 +199,49 @@ Additionally in 'Image Sizing' we set Resolution to 240 pixels per inch.
 Once this is done, we check over all the options and click export.
 This can take sometime so we often run this overnight.
 
+**Electronic Data Capture**
+
+**Georeferencing Specimen Data**
+
+One study carried out at the NHM covers some the difficulties encountered in the georeferencing of herbarium sheets - [Lohonya et al. 2020.](https://bdj.pensoft.net/article/50503/) which was carried out at the NHM.
+
 **Preserving and Publishing Data**
 
 Once images are exported from Lightroom they are ready for publishing. The images are available in an accessible folder (which is wherever we decided to place them) where they are accessed by our data portal team. The images are linked to their digital record in EMu since they are named through their unique barcode. The whole record is then published on the NHM's data portal.
 
 ## Example Projects
-This section gives more information about how these workflows have been applied in practice. Workflows often need to be adapted for the requirements of a specific project.
 [Lohonya et al. 2020. Georeferencing the Natural History Museum's Chinese type collection: of plateaus, pagodas and plants](https://bdj.pensoft.net/article/50503/) - paper using previous incarnation of this workflow and covering the difficulties in georeferncing samples from non-English speaking countries and how this changes overtime.
 
 
 ## Requirements
 ### Hardware
-Panasonic Lumix S1R mirrorless camera
-Windows PC with attached screen
-Barcode scanner with USB cable
-Colour palate - Calibrite ColorChecker Classic Nano
-Scale bar
-Copy stand composed of:\
+Panasonic Lumix S1R mirrorless camera\
+Windows PC with attached screen\
+Barcode scanner with USB cable\
+Colour palate - Calibrite ColorChecker Classic Nano\
+Scale bar\
+Copy stand composed of:
 * Kaiser base board - 800mm x 600mm
 * Kaiser 1.2m column
-* Kaiser RTP arm
-Light box - 640mm x 830mm x 646mm (h x l x d).\
+* Kaiser RTP arm\
+Light box - 640mm x 830mm x 646mm (h x l x d).
 * 200x200mm square 315mm from either side and 171mm from the front.
-* Recess at the back for the rail. 355mm from either side (120mm wide itself) depth = 105mm (leaving a gap of 170mm between that and the square cutout).
+* Recess at the back for the rail. 355mm from either side (120mm wide itself) depth = 105mm (leaving a gap of 170mm between that and the square cutout).\
 Fluorescent or LED lights or the light box
 
 ### Software
-[Panasonic Lumix tethering program](https://av.jpn.support.panasonic.com/support/global/cs/soft/download/d_lumixtether.html)
+[Panasonic Lumix tethering program](https://av.jpn.support.panasonic.com/support/global/cs/soft/download/d_lumixtether.html)\
 [Adobe Lightroom Classic](https://www.adobe.com/uk/products/photoshop-lightroom.html?mv=search&mv=search&sdid=L7NVTQ8Y&ef_id=Cj0KCQiA9OiPBhCOARIsAI0y71AW_lgf_4WdtUw9Fk-8R4YitdpuYbSct3-TahBhWFKbF4wFqnicJMsaAidYEALw_wcB:G:s&s_kwcid=AL!3085!3!520937987408!e!!g!!adobe%20lightroom!1422699839!59976285750&gclid=Cj0KCQiA9OiPBhCOARIsAI0y71AW_lgf_4WdtUw9Fk-8R4YitdpuYbSct3-TahBhWFKbF4wFqnicJMsaAidYEALw_wcB)
 
 
 ### Camera Settings
-Using a Panasonic Lumix S1R camera the settings differ slightly depending on the light source used in the light box
-If using **fluorescent** lighting the settings are: ISO = 320; shutter speed = 1/40; aperture = f/6.
+Using a Panasonic Lumix S1R camera the settings differ slightly depending on the light source used in the light box.\
+If using **fluorescent** lighting the settings are: ISO = 320; shutter speed = 1/40; aperture = f/6.\
 If using **LED** lighting the settings are: ISO = 200; shutter speed = 1/60; aperture = f/6.5.
 
 ## Other Sources
-Section for links out to other related resources e.g. blog posts, journal articles
+
+
 
 ## Authors
 Michael Jardine
