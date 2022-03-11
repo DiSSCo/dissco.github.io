@@ -19,8 +19,8 @@ nav_exclude: true
  Example of how to do a URL: (delete this example!)
  [Specify ver 6.](specifysoftware.org/) [DiSSCo](dissco.eu)
  
- Example of how to create a picture:
- ![Picture of Herbarium Sheet](images/PinnedInsect/ALICE/ALICE.PNG?raw=true)
+ Example of how to create a picture/: (when you copy it over, you need to add a "/" to the beginning of the URL)
+ ![Picture of Herbarium Sheet](/images/PinnedInsect/ALICE/ALICE.PNG?raw=true)
  
  test
  
