@@ -20,7 +20,7 @@ nav_exclude: true
  [Specify ver 6.](specifysoftware.org/) [DiSSCo](dissco.eu)
  
  Example of how to create a picture/: (when you copy it over, you need to add a "/" to the beginning of the URL)
- ![Picture of Herbarium Sheet](/images/PinnedInsect/ALICE/ALICE.PNG?raw=true)
+ ![Picture of Herbarium Sheet](/images/PinnedInsect/ALICE/ALICE.PNG)
  
  test
  
