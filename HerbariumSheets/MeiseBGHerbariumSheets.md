@@ -27,7 +27,7 @@ This workflow was designed for the first mass digitisation project DOE! (Digital
 Two workflow lines were created: one for the major part of the project where an external company was hired for the image capture and data transcription, a second line for digitising the exceptions in house.
 
 ## Workflow
-These sections are used to add BPMN workflows. Text can also be included to help someone follow the workflow. Not all subheadings will be required for every workflow.\
+
 **Pre-Digitisation Curation**\
 There are two key tasks in the pre digitisation step at Meise Botanic Garden, both conducted in the herbarium rooms:
 1. pre-digitisation curation of the specimens
@@ -83,39 +83,91 @@ Label transcription was done by Alembo, a subcontractor of Picturae, based on th
 The following fields were transcribed: 
 filing name, barcode, collector, collector number, country as given, country code, phytoregion, collection date, locality, altitude, altitude unit and coordinates as given
 
-*2. workflow internal process*
-The online data sources for filing names are the following:
+*2. workflow internal process*\
+The online data sources for filing names are the following:\
 [IPNI](www.ipni.org)\
-www.tropicos.org
-www.gbif.org
-https://www.ville-ge.ch/musinfo/bd/cjb/africa/recherche.php
+[TROPICOS](www.tropicos.org)\
+[GBIF](www.gbif.org)\
+[African Plants Database](https://www.ville-ge.ch/musinfo/bd/cjb/africa/recherche.php)
 	
 The label information is transcribed from the specimen itself, not from the digital image.
 
 BGBase is the content management system that is used.
 
+*3. Crowdsourcing*\
+For the Belgian collection, another approach for label transcription was chosen then for the African collection.
+
+DoeDat, a multilingual crowdsourcing platform based on DigiVol, was created to transcribe the label information from our Belgian collection by volunteers.
+
+[DoeDat](www.DoeDat.be)
+
+**Quality control of the outsourced label transcription**
+
+The quality of the data was measured using a subsample of the data file. The size of the subsample was determined using the table below:
+
+ 
+
+
+Two types of errors were distinguished:
+Identification and Transcription errors
+1)    Identification errors occur when:
+-  	Data is entered into the wrong field or incorrect data is entered in a field;
+-  	Data has not been entered despite it being present on the label.
+2)    Transcription errors are when data that have not been correctly transcribed from the label (typos).
+For each field, a penalty calculation was made and determined on the retrievability of the collections.
+This information was made available to the contractor via one of the tender annexes.
+
+
 **Georeferencing Specimen Data**
+
+No georeferencing was requested to the contractor or was done in house. Only when the coordinates were available on the sheet, they were transcribed as they appeared on the label.
 
 **Preserving and Publishing Data**
 
-## Example Projects
-This section gives more information about how these workflows have been applied in practice. Workflows often need to be adapted for the requirements of a specific project.
+TIFF files are stored on tape at 3 different locations at the Flemish institute of Archiving (meemoo) for long term preservation. JP2 and JPEG derivatives are stored at the Botanic Garden on servers at two different locations. These derivatives are used for display on our virtual herbarium [botanicalcollections](www.botanicalcollections.be) and [GBIF](www.gbif.org)
+
+After the data export from BGBase, the related images are extracted from the archive and displayed on [botanicalcollections](www.botanicalcollections.be) and [GBIF](www.gbif.org). All specimens have a permanent URI and the data is rdf readable.
+
+Part of our digital collection is also consultable on plants.jstor.org and europeana.
 
 ## Requirements
 ### Hardware
 
 ### Software
 
+Image transmitter 2\
+Adobe
+
+### Set up digitisation station
+[Pentax 645Z](https://www.cameranu.nl/nl/p655095/pentax-645-z-middenformaat-body)\
+Lens 90 mm\
+[Photostand](http://www.kaiser-fototechnik.de/en/news/produkte/1_1_rsp2motion.asp)\
+[Lighting](http://www.kaiser-fototechnik.de/en/produkte/2_1_produktanzeige.asp?nr=5280)
+
 ### Camera Settings
+TIFF format\
+450 ppi\
+TV ⅛\
+AV F16\
+ISO 100
 
 ## Other Sources
 Section for links out to other related resources e.g blog posts, journal articles
 
 ## Authors
 
+Sofie De Smedt & Ann Bogaerts
+
 ## Contributors
 
+Mathias Dillen
+
 ## References
+
+Michel Giraud, Quentin Groom, Ann Bogaerts, Sofie De Smedt, Mathias Dillen, Hannu Saarenmaa, Noortje Wijkamp, Sarah Philips, Steven ven der Mije, Agnes Wijers, Zhengzhe Wu. Best practice guidelines for imaging of herbarium specimens
+[ICEDIG deliverable 3.6](https://icedig.eu/sites/default/files/deliverable_d3.6_icedig_best_practise_guidelines_for_bulk_imaging_of_herbarium_specimens1.pdf)
+
+Nieva de la Hidalga , Paul L Rosin , Xianfang Sun , Ann Bogaerts , Niko De Meeter , Sofie De Smedt , Maarten Strack van Schijndel , Paul Van Wambeke , Quentin Groom (2020) Designing an Herbarium Digitisation Workflow with Built-In Image Quality Management Biodiversity Data Journal 8: e47051 doi: https://doi.org/10.3897/BDJ.8.e47051
 
 ## Licence
 
