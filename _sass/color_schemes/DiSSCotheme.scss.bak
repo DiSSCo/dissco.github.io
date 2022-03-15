@@ -1,0 +1,7 @@
+$content-width: 1000px;
+
+$sidebar-color: #205692;
+$body-background-color: #F4F4F1;
+$link-color: #868696;
+$nav-child-link-color: #D9D9DF;
+
