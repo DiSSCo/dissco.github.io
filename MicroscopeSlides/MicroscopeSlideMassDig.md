@@ -30,13 +30,12 @@ the [ICEDIG](https://icedig.eu) project, with more detail to be found in the [No
 The workflow above shows the steps taken in the pre-digitisation curation stage. Drawer location and taxon barcode labels are printed from the Museum's Collection Management System (CMS) (Figure 1a). These are then inserted into the collection (Figure 1b).
 If there is no label for a taxon, or the label information is incorrect, this information is passed to the curator who then updates the CMS.
 
-![Image on left shows the temporary taxon and location barcodes, image on right an example of how the labels were added to the collection](/main/images/SlideLabel.png?raw=true)
+![Image on left shows the temporary taxon and location barcodes, image on right an example of how the labels were added to the collection](/images/MicroscopeSlides/NHM/SlideLabel.png?raw=true)
 Figure 1: a) Shows the temporary taxon and location barcodes b) Shows how the temporary labels are inserted into the collection (Allan *et al*, 2019).\
 **Specimen Image Capture**
 ![Image shows the image capture workflow](/images/MicroscopeSlides/NHM/SlideSIC.PNG?raw=true)
 * The workflow above shows the imaging step. Unique Identifier (UID) barcodes are printed on a self-adhesive 5 x 6mm label. They are attached to the slide glass using forceps, on the upper side of the slide where possible.
-* The slide is then placed on the imaging template with the location and taxon barcodes, and placed within a custom-built lightbox. More information on the lightbox set-up can be found in  
-[Requirements](/MicroscopeSlides/MicroscopeSlideMassDig.html#requirements). 
+* The slide is then placed on the imaging template with the location and taxon barcodes, and placed within a custom-built lightbox. More information on the lightbox set-up can be found in  [Requirements](/MicroscopeSlides/MicroscopeSlideMassDig.html#requirements). 
 * If labels are present on the reverse of the slide, it is turned over and an image captured. Some slides are housed in a paper envelope with additional information, 
 and in these cases the envelope is placed into the template and an image captured. For slides where information has been written with a diamond pen, a black piece of paper is put behind the slide before imaging to allow this to be visible
 * Metadata associated with the image (e.g. copyright) is automatically added to the file during image capture using EOS Utility.
@@ -49,7 +48,7 @@ and in these cases the envelope is placed into the template and an image capture
 * At the end of each day, the cropped image files are manually quality checked. The images in the exceptions folder are also checked, and the XnConvert software crops and rotates these pictures.
 * The renamed and processed files are then ingested into the CMS using a script. For specimens that do not yet have a record in the CMS, a new record is created at the same time as the image is uploaded, with the image file name containing the information required to create the record.
 
- More information on all these steps can be found in the [Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides](https://doi.org/10.5281/zenodo.3364481)  paper (Allan *et al.*, 2019).
+ More information on all these steps can be found in the Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides [paper](https://doi.org/10.5281/zenodo.3364481) (Allan *et al.*, 2019).
 
 ## Example Projects
 **Phthiraptera**\
