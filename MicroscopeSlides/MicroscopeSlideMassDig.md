@@ -107,7 +107,7 @@ Figure 4: a) Shows the imaging set-up: vertically mounted DSLR camera, lightbox 
 [Digitising the louse collection: we've been itching to tell you more](https://www.nhm.ac.uk/discover/news/2018/february/digitising-the-louse-collection-we-ve-been-itching-to-tell-you-.html)
 
 ## Authors
-Lisa French, Larissa Welton, Louise Berridge, Laurence Livermore
+Lisa French, Larissa Welton, Louise Berridge, Laurence Livermore\
 Natural History Museum, London
 
 ## References
