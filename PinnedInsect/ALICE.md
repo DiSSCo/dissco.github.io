@@ -31,7 +31,7 @@ This workflow assumes that the ALICE stage has already been set-up. More informa
 * The pre-digitisation curation steps includes rehousing specimens where they either overlap or need to be moved from a cork lined drawer into a platazote tray.
 * Unique identifier barcode labels are added to each specimen pin. It is important that these barcodes are visible when the specimen is viewed from above (Figure 1).
 
-![Image shows an Ephemeroptera specimen, showing the barcode label when viewed from above](/main/images/PinnedInsect/ALICE/ALICEBarcode.PNG?raw=true)\
+![Image shows an Ephemeroptera specimen, showing the barcode label when viewed from above](/images/PinnedInsect/ALICE/ALICEBarcode.PNG?raw=true)\
 Figure 1: [Ephemeroptera specimen](https://data.nhm.ac.uk/object/b22b18c3-93a7-4fb2-a29e-d56b5c5b885f/1642032000000) with barcode label visible from above (http://creativecommons.org/licenses/by/4.0/)
 
 **Specimen Image Capture**
@@ -122,8 +122,12 @@ Price, Benjamin W., Steen Dupont, Elizabeth L. Allan, Vladimir Blagoderov, Alice
 Natural History Museum (2021). Natural History Museum Data Portal (data.nhm.ac.uk). https://data.nhm.ac.uk/object/b22b18c3-93a7-4fb2-a29e-d56b5c5b885f
 
 ## Licence
+[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Document Control
+1.0
 
 ## Citation
+French, L., Crowther, R., Holub-Young, K., Lohonya, K. & Livermore, L. (2022) DiSSCo Digitisation Guide: ALICE - Pinned Insects (NHM). version 1.0. Available at: https://dissco.github.io/PinnedInsect/ALICE.html
+
 
