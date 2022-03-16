@@ -108,6 +108,7 @@ Figure 4: a) Shows the imaging set-up: vertically mounted DSLR camera, lightbox 
 
 ## Authors
 Lisa French, Larissa Welton, Louise Berridge, Laurence Livermore
+Natural History Museum, London
 
 ## References
 Allan, L. E., Price, B.W., Shchedrina, O., Dupont, S., Livermore, L., & Smith, V. S. (2019). Mass-imaging of microscopic and other slides. Zenodo. [https://doi.org/10.5281/zenodo.336448](https://doi.org/10.5281/zenodo.336448)
