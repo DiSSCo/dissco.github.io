@@ -120,4 +120,4 @@ Allan, L. E., Price, B.W., Shchedrina, O., Dupont, S., Livermore, L., & Smith, V
 1.0
 
 ## Citation
-French, L., Welton, L., Berridge, L. & Livermore (2022) DiSSCo Digitisation Guide: Microscope Slides - Mass Digitisation (NHM). version 1.0. Available at: https://dissco.github.io/MicroscopeSlides/MicroscopeSlide.html
+French, L., Welton, L., Berridge, L. & Livermore, L. (2022) DiSSCo Digitisation Guide: Microscope Slides - Mass Digitisation (NHM). version 1.0. Available at: https://dissco.github.io/MicroscopeSlides/MicroscopeSlide.html
