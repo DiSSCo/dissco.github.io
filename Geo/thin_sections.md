@@ -141,13 +141,14 @@ Figure 11: Annotated set up using 3D printed parts. The 3D printed parts are a s
 
 This set up is fixed to a metal bar and would have the camera at one end. Components are fairly cheap to print and can be easily assembled. A prototype has already been produced and produces quality images or thin section slides.
 
-The files of the 3D components will be made available from the GitHub repository.
+[The files of the 3D components are availiable from our GitHub repository](https://github.com/MichaelJardine/lmfrench.github.io/tree/main/Geo/thin_section_files).
 
 3. **Image automisation** - in the current set up, the polarising filter must be raised in between the two photos of a single image. Although this doesn't take too much time, it is another physical step to be completed. It can lead to occasional photo errors when the filter is not raised completely, and physical contact with the set up which can affect the image.
 
-A better solution would be to automate the process with one action which would take both images. This has been piloted using a small motor and controlled by a small single board programable computer such as a [Raspberry Pi]() or [Arduino](). This would move the filter between shots without the need to move it manually and also take both images.
+A better solution would be to automate the process with one action which would take both images. This has been piloted using a small motor and controlled by a small single board programable computer such as a [Raspberry Pi](https://www.raspberrypi.org/) or [Arduino](https://www.arduino.cc/). This would move the filter between shots without the need to move it manually and also take both images.
 
 An example of this can be seen [here](https://www.youtube.com/watch?v=b4iIm4P166s).
+[This was programmed using the code found here](https://github.com/MichaelJardine/lmfrench.github.io/blob/main/Geo/thin_section_files/britrocks.sh).
 
 4. **Image processing** - image processing is currently perfomed manually in Adovbe photoshop. This is a liscened program with a fee. We are developing an alternative process using free software such as [Image magick](https://imagemagick.org/) which would make the processing of images feasible for more collections. The process could also be automated using hot folders so that all imported images are processed in the same manner.
 
@@ -157,19 +158,20 @@ This workflow was used to digitise the BGS's whole thin section collection as pa
 ## Requirements
 ### Hardware
 The workflow presented here uses:
-* Camera - Workflow above used a Nikon D7000
+* Camera - above used a Nikon D7000
 * Lens - 60mm f2.8 Micro
-* Polarising filter x2 - brand/make
-* Light source - LED - max CRI
+* Polarising filter x2
+* Light source - [Godox LED video light (Model:LED 64)](https://github.com/MichaelJardine/lmfrench.github.io/blob/main/Geo/thin_section_files/Godox_LED64_20171103-1.pdf)
 * Translucent Perspex sheet
 * Stand for slides - made of stack of double dark slides (one polarising filter and Perspex sheet are imbedded into the slide stand).
 * Remote shutter button
-* Camera tripod
+* Camera tripod  - [topped with a monopod head with quickrelease](https://github.com/MichaelJardine/lmfrench.github.io/blob/main/Geo/thin_section_files/Monopod%20Head%20with%20Quick%20Release%2C%20wide%2090%C2%B0%20scope%20-%20234RC%20_%20Manfrotto%20UK.pdf).
 * Metal beam - to attach components to.
 
 **Future requirements** may include:
 * 3D printed components
 * Rasberry Pi / Arduino
+* servo motor
 
 ### Software
 Microsoft Excel
@@ -178,6 +180,7 @@ Microsoft Excel
 **Future requirements** may include:
 [Openscad](https://www.openscad.org/) - for 3D printing of components.
 [Image magick](https://imagemagick.org/) - for automated image processing.
+[Code for moving filter](https://github.com/MichaelJardine/lmfrench.github.io/blob/main/Geo/thin_section_files/britrocks.sh)
 
 ### Camera Settings
 The camera is set to 'aperture priority'. With no slide present this results settings of:
