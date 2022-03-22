@@ -3,7 +3,7 @@ title: BGS thin sections imaging
 parent: Geological
 ---
 
-# Template Workflow Page
+# Imaging geological thin sections
 {: .no_toc }
 
   {: .no_toc .text-delta }
@@ -197,7 +197,6 @@ Simon Harris, Michael Jardine
 
 ## Contributors
 Bob McIntosh (BGS Edinburgh)
-Any others??
 
 ## References
 British Geological Survey petrology collections in Geikie and the development of petrography, particularly in Scotland John R. Mendum and Michael P.A. Howe. Geological Society, London, Special Publications, 480, 367-377, 16 January 2019, https://doi.org/10.1144/SP480.19
