@@ -1,7 +1,7 @@
 ---
 title: Specimen Image Capture
 has_children: true
-nav_order: 9
+nav_order: 7
 ---
 
 # Introduction
