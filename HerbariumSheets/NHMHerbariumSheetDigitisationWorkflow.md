@@ -35,7 +35,7 @@ For the imaging and post-processing parts of this workflow, check out this video
 
 Herbarium specimens are checked and prepared before creating specimen records and imaging.
 
-Herbarium sheet specimens are kept in folders. Folders are split by genus and by geographical area. A folder typically contains only one species, but a species my run over several folders. 
+Herbarium sheet specimens are kept in folders. Folders are split by genus and by geographical area. A folder typically contains only one species, but a species my run over several folders.
 
 When we retrieve a folder we check that the correct specimens are included in that folder, i.e. that all specimens are of the same species and geographical area as indicated on the folder's cover. Issues are raised with the curators.
 
@@ -45,7 +45,7 @@ We the check that the specimen sheets themselves are in decent condition. For th
 3) Use a sponge to remove dirt from the sheet (dust, debris, smoke damage etc.). This makes the image clearer and the specimen more presentable.   
 4) Add a paper envelope to the sheet for any part of the specimen that comes loose.
 
-The aim of these steps is to ensure that the specimens are in the best condition before imaging and that the specimens we are imaging are in the correct folders. 
+The aim of these steps is to ensure that the specimens are in the best condition before imaging and that the specimens we are imaging are in the correct folders.
 
 **Electronic Data Capture**
 
@@ -54,7 +54,7 @@ A barcode added to the sheet for each specimen. These barcodes are unique and al
 Some sheets contain multiple specimens. If this is the case, a barcode is added for each specimen. Make sure that it is clear which barcode relates to each specimen. We do this by either adding barcodes next to the label of each specimen, or by indicating to which specimen the barcodes belongs by using letters or numbers.
 
 ![sheets with barcodes](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/two_sheets.png?raw=true)
-Figure :
+Figure : Two herbarium sheets. The one on the left contains one specimen so has one barcode, while the one on the right contains two specimens and is given two barcodes. Barcodes are added next to the specimen labels.
 
 Specimen records are created using a bespoke program called Sapphire. This program creates records in the NHM's database system EMu. We create batches of records at a time, such as for a whole folder where the species and collection location are the same.
 
@@ -169,7 +169,7 @@ The camera takes several photos which will be heard as several clicking sounds. 
 
 The image will appear in your *windows explorer window*. It will be given a generic image name. We want to change this to a unique file name using the specimen's barcode.
 
-Highlight the image file, and then use the *barcode scanner* to read the barcode on the specimen sheet (usually in the top right corner). This will rename the image file. This does not require additional software other than the driver associated with the scanner. 
+Highlight the image file, and then use the *barcode scanner* to read the barcode on the specimen sheet (usually in the top right corner). This will rename the image file. This does not require additional software other than the driver associated with the scanner.
 
 ![re-naming the image file name](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/change_file_name.png?raw=true)
 Figure : before (left) and after (right) file renaming using the barcode scanner.
@@ -235,7 +235,7 @@ The precise settings you chose will depend on your setup, but at the NHM we chan
 We then set our 'File Settings'. We choose the options:
 * Image format = TIFF
 * Compression = None
-* Colour Space = sRGB - most consisatnt colours between different screens. 
+* Colour Space = sRGB - most consisatnt colours between different screens.
 * Bit Depth = 16 bits/component
 Additionally in 'Image Sizing' we set Resolution to 240 pixels per inch.
 
