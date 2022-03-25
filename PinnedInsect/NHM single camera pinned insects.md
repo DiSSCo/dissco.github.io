@@ -19,26 +19,24 @@ parent: Pinned Insects
 
 This page details the step involved in the 'iCollections' single camera pinned insects workflow used at the Natural History Museum (NHM) London. This workflow produces images containing a single pinned insect specimen as seen from above, and its associated labels laid out on the right.
 
-![pinned insect example](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/example_pinned_insect_image.jpg?raw=true)
-
+![pinned insect example](/images/PinnedInsect/NHMicol/example_pinned_insect_image.jpg?raw=true)
+Figure 1: An example of pinned insect specimen image.
 
 ## Workflow
 
-This workflow occurs in two sperate stages. \
+This workflow occurs in two separate stages. \
 1 - Specimens are taken from the collections in drawers for re-housing and curation. During this stage, a unique barcode is attached to the pin of each specimen. At this stage a record is created stating that that barcode is associated which that species, but no other information is collected. Records can be created in bulk if there are many specimens per species. \
 2 - Specimens are imaged to create a digital representation of each specimen. The specimen's labels and barcode are also included which allows information about the specimen to be gathered and link the image to the specimen record.
 
-![overall workflow diagram](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/)
-
-**Pre-Digitisation Curation**
 
 **Specimen Image Capture**
 
-![workflow diagram of imaging](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/imaging_workflow_diagram.png?raw=true)
+![workflow diagram of imaging](/images/PinnedInsect/NHMicol/pinned_insects_workflow_diagram_edit.png?raw=true)
+Figure 2: Workflow diagram for the imaging of pinned insect specimens.
 
 To help illustrate the imaging steps, we have created this video. This should help you follow the steps involved and help in your own digitisation efforts.
 
-![icollections pinned insect video](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/.)
+![icollections pinned insect video](link when ready??)
 
 When imaging specimens, we typically work in a particular order starting in the top left of a tray, and then working downwards until we've finished that column, then restarting from the next column of specimens. Where a tray is split into multiple smaller trays we process each sub-tray before moving on to the next.
 
@@ -47,22 +45,22 @@ The imaging process takes place using several steps, where the specimen in passe
 * A plastazote sheet where specimen handling is performed.
 * An imaging try where the specimen and labels will be laid out for imaging.
 
-![diagram of imaging process](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/imaging_schematic.png?raw=true)
-Figure : schematic of the imaging process showing the three locations, the housed tray, the plastazote sheet, and the imaging tray. The specimen is moved from left to right, the image is taken, and then the image is moved back again.
+![diagram of imaging process](/images/PinnedInsect/NHMicol/imaging_schematic.png?raw=true)
+Figure 3: schematic of the imaging process showing the three locations, the housed tray, the plastazote sheet, and the imaging tray. The specimen is moved from left to right, the image is taken, and then the image is moved back again.
 
 First the specimen to be imaged is moved from is permanent location in the tray to the plastazote sheet.
 
 The specimen's labels are then carefully removed from the pin using forceps, and laid out in order on the sheet.
 
-![remove labels process](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/remove_labels.png?raw=true)
-Figure : the specimen before and after removal of labels. Keep labels in order by laying them out.
+![remove labels process](/images/PinnedInsect/NHMicol/remove_labels.png?raw=true)
+Figure 4: the specimen before and after removal of labels. Keep labels in order by laying them out.
 
 The specimen is next transferred from the plastazote sheet to the middle of the imaging tray.
 
 The labels are also transferred and arranged in order, one below the other, beneath the scale bar, on the right hand side of the specimen.
 
-![layout example](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/layout_of_tray.png?raw=true)
-Figure : example layout of specimen and labels.
+![layout example](/images/PinnedInsect/NHMicol/layout_of_tray.png?raw=true)
+Figure 5: example layout of specimen and labels.
 
 The labels are placed on the right hand side of the specimen, usually on a raised level so that the pinned specimen and the labels are at the same distance from the camera. This ensures that all parts are in focus.  
 
@@ -70,8 +68,8 @@ Once the specimen and labels are in place, the tray is moved into the imaging st
 
 We can view a preview of the image using the live view from the tethering program.
 
-![screen shot before image](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/pre_image_screen_shot.png?raw=true)
-Figure : screen view of the specimen as seen by the cameras live view and the tethering program, window. Exposure settings are in the orange circle while the button highlighted in red is the capture button for taking images.
+![screen shot before image](/images/PinnedInsect/NHMicol/pre_image_screen_shot.png?raw=true)
+Figure 6: screen view of the specimen as seen by the cameras live view and the tethering program, window. Exposure settings are in the orange circle while the button highlighted in red is the capture button for taking images.
 
 We check that the exposure settings are correct (ISO = 500; shutter speed = 1/60; aperture = f/10). And then take the picture either by pressing the capture button or by pressing the space bar. It will appear in the windows folder set in the tethering program.
 
@@ -89,15 +87,16 @@ We now reverse the process. Move the specimen back onto the plastazote sheet. La
 
 To perform the re-naming step we use the program [BardecodeFiler](https://www.bardecode.com/en1/app/bardecodefiler/). Upon opening the program we have this window:
 
-![first barcode filer window](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/barcodefiler_window.png?raw=true)
-Figure : Main window of BardecodeFiler.
+![first barcode filer window](/images/PinnedInsect/NHMicol/barcodefiler_window.png?raw=true)
+
+Figure 7: Main window of BardecodeFiler.
 
 Got to options.
 
-![bardecodefiler options window](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/barcodefiler_options_window.png?raw=true)
-Figure : options window of BardecodeFiler. Here we can set folders and other options.
+![bardecodefiler options window](/images/PinnedInsect/NHMicol/barcodefiler_options_window.png?raw=true)
+Figure 8: options window of BardecodeFiler. Here we can set folders and other options.
 
-Here we set the location of a number of folders:\
+Here we set the location of a number of folders:
 * Input - the location of the raw images we want to re-name.
 * Output - the location of images which have been successfully re-named.
 * Exception - images that could not be re-named successfully, or those where two images were taken.
@@ -106,27 +105,22 @@ Here we set the location of a number of folders:\
 
 Once these folder locations have been set, click save. And then in the main menu click run. The time this takes will depend on the number of images you are processing. The window will show the progress of the image processing.
 
-![BardecodeFiler running window](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/bardeocode_running_screen.png?raw=true)
-Figure : BardecodeFiler window running renaming process. The number of images processed, and the time taken appears here.
+![BardecodeFiler running window](/images/PinnedInsect/NHMicol/bardeocode_running_screen.png?raw=true)
+
+Figure 9: BardecodeFiler window running renaming process. The number of images processed, and the time taken appears here.
 
 Once all files are correctly re-named, we move them to a folder where they can be located by our data portal team. They will then be published to the data portal.
-
-**Electronic Data Capture**
-
-**Georeferencing Specimen Data**
 
 **Preserving and Publishing Data**
 
 Images and label information for each specimen is uploaded the NHM's data portal. Each specimen is identified by a unique barcode, which is included in its specimen photo and attached to the specimen itself.
-
-## Example Projects
 
 ## Requirements
 ### Hardware
 Canon Eos 5D Mrk IV DSLR camera
 Kaiser RS1/RS10 copy stand
 Light box - 250mm x 415mm x 330mm (h x l x d).\
-* 220m diameter hole in top.
+* 220mm diameter hole in top.
 Lights?
 
 ### Software
@@ -136,13 +130,11 @@ Lights?
 ### Camera Settings
 ISO = 500; shutter speed = 1/60; aperture = f/10.
 
-## Other Sources
-
 ## Authors
-Michael Jardine. Peter Wing
+Michael Jardine, Peter Wing, Phaedra Kokkini, Nicola Lowndes
 
 ## Contributors
-Robyn Crowther, Phaedra Kokkini, Nicola Lowndes, Krisztina Lohonya, Kate Holub-Young, Larissa Welton, Lisa French
+Robyn Crowther, Krisztina Lohonya, Kate Holub-Young, Larissa Welton, Lisa French
 
 ## References
 [Blagoderov et al. 2017. iCollections methodology: workflow, results and lessons learned](https://bdj.pensoft.net/article/19893/)
@@ -151,5 +143,7 @@ Robyn Crowther, Phaedra Kokkini, Nicola Lowndes, Krisztina Lohonya, Kate Holub-Y
 The content of this workflow is the property of the Trustees of the Natural History Museum and may be used under a [creative commons licence](http://creativecommons.org/licenses/by/4.0/)
 
 ## Document Control
+1.0
 
 ## Citation
+Jardine, M.D., Wing, P., Kokkini, P. and Lowndes, N. (2022) DiSSCo Digitisation Guide: NHM single camera pinned insects workflow. version 1.0. Available at: https://dissco.github.io/PinnedInsect/NHM%20single%20camera%20pinned%20insects.html

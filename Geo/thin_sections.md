@@ -19,17 +19,17 @@ parent: Geological
 ## Overview
 Geological thin sections are specimens of geological material which are thin enough to be mounted on microscope slides.
 
-![close up of slides](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/3_slide_close_up.png?raw=true)
+![close up of slides](/images/Geo/thinsections/3_slide_close_up.png?raw=true)
 Figure 1: Example of three example thin section slides. Taken with kind permission of the BGS.
 
 Roughly 30 microns thick, these sections are semi-transparent allows them to be viewed under a microscope which reveals how they are constructed. The use of polarising filters allows more information on the structural and chemical makeup of geological specimen to be obtained.
 
-![example of thin section images](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/selection_of_image_examples.png?raw=true)
+![example of thin section images](/images/Geo/thinsections/selection_of_image_examples.png?raw=true)
 Figure 2: A selection of thin section images taken using this workflow. Taken with kind permission of the BGS.
 
 ## Workflow
 
-![overall workflow diagram](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/.jpg?raw=true)
+![overall workflow diagram](/images/Geo/thinsections/thin_sections_workflow_diagram.png?raw=true)
 Figure 3: Workflow diagram of decisions and steps for the imaging of geological thin sections.
 
 Here we present an overview of the imaging workflow which has been used to digitise the majority of the British Geological Survey's (BGS) thin section slide collection. This workflow has been highly effective in producing quality images of thin section specimens, and is highly efficient being capable of producing images on over 1000 specimens a day.
@@ -39,7 +39,7 @@ Here we present an overview of the imaging workflow which has been used to digit
 
 Thin section slides were housed in drawers like this:
 
-![example of slides in a drawer](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/adjust_slide_tray.jpg?raw=true)
+![example of slides in a drawer](/images/Geo/thinsections/adjust_slide_tray.jpg?raw=true)
 Figure 4: Drawer of thin section slides. Taken with kind permission of the BGS.
 
 There are several steps that need to be performed to ensure that the specimens are ready for imaging which will also help the curation and preservation of your specimens.
@@ -56,7 +56,7 @@ The steps that need to be taken in this section are:
 
 1. **Imaging set up**
 
-![Annotated set up](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/annotated_set_up.png?raw=true)
+![Annotated set up](/images/Geo/thinsections/annotated_set_up.png?raw=true)
 Figure 5: Annotated diagram of the set up. The downwards angle keeps the slide in place. Taken with kind permission of the BGS.
 
 The imaging set up is composed of:
@@ -73,7 +73,7 @@ To image, we place the slide at the front of the slide stand. We position the sl
 
 We then take the images. Two images are taken.
 
-![imaging order](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/imaging_order.png?raw=true)
+![imaging order](/images/Geo/thinsections/imaging_order.png?raw=true)
 Figure 6: Diagram of the order of taking the two images showing the filter position and an example image of each. Taken with kind permission of the BGS.
 
 The first image is taken with the removable polarising lens down. The polarised light creates a darker image where some structural features are more distinguishable. The image is taken using the connected remote shutter button. The camera makes a click as the image is taken and after a second it appears on the camera's LCD screen. We check this screen to make sure the photo has been taken correctly.
@@ -84,7 +84,7 @@ Once the first image is taken, the removable polarising lens is lifted and a sec
 
 *Once the last slide in a tray has been imaged, we check that the number of photos taken is two times the number of slides in the drawer. The final image number should also be 2 times the number of slides plus the first image number. If correct, the drawer is returned and a new one is taken. The process then begins again.*
 
-![array of section images order](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/section_images.png?raw=true)
+![array of section images order](/images/Geo/thinsections/section_images.png?raw=true)
 Figure 7: A collection of thin section images after being downloaded from the camera's memory card.
 
 **Specimen Image Processing**
@@ -99,7 +99,7 @@ Images were also converted to the JPEG2 format.
 
 This sheet records data about the specimens and their images, and creates a link between the two so that records can be created.
 
-![array of section images order](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/focused_sheet_example.png?raw=true)
+![blank recording sheet](/images/Geo/thinsections/focused_sheet_example.png?raw=true)
 Figure 8: A focused example of a blank recording sheet. Reproduced with kind permission of the BGS.
 
 We fill in the columns as follows:
@@ -108,7 +108,7 @@ We fill in the columns as follows:
 3. The *Light* column is either XL for the first image  where the filter is down (double polarised light), or PPL for the second image where the filter is up (plain polarised light).
 4. In the *Camera number & prefix* column we record the image number as assigned by the camera. These will be filled in in a series on after the other. If a mistake is made, we leave the image in the camera and miss out that number in the column. See the image below for an example (the number 7853 is missed out). It is important to make sure that this column is filled in correctly. Any mistake will result in the wrong image being attached to each specimen.  
 
-![array of section images order](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/annotated_filled_sheet.png?raw=true)
+![annotated blank recording sheet](/images/Geo/thinsections/annotated_filled_sheet.png?raw=true)
 Figure 9: A focused example of a completed recording sheet with annotations. Reproduced with kind permission of the BGS.
 
 In practice these details were recorded on paper sheets and entered into excel later, but could in principle be directly entered into a spreadsheet.
@@ -129,15 +129,15 @@ Unique identifier barcodes have become the standard in digitisation and have bee
 
 Attaching barcodes to thin section slides would appear like this:
 
-![slide with barcode](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/slide_with_barcode.png?raw=true)
+![slide with barcode](/images/Geo/thinsections/slide_with_barcode.png?raw=true)
 Figure 10: Thin section slide with barcode. The barcode is unique to this specimen and can be read with a scanner or bar code reading software from a specimen image. The barcode does not cover any of the specimen.
 
 2. **3D printed components** - the original imaging set up was designed using available parts that were already available at the BGS. While this was successful for this project, replication of these precise components would be difficult for others.  
 
 To solve this issue, alternative components have been designed using the software [Openscad](https://www.openscad.org/). These components can be 3D printed to produce a replicated imaging set up.
 
-![3D printed set up](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/annotated_3D_setup.png?raw=true)
-Figure 11: Annotated set up using 3D printed parts. The 3D printed parts are a stand to create the angle of te set up, a slide stand which includes  moveable polarising filter, and a light stand to which the light can be fixed to. All are deigned to fix around a squate shaped metal rod. 
+![3D printed set up](/images/Geo/thinsections/annotated_3D_setup.png?raw=true)
+Figure 11: Annotated set up using 3D printed parts. The 3D printed parts are a stand to create the angle of te set up, a slide stand which includes  moveable polarising filter, and a light stand to which the light can be fixed to. All are deigned to fix around a squate shaped metal rod.
 
 This set up is fixed to a metal bar and would have the camera at one end. Components are fairly cheap to print and can be easily assembled. A prototype has already been produced and produces quality images or thin section slides.
 
@@ -196,7 +196,7 @@ http://britgeopeople.blogspot.com/2013/03/100000-scottish-thin-sections-complete
 http://britgeopeople.blogspot.com/2012/12/bgs-thin-sections-150000th-image-taken.html
 
 ## Authors
-Simon Harris, Michael Jardine
+Michael Jardine (NHM), Simon Harris (BGS),
 
 ## Contributors
 Bob McIntosh (BGS Edinburgh)
@@ -213,3 +213,4 @@ Images and information have been kindly provided by the British Geological Surve
 ## Document Control
 
 ## Citation
+Jardine, M.D. and Harris, S. (2022) DiSSCo Digitisation Guide: Imaging geological thin sections - BGS. version 1.0. Available at: https://dissco.github.io/Geo/thin_sections.html
