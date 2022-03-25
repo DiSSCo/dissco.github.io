@@ -33,6 +33,50 @@ For the imaging and post-processing parts of this workflow, check out this video
 
 **Pre-Digitisation Curation**
 
+Herbarium specimens are checked and prepared before creating specimen records and imaging.
+
+Herbarium sheet specimens are kept in folders. Folders are split by genus and by geographical area. A folder typically contains only one species, but a species my run over several folders.
+
+When we retrieve a folder we check that the correct specimens are included in that folder, i.e. that all specimens are of the same species and geographical area as indicated on the folder's cover. Issues are raised with the curators.
+
+We the check that the specimen sheets themselves are in decent condition. For this we:
+1) replace ripped or damaged folder or specimen covers with new ones - copying out the necessary labels.
+2) ensure that the specimen is securely fastened to the sheet and does not extend beyond the edge of the sheet. If need we add paper strips to hold the specimen in place.
+3) Use a sponge to remove dirt from the sheet (dust, debris, smoke damage etc.). This makes the image clearer and the specimen more presentable.   
+4) Add a paper envelope to the sheet for any part of the specimen that comes loose.
+
+The aim of these steps is to ensure that the specimens are in the best condition before imaging and that the specimens we are imaging are in the correct folders.
+
+**Electronic Data Capture**
+
+A barcode added to the sheet for each specimen. These barcodes are unique and allow us to identify each specimen electronically. Barcodes are added to the sheet in the top left corner, fingers with in from each side, and at least this distance from any of the specimen itself. If this is not possible, the barcode is placed either along the top or the bottom of the sheet. Barcodes are aligned horizontally.
+
+Some sheets contain multiple specimens. If this is the case, a barcode is added for each specimen. Make sure that it is clear which barcode relates to each specimen. We do this by either adding barcodes next to the label of each specimen, or by indicating to which specimen the barcodes belongs by using letters or numbers.
+
+![sheets with barcodes](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/two_sheets.png?raw=true)
+Figure : Two herbarium sheets. The one on the left contains one specimen so has one barcode, while the one on the right contains two specimens and is given two barcodes. Barcodes are added next to the specimen labels.
+
+Specimen records are created using a bespoke program called Sapphire. This program creates records in the NHM's database system EMu. We create batches of records at a time, such as for a whole folder where the species and collection location are the same.
+
+To do this, we begin a new record and enter the following information:
+1) the geographical region from where the specimens was collected (see below for details on how this is organised)
+2) the species name - as designated by the collections curation.
+3) the barcode of the first specimen in the folder - entered using a barcode scanner.
+4) the barcode of the last specimen in the folder. Sapphire will create records for all those barcode numbers in-between the first and last barcode. This assumes that all barcodes in between are contained within the folder and are of the same species and geographical region.
+5) an optional input for those specimen barcodes which may have already been added as part of other imaging projects. Prevents additional records being created of the same specimen.
+
+If say there are 10 specimens in a folder and the first barcode is 'NHM_0005001' and the last is 'NHM_00050010', then Sapphire will create 10 records in EMu. These records will be identical apart from the barcode associated with that specimen. Since this record contains no additional information it is called a *stub record*. The image taken later will be added to each record using the barcodes to identify the corresponding specimen record.
+
+Additional information is not typically transcribed into EMu, but is for some specific projects depending on their individual aims. Where additional information is added, this is transcribed from the specimen's image, not the specimen sheet itself.
+
+**Georeferencing Specimen Data**
+
+Specimens within the NHM's herbarium are given a number indicating their geographical location. For example, 1 = Europe, 12 = North America, 20 = southern Africa etc. When creating the stub record in Sapphire (above) the geographical region in entered rather than a specific country of location.
+
+Refinement of the geographical location may occur later if required for a specific project during transcription.
+
+One study carried out at the NHM covers some the difficulties encountered in the georeferencing of herbarium sheets - [Lohonya et al. 2020.](https://bdj.pensoft.net/article/50503/).
+
 **Specimen Image Capture**
 
 For additional help and instruction for this workflow, check out the video at the top of the page which we have produced. This video is broken down into four sections: 1) Imaging set up; 2) PC set up and programs; 3) Imaging; and 4) Post imaging processing, which are used to annotate the headings below.
@@ -125,7 +169,7 @@ The camera takes several photos which will be heard as several clicking sounds. 
 
 The image will appear in your *windows explorer window*. It will be given a generic image name. We want to change this to a unique file name using the specimen's barcode.
 
-Highlight the image file, and then use the *barcode scanner* to read the barcode on the specimen sheet (usually in the top right corner). This will rename the image file. This does not require additional software other than the driver associated with the scanner. 
+Highlight the image file, and then use the *barcode scanner* to read the barcode on the specimen sheet (usually in the top right corner). This will rename the image file. This does not require additional software other than the driver associated with the scanner.
 
 ![re-naming the image file name](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/change_file_name.png?raw=true)
 Figure : before (left) and after (right) file renaming using the barcode scanner.
@@ -191,7 +235,7 @@ The precise settings you chose will depend on your setup, but at the NHM we chan
 We then set our 'File Settings'. We choose the options:
 * Image format = TIFF
 * Compression = None
-* Colour Space = sRGB - most consisatnt colours between different screens. 
+* Colour Space = sRGB - most consisatnt colours between different screens.
 * Bit Depth = 16 bits/component
 Additionally in 'Image Sizing' we set Resolution to 240 pixels per inch.
 
@@ -199,12 +243,6 @@ Additionally in 'Image Sizing' we set Resolution to 240 pixels per inch.
 
 Once this is done, we check over all the options and click export.
 This can take sometime so we often run this overnight.
-
-**Electronic Data Capture**
-
-**Georeferencing Specimen Data**
-
-One study carried out at the NHM covers some the difficulties encountered in the georeferencing of herbarium sheets - [Lohonya et al. 2020.](https://bdj.pensoft.net/article/50503/) which was carried out at the NHM.
 
 **Preserving and Publishing Data**
 
