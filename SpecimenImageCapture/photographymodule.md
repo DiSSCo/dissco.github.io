@@ -16,15 +16,12 @@ The purpose of digitisation projects is to create a digital record of a specimen
 
 Taking a photo is the simplest way to create a visual digital record of a specimen. Ultimately any photo, taken with any camera or setup, could count towards digitisation efforts:
 
-IMAGES OF SPECIMENS OF VARIOUS DEGRESS OF USEFULNESS
-Figure 1: A variety of specimen images.
-
 While the above photos are digital representations of specimens, they do not provide the same degree of information. When producing specimen images for digitisation we need to ask ourselves ‘why are we taking this image?’ The information about the specimen that we want to capture affects the type of image we should create.
 
 In digitisation we want to produce an image of high quality and standardisation which captures as much detail about the specimen as possible. This includes colour, morphology, date of collection, species, and additional label information. The more aspects of a specimen that can be, the more information can be extracted about the specimen without the need to handle the specimen itself. Including label data in the image allows more of the information connected to a specimen to be kept together and this simplifies later analysis.
 
-![images exmaples](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/insect_and_plant.png?raw=true)
-Figure 2: Good examples of specimen images. On the left, a pinned specimen of *Colias hyale*, and on the right a herbarium sheet of *Malcolmia littorea*.
+![images exmaples](/images/Photography/insect_and_plant.png?raw=true)
+Figure 1: Good examples of specimen images. On the left, a pinned specimen of *Colias hyale*, and on the right a herbarium sheet of *Malcolmia littorea*.
 
 The aim of this module is to provide a general background to the use of photography for digitising museum specimens. We give an overview of many aspects of photography, from camera set up to automated photo editing. This module also introduces and explains many of the jargon terms in the photographic workflows detailed elsewhere on this site. The aim is for users to be familiar with technical terms used in workflows and understand why certain settings/specifications are recommended. The core message is that you do not need to be a photography expert to produce good digitisation images of your specimens, but a grasp of basic ideas will aid in workflow implementation, help you to understand the photography process and help resolve issues that may arise.
 
@@ -35,8 +32,8 @@ In this module, we have several sections that will take you through various aspe
 ## Types of cameras
 There are many types of cameras available. With the pace of technology, it can be very hard to keep pace with developments and what is right for you to use for your digitisation project. The most used type of camera used in digitisation workflows are SLR cameras, (Single Lens Reflex), modern versions of which are sometimes referred to as DSLR (Digital Single Lens Reflex). SLR cameras have been around for nearly 90 years and widely used by professional photographers for the [last 60](https://en.wikipedia.org/wiki/Nikon_F), with many of the defining images of the latter half of the last century being taken on 35mm film using an SLR. Some examples, showing the evolution of such cameras are shown below:
 
-![SLr evolution](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/evolution_of_slrs.png?raw=true)
-Figure 3: the evolution of SLR cameras. Top row, left to right: Exakta (1936) [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kine_Exakta_1_1936_02.jpg); the Nikon F (1959) [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nikon_F_SLR_camera_with_NIKKOR-S_Auto_1,4_f%3D5,8cm.JPG); Minolta Maxxum 7000 (1985) [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:7K-front.jpg). Bottom row: Nikon QV-1000C (1988) [DIGICAMMUSEUM.COM](https://www.digitalkameramuseum.de/en/esvc/item/nikon-qv-1000c-1988); Nikon D5500 (2010) [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2017_Nikon_D5500.jpg); Panasonic Lumuix S1R (2019) [ePHOTOzine 2022](https://www.ephotozine.com/articles/panasonic-lumix-s1r-review-33389/images/1000-Panasonic-Lumix-S1R-with-24-105mm-f4-4_1553096393.jpg) (mirrorless camera - next step beyond SLR). 
+![SLr evolution](/images/Photography/evolution_of_slrs.png?raw=true)
+Figure 2: the evolution of SLR cameras. Top row, left to right: Exakta (1936) [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kine_Exakta_1_1936_02.jpg); the Nikon F (1959) [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nikon_F_SLR_camera_with_NIKKOR-S_Auto_1,4_f%3D5,8cm.JPG); Minolta Maxxum 7000 (1985) [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:7K-front.jpg). Bottom row: Nikon QV-1000C (1988) [DIGICAMMUSEUM.COM](https://www.digitalkameramuseum.de/en/esvc/item/nikon-qv-1000c-1988); Nikon D5500 (2010) [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2017_Nikon_D5500.jpg); Panasonic Lumuix S1R (2019) [ePHOTOzine 2022](https://www.ephotozine.com/articles/panasonic-lumix-s1r-review-33389/images/1000-Panasonic-Lumix-S1R-with-24-105mm-f4-4_1553096393.jpg) (mirrorless camera - next step beyond SLR).
 
 **Advantages of SLRs include:**
 * Full control of all settings during taking of the photograph (we will discuss why this is important later)
@@ -62,16 +59,16 @@ The cameras used for digitisation do not need to be overly fancy and off the she
 
 For example, let's compare the two cameras shown below.
 
-![side_by_side images of Hasselblad and Panasonic cameras](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/hassleblad_vs_panasonic.png?raw=true)
-Figure 4: Two cameras - two very differnet prices. Image sources [Hasselblad 2022](https://cdn.hasselblad.com/f/77891/2048x1075/2f39dbdf34/h6d_front_darkgrey.jpg) (left), [ePHOTOzine 2022](https://www.ephotozine.com/articles/panasonic-lumix-s1r-review-33389/images/1000-Panasonic-Lumix-S1R-with-24-105mm-f4-4_1553096393.jpg) (Right).
+![side_by_side images of Hasselblad and Panasonic cameras](/images/Photography/hassleblad_vs_panasonic.png?raw=true)
+Figure 3: Two cameras - two very differnet prices. Image sources [Hasselblad 2022](https://cdn.hasselblad.com/f/77891/2048x1075/2f39dbdf34/h6d_front_darkgrey.jpg) (left), [ePHOTOzine 2022](https://www.ephotozine.com/articles/panasonic-lumix-s1r-review-33389/images/1000-Panasonic-Lumix-S1R-with-24-105mm-f4-4_1553096393.jpg) (Right).
 
 The left-hand image is of the **H-system camera from Hasselblad**, and is one of the most advanced DLSR cameras easily orderable online and is capable of taking 100 to 400 megapixels images. However, at a cost of $32,995 (not including lenses) this is far too expensive for most digitisation projects. Additionally, images of such high quality are generally unnecessary for specimen analysis and are difficult to store. Much cheaper options are often better, such as the **Panasonic Lumix** S1R shown on the right and used in our ![herbarium workflow](link when it's ready). This camera cost in the region of £3,000 and takes single image shots of 47 megapixels or stacked shots up to 187 megapixles. In summary, while these two cameras have a roughly 10-fold difference in cost, this does not translate into a ten-fold difference in image quality.
 
 
 When choosing a camera for digitisation, it is recommended to stick to one brand of SLR camera for your workflows. While camera design is quite conservative, there are differences between makes in their button layout, cable positioning, batteries, tethering programs etc. Sticking with one make means that cameras and their parts can be interchanged with minimal fuss. New versions of the cameras are frequently released, but often don’t result in large scale changes. Even if the model you are using is dis-continued you are still likely to get good replacement parts or hire specific pieces of equipment if you’re using one of the major brands. Sticking to one brand of camera within your institution also makes training new digitisers easier. The main SLR cameras are produced by Canon, Nikon, and Panasonic, but other brands exist too and are all fairly similar in appearance and in operating.
 
-![conservative camera design](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/conservation_camera_design.png?raw=true)
-Figure 5: camera deign is quite conservative. These three cameras are made by three different companies and are a mixture of DSLRs and mirrorless cameras. Despite this, the three are very similar and without brand names would be difficult for the acergae person to tell them apart. Even the buttons are often in the smae places. From left to right: Nikon D5500 (2010) [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2017_Nikon_D5500.jpg); Canon EOS 5D Mark IV [Wikimedia commons](https://commons.wikimedia.org/wiki/File:Canon_EOS_5D_Mark_IV_and_EF_11-24mm_F4L_USM.jpg); Panasonic Lumix S1R [ePHOTOzine 2022](https://www.ephotozine.com/articles/panasonic-lumix-s1r-review-33389/images/1000-Panasonic-Lumix-S1R-with-24-105mm-f4-4_1553096393.jpg)
+![conservative camera design](/images/Photography/conservation_camera_design.png?raw=true)
+Figure 4: camera deign is quite conservative. These three cameras are made by three different companies and are a mixture of DSLRs and mirrorless cameras. Despite this, the three are very similar and without brand names would be difficult for the acergae person to tell them apart. Even the buttons are often in the smae places. From left to right: Nikon D5500 (2010) [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2017_Nikon_D5500.jpg); Canon EOS 5D Mark IV [Wikimedia commons](https://commons.wikimedia.org/wiki/File:Canon_EOS_5D_Mark_IV_and_EF_11-24mm_F4L_USM.jpg); Panasonic Lumix S1R [ePHOTOzine 2022](https://www.ephotozine.com/articles/panasonic-lumix-s1r-review-33389/images/1000-Panasonic-Lumix-S1R-with-24-105mm-f4-4_1553096393.jpg)
 
 
 Finally, remember that the best camera body in the world will not produce decent results if the attached lens is not up to the same standards, so you should budget for the lenses you will need in your calculations. Some cameras will be sold bundled with inexpensive “kit” lenses which are suitable for general photography, but you may also want to look at professional specialist lenses as well. In some cases, second-hand cameras or lenses could provide a more cost effective way to acquire the necessary equipment.
@@ -96,10 +93,10 @@ Details on how to do each of these steps should be found in the manual included 
 ## Depth of field
 A consideration when photographing 3D specimens is depth of field - the distance between the lens and parts of an object that are in focus. Depth of field is determined by the camera’s aperture setting (see glossary), lens focal length, and the distance to the subject.
 
-![Callomon depth of field exmaple](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/depth_of_field_example.PNG?raw=true)
-Figure 6: The effect of depth of field on a specimen - image from [Callomon 2021](https://www.researchgate.net/publication/350530306_A_basic_guide_to_specimen_photography_in_museum_collections). 
+![Callomon depth of field exmaple](/images/Photography/depth_of_field_example.PNG?raw=true)
+Figure 5: The effect of depth of field on a specimen - image from [Callomon 2021](https://www.researchgate.net/publication/350530306_A_basic_guide_to_specimen_photography_in_museum_collections).
 
-Both pictures are taken of the same specimen using the same camera but using different apertures (left, f3.2; right, f32). The smaller aperture creates better contrast and clarity in the image but also required seven times as much light. 
+Both pictures are taken of the same specimen using the same camera but using different apertures (left, f3.2; right, f32). The smaller aperture creates better contrast and clarity in the image but also required seven times as much light.
 
 
 **Increase depth of field**
@@ -115,15 +112,15 @@ It is tempting to think that all that needs to be done is to “stop down” the
 
 While the aperture can be altered to optimise the depth of view, some specimens will simply have too great a 3D size to be captured the specimen in focus in a single photo.
 
-For example, consider these two phtoos below: 
+For example, consider these two phtoos below:
 
-![fly_depths](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/fly_limited_depth_of_field.png?raw=true)
-Figure 7: same image different dpeths of fieldthe photos below are shot with the same depth of field but focused over different distances. In the left photo the fly’s head is in focus, but not its abdomen. The right photo the abdomen is in focus, but not its head. Taken by [Muhammad Mahdi Karim - Wikimedia commons](https://commons.wikimedia.org/wiki/User:Muhammad_Mahdi_Karim).
+![fly_depths](/images/Photography/fly_limited_depth_of_field.png?raw=true)
+Figure 6: same image different dpeths of fieldthe photos below are shot with the same depth of field but focused over different distances. In the left photo the fly’s head is in focus, but not its abdomen. The right photo the abdomen is in focus, but not its head. Taken by [Muhammad Mahdi Karim - Wikimedia commons](https://commons.wikimedia.org/wiki/User:Muhammad_Mahdi_Karim).
 
 In some cases, such as this, the issue of depth of view on 3D-objects can be resolved by image stacking:
 
-![stacked_fly_photo](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/stacked_fly.png?raw=true)
-Figure 8: same image as Figure 7 but with images stacked. The whole fo the fly's body is now in focus. Taken and produced by [Muhammad Mahdi Karim - Wikimedia commons](https://commons.wikimedia.org/wiki/User:Muhammad_Mahdi_Karim).
+![stacked_fly_photo](/images/Photography/stacked_fly.png?raw=true)
+Figure 7: same image as Figure 7 but with images stacked. The whole fo the fly's body is now in focus. Taken and produced by [Muhammad Mahdi Karim - Wikimedia commons](https://commons.wikimedia.org/wiki/User:Muhammad_Mahdi_Karim).
 
 
 Depth of field is a highly complex factor to control. If you are interested check out this very [thorough account of depth of field](https://www.largeformatphotography.info/articles/DoFinDepth.pdf)
@@ -131,24 +128,24 @@ Depth of field is a highly complex factor to control. If you are interested chec
 ## Resolution
 The quality and clarity of an image is determined by its resolution. Digital images are displayed on screens using pixels, and the image displayed is created by controlling the colour/brightness of each pixel. The more pixels making up a screen, the more fine detail the image can depict. Below we have a series of images of different resolutions each attempting to show the same letter R.
 
-![R resolution exmaple](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/Resolution_illustration.png?raw=true)
-Figure 9: Same image different resolutions [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Resolution_illustration.png).
+![R resolution exmaple](/images/Photography/Resolution_illustration.png?raw=true)
+Figure 8: Same image different resolutions [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Resolution_illustration.png).
 
-Here we have a series of square images composed of different numbers of pixels. The numbers above each picture indicate the length and breadth of each image in pixels. 
+Here we have a series of square images composed of different numbers of pixels. The numbers above each picture indicate the length and breadth of each image in pixels.
 
 We can see how the clarity of the image increases from left to right. The right-hand image is composed of 10,000 pixels (100x100) and therefore has a far greater resolution than the other images. In digitisation, we typically want to produce high-resolution images of specimens which contain fine details for analysis and specimen comparison.
 
 For example consider these two similar images showing a specimen of the butterfly *Colias hyale*:
 
-![two images of the different resolution](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/high_low_res_image1.png?raw=true)
-Figure 10: Two images of *Colias hyale*, left 50Mp, right 0.046Mp.
+![two images of the different resolution](/images/Photography/high_low_res_image1.png?raw=true)
+Figure 9: Two images of *Colias hyale*, left 50Mp, right 0.046Mp.
 
 These two images were taken with the same camera and with the same settings (1/80, f/10, 400). However, the one on the left is the camera's RAW format using its maximum resolution (~50Mp). The one on the right was saved as a .jpeg using a much lower resolution (0.046Mp - the camera’s lowest setting). When viewing the two pictures at this scale, they appear very similar - the specimen can be seen clearly and the label is readable. This could tempt us to use the lower resolution since the space taken up by this file is  only 1/415 the size of the higher resolution image (164Kb vs 68,216Kb).
 
-However, lower resolution means a loss of finer detail. In the series of images below, the same area of each image is shown comparing the same space in both high and low resolution images. 
+However, lower resolution means a loss of finer detail. In the series of images below, the same area of each image is shown comparing the same space in both high and low resolution images.
 
-![zoomed in images of different resolution](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/low_vs_high_res.png?raw=true)
-Figure 11: close ups of the images shown in Figure 10. The top row is the high quality image (~50Mp) and the bottom row is the low quality image (0.046Mp).
+![zoomed in images of different resolution](/images/Photography/low_vs_high_res.png?raw=true)
+Figure 10: close ups of the images shown in Figure 10. The top row is the high quality image (~50Mp) and the bottom row is the low quality image (0.046Mp).
 
 The resolution is typically expressed in megapixels, i.e. the number of million pixels the camera has available to create an image. Generally, the greater the number of megapixels available to the camera, the greater quality and clarity the image will have. While the number of megapixels the average camera can utilise has increased greatly in recent times, any image of 12 megapixels or greater is satisfactory for digitisation, although images of at least >20 megapixels are now common.
 
@@ -171,7 +168,7 @@ Unfortunately, abbreviations are quite common in computational topics such as fi
 
 Photo extension names either refer to the way in which a file type stores data (e.g. .tiff) or the group who created it (e.g. .jpg).
 
-![Table_of_file-types_and_compression](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/compression_table.png?raw=true)
+![Table_of_file-types_and_compression](/images/Photography/compression_table.png?raw=true)
 
 ## Light
 In specimen photography it is essential to have a consistent source and level of light. Each image should be taken under the same lighting conditions. This allows comparisons to be made between images as all light is standardised.
@@ -189,8 +186,8 @@ Colour temperature controls how warm or cold the light feels. Contrast the cold 
 
 The colour temperature can affect the appearance of the specimen image. Imaging set ups should use a neutral Kelvin level that maintains accurate colouration as much as possible while also being well lit and bright.  Something in the region of 4000 to 5500 is ideal. Kelvin can be measured using either a spectrometer (often very expensive), or alternatively this is usually stated on lightbulbs. It is also possible to get a measure of Kelvin from the camera itself.
 
-![representation of light colour scale](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/kelvin_scale.png?raw=true)
-Figure 12: Illustration of the Kelvin scale. Lower Kelvin values produce warmer/yellower light, whereas higher Kelvin values produce colder/bluer light. Image adpated from [LEDlightingwholesaleinc.com](https://www.ledlightingwholesaleinc.com/Understanding-Lumens-vs-Kelvin-s/399.htm).
+![representation of light colour scale](/images/Photography/kelvin_scale.png?raw=true)
+Figure 11: Illustration of the Kelvin scale. Lower Kelvin values produce warmer/yellower light, whereas higher Kelvin values produce colder/bluer light. Image adpated from [LEDlightingwholesaleinc.com](https://www.ledlightingwholesaleinc.com/Understanding-Lumens-vs-Kelvin-s/399.htm).
 
 Sources of ambient light - lighting in the studio, coming in through the windows - will cause a condition known as “mixed lighting” and will change the colour correctness of the image. Unless you are using strobes/flash, all of that will matter. Camera rigs and light boxes that can help remove sources of ambient light are an excellent way to get consistent light levels in images.
 
@@ -201,7 +198,7 @@ A good way to check if you have mixed lighting is to take two photos, camera set
 ### Which lights should you buy?
 This is a complex and sometimes contentious issue, as there are so many issues to consider - but as long as your light meets the criteria outlined at the start of this section, there are a number of choices you could make. In recent years there has been significant crossover between the sectors of photography and cinematography, and as a result, many light types can now be considered as “dual-purpose”.
 
-![table of different lighting sources](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/lighting_table.png?raw=true)
+![table of different lighting sources](/images/Photography/lighting_table.png?raw=true)
 
 
 ## Colour and white balance
@@ -211,16 +208,16 @@ The solution to this is to use colour standards or a white balance chart to cali
 
 Standards can simply be a white/grey scale used to control the brightness or reflectance of an image while other are larger palettes with a range of colours. These are more useful when colour is an aim of the specimen’s image capture:
 
-[shade and colour pallates](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/standards_examples.png?raw=true)
-Figure 13: Examples fo colour palletes used in specimen photography. The left-hand image is a close up of the palette used in [herbarium sheet photogrrphy at the NHM](link when ready) and used several colours and shades. The right-hand image shows an exmaple from [Cooney et al. 2019](https://www.nature.com/articles/s41467-020-16257-x) where only grey-scale standards are used.
+[shade and colour pallates](/images/Photography/standards_examples.png?raw=true)
+Figure 12: Examples fo colour palletes used in specimen photography. The left-hand image is a close up of the palette used in [herbarium sheet photogrrphy at the NHM](link when ready) and used several colours and shades. The right-hand image shows an exmaple from [Cooney et al. 2019](https://www.nature.com/articles/s41467-020-16257-x) where only grey-scale standards are used.
 
 Palettes and standards can be bought [online](https://www.xrite.com/) and are a standard feature in photography. Prices generally range between £50 and £100 which may seem a bit steep for what seems like a bit of card, but they are important to produce quality and comparable digital images of specimens.
 
 ## Photography set ups
 From the above sections you can see that there is a lot to consider when setting up specimen photography. A useful way to standardise and control your digitisation imaging is to have a dedicated set up and camera rig connected to a computer, for example:
 
-![image of two setups](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/set_ups.png?raw=true)
-Figure 14: two imaging set ups for imagign different specimen types, on the left slide imaging, and on the herbarium sheets. The setups themselves are quite similar, with a copy stand fixing a single camera above a light box, into which the speimen is placed. 
+![image of two setups](/images/Photography/set_ups.png?raw=true)
+Figure 13: two imaging set ups for imagign different specimen types, on the left slide imaging, and on the herbarium sheets. The setups themselves are quite similar, with a copy stand fixing a single camera above a light box, into which the speimen is placed.
 
 Set ups like these allows you to standardise the light in each image, avoid external or fluctuating light sources, have a consistent defined image size, a stable shot, and even a scale when the camera is a defined distance from the object. All these aspects make the images captured more consistent between days and setups and improve the quality of analysis that can be performed upon digitised images.
 
@@ -236,15 +233,15 @@ When setting up your imaging setup you also need to consider what you would like
 ## Taking photos with the computer
 In most digitisation workflows images are captured using a tethering program on a computer. The camera and computer are linked using a cable. Most major camera brands have tethering programs that automatically launch when the camera is connected. An example of one is shown here:
 
-![annotated tethering diagram](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/tethering_settings.png?raw=true)
-Figure 15: A close up of a tethering program window (for Canon EOS models). The three main controls, ISO, shutter-speed, and arperture are highlighted (Details of these later in the module). 
+![annotated tethering diagram](/images/Photography/tethering_settings.png?raw=true)
+Figure 14: A close up of a tethering program window (for Canon EOS models). The three main controls, ISO, shutter-speed, and arperture are highlighted (Details of these later in the module).
 
 The advantage of such programs is that the camera can be left untouched during the image capture process. Manual touching of the camera could inadvertently move the position of the camera or a change in settings. Photo settings can also be set on the computer which can often be clearer and more obvious to do than on the camera itself.
 
 Finally, the ‘live view’ available on most tethering programs is useful for showing what the camera sees without looking through the lens. This is particularly useful when the camera is fixed in an awkward position, as is typical with photography rigs.
 
-![live camera view exmaple](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/brighter_live screen_capture_slide.png?raw=true)
-Figure 16: Example of the live camera view window. Here a slide of *Thrips tabaci* is shown. The image appears unsidedown due to the oruienattion fo the camera - this can be fixed later.
+![live camera view exmaple](/images/Photography/brighter_live screen_capture_slide.png?raw=true)
+Figure 15: Example of the live camera view window. Here a slide of *Thrips tabaci* is shown. The image appears unsidedown due to the oruienattion fo the camera - this can be fixed later.
 
 With the live view, we can look through the camera from the comfort of the computer screen which enables us to test the settings and framing of the image we are going to take.
 
@@ -258,24 +255,24 @@ Barcoding is a standard step in digitisation. Barcodes are used to assign unique
 
 Programs such as [**BardecodeFiler**](https://www.bardecode.com/en1/app/bardecodefiler/) can read barcodes from images. It can use these to read which species the image depicts and create a digital record for that image. For example, the image of slide below:
 
-![annotated barcode image](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/annotated_barcode_image.png?raw=true) 
-Figure 17: Slide specimen of the thrip *Quadraceps hopkinsi* showing all associated barcodes. Each barcode tells us somethings different about the specimen and allows a digital record to be created. 
+![annotated barcode image](/images/Photography/annotated_barcode_image.png?raw=true)
+Figure 16: Slide specimen of the thrip *Quadraceps hopkinsi* showing all associated barcodes. Each barcode tells us somethings different about the specimen and allows a digital record to be created.
 
 By using ‘hot folders’ the process of barcode reading can be automated as each photo is passed to BarcodeFiler as soon as the photo appears in the folder. Barcodefiler is also able to split barcodes when several specimens appear in the same image, for example:
 
-<img src="/images/bdherbexample.png" alt="herbarium sheet with many barcodes" height="500">
-Figure 18: A single herbaium sheet with multiple specimens of *Cardamine pratensis*. To image each of these speimens independantly would be difficult and time consuimg. A barcode is attached to each specimen meanign that a single image can apply to several specimens.  
+![sheet with many barcodes](/images/Photography/bdherbexample.png?raw=true)
+Figure 17: A single herbaium sheet with multiple specimens of *Cardamine pratensis*. To image each of these speimens independantly would be difficult and time consuimg. A barcode is attached to each specimen meanign that a single image can apply to several specimens.  
 
 ### Auto-cropping
 Specimen photographs often contain extra information that we don’t want to publish like drawer numbers, storage location, bar codes etc. For example consider this picture:
 
-![pre cropped slide](/images/pre-cropped_slide.png?raw=true)
-Figure 19: A slide specimen of the thrip *Quadraceps hopkinsi* as initially imaged byt he camera.
+![pre cropped slide](/images/Photography/pre-cropped_slide.png?raw=true)
+Figure 18: A slide specimen of the thrip *Quadraceps hopkinsi* as initially imaged byt he camera.
 
 The information at the top of this picture is unnecessary or even a security risk as it the barcodes on the right include where the specimen is stored within the museum. Such sensitive information can be removed by cropping.
 
-![slide post cropping](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/cropped_slide.png?raw=true)
-Figure 20: The same image shown in Figure 19, but passed through automated software to cropout barcodes. This image can be used for publication. 
+![slide post cropping](/images/Photography/cropped_slide.png?raw=true)
+Figure 19: The same image shown in Figure 19, but passed through automated software to cropout barcodes. This image can be used for publication.
 
 This process can be automated if images are in a series and the image size and the location of cropped information is standardised. The above example was performed using [**XnConvert**](https://www.xnview.com/en/xnconvert/) and can automatically cut a specified number of pixels from each photo that is taken.
 
@@ -290,8 +287,8 @@ The main three terms used in photography are **ISO**, **aperture**, and **shutte
 
 To illustrate the different components of photo exposure we will make comparison to this well exposed photo:
 
-![base settings image for comparison](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/base_settings_F_10_ISO400.JPG?raw=true)
-Figure 21: Image shows a single specimen of *Colias hyale* (the pale clouded yellow). The exposure settings used were: shutter speed = 1/80; ISO = 400, and aperture f/10. 
+![base settings image for comparison](/images/Photography/base_settings_F_10_ISO400.JPG?raw=true)
+Figure 20: Image shows a single specimen of *Colias hyale* (the pale clouded yellow). The exposure settings used were: shutter speed = 1/80; ISO = 400, and aperture f/10.
 
 We will now explore how each of these three factors affects the images produced.
 
@@ -300,8 +297,8 @@ Unless you have a good reason not to, you should keep the ISO as low as possible
 
 Altering the ISO in our example photo from before, we can see the effect different ISO values have on the image.
 
-![photos of different ISOs](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/comp_ISO.png?raw=true)
-Figure 22: Same specimen as Figure 21, but with different ISO values applied. Starting with the top image and then left to right, the ISO in each image is: 100, 1000, 3200.
+![photos of different ISOs](/images/Photography/comp_ISO.png?raw=true)
+Figure 21: Same specimen as Figure 21, but with different ISO values applied. Starting with the top image and then left to right, the ISO in each image is: 100, 1000, 3200.
 
 In each of these images the shutter speed and aperture are unchanged from the original photo (1/80, f/10), but with different ISO values. You’ll see that the higher the ISO the brighter the image is as the sensor is more sensitive to light that is coming into the camera.
 
@@ -310,33 +307,33 @@ Shutter speed is measured by the length of time the shutter is open, usually in 
 
 Look at these images of our example specimen which were taken with different shutter speeds.
 
-![photos of different SS](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/comp_SS.png?raw=true)
-Figure 23: Same specimen as Figure 21, but with different shutter speeds used. Clockwise starting from the top left, the shutter speeds used were: 1/6, 1/30, 1/1600, 1/800. 
+![photos of different SS](/images/Photography/comp_SS.png?raw=true)
+Figure 22: Same specimen as Figure 21, but with different shutter speeds used. Clockwise starting from the top left, the shutter speeds used were: 1/6, 1/30, 1/1600, 1/800.
 
 Remember that shutter speeds are expressed in fractions of a second , meaning that an shutter speed of ⅙ mean s that the shutter is open for much longer than a shutter speed of 1/800. The longer the shutter is open, the more light falls on the sensor, creating a brighter image.
 
 **Aperture** – the size of the opening in the lens through which light passes. Controls how much and the area of light that enters. Aperture affects the depth of field of a photo (see below). Aperture is measured as a f-number, written as f/##. A smaller f-number, e.g. f/1.4, indicates a larger aperture, whereas a larger number, e.g. f/16, indicates a smaller aperture.
 
-![aperture range](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/arperture_size.jpg?raw=true)
-Figure 24: Range of relative aperture sizes with thier F/# notation. [Wikimedia commons](https://commons.wikimedia.org/wiki/File:Aperture_diagram.svg)
+![aperture range](/images/Photography/arperture_size.jpg?raw=true)
+Figure 23: Range of relative aperture sizes with thier F/# notation. [Wikimedia commons](https://commons.wikimedia.org/wiki/File:Aperture_diagram.svg)
 
 Below we have a series of images taken with different aperture sizes.
 
-![photos of different aperture](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/comp_arpeture.png?raw=true)
-Figure 25:  Same specimen as Figure 21, but with different apertures used. Clockwise from top left the aperture sizes are: f/3.2, f/7.1, f/14, and f/25. 
+![photos of different aperture](/images/Photography/comp_arpeture.png?raw=true)
+Figure 24:  Same specimen as Figure 21, but with different apertures used. Clockwise from top left the aperture sizes are: f/3.2, f/7.1, f/14, and f/25.
 
 We can see that the larger the aperture, the more light enters the camera and the brighter the image is.
 
 ### Exposure summary
-The ISO, aperture, and shutter speed all affect the exposure (i.e. the amount of light) in different ways and need to be optimised and balanced to create a decent specimen image. 
+The ISO, aperture, and shutter speed all affect the exposure (i.e. the amount of light) in different ways and need to be optimised and balanced to create a decent specimen image.
 
-![similar photos with different settings](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/comp_diff_settings_same_result.png?raw=true)
-Figure 26: Three images of the *Colias hyale* specimen taken with different exposure settings. Despite the differe settings applied, the resultant images are almost the same as in each one the different settings are balanced. Top - 1/80 400, f/10; bottom left - 1/10, 100, f/14; bottom right - 1/50, 1600, f/25. 
+![similar photos with different settings](/images/Photography/comp_diff_settings_same_result.png?raw=true)
+Figure 25: Three images of the *Colias hyale* specimen taken with different exposure settings. Despite the differe settings applied, the resultant images are almost the same as in each one the different settings are balanced. Top - 1/80 400, f/10; bottom left - 1/10, 100, f/14; bottom right - 1/50, 1600, f/25.
 
-The different camera settings can be confusing to get your head around. The following figure should help with this and summarises the effect of each factor. However, following the specifications in established workflows will hopefully prevent you from taking under or over exposed photos. 
+The different camera settings can be confusing to get your head around. The following figure should help with this and summarises the effect of each factor. However, following the specifications in established workflows will hopefully prevent you from taking under or over exposed photos.
 
-![exposure triangle diagram](https://github.com/lmfrench/lmfrench.github.io/blob/main/images/exposure_triangle.png?raw=true)
-Figure 27: Representation of the exposure triangle of ISO, shutter speed, and aperture. For a different approach to explaining exposure check out his [video](https://www.youtube.com/watch?v=YAt4315-uH4).
+![exposure triangle diagram](/images/Photography/exposure_triangle.png?raw=true)
+Figure 26: Representation of the exposure triangle of ISO, shutter speed, and aperture. For a different approach to explaining exposure check out his [video](https://www.youtube.com/watch?v=YAt4315-uH4).
 
 ## Concluding, references and other sources
 This module aimed to give a better understanding of the factors involved in specimen photography and should help you with your own digitisation efforts. This page is not and definitive source of information, but should give you a good starting point to build your understanding. Different specimen types and situation may require alternative approaches to those we've covered here.\
@@ -350,11 +347,18 @@ Below is a list of resources where you can find additional information. Many wer
 - [Biodiversity Informatics 101 Workshop at Biodiversity Next - October 2019](https://github.com/tdwg/curriculum/blob/master/biodiversity-informatics-101/bi101_schedule_2019.md)\
 
 ## Examples of photography workflows
-Pinned insects – (link page when it exists)\
-Herbarium sheets - (link page when it exists)
-\
-\
-\
-\
-This page was written by Michael Jardine (Natural History Museum London (NHM)) and Simon Harris (British Geological Survey). Additional input was provided by: Lawrence Livermore, Peter Wing, Ella Howes, Lisa French, and Helen Hardy (all NHM).
-All images and text, apart from were it is specifically stated optherwise, are the property of the authors, DiSSCo UK, and the Natural History Museum London, and are availible through a [creative commons liscence](http://creativecommons.org/licenses/by/4.0/) 
+Pinned insects – (https://dissco.github.io/PinnedInsect/NHM%20single%20camera%20pinned%20insects.html)\
+Herbarium sheets - (https://dissco.github.io/HerbariumSheets/NHMHerbariumSheetDigitisationWorkflow.html)
+Geological thin sections - (https://dissco.github.io/Geo/thin_sections.html)
+
+## Authors
+Michael Jardine, Simon Harris, Peter Wing, Ella Howes, Lisa French, Laurence Livermore, Helen Hardy
+
+## Licence
+The content of this workflow is the property of the Trustees of the Natural History Museum and may be used under a [creative commons licence](http://creativecommons.org/licenses/by/4.0/)
+
+## Document Control
+1.0
+
+## Citation
+Jardine, MD.,  Harris, S., Wing, P., Howes, E., French, L., Livermore, L. & Hardy, H. (2022) DiSSCo Digitisation Guide: Guide to specimen photography. version 1.0. Available at: https://dissco.github.io/SpecimenImageCapture/SpecimenImageCapture.html
