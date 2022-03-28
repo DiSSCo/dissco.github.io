@@ -16,7 +16,7 @@ nav_exclude: true
 {:toc}
 </details>
  
-![BR000005182879](/images/HerbariumSheets/MeiseBG/BR0000005182879.jpg) 
+
  
 
  
@@ -175,4 +175,5 @@ Nieva de la Hidalga , Paul L Rosin , Xianfang Sun , Ann Bogaerts , Niko De Meete
 ## Document Control
 
 ## Citation
+
 
