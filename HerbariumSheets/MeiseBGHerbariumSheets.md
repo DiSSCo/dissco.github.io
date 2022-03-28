@@ -24,6 +24,8 @@ nav_exclude: true
 
 ![logo of the DOE! project](/images/HerbariumSheets/MeiseBG/4_6_DOE!_logo.jpg)
 
+![overview mass digitisation workflow DOE](/images/HerbariumSheets/MeiseBG/overview mass digitisation workflow DOE!-overview.jpg)
+
 This workflow was designed for the first mass digitisation project DOE! (Digitale Ontsluiting erfgoedcollecties = Unlocking Heritage collections) of the herbarium BR at Meise Botanic Garden. The aim of this project was to digitise the entire African and Belgian collection of vascular plants housed at BR (ca. 1,2 million flat herbarium sheets) within 3 years (2015-2018).\
 Two workflow lines were created: one for the major part of the project where an external company was hired for the image capture and data transcription, a second line for digitising the exceptions in house.
 
