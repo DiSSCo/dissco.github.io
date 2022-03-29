@@ -1,6 +1,7 @@
 ---
 title: Photography setups
 parent: Specimen Image Capture
+nav_order: 7
 ---
 
 ## 7. Photography setups
