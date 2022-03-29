@@ -1,6 +1,7 @@
 ---
 title: Introduction to specimen photography
 parent: Specimen Image Capture
+nav_order: 1
 ---
 
 # 1. Introduction to specimen photography
