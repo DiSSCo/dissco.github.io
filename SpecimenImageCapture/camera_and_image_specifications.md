@@ -1,6 +1,7 @@
 ---
 title: Camera settings and specifications
 parent: Specimen Image Capture
+nav_order: 3
 ---
 
 # Camera settings and specifications
