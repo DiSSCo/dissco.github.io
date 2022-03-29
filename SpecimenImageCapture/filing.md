@@ -1,6 +1,7 @@
 ---
 title: Image files
 parent: Specimen Image Capture
+nav_order: 5
 ---
 
 # 5. Image files
