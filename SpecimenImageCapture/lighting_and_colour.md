@@ -1,6 +1,7 @@
 ---
 title: Light and colour
 parent: Specimen Image Capture
+nav_order: 6
 ---
 
 # 6. Light and colour
