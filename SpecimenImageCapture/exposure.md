@@ -1,6 +1,7 @@
 ---
 title: The exposure triangle
 parent: Specimen Image Capture
+nav_order: 4
 ---
 
 # 4. The exposure triangle
