@@ -43,9 +43,9 @@ The advantage of such programs is that the camera can be left untouched during t
 
 Finally, the ‘live view’ available on most tethering programs is useful for showing what the camera sees without looking through the lens. This is particularly useful when the camera is fixed in an awkward position, as is typical with photography rigs.
 
-![live camera view exmaple](/images/Photography/brighter_live screen_capture_slide.png?raw=true)
+![live camera view exmaple](/images/Photography/brighter_live_screen_capture_slide.PNG?raw=true)
 Figure 3: Example of the live camera view window. Here a slide of *Thrips tabaci* is shown. The image appears unsidedown due to the oruienattion fo the camera - this can be fixed later.
 
 With the live view, we can look through the camera from the comfort of the computer screen which enables us to test the settings and framing of the image we are going to take.
 
-Next page: [8. Automating image processing]()
+Next page: [8. Automating image processing](https://dissco.github.io/SpecimenImageCapture/automisation_processing.html)

@@ -31,7 +31,7 @@ Figure 1: Slide specimen of the thrip *Quadraceps hopkinsi* showing all associat
 
 By using ‘hot folders’ the process of barcode reading can be automated as each photo is passed to BardecodeFiler as soon as the photo appears in the folder. Bardecodefiler is also able to split barcodes when several specimens appear in the same image, for example:
 
-![sheet with many barcodes](/images/Photography/bdherbexample.png?raw=true)
+![sheet with many barcodes](/images/Photography/many_barcode_herbarium_example.png?raw=true)
 Figure 2: A single herbaium sheet with multiple specimens of *Cardamine pratensis*. To image each of these specimens independently would be difficult and time consuming. A barcode is attached to each specimen meaning that a single image can apply to several specimens.
 
 ## Auto-cropping
@@ -50,4 +50,4 @@ This process can be automated if images are in a series and the image size and t
 ## Automated text reading
 A major area of interest for digitisation is the potential for automatic transcription and the reading of specimen labels by artificial intelligence software. A lot of time is spent transcribing label information from images to produce detailed electronic records of each specimen. Computer programs have been developed to read text and translate this into electronic records, however this currently works much better with printed labels rather than handwritten ones. The technology is not currently good enough to be used on mass with digitisation efforts but improvements continue to be made and this may be a valuable and time-saving feature in the future. An example of such developments is described [here](https://riojournal.com/article/58030/)
 
-Next page: [9. Materials and references]()
+Next page: [9. Materials and references](https://dissco.github.io/SpecimenImageCapture/conclusion_and_materials.html)
