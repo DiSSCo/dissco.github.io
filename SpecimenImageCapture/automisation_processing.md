@@ -1,6 +1,7 @@
 ---
 title: Automating image processing
 parent: Specimen Image Capture
+nav_order: 8
 ---
 
 # 8. Automating image processing
