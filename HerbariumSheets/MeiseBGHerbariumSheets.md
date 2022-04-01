@@ -44,7 +44,7 @@ These workflows were followed for all specimens and folders already inserted int
 
 *1. pre-digitisation curation of the specimens*
 
-![predigitisation curation specimens](images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-pre%20digitisation%20curation_%20specimens.jpg)
+![predigitisation curation specimens](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-pre%20digitisation%20curation_%20specimens.jpg)
 
 This task was conducted by 15 technicians on a half time basis for 1,5 years. Also volunteers regularly helped. They have checked and prepared 1,2 million specimens this way.
 
@@ -83,7 +83,7 @@ Picturae installed a conveyor belt in a room next to the collection. They digiti
 
 *2. Internal workflow*
 
-![workflow internal imaging](images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-image%20capture%20intern.jpg)
+![workflow internal imaging](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-image%20capture%20intern.jpg)
 
 ![camera and examples of digitised specimens](/images/HerbariumSheets/MeiseBG/P1260741.JPG)
 
@@ -96,7 +96,7 @@ The specimens are renamed automatically after imaging. The filename of the image
 
 **Specimen Image Processing**
 
-![specimen image processing](images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-image%20QC%20and%20processing.jpg)
+![specimen image processing](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-image%20QC%20and%20processing.jpg)
 
 
 These processes are described in detail in the following publication:
@@ -115,7 +115,7 @@ filing name, barcode, collector, collector number, country as given, country cod
 *2. workflow internal process*\
 
 
-![internal label transcription](images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-data%20capture%20(internal process).jpg)
+![internal label transcription](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-data%20capture%20internal%20process.jpg)
 
 
 The online data sources for filing names are the following:\
@@ -139,11 +139,11 @@ DoeDat, a multilingual crowdsourcing platform based on DigiVol, was created to t
 
 **Quality control of the outsourced label transcription**
 
-![QC outsourced label transcription](images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-data%20QC.jpg)
+![QC outsourced label transcription](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-data%20QC.jpg)
 
 The quality of the data was measured using a subsample of the data file. The size of the subsample was determined using the table below:
 
-![subsample size](images/HerbariumSheets/MeiseBG/TableQCsubsample.jpg)
+![subsample size](/images/HerbariumSheets/MeiseBG/TableQCsubsample.jpg)
  
 
 Two types of errors were distinguished:
@@ -164,7 +164,7 @@ No georeferencing was requested to the contractor or was done in house. Only whe
 
 TIFF files are stored on tape at 3 different locations at the Flemish institute of Archiving (meemoo) for long term preservation. JP2 and JPEG derivatives are stored at the Botanic Garden on servers at two different locations. These derivatives are used for display on our virtual herbarium [botanicalcollections](www.botanicalcollections.be) and [GBIF](www.gbif.org)
 
-![data publishing on botanicalcollections.be](images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-online%20publication.jpg
+![data publishing on botanicalcollections.be](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-online%20publication.jpg)
 
 After the data export from BGBase, the related images are extracted from the archive and displayed on [botanicalcollections](www.botanicalcollections.be) and [GBIF](www.gbif.org). All specimens have a permanent URI and the data is rdf readable.
 
