@@ -44,7 +44,7 @@ These workflows were followed for all specimens and folders already inserted int
 
 *1. pre-digitisation curation of the specimens*
 
-![predigitisation curation specimens](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-pre%20digitisation%20curation_%20specimens.jpg)
+![predigitisation curation specimens](/images/HerbariumSheets/MeiseBG/overviewmassdigitisationworkflowDOE!-predigitisationcurationspecimens.jpg)
 
 This task was conducted by 15 technicians on a half time basis for 1,5 years. Also volunteers regularly helped. They have checked and prepared 1,2 million specimens this way.
 
