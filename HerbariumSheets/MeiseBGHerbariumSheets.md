@@ -24,7 +24,7 @@ nav_exclude: true
 
 ![logo of the DOE! project](/images/HerbariumSheets/MeiseBG/4_6_DOE!_logo_2.jpg)
 
-![overview mass digitisation workflow DOE!](/images/HerbariumSheets/MeiseBG/overview mass digitisation workflow DOE!-overview.jpg)
+![overview mass digitisation workflow DOE!](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-overview.jpg)
 
 This workflow was designed for the first mass digitisation project DOE! (Digitale Ontsluiting erfgoedcollecties = Unlocking Heritage collections) of the herbarium BR at Meise Botanic Garden. The aim of this project was to digitise the entire African and Belgian collection of vascular plants housed at BR (ca. 1,2 million flat herbarium sheets) within 3 years (2015-2018).\
 Two workflow lines were created: one for the major part of the project where an external company was hired for the image capture and data transcription, a second line for digitising the exceptions in house.
@@ -57,7 +57,7 @@ All exceptions were digitised in house and were extracted from the collection an
 
 *2. pre-digitisation of the covers*
 
-![pre-digitisation curation: folders](/images/HerbariumSheets/MeiseBG/overview mass digitisation workflow DOE!-pre digitisation curation folders.jpg)
+![pre-digitisation curation: folders](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-pre%20digitisation%20curation%20folders.jpg)
 
 The vascular plant herbarium specimens of BR are kept in 3 different subcollections: an African collection, a Belgian collection and a general collection. During this project all the specimens of the African and Belgian collection were digitised.
 
@@ -75,7 +75,7 @@ As mentioned before they were two streams of imaging:
 
 Picturae installed a conveyor belt in a room next to the collection. They digitised the folders with a QR code and all the specimens. The specimens and folders were picked up in the collection and were digitised in the same order as they are stored in the collection. After imaging, they were brought back to the collection. Picturae used a tracking system to make sure that all the specimens were at their original location after digitisation. Some 5000 specimens were imaged a day. It took them less than a year to image all 1,2 million sheets.
 
-![conveyor belt of Picturae at Meise Botanic Garden](/images/HerbariumSheets/MeiseBG/conveyor belt.jpg)
+![conveyor belt of Picturae at Meise Botanic Garden](/images/HerbariumSheets/MeiseBG/conveyor%20belt.jpg)
 
 
 *2. Internal workflow*
@@ -151,7 +151,7 @@ TIFF files are stored on tape at 3 different locations at the Flemish institute 
 
 After the data export from BGBase, the related images are extracted from the archive and displayed on [botanicalcollections](www.botanicalcollections.be) and [GBIF](www.gbif.org). All specimens have a permanent URI and the data is rdf readable.
 
-![detail page on botanicalcollections.be](/images/HerbariumSheets/MeiseBG/Schermafbeelding 2020-09-16 om 11.37.08.png)
+![detail page on botanicalcollections.be](/images/HerbariumSheets/MeiseBG/Schermafbeelding%202020-09-16%20om%2011.37.08.png)
 
 Part of our digital collection is also consultable on plants.jstor.org and europeana.
 
