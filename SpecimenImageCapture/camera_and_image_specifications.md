@@ -38,6 +38,7 @@ Details on how to do each of these steps should be found in the manual included 
 The quality and clarity of an image is determined by its resolution. Digital images are displayed on screens using pixels, and the image displayed is created by controlling the colour/brightness of each pixel. The more pixels making up a screen, the more fine detail the image can depict. Below we have a series of images of different resolutions each attempting to show the same letter R.
 
 ![R resolution exmaple](/images/Photography/Resolution_illustration.png?raw=true)
+
 Figure18: Same image different resolutions [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Resolution_illustration.png).
 
 Here we have a series of square images composed of different numbers of pixels. The numbers above each picture indicate the length and breadth of each image in pixels.
@@ -60,4 +61,4 @@ The resolution is typically expressed in megapixels, i.e. the number of million 
 
 Although more pixels means better quality images, more pixels also results in larger images, which take up more storage space and are slower to transfer. Also, an increase in image quality may not be observable for some users if their display screen is not also of a high resolution or if the image is not zoomed in enough. When deciding on an image size in megapixels it is important to consider these other factors rather than chasing ever higher numbers of pixels.
 
-Next page: [4. The exposure triangle]()
+Next page: [4. The exposure triangle](https://dissco.github.io/SpecimenImageCapture/exposure.html)

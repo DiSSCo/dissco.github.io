@@ -96,13 +96,15 @@ While the aperture can be altered to optimise the depth of view, some specimens 
 For example, consider these two phtoos below:
 
 ![fly_depths](/images/Photography/fly_limited_depth_of_field.png?raw=true)
+
 Figure 9: same image different dpeths of fieldthe photos below are shot with the same depth of field but focused over different distances. In the left photo the fly’s head is in focus, but not its abdomen. The right photo the abdomen is in focus, but not its head. Taken by [Muhammad Mahdi Karim - Wikimedia commons](https://commons.wikimedia.org/wiki/User:Muhammad_Mahdi_Karim).
 
 In some cases, such as this, the issue of depth of view on 3D-objects can be resolved by image stacking:
 
 ![stacked_fly_photo](/images/Photography/stacked_fly.png?raw=true)
+
 Figure 10: same image as Figure 7 but with images stacked. The whole fo the fly's body is now in focus. Taken and produced by [Muhammad Mahdi Karim - Wikimedia commons](https://commons.wikimedia.org/wiki/User:Muhammad_Mahdi_Karim).
 
 Depth of field is a highly complex factor to control. If you are interested check out this very [thorough account of depth of field](https://www.largeformatphotography.info/articles/DoFinDepth.pdf)
 
-Next page: [5. Image files]()
+Next page: [5. Image files](https://dissco.github.io/SpecimenImageCapture/filing.html)

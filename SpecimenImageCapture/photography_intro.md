@@ -20,6 +20,7 @@ nav_order: 1
 **Photography** is by far the simplest and widely used method to capture digital information about museum specimens. In fact some of the first photographs taken by camera pioneer William Fox Talbot in the were of botanical specimens which look very similar to those we take today.
 
 ![fox_talbot_example_umbelifer](/images/Photography/umbelifer_fox_talbot.jpg?raw=true)
+
 Figure 1: Dried Umbelifer specimen on a herbarium sheet produced by photography pioneer William Fox Talbot (1840-60s). Image from [The Talbot Catalogue- Oxford Univeristy](https://talbot.bodleian.ox.ac.uk/search).
 
 Specimen photography (or macro-photography) typically involves taking either a single or multiple images of a specimen using a camera. The cameras involved typically don’t differ much from those that can be bought off the shelf with a focus on usability and cost effectiveness being important to deliver successful digitisation projects across collections.  
@@ -39,4 +40,4 @@ Photography as means for specimen digitisation is most efficiently applied to sm
 
 Following this page we have a series of modules which take you through various aspects of digital photography. This is not an exhaustive review, but should help those of you who are new to photography with your digitisation projects. If you’re interested, additional links are provided on the final page.
 
-Next page: [2. Cameras - what to use?]()
+Next page: [2. Cameras - what to use?](https://dissco.github.io/SpecimenImageCapture/intro_to_cameras.html)
