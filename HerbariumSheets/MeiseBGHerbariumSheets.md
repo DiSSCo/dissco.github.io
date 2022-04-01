@@ -85,12 +85,13 @@ Picturae installed a conveyor belt in a room next to the collection. They digiti
 
 ![workflow internal imaging](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-image%20capture%20intern.jpg)
 
-![camera and examples of digitised specimens](/images/HerbariumSheets/MeiseBG/P1260741.JPG)
 
 For the inhouse imaging 3 stations are used. They all use a Pentax 645Z camera, image transmitter software and a black background with a fixed color scale. Images are made with a resolution of 450 DPI.
 
 While imaging, the TIFF files are stored on the server. For each imaging session, the operator needs to create a new folder using following structure:
 name operator/project/date
+
+![camera and examples of digitised specimens](/images/HerbariumSheets/MeiseBG/P1260741.JPG)
 
 The specimens are renamed automatically after imaging. The filename of the image is changed into the barcode which is used afterwards for linking with the label data.
 
