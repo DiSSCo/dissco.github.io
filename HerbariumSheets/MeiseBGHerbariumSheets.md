@@ -44,6 +44,8 @@ These workflows were followed for all specimens and folders already inserted int
 
 *1. pre-digitisation curation of the specimens*
 
+![predigitisation curation specimens](images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-pre%20digitisation%20curation_%20specimens.jpg)
+
 This task was conducted by 15 technicians on a half time basis for 1,5 years. Also volunteers regularly helped. They have checked and prepared 1,2 million specimens this way.
 
 ![pre-digitisation curation of the specimens](/images/HerbariumSheets/MeiseBG/voorbereiding.jpg)
@@ -94,6 +96,9 @@ The specimens are renamed automatically after imaging. The filename of the image
 
 **Specimen Image Processing**
 
+![specimen image processing](images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-image%20QC%20and%20processing.jpg)
+
+
 These processes are described in detail in the following publication:
 Nieva de la Hidalga , Paul L Rosin , Xianfang Sun , Ann Bogaerts , Niko De Meeter , Sofie De Smedt , Maarten Strack van Schijndel , Paul Van Wambeke , Quentin Groom Designing an Herbarium Digitisation Workflow with Built-In Image Quality Management Biodiversity Data Journal 8: e47051 doi: https://doi.org/10.3897/BDJ.8.e47051
 
@@ -108,6 +113,11 @@ The following fields were transcribed:
 filing name, barcode, collector, collector number, country as given, country code, phytoregion, collection date, locality, altitude, altitude unit and coordinates as given
 
 *2. workflow internal process*\
+
+
+![internal label transcription](images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-data%20capture%20(internal process).jpg)
+
+
 The online data sources for filing names are the following:\
 [IPNI](www.ipni.org)\
 [TROPICOS](www.tropicos.org)\
@@ -129,10 +139,12 @@ DoeDat, a multilingual crowdsourcing platform based on DigiVol, was created to t
 
 **Quality control of the outsourced label transcription**
 
+![QC outsourced label transcription](images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-data%20QC.jpg)
+
 The quality of the data was measured using a subsample of the data file. The size of the subsample was determined using the table below:
 
+![subsample size](images/HerbariumSheets/MeiseBG/TableQCsubsample.jpg)
  
-
 
 Two types of errors were distinguished:
 Identification and Transcription errors
@@ -151,6 +163,8 @@ No georeferencing was requested to the contractor or was done in house. Only whe
 **Preserving and Publishing Data**
 
 TIFF files are stored on tape at 3 different locations at the Flemish institute of Archiving (meemoo) for long term preservation. JP2 and JPEG derivatives are stored at the Botanic Garden on servers at two different locations. These derivatives are used for display on our virtual herbarium [botanicalcollections](www.botanicalcollections.be) and [GBIF](www.gbif.org)
+
+![data publishing on botanicalcollections.be](images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-online%20publication.jpg
 
 After the data export from BGBase, the related images are extracted from the archive and displayed on [botanicalcollections](www.botanicalcollections.be) and [GBIF](www.gbif.org). All specimens have a permanent URI and the data is rdf readable.
 
