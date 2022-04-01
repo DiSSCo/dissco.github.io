@@ -81,8 +81,7 @@ Picturae installed a conveyor belt in a room next to the collection. They digiti
 
 *2. Internal workflow*
 
-![internal workflow imaging](images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-image%20capture%20intern.jpg)
-
+![workflow internal imaging](images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-image%20capture%20intern.jpg)
 
 ![camera and examples of digitised specimens](/images/HerbariumSheets/MeiseBG/P1260741.JPG)
 
