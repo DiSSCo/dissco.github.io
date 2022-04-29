@@ -20,14 +20,12 @@ parent: Herbarium Sheets
 This workflow covers the steps involved in the digitisation and  imaging of herbarium sheets as performed at the Natural History Museum (NHM) London.
 In this process a digital record is created for each specimen with an attached barcode. The record is then later supplemented by producing an image of each specimen.
 
-![herbarium sheet exmaples](images/plants/NHM/two_sheet_examples.png?raw=true)
+<img src="/images/HerbariumSheets/NHM/two_sheet_examples.png" alt="herbarium sheet examples" width="500"/>\
 Figure 1 : Two examples of herbarium sheet specimens, left - *Malcolmia littorea*; right - *Vigna umbellata*.
-
-For the imaging and post-processing parts of this workflow, check out this video we have produced which illustrates the steps involved.
 
 ## Workflow
 
-![overall workflow diagram](images/plants/NHM/BPMN_diagrams_herb_overall-NHM?raw=true)
+![overall workflow diagram](/images/HerbariumSheets/NHM/BPMN_diagrams_herb_overall-NHM.png?raw=true)
 Figure 2: Workflow diagram of the whole herbarium sheet imaging process.
 
 **Pre-Digitisation Curation**
@@ -38,30 +36,30 @@ Herbarium sheet specimens are kept in folders. Folders are split by genus and by
 
 When we retrieve a folder we check that the correct specimens are included in that folder, i.e. that all specimens are of the same species and geographical area as indicated on the folder's cover. Issues are raised with the curators.
 
-We the check that the specimen sheets themselves are in decent condition. For this we:
-1) replace ripped or damaged folder or specimen covers with new ones - copying out the necessary labels.
-2) ensure that the specimen is securely fastened to the sheet and does not extend beyond the edge of the sheet. If need we add paper strips to hold the specimen in place.
-3) Use a sponge to remove dirt from the sheet (dust, debris, smoke damage etc.). This makes the image clearer and the specimen more presentable.   
+We the check that the specimen sheets themselves are in decent condition. For this we:\
+1) Replace ripped or damaged folder or specimen covers with new ones - copying out the necessary labels.\
+2) Ensure that the specimen is securely fastened to the sheet and does not extend beyond the edge of the sheet. If need we add paper strips to hold the specimen in place.\
+3) Use a sponge to remove dirt from the sheet (dust, debris, smoke damage etc.). This makes the image clearer and the specimen more presentable.\
 4) Add a paper envelope to the sheet for any part of the specimen that comes loose.
 
 The aim of these steps is to ensure that the specimens are in the best condition before imaging and that the specimens we are imaging are in the correct folders.
 
 **Electronic Data Capture**
 
-A barcode added to the sheet for each specimen. These barcodes are unique and allow us to identify each specimen electronically. Barcodes are added to the sheet in the top left corner, fingers with in from each side, and at least this distance from any of the specimen itself. If this is not possible, the barcode is placed either along the top or the bottom of the sheet. Barcodes are aligned horizontally.
+A barcode added to the sheet for each specimen. These barcodes are unique and allow us to identify each specimen electronically. Barcodes are added to the sheet in the top left corner, fingers width in from each side, and at least this distance from any of the specimens. If this is not possible, the barcode is placed either along the top or the bottom of the sheet. Barcodes are aligned horizontally.
 
-Some sheets contain multiple specimens. If this is the case, a barcode is added for each specimen. Make sure that it is clear which barcode relates to each specimen. We do this by either adding barcodes next to the label of each specimen, or by indicating to which specimen the barcodes belongs by using letters or numbers.
+Some sheets contain multiple specimens. If this is the case, a barcode is added for each specimen. We make sure that it is clear which barcode relates to each specimen. We do this by either adding barcodes next to the label of each specimen, or by indicating to which specimen the barcodes belongs by using letters or numbers.
 
-![sheets with barcodes](images/plants/NHM/two_sheets.png?raw=true)
+<img src="/images/HerbariumSheets/NHM/two_sheets.JPG" alt="herbarium sheets showing barcodes" width="600"/>\
 Figure 3: Two herbarium sheets. The one on the left contains one specimen so has one barcode, while the one on the right contains two specimens and is given two barcodes. Barcodes are added next to the specimen labels.
 
 Specimen records are created using a bespoke program called Sapphire. This program creates records in the NHM's database system EMu. We create batches of records at a time, such as for a whole folder where the species and collection location are the same.
 
-To do this, we begin a new record and enter the following information:
-1) the geographical region from where the specimens was collected (see below for details on how this is organised)
-2) the species name - as designated by the collections curation.
-3) the barcode of the first specimen in the folder - entered using a barcode scanner.
-4) the barcode of the last specimen in the folder. Sapphire will create records for all those barcode numbers in-between the first and last barcode. This assumes that all barcodes in between are contained within the folder and are of the same species and geographical region.
+To do this, we begin a new record and enter the following information:\
+1) the geographical region from where the specimens was collected (see below for details on how this is organised)\
+2) the species name - as designated by the collections curation.\
+3) the barcode of the first specimen in the folder - entered using a barcode scanner.\
+4) the barcode of the last specimen in the folder. Sapphire will create records for all those barcode numbers in-between the first and last barcode. This assumes that all barcodes in between are contained within the folder and are of the same species and geographical region.\
 5) an optional input for those specimen barcodes which may have already been added as part of other imaging projects. Prevents additional records being created of the same specimen.
 
 If say there are 10 specimens in a folder and the first barcode is 'NHM_0005001' and the last is 'NHM_00050010', then Sapphire will create 10 records in EMu. These records will be identical apart from the barcode associated with that specimen. Since this record contains no additional information it is called a *stub record*. The image taken later will be added to each record using the barcodes to identify the corresponding specimen record.
@@ -84,12 +82,12 @@ For additional help and instruction for this workflow, check out the video at th
 
 The set up for this digitisation workflow looks like this:
 
-![imaging  setup](images/plants/NHM/annotated_setup.png?raw=true)
+<img src="/images/HerbariumSheets/NHM/annotated_setup.png" alt="shows imaging station set up" width="600"/>\
 Figure 4: herbarium sheet digitisation setup. On the left we have the imaging station where the specimen will be placed and photographed. On the right we use a computer with a number of programs installed (detailed later). Circled in red there is a barcode scanner which is attached to the computer with a USB.
 
 Inside the imaging station we have some other pieces of equipment.
 
-![annotated look down on the imaging set up](images/plants/NHM/annotated_interior_imaging_setup.png?raw=true)
+<img src="/images/HerbariumSheets/NHM/annotated_interior_imaging_setup.png" alt="top down view of imaging setup" width="600"/>\
 
 Figure 5: this view looks down on the imaging set up from the same point of view as the camera. These items are used for the positioning, scaling, and colour of the specimens.
 
@@ -97,7 +95,7 @@ Details of the kit used in this setup is included in the relevant sections below
 
 Make sure that the camera is on and connected to the computer via a cable. To link the camera and the computer, once the camera is on select the PC (Tether) option from the USB mode menu.
 
-![choosing PC tether option](images/plants/NHM/pc_tether_option.jpg?raw=true)
+<img src="/images/HerbariumSheets/NHM/pc_tether_option.jpg" alt="camera showing how to choose PC tether option" width="400"/>\
 
 Figure 6: Select the PC(Tether) option (highlighted).
 
@@ -111,14 +109,14 @@ This workflow uses a number of programs to take and process the herbarium sheet 
 
 We arrange the four windows like this:
 
-![screen windows layout](images/plants/NHM/screen_windows.png?raw=true)
+<img src="/images/HerbariumSheets/NHM/screen_windows.png" alt="screenshot showing windows desktop with the 4 programs open" width="600"/>\
 Figure 7: arrangement of four open windows used in this workflow.
 
 We'll cover the set up of these programs in turn, starting with the **tethering program**.
 
 The Panasonic tethering program enables us to interact with and control the settings on the camera directly. There are settings for ISO, shutter speed, and aperture. The level of these settings depends on the light source used.
 
-![tethering annotation](images/plants/NHM/herbarium_annotated_tethering.png?raw=true)
+<img src="/images/HerbariumSheets/NHM/herbarium_annotated_tethering.png" alt="screenshot of panasonic tethering program" width="300"/>\
 Figure 8: Close up of the tethering window with exposure settings.
 
 If using **fluorescent** lighting the settings are: ISO = 320; shutter speed = 1/40; aperture = f/6.
@@ -150,19 +148,19 @@ Once this is completed, we are ready to begin imaging.
 
 **Section 3 - Imaging**
 
-![workflow image of imaging steps](images/plants/NHM/BPMN_diagrams_herb_NHM.png?raw=true)
+![workflow image of imaging steps](/images/HerbariumSheets/NHM/BPMN_diagrams_herb_NHM.png?raw=true)
 Figure 9: workflow diagram of imaging steps.
 
 The sheet is placed into the imaging station, with the top of the sheet on the left side of the cameras view. The top left corner is fitted to the right-angled frame to keep the sheet in a stable and consistent position.
 
-![sheet fitted in position](images/plants/NHM/sheet_image.png?raw=true)
+<img src="/images/HerbariumSheets/NHM/sheet_image.png" alt="sheet fitted in position" width="600"/>\
 Figure 10: specimen sheet in position in the imaging station as seen from the cameras eye view.
 
 
 Many herbarium sheets do not lie flat since sheet are usually stacked together and the plant specimens warp the paper. If this is the case  for your specimen, use a small (pin head sized) amount of blu tack to fix down any corners that stick up. It doesn't matter if the sheet is completely flat, but a flatter sheet is better than a wavy one.
 
-![before and after blu tack sheet](images/plants/NHM/flattening_sheet.png?raw=true)
-Figure 11: Use blu to tack to help flatten sheets, before (left) and after (right). In this case, the use of Blu Tack pins down the top right corner which will improve the readability of the label in this area of the sheet.
+![before and after blu tack sheet](/images/HerbariumSheets/NHM/flattening_sheet.png?raw=true)
+Figure 11: Use blu tack to help flatten sheets, before (left) and after (right). In this case, the use of Blu Tack pins down the top right corner which will improve the readability of the label in this area of the sheet.
 
 Now **take the photograph** by either: clicking the *camera icon* in the tethering program, or pressing the *space bar*.
 
@@ -172,19 +170,15 @@ The image will appear in your *windows explorer window*. It will be given a gene
 
 Highlight the image file, and then use the *barcode scanner* to read the barcode on the specimen sheet (usually in the top right corner). This will rename the image file. This does not require additional software other than the driver associated with the scanner.
 
-![re-naming the image file name](images/plants/NHM/change_file_name.png?raw=true)
+![re-naming the image file name](/images/HerbariumSheets/NHM/change_file_name.png?raw=true)
 Figure 12: before (left) and after (right) file renaming using the barcode scanner.
 
 Now move he file into the Lightroom folder. This is the folder which Lightroom monitors for new files and applies preset edits too. The file will appear in Lightroom and presets will be applied.
 
-![before_and_after presets](images/plants/NHM/presets_applied.png?raw=true)
+<img src="/images/HerbariumSheets/NHM/presets_applied.png" alt="images showing before and after preset application" width="400"/>\
 Figure 13: image before and after presets are applied. Here are three images in Lightroom. The third images changes between the top and the bottom as the presets are applied. The icon in the bottom right corner indicates that the image has been edited.
 
-We have now completed the imaging of one herbarium sheet specimen.
-
 Remove the blue tack from the sheet, and carefully remove the specimen from the imaging station.
-
-You are now ready for the next specimen.
 
 **Specimen Image Processing**
 **Section 4 - Post imaging processing**
@@ -199,7 +193,7 @@ This processing is performed in Lightroom. Check that the number of images in Li
 **Rotate images**
 We rotate our images so that the top of the sheet is at the top of the screen.
 
-![sheet on its side arrow sheet in portrait](images/plants/NHM/rotate_images.png?raw=true)
+![sheet on its side arrow sheet in portrait](/images/HerbariumSheets/NHM/rotate_images.png?raw=true)
 Figure 14: rotate images to the right.
 
 This is done by highlighting all the images we have in Lightroom, and then right clicking on one of them and choosing the option 'rotate right'. A popup notification will appear also informing you as to the number of  images that have been rotated.
@@ -210,13 +204,13 @@ We now crop our images. This is to remove the extra space at the top and bottom 
 Cropping is performed by first selecting the 'Develop' tab in the top right. This enlarges the first image.
 On the right, now select the aspect option, and change this from 'Original' to '5x7'.
 
-![5x7 selecting crop image](images/plants/NHM/choose_crop.png?raw=true)
+<img src="/images/HerbariumSheets/NHM/choose_crop.png" alt="shows image cropping setting" width="300"/>
 
 Figure 15: Partial screen shot of the Lightroom screen with aspect sizing options menu.
 
 To apply this to all images, click the 'Sync...' button in the bottom right. That brings up this screen:
 
-![synchronize settings](images/plants/NHM/sync_crop_window.png?raw=true)  
+<img src="/images/HerbariumSheets/NHM/sync_crop_window.png" alt="shows how to synchronize settings" width="800"/>
 
 Tick the crop option in the right-hand column and make sure the two options below it are also ticked. Then press synchronize. This may take a while to complete.
 
@@ -229,7 +223,7 @@ A new window will open. A few more steps need to be completed here to ensure tha
 
 The precise settings you chose will depend on your setup, but at the NHM we change the 'Export Location' details to:
 
-![export location details](images/plants/NHM/export_location_settings.png?raw=true)
+<img src="/images/HerbariumSheets/NHM/export_location_settings.png" alt="shows how to export location" width="400"/>
 
 We then set our 'File Settings'. We choose the options:
 * Image format = TIFF
@@ -238,7 +232,7 @@ We then set our 'File Settings'. We choose the options:
 * Bit Depth = 16 bits/component
 Additionally in 'Image Sizing' we set Resolution to 240 pixels per inch.
 
-![file settings](images/plants/NHM/file_settings.png?raw=true)
+<img src="/images/HerbariumSheets/NHM/file_settings.png" alt="file settings" width="400"/>\
 Figure 16: Export window with settings.
 
 Once this is done, we check over all the options and click export.
@@ -286,7 +280,9 @@ This work is built upon the working practices of the NHM staff.
 The content of this workflow is the property of the Trustees of the Natural History Museum and may be used under a [creative commons licence](http://creativecommons.org/licenses/by/4.0/)
 
 ## Document Control
-1.0
+
+## Changes since last version
+Slight text amendments (typos etc.), image sizes adjusted and fixed some formatting issues. Removed reference to a video guide, this will be added at a later date.
 
 ## Citation
 Jardine, M.D., Lohonya, K., Welton, L. & French, L. (2022) DiSSCo Digitisation Guide: Herbarium sheet digitisation - NHM. version 1.0. Available at: https://dissco.github.io/HerbariumSheets/NHMHerbariumSheetDigitisationWorkflow.html
