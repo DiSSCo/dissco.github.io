@@ -28,7 +28,7 @@ Figure: Two examples of herbarium sheet specimens, left - *Malcolmia littorea*; 
 
 **Pre-Digitisation Curation**
 
-![Pre-Digitisation workflow, described in text below](/images/HerbariumSheets/NHM/HerbariumPreDig.png?raw=true)
+![Pre-Digitisation workflow, described in text below](/images/HerbariumSheets/NHM/HerbariumPreDig.PNG?raw=true)
 
 Herbarium specimens are checked and prepared before creating specimen records and imaging. Herbarium sheet specimens are kept in folders. Folders are split by genus and by geographical area. A folder typically contains only one species, but a species may run over several folders.
 
@@ -51,7 +51,7 @@ Figure: Two herbarium sheets. The one on the left contains one specimen so has o
 
 **Specimen Image Capture**
 
-![Specimen Image Capture workflow, described in text below](/images/HerbariumSheets/NHM/HerbariumImage.png?raw=true)
+![Specimen Image Capture workflow, described in text below](/images/HerbariumSheets/NHM/HerbariumImage.PNG?raw=true)
 
 The set up for this digitisation workflow looks like this:
 
