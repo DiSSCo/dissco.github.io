@@ -30,7 +30,6 @@ Figure: Two examples of herbarium sheet specimens, left - *Malcolmia littorea*; 
 
 ![Pre-Digitisation workflow, described in text below](/images/HerbariumSheets/NHM/HerbariumPreDig.png?raw=true)
 
-
 Herbarium specimens are checked and prepared before creating specimen records and imaging. Herbarium sheet specimens are kept in folders. Folders are split by genus and by geographical area. A folder typically contains only one species, but a species may run over several folders.
 
 When we retrieve a folder we check that the correct specimens are included in that folder, i.e. that all specimens are of the same species and geographical area as indicated on the folder's cover. Issues are raised with the curators.
@@ -48,7 +47,7 @@ A barcode is then added to the sheet for each specimen. These barcodes are uniqu
 Some sheets contain multiple specimens. If this is the case, a barcode is added for each specimen. We make sure that it is clear which barcode relates to each specimen. We do this by either adding barcodes next to the label of each specimen, or by indicating to which specimen the barcodes belongs by using letters or numbers.
 
 <img src="/images/HerbariumSheets/NHM/two_sheets.JPG" alt="herbarium sheets showing barcodes" width="600"/>\
-Figure 3: Two herbarium sheets. The one on the left contains one specimen so has one barcode, while the one on the right contains two specimens and is given two barcodes. Barcodes are added next to the specimen labels.
+Figure: Two herbarium sheets. The one on the left contains one specimen so has one barcode, while the one on the right contains two specimens and is given two barcodes. Barcodes are added next to the specimen labels.
 
 **Specimen Image Capture**
 
