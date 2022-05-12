@@ -19,8 +19,8 @@ parent: Pinned Insects
 
 This page details the step involved in the 'iCollections' single camera pinned insects workflow used at the Natural History Museum (NHM) London. This workflow produces images containing a single pinned insect specimen as seen from above, and its associated labels laid out on the right.
 
-![pinned insect example](/images/PinnedInsect/NHMicol/example_pinned_insect_image.jpg?raw=true)
-Figure 1: An example of pinned insect specimen image.
+<img src="/images/PinnedInsect/NHMicol/example_pinned_insect_image.jpg" alt="pinned insect" width="500"/>\
+Figure: An example of pinned insect specimen image.
 
 ## Workflow
 
@@ -32,28 +32,20 @@ This workflow occurs in two separate stages. \
 **Specimen Image Capture**
 
 ![workflow diagram of imaging](/images/PinnedInsect/NHMicol/pinned_insects_workflow_diagram_edit.png?raw=true)
-Figure 2: Workflow diagram for the imaging of pinned insect specimens.
+Figure: Workflow diagram for the imaging of pinned insect specimens.
 
-To help illustrate the imaging steps, we have created this video. This should help you follow the steps involved and help in your own digitisation efforts.
-
-![icollections pinned insect video](link when ready??)
-
-When imaging specimens, we typically work in a particular order starting in the top left of a tray, and then working downwards until we've finished that column, then restarting from the next column of specimens. Where a tray is split into multiple smaller trays we process each sub-tray before moving on to the next.
+When imaging specimens, we typically work in a particular order starting in the top left of a tray, and then working downwards until we've finished that column, then restarting from the next column of specimens. Where a tray is split into multiple smaller unit trays we process each sub-tray before moving on to the next.
 
 The imaging process takes place using several steps, where the specimen in passed between three locations:
 * Its permanent location in its tray.
 * A plastazote sheet where specimen handling is performed.
-* An imaging try where the specimen and labels will be laid out for imaging.
+* An imaging tray where the specimen and labels will be laid out for imaging.
 
-![diagram of imaging process](/images/PinnedInsect/NHMicol/imaging_schematic.png?raw=true)
-Figure 3: schematic of the imaging process showing the three locations, the housed tray, the plastazote sheet, and the imaging tray. The specimen is moved from left to right, the image is taken, and then the image is moved back again.
-
-First the specimen to be imaged is moved from is permanent location in the tray to the plastazote sheet.
-
-The specimen's labels are then carefully removed from the pin using forceps, and laid out in order on the sheet.
+First the specimen to be imaged is moved from is permanent location in the tray to the plastazote sheet. The specimen's labels are then carefully removed from the pin using forceps, and laid out in order on the sheet.
 
 ![remove labels process](/images/PinnedInsect/NHMicol/remove_labels.png?raw=true)
-Figure 4: the specimen before and after removal of labels. Keep labels in order by laying them out.
+<img src="/images/PinnedInsect/NHMicol/example_pinned_insect_image.jpg" alt="shows label removal" width="500"/>\
+Figure: the specimen before and after removal of labels. Keep labels in order by laying them out.
 
 The specimen is next transferred from the plastazote sheet to the middle of the imaging tray.
 
