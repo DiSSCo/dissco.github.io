@@ -3,3 +3,4 @@ remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 description: DiSSCo Digitisation Guides
 color_scheme: DiSSCotheme
+logo: "images/DiSSCo.PNG"
