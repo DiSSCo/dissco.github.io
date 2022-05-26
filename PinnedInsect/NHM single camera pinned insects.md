@@ -19,7 +19,7 @@ parent: Pinned Insects
 
 This page details the step involved in the 'iCollections' single camera pinned insects workflow used at the Natural History Museum (NHM) London. This workflow produces images containing a single pinned insect specimen as seen from above, and its associated labels laid out on the right.
 
-<img src="/images/PinnedInsect/NHMicol/example_pinned_insect_image.jpg" alt="pinned insect" width="500"/>\
+<img src="/images/PinnedInsect/NHMicol/example_pinned_insect_image.JPG" alt="pinned insect" width="500"/>\
 Figure 1: [Augochlora (Augochlora) festiva](https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/9085950/1652227200000) (http://creativecommons.org/licenses/by/4.0/)
 
 ## Workflow
