@@ -21,7 +21,7 @@ This workflow covers the steps involved in the digitisation and  imaging of herb
 In this process a digital record is created for each specimen with an attached barcode. The record is then later supplemented by producing an image of each specimen.
 
 <img src="/images/HerbariumSheets/NHM/two_sheet_examples.png" alt="herbarium sheet examples" width="500"/>\
-Figure: Two examples of herbarium sheet specimens, left - *Malcolmia littorea*; right - *Vigna umbellata*.
+Figure 1: Two examples of herbarium sheet specimens, left - *Malcolmia littorea*; right - *Vigna umbellata*.
 
 ## Workflow
 
@@ -47,7 +47,7 @@ A barcode is then added to the sheet for each specimen. These barcodes are uniqu
 Some sheets contain multiple specimens. If this is the case, a barcode is added for each specimen. We make sure that it is clear which barcode relates to each specimen. We do this by either adding barcodes next to the label of each specimen, or by indicating to which specimen the barcodes belongs by using letters or numbers.
 
 <img src="/images/HerbariumSheets/NHM/two_sheets.JPG" alt="herbarium sheets showing barcodes" width="600"/>\
-Figure: Two herbarium sheets. The one on the left contains one specimen so has one barcode, while the one on the right contains two specimens and is given two barcodes. Barcodes are added next to the specimen labels.
+Figure 2: Two herbarium sheets. The one on the left contains one specimen so has one barcode, while the one on the right contains two specimens and is given two barcodes. Barcodes are added next to the specimen labels.
 
 **Specimen Image Capture**
 
@@ -56,41 +56,37 @@ Figure: Two herbarium sheets. The one on the left contains one specimen so has o
 The set up for this digitisation workflow looks like this:
 
 <img src="/images/HerbariumSheets/NHM/annotated_setup.png" alt="shows imaging station set up" width="600"/>\
-Figure: Herbarium sheet digitisation setup. On the left is the imaging station where the specimen will be placed and photographed. On the right is a computer with a number of programs installed. Circled in red there is a barcode scanner which is attached to the computer with a USB.
+Figure 3: Herbarium sheet digitisation setup. On the left is the imaging station where the specimen will be placed and photographed. On the right is a computer with a number of programs installed. Circled in red there is a barcode scanner which is attached to the computer with a USB.
 
 Inside the imaging station we have some other pieces of equipment.
 
 <img src="/images/HerbariumSheets/NHM/annotated_interior_imaging_setup.png" alt="top down view of imaging setup" width="600"/>\
 
-Figure: this view looks down on the imaging set up from the same point of view as the camera. These items are used for the positioning, scaling, and colour of the specimens.
+Figure 4: This shows the imaging set up from the same point of view as the camera. These items are used for the positioning, scaling, and colour of the specimens.
 
 Details of the kit used in this setup is included under [Hardware](#requirements).
-
-**Section 3 - Imaging**
 
 The sheet is placed into the imaging station, with the top of the sheet on the left side of the cameras view. The top left corner is fitted to the right-angled frame to keep the sheet in a stable and consistent position.
 
 <img src="/images/HerbariumSheets/NHM/sheet_image.png" alt="sheet fitted in position" width="600"/>\
 Figure: specimen sheet in position in the imaging station as seen from the cameras eye view.
 
-Many herbarium sheets do not lie flat since sheet are usually stacked together and the plant specimens warp the paper. If this is the case  for your specimen, use a small (pin head sized) amount of blu tack to fix down any corners that stick up. It doesn't matter if the sheet is completely flat, but a flatter sheet is better than a wavy one.
+Many herbarium sheets do not lie flat since sheet are usually stacked together and the plant specimens warp the paper. You can use a small (pin head sized) amount of blu tack to fix down any corners that stick up. It doesn't matter if the sheet is completely flat, but a flatter sheet is better than a wavy one.
 
 ![before and after blu tack sheet](/images/HerbariumSheets/NHM/flattening_sheet.png?raw=true)
-Figure: Use blu tack to help flatten sheets, before (left) and after (right). In this case, the use of Blu Tack pins down the top right corner which will improve the readability of the label in this area of the sheet.
+Figure 5: Shows the use blu tack to help flatten sheets, before (left) and after (right). This will help improve the readability of the label when imaged.
 
 **Specimen Image Processing**
-**Section 4 - Post imaging processing**
 
 Once you have taken images of all your specimens for the day, there are a number of final steps required before the images are ready to be linked with their digital records and to be published and shared. These steps are:
 * Rotating images: We rotate our images so that the top of the sheet is at the top of the screen.
 
 * Cropping: We crop the images to remove the space at the top of the bottom of the image which does not include any of the herbarium sheet. This focuses the image on the specimen, partially reduces file size, and standardises the dimensions of the image.
 
-At the NHM, we perform this image processing in Adobe Lightroom Classic, and we then export the images ready for publication.
-
+You can access our step by step instructions on how to use Adobe Lightroom for these steps within our [Software](/Software/Lightroom.html) pages.
 
 ## Example Projects
-[Lohonya et al. 2020. Georeferencing the Natural History Museum's Chinese type collection: of plateaus, pagodas and plants](https://bdj.pensoft.net/article/50503/) - paper using previous incarnation of this workflow and covering the difficulties in georeferencing samples from non-English speaking countries and how this changes overtime.
+[Lohonya et al. 2020. Georeferencing the Natural History Museum's Chinese type collection: of plateaus, pagodas and plants](https://bdj.pensoft.net/article/50503/) - This paper uses a previous incarnation of this workflow and covers the difficulties in georeferencing samples from non-English speaking countries and how this changes overtime.
 
 ## Requirements
 ### Hardware
@@ -128,8 +124,11 @@ The content of this workflow is the property of the Trustees of the Natural Hist
 
 ## Document Control
 1.2
+
 ## Changes since last version
-Removed detailed instructions on specific software. Added workflow diagrams for pre-digitisation section and specimen image capture.
+*Removed detailed instructions on specific software, it now links to a separate page with these instructions. 
+*Added workflow diagrams for pre-digitisation section and specimen image capture.
+*Minor amendments to text
 
 ## Citation
 Jardine, M.D., Lohonya, K., Welton, L. & French, L. (2022) DiSSCo Digitisation Guide: Herbarium sheet digitisation - NHM. version 1.0. Available at: https://dissco.github.io/HerbariumSheets/NHMHerbariumSheetDigitisationWorkflow.html

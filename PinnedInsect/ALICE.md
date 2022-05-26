@@ -19,7 +19,7 @@ parent: Pinned Insects
 
 ALICE (Angled Label Image Capture and Extraction) is a custom-built multi-camera setup for high throughput pinned insect specimen digitisation, used at the Natural History Museum, London. This method allows for label images to be captured without removing them from the pin.
 
-![Image shows ALICE camera set up on the left, and examples of specimen images taken by ALICE on the right](/images/PinnedInsect/ALICE/ALICE.PNG?raw=true)
+<img src="/images/PinnedInsect/ALICE/ALICE.PNG" alt="Image shows the ALICE camera set up" width="600"/><br>
 
 ## Workflow
 **Getting Started**\
@@ -28,10 +28,10 @@ This workflow assumes that the ALICE stage has already been set-up. More informa
 **Pre-Digitisation Curation**
 ![ALICE PreDigitisation Curation workflow](/images/PinnedInsect/ALICE/ALICEPreDig.PNG?raw=true)
 
-* The pre-digitisation curation steps includes rehousing specimens where they either overlap or need to be moved from a cork lined drawer into a platazote tray.
+* The pre-digitisation curation steps includes rehousing specimens where they overlap or need to be moved from a cork lined drawer into a platazote tray.
 * Unique identifier barcode labels are added to each specimen pin. It is important that these barcodes are visible when the specimen is viewed from above (Figure 1).
 
-![Image shows an Ephemeroptera specimen, showing the barcode label when viewed from above](/images/PinnedInsect/ALICE/ALICEBarcode.PNG?raw=true)\
+<img src="/images/PinnedInsect/ALICE/ALICEBarcode.PNG" alt="Image shows an Ephemeroptera specimen, showing the barcode label when viewed from above" width="200"/><br> 
 Figure 1: [Ephemeroptera specimen](https://data.nhm.ac.uk/object/b22b18c3-93a7-4fb2-a29e-d56b5c5b885f/1642032000000) with barcode label visible from above (http://creativecommons.org/licenses/by/4.0/)
 
 **Specimen Image Capture**
@@ -44,14 +44,14 @@ Figure 1: [Ephemeroptera specimen](https://data.nhm.ac.uk/object/b22b18c3-93a7-4
 **Specimen Image Processing**
 ![ALICE Specimen Image Processing workflow](/images/PinnedInsect/ALICE/ALICEImageProc.PNG?raw=true)
 * This workflow shows the impaging processing steps, some of which are semi-automated. 
-* The software used this workflow is listed [below](https://lmfrench.github.io/ALICE.html#software). BardecodeFiler and Bulk Rename Utility are used to rename the images. XnConvert is used to crop the images.
+* The software used this workflow is listed [below](https://lmfrench.github.io/ALICE.html#software). BardecodeFiler and Bulk Rename Utility are used to rename the images. XnConvert is used to crop the images. More information about BardecodeFiler can be found on our [software page](/Software/BardecodeFiler).
 
 **Electronic Data Capture** 
 ![ALICE Electronic Data Capture workflow](/images/PinnedInsect/ALICE/ALICEData.PNG?raw=true)
 * This shows the transcription steps, and are optional depending on the project. The label images are used to transcribe the labels (Figure 2). More information on manual transcription can be found in our [transcription guide](https://lmfrench.github.io/ElectronicDataCapture/Transcription.html).
 
-![Image shows an Ephemeroptera specimen, showing how the images look for transcription](/images/PinnedInsect/ALICE/ALICETranscription.png?raw=true)\
-Figure 2: [Ephemeroptera specimen](https://data.nhm.ac.uk/object/b22b18c3-93a7-4fb2-a29e-d56b5c5b885f/1642032000000), showing the images that can be used for transcription. The transcriber can switch between the different images captured to be able to decipher the labels. (http://creativecommons.org/licenses/by/4.0/)
+<img src="/images/PinnedInsect/ALICE/ALICETranscription.png" alt="shows a series of images taken by ALICE, which can be used to transcribe labels" width="400"/><br> 
+Figure 2: Shows how the ALICE images can be used for transcription. The transcriber can switch between the different images captured to be able to decipher the labels. (http://creativecommons.org/licenses/by/4.0/)
 
 ## Example Projects
 
@@ -126,7 +126,11 @@ Natural History Museum (2021). Natural History Museum Data Portal (data.nhm.ac.u
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Document Control
-1.0
+1.1
+
+## Changes since last version
+* Linked to software page for BardecodeFiler
+* Images updated
 
 ## Citation
 French, L., Crowther, R., Holub-Young, K., Lohonya, K. & Livermore, L. (2022) DiSSCo Digitisation Guide: ALICE - Pinned Insects (NHM). version 1.0. Available at: https://dissco.github.io/PinnedInsect/ALICE.html
