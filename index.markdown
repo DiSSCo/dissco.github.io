@@ -2,6 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 nav_exclude: true
+title: DiSSCo Digitisation Guides
 #layout: home
 ---
 ## Welcome to the DiSSCo Digitisation Guides website
