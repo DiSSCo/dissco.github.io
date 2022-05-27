@@ -1,6 +1,7 @@
 ---
 title: Bat - Spirit, Skulls, Skins
 parent: Vertebrates
+grand_parent: Workflows
 ---
 # Bat/Chiroptera Collection Digitisation
 {: .no_toc }

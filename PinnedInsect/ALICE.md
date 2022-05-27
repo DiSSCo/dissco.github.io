@@ -1,6 +1,7 @@
 ---
 title: ALICE
 parent: Pinned Insects
+grand_parent: Workflows
 ---
 # ALICE - Pinned Insect Digitisation
 {: .no_toc }

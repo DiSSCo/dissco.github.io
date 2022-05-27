@@ -1,6 +1,6 @@
 ---
 title: IT Infrastructure
-parent: Data Pipeline
+parent: Data Processes (ETL)
 ---
 
 # IT Infrastructure Best Practices

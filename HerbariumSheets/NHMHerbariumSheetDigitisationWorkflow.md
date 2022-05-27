@@ -1,6 +1,7 @@
 ---
 title: NHM Herbarium sheet digitisation
 parent: Herbarium Sheets
+grand_parent: Workflows
 ---
 
 # Herbarium sheet digitisation - NHM

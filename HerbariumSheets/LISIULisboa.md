@@ -1,6 +1,7 @@
 ---
 title: LISI ULisboa Herbarium Sheet Mass Digitisation
 parent: Herbarium Sheets
+grand_parent: Workflows
 ---
 # LISI ULisboa Herbarium Sheet Mass Digitisation
 {: .no_toc }

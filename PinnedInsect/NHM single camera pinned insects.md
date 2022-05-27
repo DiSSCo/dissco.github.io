@@ -1,6 +1,7 @@
 ---
 title: NHM single camera pinned insects
 parent: Pinned Insects
+grand_parent: Workflows
 ---
 # NHM Single Camera Pinned Insects - iCollections
 {: .no_toc }

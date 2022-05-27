@@ -1,7 +1,7 @@
 ---
 title: Meise Botanic Garden Herbarium Sheets
 parent: Herbarium Sheets
-nav_exclude: true
+grand_parent: Workflows
 ---
 # Meise Botanic Garden Herbarium Sheets
 {: .no_toc }

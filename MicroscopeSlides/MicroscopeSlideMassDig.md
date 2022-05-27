@@ -1,6 +1,7 @@
 ---
 title:  Slides - Mass Digitisation
 parent: Microscope Slides
+grand_parent: Workflows
 ---
 
 ---

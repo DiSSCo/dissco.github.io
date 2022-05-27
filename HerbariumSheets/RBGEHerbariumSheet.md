@@ -1,6 +1,7 @@
 ---
 title: RBGE Herbarium Sheet Mass Digitisation
 parent: Herbarium Sheets
+grand_parent: Workflows
 ---
 # RBGE Herbarium Sheet Mass Digitisation
 {: .no_toc }
