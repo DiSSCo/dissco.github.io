@@ -53,7 +53,7 @@ Data may also be incomplete, for example the label may not have complete localit
 These definitions can be helpful to consult when deciding what transcription rules to follow in a project.
 
 **Minimum Information about a Digital Specimen**\
-The Minimum Information about a Digital Specimen (MIDS) standard will specific the minimum information that is required when providing digital access to specimens. It aims to provide clarity to digitisers about the minimum quantity and quality of information that should be published. There are several levels of digitisation, from basic to extended, with each level outlining the set of information elements that are expected to be present in published digital specimen data. This standard is still under development, and more information can be found on the Biodiversity Information Standards (TDWG) [website](https://www.tdwg.org/community/cd/mids/)
+The Minimum Information about a Digital Specimen (MIDS) standard will specify the minimum information that is required when providing digital access to specimens. It aims to provide clarity to digitisers about the minimum quantity and quality of information that should be published. There are several levels of digitisation, from basic to extended, with each level outlining the set of information elements that are expected to be present in published digital specimen data. This standard is still under development, and more information can be found on the Biodiversity Information Standards (TDWG) [website](https://www.tdwg.org/community/cd/mids/)
 
 **Transcription Rules Example**\
 The Natural History Museum, London digitised its botanical type collection as part of the Global Plants Inititative, which was supported by the Andrew W. Mellon Foundation. 
