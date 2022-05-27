@@ -84,7 +84,7 @@ Once you have taken images of all your specimens for the day, there are a number
 
 * Cropping: We crop the images to remove the space at the top of the bottom of the image which does not include any of the herbarium sheet. This focuses the image on the specimen, partially reduces file size, and standardises the dimensions of the image.
 
-You can access our step by step instructions on how to use Adobe Lightroom for these steps within our [Software](/Software/Lightroom.html) pages.
+You can access our step by step instructions on how to use Adobe Lightroom in our [Software](/Software/Lightroom.html) pages.
 
 ## Example Projects
 [Lohonya et al. 2020. Georeferencing the Natural History Museum's Chinese type collection: of plateaus, pagodas and plants](https://bdj.pensoft.net/article/50503/) - This paper uses a previous incarnation of this workflow and covers the difficulties in georeferencing samples from non-English speaking countries and how this changes overtime.
