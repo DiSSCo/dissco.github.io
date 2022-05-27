@@ -41,6 +41,14 @@ This section gives more information about how these workflows have been applied 
 
 ### Camera Settings
 
+## Resources
+
+### Staffing
+
+### Digitisation Rates
+
+### Costs
+
 ## Other Sources
 Section for links out to other related resources e.g blog posts, journal articles
 
