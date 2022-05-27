@@ -26,7 +26,7 @@ CMS system and data backup system.
 ## Recommendations
 ### Infrastructure Components (Infra1)
 <details>
-<summary> Click to expland: This best practice describes the types of storage recommended for digitisation projects. </summary>
+	<summary> <strong>Click here to expand:</strong> This best practice describes the types of storage recommended for digitisation projects. </summary>
 
 <p><strong>Level:</strong> Basic </p>
 <p><strong>Use Case:</strong> As a digitisation manager I want no significant data loss occur and have a reliable system so that the digitisation process is not delayed.</p>
@@ -122,7 +122,7 @@ service (Digital Preservation Service (DPS))</li>
 
 ### Local Storage: Hard Drives (Infra2) ###
 <details>
-<summary> Click to expland: This best practice describes the storage recommendation for the local computer/machine used at the digitisation workstation.</summary>
+	<summary> <strong>Click here to expand:</strong> This best practice describes the storage recommendation for the local computer/machine used at the digitisation workstation.</summary>
 <p><strong>Level:</strong> Basic </p>
 <p><strong>Use Case:</strong> As a digitation manager I want no significant data loss to occur and have a reliable system so that the digitisation process is not delayed</p>
 <p><strong>Recommendation:</strong></p>
