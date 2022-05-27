@@ -7,7 +7,7 @@ title: DiSSCo Digitisation Guides
 ---
 ## Welcome to the DiSSCo Digitisation Guides website
 
-This site contains guidance and workflows to help you digitise your collections, and is being developed as part of the [Distributed System of Scientific Collections (DiSSCo)](https://dissco.eu) project.
+This site contains guidance and workflows to help you digitise your collections, and is being developed as part of the Distributed System of Scientific Collections [(DiSSCo)](https://dissco.eu) project.
 
 We want to increase digitisation capacity across Europe, by helping natural science collection-holding institutions to share best practices.
 
