@@ -2,6 +2,7 @@
 title: Cameras - what to use?
 parent: Specimen Image Capture
 nav_order: 2
+grand_parent: Guidance & Best Practices
 ---
 
 # 2. Cameras - what to use?

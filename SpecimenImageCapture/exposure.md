@@ -2,6 +2,7 @@
 title: The exposure triangle
 parent: Specimen Image Capture
 nav_order: 4
+grand_parent: Guidance & Best Practices
 ---
 
 # 4. The exposure triangle

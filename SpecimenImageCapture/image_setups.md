@@ -2,6 +2,7 @@
 title: Photography setups
 parent: Specimen Image Capture
 nav_order: 7
+grand_parent: Guidance & Best Practices
 ---
 
 ## 7. Photography setups

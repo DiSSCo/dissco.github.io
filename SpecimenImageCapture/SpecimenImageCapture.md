@@ -2,6 +2,8 @@
 title: Specimen Image Capture
 has_children: true
 nav_order: 7
+parent: Guidance & Best Practices
+grand_parent: Guidance & Best Practices
 ---
 
 # Introduction

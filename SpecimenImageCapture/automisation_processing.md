@@ -2,6 +2,7 @@
 title: Automating image processing
 parent: Specimen Image Capture
 nav_order: 8
+grand_parent: Guidance & Best Practices
 ---
 
 # 8. Automating image processing

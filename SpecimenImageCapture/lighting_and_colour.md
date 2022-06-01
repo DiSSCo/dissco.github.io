@@ -2,6 +2,7 @@
 title: Light and colour
 parent: Specimen Image Capture
 nav_order: 6
+grand_parent: Guidance & Best Practices
 ---
 
 # 6. Light and colour

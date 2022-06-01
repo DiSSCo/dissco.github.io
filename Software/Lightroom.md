@@ -1,6 +1,7 @@
 ---
 title: Adobe Lightroom
 parent: Software
+grand_parent: Guidance & Best Practices
 ---
 
 # Adobe LightRoom - NHM Workflow
