@@ -11,6 +11,10 @@ This site contains guidance and workflows to help you digitise your collections,
 
 We want to increase digitisation capacity across Europe, by helping natural science collection-holding institutions to share best practices.
 
+[Workflows](https://dissco.github.io/CollectionType.html){: .btn .btn-blue .mr-8 }  											
+[Guidance & Best Practices](https://dissco.github.io/BestPractice.html){: .btn .btn-green .mr-8 }
+[Literature & Links](https://dissco.github.io/Literature/Literature.html){: .btn .btn-purple .mr-8 }
+
 All elements of this website are under development. This means you may notice that some sections of the site are incomplete, or that some of the images are difficult to see. 
 
 We welcome feedback, so get in touch with us at lisa.french@nhm.ac.uk or add a new issue to our [GitHub](https://github.com/DiSSCo/dissco.github.io/issues). Please also let us know what guidance you would like to see added to the site, either via e-mail or GitHub, as this will help us to prioritise our next steps.
