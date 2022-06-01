@@ -7,7 +7,9 @@ has_toc: false
 
 # Literature and Links
 
-This page provides links to useful digitisation literature and resources. We have categorised the papers by Digitisation Stage and Collection Type. Get in touch with us (lisa.french@nhm.ac.uk) if there is a paper missing from this list.
+This page provides links to useful digitisation literature and resources. You can find a link to the full list of resources [here](https://know.dissco.eu/handle/item/404). Get in touch with us (lisa.french@nhm.ac.uk) if there is a paper missing from this list.
+
+We are in the process of categorising the papers by Digitisation Stage and Collection Type, so not all papers in the list above are yet tagged. For now, you can browse the papers we have categorised by clicking the links below. 
 
 ## Digitisation Stage
 
