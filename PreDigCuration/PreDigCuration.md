@@ -6,3 +6,4 @@ nav_exclude: yes
 parent: Guidance & Best Practices
 ---
 
+This is a holding page, a pre-digitisation checklist will be added to the website in June/July 2022
