@@ -141,8 +141,54 @@ traditional hard disks.</p>
 the mass digitisation systems.</p>
 </details>
 
+### Cloud-Based Storage (Infra3) ###
+<details>
+	<summary> <strong>Click here to expand:</strong> This best practice recommends the use of automated, periodical backups to cloud based backup storage.</summary>
+<p><strong>Level:</strong> Basic </p>
+<p><strong>Use Case:</strong> As a digitation manager I want no significant data loss to occur and have a reliable system so that the digitisation process is not delayed</p>
+<p><strong>Recommendation:</strong></p>
+<p>Implement automated, periodical backup to cloud based backup storage.</p>
+<p><strong>Discussion</strong></p>
+<p>A second data storage for data backup is necessary to prevent potential
+human errors and system hardware failures. With the development of
+digitisation techniques, the size of individual images is getting bigger and the
+number of output is also increasing considerably. However, the staging area
+usually has limited storage. Transfer the original RAW/TIFF images and 3D
+scans to the backup storage and only keep compressed or low resolution
+versions of images if needed. There are regional, national, and also
+commercial services available. When choosing the service, you need to
+consider several factors, such as the data privacy and the location of the
+storage. </p>
+<p><strong>Implementation Example:</strong></p>
+<p>Finnish Museum of Natural History (Luomus)</p>
+<p>Images and their metadata are backed up at CSC research data storage
+service (IDA). For larger 3D scan data, CSC object storage (Allas) is planned to
+use.
+Specimen data is stored in Oracle database which is backed up by Helsinki
+University IT centre.</p>
+</details>
+
+### Local Storage: Hard Drives (Infra4) ###
+<details>
+	<summary> <strong>Click here to expand:</strong> This state of the art best practice describes implementing a data archive for long-term data preservation.</summary>
+<p><strong>Level:</strong> STATE-OF-ART </p>
+<p><strong>Use Case:</strong> As a digitation manager I want no significant data loss to occur and have a
+reliable system so that digitisation process is not delayed</p>
+<p><strong>Recommendation:</strong></p>
+<p>Implement the data archive for long-term data preservation.</p>
+<p><strong>Discussion</strong></p>
+<p>Long-term archives are used for preserving the data for a very long time.
+There are requirements on the data types and also the metadata formats. It
+is usually stored offline and may not be suitable for quick data recovery. LTA
+is almost impossible to implement by your own institution, so you should
+seek research infrastructures that can provide the service for you.</p>
+<p><strong>Implementation Example:</strong></p>
+<p>Finnish Museum of Natural History (Luomus)</p>
+<p>It is planned to use national service from CSC (Digital Preservation Service(DPS))</p>
+</details>
+
 ## Authors
-Zhengzhe Wu and Esko Piirainen
+Zhengzhe Wu and Esko Piirainen\
 Finnish Museum of Natural History (Luomus)
 
 ## Contributors
