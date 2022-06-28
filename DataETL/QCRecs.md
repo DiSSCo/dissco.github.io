@@ -55,6 +55,21 @@ Quality control is essential to the digitisation process. These recommendations 
 	each of the tasks, there are quality concerns that quality control has to be
 	performed. Full details of this workflow can be found in <a href="https://doi.org/10.3897/BDJ.8.e47051">Nieva de la Hidalga <em>et al.</em> (2020).</a></p>
 	
+	<p><strong>References</strong></p>
+	<p>Hardisty A, Saarenmaa H, Casino A, Dillen M, Gödderz K, Groom Q, Hardy H, Koureas D,
+	Nieva de la Hidalga A, Paul DL, Runnel V, Vermeersch X, van Walsum M, Willemse L (2020)
+	Conceptual design blueprint for the DiSSCo digitization infrastructure - DELIVERABLE D8.1. Research
+	Ideas and Outcomes 6: e54280. <a href="https://doi.org/10.3897/rio.6.e54280">https://doi.org/10.3897/rio.6.e54280</a></p>
+	
+	<p>Nieva de la Hidalga A, Rosin PL, Sun X, Bogaerts A, De Meeter N, De Smedt S, Strack van
+	Schijndel M, Van Wambeke P, Groom Q (2020) Designing an Herbarium Digitisation Workflow with
+	Built-In Image Quality Management. Biodiversity Data Journal 8:
+	e47051. <a href="https://doi.org/10.3897/BDJ.8.e47051">https://doi.org/10.3897/BDJ.8.e47051</a></p>
+	
+	<p>Nieva de la Hidalga A, van Walsun M, Rosin, P, Sun X, Wijers A (2019) Quality
+	Management Methodologies for Digitisation Operations, ICEDIG Project Report.
+	<a href="https://doi.org/10.5281/zenodo.3469521">https://doi.org/10.5281/zenodo.3469521</a></p>
+	
 </details>
 
 ### Quality Control: Images (QC2)
@@ -128,6 +143,21 @@ Quality control is essential to the digitisation process. These recommendations 
 	image acquisition and processing subtasks, and image storing subtasks in the
 	digitisation workflows of herbarium sheet specimens.. Full details can be found in <a href="https://doi.org/10.3897/BDJ.8.e47051">Nieva de la Hidalga <em>et al.</em> (2020)</a>(see Table 3).</p>
 	
+	<p><strong>References</strong></p>
+	<p>Hardisty A, Saarenmaa H, Casino A, Dillen M, Gödderz K, Groom Q, Hardy H, Koureas D,
+	Nieva de la Hidalga A, Paul DL, Runnel V, Vermeersch X, van Walsum M, Willemse L (2020)
+	Conceptual design blueprint for the DiSSCo digitization infrastructure - DELIVERABLE D8.1. Research
+	Ideas and Outcomes 6: e54280. <a href="https://doi.org/10.3897/rio.6.e54280">https://doi.org/10.3897/rio.6.e54280</a></p>
+	
+	<p>Nieva de la Hidalga A, Rosin PL, Sun X, Bogaerts A, De Meeter N, De Smedt S, Strack van
+	Schijndel M, Van Wambeke P, Groom Q (2020) Designing an Herbarium Digitisation Workflow with
+	Built-In Image Quality Management. Biodiversity Data Journal 8:
+	e47051. <a href="https://doi.org/10.3897/BDJ.8.e47051">https://doi.org/10.3897/BDJ.8.e47051</a></p>
+	
+	<p>Nieva de la Hidalga A, van Walsun M, Rosin, P, Sun X, Wijers A (2019) Quality
+	Management Methodologies for Digitisation Operations, ICEDIG Project Report.
+	<a href="https://doi.org/10.5281/zenodo.3469521">https://doi.org/10.5281/zenodo.3469521</a></p>
+	
 </details>
 
 ### Quality Control: Specimen Data (QC3)
@@ -174,6 +204,12 @@ Quality control is essential to the digitisation process. These recommendations 
 	digitisation of the pinned insect, automated geo-referencing is used to
 	achieve high specimen data quality.</p>
 	
+	<p><strong>References</strong></p>
+	<p>Hardisty A, Saarenmaa H, Casino A, Dillen M, Gödderz K, Groom Q, Hardy H, Koureas D,
+	Nieva de la Hidalga A, Paul DL, Runnel V, Vermeersch X, van Walsum M, Willemse L (2020)
+	Conceptual design blueprint for the DiSSCo digitization infrastructure - DELIVERABLE D8.1. Research
+	Ideas and Outcomes 6: e54280. <a href="https://doi.org/10.3897/rio.6.e54280">https://doi.org/10.3897/rio.6.e54280</a></p>
+	
 </details>
 
 ## Authors
@@ -184,6 +220,18 @@ Finnish Museum of Natural History (Luomus)
 Lisa French, Laurence Livermore
 
 ## References
+Hardisty A, Saarenmaa H, Casino A, Dillen M, Gödderz K, Groom Q, Hardy H, Koureas D, Nieva de la Hidalga A, Paul DL, Runnel V, Vermeersch X, van Walsum M, Willemse L (2020)
+Conceptual design blueprint for the DiSSCo digitization infrastructure - DELIVERABLE D8.1. Research
+Ideas and Outcomes 6: e54280. <a href="https://doi.org/10.3897/rio.6.e54280">https://doi.org/10.3897/rio.6.e54280</a>
+
+Nieva de la Hidalga A, Rosin PL, Sun X, Bogaerts A, De Meeter N, De Smedt S, Strack van
+Schijndel M, Van Wambeke P, Groom Q (2020) Designing an Herbarium Digitisation Workflow with
+Built-In Image Quality Management. Biodiversity Data Journal 8:
+e47051. <a href="https://doi.org/10.3897/BDJ.8.e47051">https://doi.org/10.3897/BDJ.8.e47051</a>
+
+Nieva de la Hidalga A, van Walsun M, Rosin, P, Sun X, Wijers A (2019) Quality
+Management Methodologies for Digitisation Operations, ICEDIG Project Report.
+<a href="https://doi.org/10.5281/zenodo.3469521">https://doi.org/10.5281/zenodo.3469521</a>
 
 ## Licence
 

@@ -105,6 +105,13 @@ Digital specimen data should be accessible throughout the data lifecycle, includ
 	Example: <a href="https://darwinweb.africamuseum.be/object/RMCA_Vert_2011.003.P.1885-1898">https://darwinweb.africamuseum.be/object/RMCA_Vert_2011.003.P.1885-1898</a><br>
 	Catalogue: <a href="https://darwinweb.africamuseum.be/search_specimens">https://darwinweb.africamuseum.be/search_specimens</a><br>
 	Redirect to machine-readable representation: no</p>
+	
+	<p><strong>References</strong></p>
+	<p>CETAF n.d., Best Practises of CETAF Stable Identifiers (CSI), Retrieved from
+	<a href="https://cetaf.org/resources/best-practices/cetaf-stable-identifiers-csi-2/">https://cetaf.org/resources/best-practices/cetaf-stable-identifiers-csi-2/</a></p>
+	<p>Güntsch et al. (2017) Actionable, long-term stable and semantic web compatible identifiers
+	for access to biological collection objects, Database, Volume 2017, 2017, bax003,
+	<a href="https://doi.org/10.1093/database/bax003">https://doi.org/10.1093/database/bax003</a></p>
 </details>
 
 ### QR/matrix codes (ID2) ###
@@ -138,7 +145,9 @@ Finnish Museum of Natural History (Luomus)
 Lisa French, Laurence Livermore
 
 ## References
-
+Güntsch et al. (2017) Actionable, long-term stable and semantic web compatible identifiers
+for access to biological collection objects, Database, Volume 2017, 2017, bax003,
+https://doi.org/10.1093/database/bax003
 ## Licence
 
 ## Document Control

@@ -58,8 +58,9 @@ Specimen data should provide information about why data fields have been left in
 	<p>See <a href="/ElectronicDataCapture/Transcription.html">Manual Transcription Guidance</a> for more information</p>
 	
 	<p><strong>References</strong></p>
-	<p><a href="https://doi.org/10.5281/zenodo.3361598">Interoperability of Collections Management Systems</a> (p5 recommendation #8) </p>
-	<p><a href="https://doi.org/10.1093/database/baz129">Improved standardization of transcribed digital specimen data</a> (table 2) </p>
+	<p>Dillen M, Groom Q, & Hardisty A. (2019). Interoperability of Collection Management Systems. Zenodo. <a href="https://doi.org/10.5281/zenodo.3361598">https://doi.org/10.5281/zenodo.3361598</a> (p5 recommendation #8) </p>
+	<p>Groom Q et al. (2019) Improved standardization of transcribed digital specimen data.
+	Database, Volume 2019, 2019, baz129. <a href="https://doi.org/10.1093/database/baz129">https://doi.org/10.1093/database/baz129</a> (table 2) </p>
 </details>
 
 ## Authors
@@ -70,8 +71,8 @@ Finnish Museum of Natural History (Luomus)
 Lisa French, Laurence Livermore
 
 ## References
-<a href="https://doi.org/10.5281/zenodo.3361598">Interoperability of Collections Management Systems</a>\
-<a href="https://doi.org/10.1093/database/baz129">Improved standardization of transcribed digital specimen data</a> 
+Dillen M, Groom Q, & Hardisty A. (2019). Interoperability of Collection Management Systems. Zenodo. <a href="https://doi.org/10.5281/zenodo.3361598">https://doi.org/10.5281/zenodo.3361598</a>\
+Groom Q et al. (2019) Improved standardization of transcribed digital specimen data. Database, Volume 2019, 2019, baz129. <a href="https://doi.org/10.1093/database/baz129">https://doi.org/10.1093/database/baz129</a>
 
 ## Licence
 
