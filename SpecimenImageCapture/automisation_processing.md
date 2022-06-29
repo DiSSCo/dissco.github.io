@@ -18,19 +18,19 @@ grand_parent: Guidance & Best Practices
 {:toc}
 </details>
 
-Images captured by the camera via the tethering program are automatically placed into a folder on your computer. It’s recommended to have a new folder for photos taken on a specific day to avoid confusion (name folders with the date). You can also keep track of the photos by ensuring that the number of photos in the folder is what you expect from the number of specimens that have been processed.
+Photographs taken using a tethering program are automatically trasferred to a folder on your computer. We recommended to use a new folder for photos taken on a specific day to avoid confusion (name folders with the date). You can also keep track of the photos by ensuring that the number of photos in the folder is what you expect from the number of specimens that have been processed.
 
-However, taking the image is only the first step in the digitisation process. We’ll cover more in our module on data mobilisation but here we’ll cover a few steps and processes to help prepare your images for sharing.
+However, taking the image is only the first step in the digitisation process. We cover more in our module on data mobilisation but here we summarise a few approaches to automating aspects of image processing.
 
 ## Barcode reading
-Barcoding is a standard step in digitisation. Barcodes are used to assign unique identifiers to specimens, as well as to indicate their physical location within collections and additional information such as the specimen collector, place or origin or type status.
+Adding barcodes to specimens is a common approach in digitisation. Barcodes can be used to physically assign unique identifiers to specimens, as well as labelling physical storage (e.g., drawers, cupboards, jars) or used during digitisation to capture additional information about the specimen such as the name of the [collector](https://dwc.tdwg.org/list/#dwc_recordedBy), [country](http://rs.tdwg.org/dwc/terms/country) of collection, or [type status](http://rs.tdwg.org/dwc/terms/typeStatus).
 
-Programs such as [**BardecodeFiler**](https://www.bardecode.com/en1/app/bardecodefiler/) can read barcodes from images. It can use these to read which species the image depicts and create a digital record for that image. For example, the image of slide below:
+Programs such as [**BardecodeFiler**](https://www.bardecode.com/en1/app/bardecodefiler/) can read barcodes from images. It can use these rename files or create metadata files which can associate barcode data with image. For example, the image of slide below:
 
 ![annotated barcode image](/images/Photography/annotated_barcode_image.png?raw=true)
-Figure 1: Slide specimen of the thrip *Quadraceps hopkinsi* showing all associated barcodes. Each barcode tells us somethings different about the specimen and allows a digital record to be created.
+Figure 1: Slide specimen of the thrip *Quadraceps hopkinsi* showing all associated barcodes. Each barcode encode different metadata and is written into the filename of the image. When we import the images into our collections management system, these barcodes are read and used to update the corresponding specimen record. 
 
-By using ‘hot folders’ the process of barcode reading can be automated as each photo is passed to BardecodeFiler as soon as the photo appears in the folder. Bardecodefiler is also able to split barcodes when several specimens appear in the same image, for example:
+By using ‘hot folders’ the process of barcode reading can be automated with each photo is passed to BardecodeFiler as soon as the photo appears in the folder. Bardecodefiler is also able to split barcodes when several specimens appear in the same image, for example:
 
 ![sheet with many barcodes](/images/Photography/many_barcode_herbarium_example.png?raw=true)
 Figure 2: A single herbaium sheet with multiple specimens of *Cardamine pratensis*. To image each of these specimens independently would be difficult and time consuming. A barcode is attached to each specimen meaning that a single image can apply to several specimens.
