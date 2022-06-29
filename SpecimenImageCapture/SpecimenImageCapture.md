@@ -3,7 +3,7 @@ title: Specimen Image Capture
 has_children: true
 nav_order: 7
 parent: Guidance & Best Practices
-grand_parent: Guidance & Best Practices
+has_toc: false
 ---
 
 # Introduction
@@ -13,16 +13,16 @@ We have put together a few introductory pages covering several aspects of specim
 
 ## Photography modules:
 
-* [1. Introduction to specimen photography]()
-* [2. Cameras - what to use?]()
-* [3. Camera settings and specifications]()
-* [4. The exposure triangle]()
-* [5. Image files]()
-* [6. Light and colour]()
-* [7. Photography setups]()
-* [8. Automating image processing]()
-* [9. Materials and references]()
+* [1. Introduction to specimen photography](/SpecimenImageCapture/photography_intro.html)
+* [2. Cameras - what to use?](/SpecimenImageCapture/intro_to_cameras.html)
+* [3. Camera settings and specifications](/SpecimenImageCapture/camera_and_image_specifications.html)
+* [4. The exposure triangle](/SpecimenImageCapture/exposure.html)
+* [5. Image files](/SpecimenImageCapture/filing.html)
+* [6. Light and colour](/SpecimenImageCapture/lighting_and_colour.html)
+* [7. Photography setups](/SpecimenImageCapture/image_setups.html)
+* [8. Automating image processing](/SpecimenImageCapture/automisation_processing.html)
+* [9. Materials and references](/SpecimenImageCapture/conclusion_and_materials.html)
 
 Feel free to go through these pages in turn or simply to visit those of interest to you.
 
-The links to many of the sources used to create these pages are found in the final section [materials and references]() where you can also find information on the licensing and citation of this resource.
+The links to many of the sources used to create these pages are found in the final section [materials and references](SpecimenImageCapture/conclusion_and_materials.html) where you can also find information on the licensing and citation of this resource.

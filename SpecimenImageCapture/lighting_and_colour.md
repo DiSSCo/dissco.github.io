@@ -57,7 +57,7 @@ The solution to this is to use colour standards or a white balance chart to cali
 Standards can simply be a white/grey scale used to control the brightness or reflectance of an image while other are larger palettes with a range of colours. These are more useful when colour is an aim of the specimen’s image capture:
 
 ![shade and colour pallates](/images/Photography/standards_examples.png?raw=true)
-Figure 2: Examples of colour palates used in specimen photography. The left-hand image is a close up of the palette used in [herbarium sheet photogrrphy at the NHM](link when ready) and used several colours and shades. The right-hand image shows an example from [Cooney et al. 2019](https://www.nature.com/articles/s41467-020-16257-x) where only grey-scale standards are used.
+Figure 2: Examples of colour palates used in specimen photography. The left-hand image is a close up of the palette used in [herbarium sheet photography at the NHM](/HerbariumSheets/NHMHerbariumSheetDigitisationWorkflow.html) and used several colours and shades. The right-hand image shows an example from [Cooney et al. 2019](https://www.nature.com/articles/s41467-020-16257-x) where only grey-scale standards are used.
 
 Palettes and standards can be bought [online](https://www.xrite.com/) and are a standard feature in photography. Prices generally range between £50 and £100 which may seem a bit steep for what seems like a bit of card, but they are important to produce quality and comparable digital images of specimens.
 
