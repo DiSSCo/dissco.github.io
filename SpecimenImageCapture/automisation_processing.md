@@ -49,6 +49,9 @@ Figure 4: The same image shown in Figure 19, but passed through automated softwa
 This process can be automated if images are in a series and the image size and the location of cropped information is standardised. The above example was performed using [**XnConvert**](https://www.xnview.com/en/xnconvert/) and can automatically cut a specified number of pixels from each photo that is taken.
 
 ## Automated text reading
-A major area of interest for digitisation is the potential for automatic transcription and the reading of specimen labels by artificial intelligence software. A lot of time is spent transcribing label information from images to produce detailed electronic records of each specimen. Computer programs have been developed to read text and translate this into electronic records, however this currently works much better with printed labels rather than handwritten ones. The technology is not currently good enough to be used on mass with digitisation efforts but improvements continue to be made and this may be a valuable and time-saving feature in the future. An example of such developments is described [here](https://riojournal.com/article/58030/)
+A major area of interest for digitisation is the potential for automatic transcription and the reading of specimen label images using Optical Character Recognition (OCR) or Handwritten Text Recognition (HTR) software. This software-based approach works better with printed labels rather than handwritten ones but holds promise for future mass digitisation approaches and may be a valuable and time-saving feature in the future.
+Examples of OCR/HTR software:
+[Tesseract](https://github.com/tesseract-ocr/tesseract) 
+[ABBYY](https://pdf.abbyy.com/learning-center/what-is-ocr/)
 
 Next page: [9. Materials and references](https://dissco.github.io/SpecimenImageCapture/conclusion_and_materials.html)
