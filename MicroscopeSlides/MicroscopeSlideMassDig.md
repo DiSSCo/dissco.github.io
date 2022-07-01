@@ -27,14 +27,14 @@ the [ICEDIG](https://icedig.eu) project, with more detail to be found in the [No
 ## Workflow
 
 **Pre-Digitisation Curation**
-![Image shows the pre-digitisation curation workflow](/images/MicroscopeSlides/NHM/SlidePreDig.PNG?raw=true)
+[![Image shows the pre-digitisation curation workflow](/images/MicroscopeSlides/NHM/SlidePreDig.PNG?raw=true)](/images/MicroscopeSlides/NHM/SlidePreDig.PNG?raw=true)
 The workflow above shows the steps taken in the pre-digitisation curation stage. Drawer location and taxon barcode labels are printed from the Museum's Collection Management System (CMS) (Figure 1a). These are then inserted into the collection (Figure 1b).
 If there is no label for a taxon, or the label information is incorrect, this information is passed to the curator who then updates the CMS.
 
 ![Image on left shows the temporary taxon and location barcodes, image on right an example of how the labels were added to the collection](/images/MicroscopeSlides/NHM/SlideLabel.png?raw=true)
 Figure 1: a) Shows the temporary taxon and location barcodes b) Shows how the temporary labels are inserted into the collection (Allan *et al*, 2019).\
 **Specimen Image Capture**
-![Image shows the image capture workflow](/images/MicroscopeSlides/NHM/SlideSIC.PNG?raw=true)
+[![Image shows the image capture workflow](/images/MicroscopeSlides/NHM/SlideSIC.PNG?raw=true)](/images/MicroscopeSlides/NHM/SlideSIC.PNG?raw=true)
 * The workflow above shows the imaging step. Unique Identifier (UID) barcodes are printed on a self-adhesive 5 x 6mm label. They are attached to the slide glass using forceps, on the upper side of the slide where possible.
 * The slide is then placed on the imaging template with the location and taxon barcodes, and placed within a custom-built lightbox. More information on the lightbox set-up can be found in  [Requirements](/MicroscopeSlides/MicroscopeSlideMassDig.html#requirements). 
 * If labels are present on the reverse of the slide, it is turned over and an image captured. Some slides are housed in a paper envelope with additional information, 
@@ -42,7 +42,7 @@ and in these cases the envelope is placed into the template and an image capture
 * Metadata associated with the image (e.g. copyright) is automatically added to the file during image capture using EOS Utility.
 
 **Specimen Image Processing & Electronic Data Capture**
-![Image shows the image processing and data capture workflow](/images/MicroscopeSlides/NHM/SlideEDC.PNG?raw=true)
+[![Image shows the image processing and data capture workflow](/images/MicroscopeSlides/NHM/SlideEDC.PNG?raw=true)](/images/MicroscopeSlides/NHM/SlideEDC.PNG?raw=true)
 * The workflow above shows the specimen image processing and electronic data capture stages, with most of this process semi-automated. 
 * BardecodeFiler reads the three barcodes in the image, and renames the image files. For images with a missing UID barcode (i.e. envelope images, reverse slide images), BardecodeFiler saves the image into an exceptions folder, naming it with the most recently read barcode..
 * XnConvert is used to rotate the images 180 degrees and to crop the location and taxon barcodes. The rotation is required because the camera is facing backwards compared to where the digitiser sits in front of the lightbox. The specimens and barcodes are positioned in the lightbox so the digitiser can still read them, and the image is then rotated during image processing.
