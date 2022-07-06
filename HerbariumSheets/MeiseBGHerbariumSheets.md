@@ -33,7 +33,7 @@ Two workflow lines were created: one for the major part of the project where an 
 
 ## Workflow
 
-![overview mass digitisation workflow DOE!](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-overview.jpg)
+[![overview mass digitisation workflow DOE!](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-overview.jpg)](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-overview.jpg)
 
 **Pre-Digitisation Curation**\
 There are two key tasks in the pre digitisation step at Meise Botanic Garden, both conducted in the herbarium rooms:
@@ -44,7 +44,7 @@ These workflows were followed for all specimens and folders already inserted int
 
 *1. pre-digitisation curation of the specimens*
 
-![predigitisation curation specimens](/images/HerbariumSheets/MeiseBG/overviewmassdigitisationworkflowDOE!-predigitisationcurationspecimens.jpg)
+[![predigitisation curation specimens](/images/HerbariumSheets/MeiseBG/overviewmassdigitisationworkflowDOE!-predigitisationcurationspecimens.jpg)](/images/HerbariumSheets/MeiseBG/overviewmassdigitisationworkflowDOE!-predigitisationcurationspecimens.jpg)
 
 This task was conducted by 15 technicians on a half time basis for 1,5 years. Also volunteers regularly helped. They have checked and prepared 1,2 million specimens this way.
 
@@ -60,7 +60,7 @@ All exceptions were digitised in house and were extracted from the collection an
 
 *2. pre-digitisation of the covers*
 
-![pre-digitisation curation: folders](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-pre%20digitisation%20curation%20folders.jpg)
+[![pre-digitisation curation: folders](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-pre%20digitisation%20curation%20folders.jpg)](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-pre%20digitisation%20curation%20folders.jpg)
 
 The vascular plant herbarium specimens of BR are kept in 3 different subcollections: an African collection, a Belgian collection and a general collection. During this project all the specimens of the African and Belgian collection were digitised.
 
@@ -74,7 +74,7 @@ As mentioned before they were two streams of imaging:
 
 *1. Outsourced image capture*
 
-![workflow Picturae](/images/HerbariumSheets/MeiseBG/oo_329595.png)
+[![workflow Picturae](/images/HerbariumSheets/MeiseBG/oo_329595.png)](/images/HerbariumSheets/MeiseBG/oo_329595.png)
 
 Picturae installed a conveyor belt in a room next to the collection. They digitised the folders with a QR code and all the specimens. The specimens and folders were picked up in the collection and were digitised in the same order as they are stored in the collection. After imaging, they were brought back to the collection. Picturae used a tracking system to make sure that all the specimens were at their original location after digitisation. Some 5000 specimens were imaged a day. It took them less than a year to image all 1,2 million sheets.
 
@@ -83,7 +83,7 @@ Picturae installed a conveyor belt in a room next to the collection. They digiti
 
 *2. Internal workflow*
 
-![workflow internal imaging](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-image%20capture%20intern.jpg)
+[![workflow internal imaging](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-image%20capture%20intern.jpg)](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-image%20capture%20intern.jpg)
 
 
 For the inhouse imaging 3 stations are used. They all use a Pentax 645Z camera, image transmitter software and a black background with a fixed color scale. Images are made with a resolution of 450 DPI.
@@ -97,7 +97,7 @@ The specimens are renamed automatically after imaging. The filename of the image
 
 **Specimen Image Processing**
 
-![specimen image processing](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-image%20QC%20and%20processing.jpg)
+[![specimen image processing](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-image%20QC%20and%20processing.jpg)](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-image%20QC%20and%20processing.jpg)
 
 
 These processes are described in detail in the following publication:
@@ -116,7 +116,7 @@ filing name, barcode, collector, collector number, country as given, country cod
 *2. workflow internal process*\
 
 
-![internal label transcription](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-data%20capture%20internal%20process.jpg)
+[![internal label transcription](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-data%20capture%20internal%20process.jpg)](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-data%20capture%20internal%20process.jpg)
 
 
 The online data sources for filing names are the following:\
@@ -140,11 +140,11 @@ DoeDat, a multilingual crowdsourcing platform based on DigiVol, was created to t
 
 **Quality control of the outsourced label transcription**
 
-![QC outsourced label transcription](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-data%20QC.jpg)
+[![QC outsourced label transcription](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-data%20QC.jpg)](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-data%20QC.jpg)
 
 The quality of the data was measured using a subsample of the data file. The size of the subsample was determined using the table below:
 
-![subsample size](/images/HerbariumSheets/MeiseBG/TableQCsubsample.jpg)
+[![subsample size](/images/HerbariumSheets/MeiseBG/TableQCsubsample.jpg)](/images/HerbariumSheets/MeiseBG/TableQCsubsample.jpg)
  
 
 Two types of errors were distinguished:
@@ -165,7 +165,7 @@ No georeferencing was requested to the contractor or was done in house. Only whe
 
 TIFF files are stored on tape at 3 different locations at the Flemish institute of Archiving (meemoo) for long term preservation. JP2 and JPEG derivatives are stored at the Botanic Garden on servers at two different locations. These derivatives are used for display on our virtual herbarium [botanicalcollections](www.botanicalcollections.be) and [GBIF](www.gbif.org)
 
-![data publishing on botanicalcollections.be](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-online%20publication.jpg)
+[![data publishing on botanicalcollections.be](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-online%20publication.jpg)](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-online%20publication.jpg)
 
 After the data export from BGBase, the related images are extracted from the archive and displayed on [botanicalcollections](www.botanicalcollections.be) and [GBIF](www.gbif.org). All specimens have a permanent URI and the data is rdf readable.
 

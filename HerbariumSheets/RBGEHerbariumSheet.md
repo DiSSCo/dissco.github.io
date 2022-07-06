@@ -26,7 +26,7 @@ The workflow includes a level of automation to create the data records with asso
 ## Workflow
 These sections are used to add BPMN workflows. Text can also be included to help someone follow the workflow. Not all subheadings will be required for every workflow.
 
-![Overview of the Mass Digitisation workflow](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20workflow%20overview.PNG?raw=true)
+[![Overview of the Mass Digitisation workflow](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20workflow%20overview.PNG?raw=true)](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20workflow%20overview.PNG?raw=true)
 
 **Pre-Digitisation Curation**
 
@@ -39,7 +39,7 @@ There are three key tasks that form the pre-digitisation task cluster at RBGE:
 
 **Genus and Species covers**
 
-![Pre-Digitisation Curation: Genus and Species covers workflow](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Genus%20and%20Species%20covers.PNG?raw=true)
+[![Pre-Digitisation Curation: Genus and Species covers workflow](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Genus%20and%20Species%20covers.PNG?raw=true)](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Genus%20and%20Species%20covers.PNG?raw=true)
 
 A key part of the pre-digitisation curation is to ensure that key information for the finding of specimens is present and correct on both the genus and species covers.  The collections are organised systematically firstly by family number. Within families the specimens are ordered by genus number. Genera are then organised by geographic regions that the specimens were collected. Within each genus cover the specimens are in species covers, with the species epithet on the bottom right hand corner of the cover. 
 
@@ -57,7 +57,7 @@ If any specimens are particularly large or bulky, they should be placed at the t
 
 **Taxonomy and Names**
 
-![Pre-Digitisation Curation: Taxonomy and Names workflow](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Taxonomy%20%26%20Names.PNG?raw=true)
+[![Pre-Digitisation Curation: Taxonomy and Names workflow](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Taxonomy%20%26%20Names.PNG?raw=true)](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Taxonomy%20%26%20Names.PNG?raw=true)
 
 For this project the names are entered as they are found in the cabinets, a later project will assess all of the names in use and determine whether they should be use. The key principal is that the name used should allow the specimens to be found.
 
@@ -72,7 +72,7 @@ Other resources if the name cannot be found above include:
 
 **Conservation Assessment**
 
-![Pre-Digitisation Curation: Conservation Assessment workflow](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Conservation%20Assessment.PNG?raw=true)
+[![Pre-Digitisation Curation: Conservation Assessment workflow](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Conservation%20Assessment.PNG?raw=true)](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Conservation%20Assessment.PNG?raw=true)
 
 Whilst this step is included as part of the Pre-digitisation curation task cluster it is generally carried out after the Electronic Data Capture prior to Specimen Image Capture.
 
@@ -109,7 +109,7 @@ Examples of repairs:
 
 **Electronic Data Capture**
 
-![Minimal Data Capture workflow](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Minimal%20Data%20Entry.PNG?raw=true)
+[![Minimal Data Capture workflow](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Minimal%20Data%20Entry.PNG?raw=true)](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Minimal%20Data%20Entry.PNG?raw=true)
 
 The electronic data capture task results in minimal data records equivalent to MIDS-1. The workflow captures information on the specimen folders, shared by all specimens within, along with the barcode for each specimen. This results in a record for each specimen which contains a unique identifier and the specimen filing location represented by the folder information. 
 
@@ -144,7 +144,7 @@ More complex specimens, including multiple specimens mounted on a single sheet, 
 
 **Specimen Image Capture**
 
-![Specimen Image Capture workflow](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Specimen%20Image%20Capture.PNG?raw=true)
+[![Specimen Image Capture workflow](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Specimen%20Image%20Capture.PNG?raw=true)](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Specimen%20Image%20Capture.PNG?raw=true)
 
 At present there are 3 different imaging stations being used for the imaging of flat herbarium sheets. Whilst each has some slight differences the overall principals for the image capture workflow remain the same. 
 
@@ -159,7 +159,7 @@ General principals of the image capture workflow:
 
 **Specimen Image Processing**
 
- ![Specimen Image Processing workflow](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Specimen%20Image%20Processing.PNG?raw=true)
+ [![Specimen Image Processing workflow](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Specimen%20Image%20Processing.PNG?raw=true)](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Specimen%20Image%20Processing.PNG?raw=true)
  
 The image processing workflow has been designed to use a folder structure to derive metadata for user and equipment, with image metadata being derived from the image files themselves. This has created a workflow where there is a minimal amount of input needed by the digitisers to process their specimen images. 
 
@@ -179,7 +179,7 @@ Once the images have been processed the digitisers carry out a second check usin
 
 **Preserving and Publishing Data**
 
-![Data publishing pipeline](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20DAta%20publishing.PNG?raw=true)
+[![Data publishing pipeline](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20DAta%20publishing.PNG?raw=true)](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20DAta%20publishing.PNG?raw=true)
 
 The data is automatically harvested from the CMS once every 24h hours (usually 4am) and written to a holding database using an export template and code to re-combine data into multiple appropriate formats for downstream uses. One format is a set of linked DwC (Darwin Core files) that are automatically copied and moved to a public-facing server. These DwC files can be harvested (automatically or manually) by our data partners who aggregated data appropriately. 
 

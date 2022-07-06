@@ -31,7 +31,7 @@ This workflow occurs in two separate stages.
 
 **Specimen Image Capture**
 
-![workflow diagram of imaging](/images/PinnedInsect/NHMicol/pinned_insects_workflow_diagram_edit.png?raw=true)
+[![workflow diagram of imaging](/images/PinnedInsect/NHMicol/pinned_insects_workflow_diagram_edit.png?raw=true)](/images/PinnedInsect/NHMicol/pinned_insects_workflow_diagram_edit.png?raw=true)
 Figure 2: Workflow diagram for the imaging of pinned insect specimens.
 
 The imaging process takes place using several steps, where the specimen in passed between three locations:
