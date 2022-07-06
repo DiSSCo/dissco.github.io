@@ -20,17 +20,17 @@ grand_parent: Workflows
 ## Overview
 Geological thin sections are specimens of geological material which are thin enough to be mounted on microscope slides.
 
-![close up of slides](/images/Geo/thinsections/3_slide_close_up.png?raw=true)
+<img src="/images/Geo/thinsections/3_slide_close_up.png" alt="close up of slides" width="300"/>\
 Figure 1: Example of three example thin section slides. Taken with kind permission of the BGS.
 
 Roughly 30 microns thick, these sections are semi-transparent allows them to be viewed under a microscope which reveals how they are constructed. The use of polarising filters allows more information on the structural and chemical makeup of geological specimen to be obtained.
 
-![example of thin section images](/images/Geo/thinsections/selection_of_image_examples.png?raw=true)
+<img src="/images/Geo/thinsections/selection_of_image_examples.png" alt="example of thin section images" width="800"/>\
 Figure 2: A selection of thin section images taken using this workflow. Taken with kind permission of the BGS.
 
 ## Workflow
 
-![overall workflow diagram](/images/Geo/thinsections/thin_sections_workflow_diagram.png?raw=true)
+[![overall workflow diagram](/images/Geo/thinsections/thin_sections_workflow_diagram.png?raw=true)](/images/Geo/thinsections/thin_sections_workflow_diagram.png?raw=true)
 Figure 3: Workflow diagram of decisions and steps for the imaging of geological thin sections.
 
 Here we present an overview of the imaging workflow which has been used to digitise the majority of the British Geological Survey's (BGS) thin section slide collection. This workflow has been highly effective in producing quality images of thin section specimens, and is highly efficient being capable of producing images on over 1000 specimens a day.
@@ -40,7 +40,7 @@ Here we present an overview of the imaging workflow which has been used to digit
 
 Thin section slides were housed in drawers like this:
 
-![example of slides in a drawer](/images/Geo/thinsections/adjust_slide_tray.jpg?raw=true)
+<img src="/images/Geo/thinsections/adjust_slide_tray.jpg" alt="example of slides in a drawer" width="500"/>\
 Figure 4: Drawer of thin section slides. Taken with kind permission of the BGS.
 
 There are several steps that need to be performed to ensure that the specimens are ready for imaging which will also help the curation and preservation of your specimens.
@@ -92,7 +92,7 @@ Figure 7: A collection of thin section images after being downloaded from the ca
 
 Image files are downloaded from the camera's memory card. Images are then matched to their record using the image and section number.  
 
-Image correction processing was carried out in Photoshop. All images were sharpened and PPL images are 'auto levels'????
+Image correction processing was carried out in Photoshop. 
 
 Images were also converted to the JPEG2 format.
 
@@ -100,7 +100,7 @@ Images were also converted to the JPEG2 format.
 
 This sheet records data about the specimens and their images, and creates a link between the two so that records can be created.
 
-![blank recording sheet](/images/Geo/thinsections/focused_sheet_example.png?raw=true)
+<img src="/images/Geo/thinsections/focused_sheet_example.png?" alt="shows a blank recording sheet" width="500"/>\
 Figure 8: A focused example of a blank recording sheet. Reproduced with kind permission of the BGS.
 
 We fill in the columns as follows:
@@ -109,7 +109,7 @@ We fill in the columns as follows:
 3. The *Light* column is either XL for the first image  where the filter is down (double polarised light), or PPL for the second image where the filter is up (plain polarised light).
 4. In the *Camera number & prefix* column we record the image number as assigned by the camera. These will be filled in in a series on after the other. If a mistake is made, we leave the image in the camera and miss out that number in the column. See the image below for an example (the number 7853 is missed out). It is important to make sure that this column is filled in correctly. Any mistake will result in the wrong image being attached to each specimen.  
 
-![annotated blank recording sheet](/images/Geo/thinsections/annotated_filled_sheet.png?raw=true)
+<img src="/images/Geo/thinsections/annotated_filled_sheet.png?" alt="shows an annotated recording sheet" width="500"/>\
 Figure 9: A focused example of a completed recording sheet with annotations. Reproduced with kind permission of the BGS.
 
 In practice these details were recorded on paper sheets and entered into excel later, but could in principle be directly entered into a spreadsheet.
@@ -118,7 +118,7 @@ In practice these details were recorded on paper sheets and entered into excel l
 
 Images taken with this workflow have been uploaded to the BGS's online repository and are available for free to the public.
 
-Images are available from: https://webapps.bgs.ac.uk/data/britrocks/britrocks.cfc?method=searchBritrocks
+Images are available from [the BGS Britrocks website](https://webapps.bgs.ac.uk/data/britrocks/britrocks.cfc?method=searchBritrocks).
 
 **Further developments and plans**
 
@@ -151,7 +151,7 @@ A better solution would be to automate the process with one action which would t
 An example of this can be seen [here](https://www.youtube.com/watch?v=b4iIm4P166s).
 [This was programmed using the code found here](https://github.com/MichaelJardine/lmfrench.github.io/blob/main/Geo/thin_section_files/britrocks.sh).
 
-4. **Image processing** - image processing is currently perfomed manually in Adovbe photoshop. This is a liscened program with a fee. We are developing an alternative process using free software such as [Image magick](https://imagemagick.org/) which would make the processing of images feasible for more collections. The process could also be automated using hot folders so that all imported images are processed in the same manner.
+4. **Image processing** - image processing is currently perfomed manually in Adobe photoshop. This is a liscened program with a fee. We are developing an alternative process using free software such as [Image magick](https://imagemagick.org/) which would make the processing of images feasible for more collections. The process could also be automated using hot folders so that all imported images are processed in the same manner.
 
 ## Example Projects
 This workflow was used to digitise the BGS's whole thin section collection as part of their [Britrocks project](https://www.bgs.ac.uk/technologies/databases/bgs-rock-collections/)
@@ -192,9 +192,9 @@ The camera is set to 'aperture priority'. With no slide present this results set
  Images are saved from the camera in the JPEG format.
 
 ## Other Sources
-Blog posts recording the progress of project:
-http://britgeopeople.blogspot.com/2013/03/100000-scottish-thin-sections-completed.html
-http://britgeopeople.blogspot.com/2012/12/bgs-thin-sections-150000th-image-taken.html
+Blog posts recording the progress of project:\
+[100,000 Scottish thin sections completed!](http://britgeopeople.blogspot.com/2013/03/100000-scottish-thin-sections-completed.html)\
+[BGS thin sections: 150,000th image taken!](http://britgeopeople.blogspot.com/2012/12/bgs-thin-sections-150000th-image-taken.html)
 
 ## Authors
 Michael Jardine (NHM), Simon Harris (BGS),
@@ -203,15 +203,19 @@ Michael Jardine (NHM), Simon Harris (BGS),
 Bob McIntosh (BGS Edinburgh)
 
 ## References
-British Geological Survey petrology collections in Geikie and the development of petrography, particularly in Scotland John R. Mendum and Michael P.A. Howe. Geological Society, London, Special Publications, 480, 367-377, 16 January 2019, https://doi.org/10.1144/SP480.19
-Eberspächer, Susanne & Lange, Jan-Michael & Zaun, Jörg & Kehrer, Christin & Heide, Gerhard. (2015). The Historical Collection of Rock Thin Sections at the Technische Universität Bergakademie Freiberg and Evaluation of Digitization Methods. https://www.researchgate.net/publication/273118591
-Haaland, MM, Czechowski, M, Carpentier, F, Lejay, M, Vandermeulen, B. Documenting archaeological thin sections in high‐resolution: A comparison of methods and discussion of applications. Geoarchaeology. 2019; 34: 100– 114. https://doi.org/10.1002/gea.2170
+British Geological Survey petrology collections in Geikie and the development of petrography, particularly in Scotland John R. Mendum and Michael P.A. Howe. Geological Society, London, Special Publications, 480, 367-377, 16 January 2019, [https://doi.org/10.1144/SP480.19](https://doi.org/10.1144/SP480.19]) \
+Eberspächer, Susanne & Lange, Jan-Michael & Zaun, Jörg & Kehrer, Christin & Heide, Gerhard. (2015). The Historical Collection of Rock Thin Sections at the Technische Universität Bergakademie Freiberg and Evaluation of Digitization Methods. [https://www.researchgate.net/publication/273118591](https://www.researchgate.net/publication/273118591) \
+Haaland, MM, Czechowski, M, Carpentier, F, Lejay, M, Vandermeulen, B. Documenting archaeological thin sections in high‐resolution: A comparison of methods and discussion of applications. Geoarchaeology. 2019; 34: 100– 114. [https://doi.org/10.1002/gea.2170](https://doi.org/10.1002/gea.2170)
 
 ## Licence
 The content of this workflow is the property of the Trustees of the Natural History Museum and of DiSSCo UK, unless were otherwise stated. It may be used under a [creative commons licence](http://creativecommons.org/licenses/by/4.0/).
 Images and information have been kindly provided by the British Geological Survey (BGS).
 
 ## Document Control
+1.1
+
+## Changes since last version
+Image sizes updated, links and typos fixed.
 
 ## Citation
 Jardine, M.D. and Harris, S. (2022) DiSSCo Digitisation Guide: Imaging geological thin sections - BGS. version 1.0. Available at: https://dissco.github.io/Geo/thin_sections.html
