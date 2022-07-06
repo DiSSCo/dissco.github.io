@@ -290,7 +290,24 @@ Some sections of the checklist are still to be developed, as they link closely w
 		<li>CMS</li>			
 	</ul>
 	
-	<h3>3.7 Space for infrastructure of external company</h3>
+	<h3>3.7 Digitisation Stations </h3>
+	<ul>
+		<li>Camera</li>
+		<li>Lens</li>
+		<li>Lighting</li>
+		<li>Table</li>
+		<li>Computer<li>
+		<li>Software</li>
+		<li>IT storage (local, disk, server, cloud, image transfer)</li>
+		<li>Background</li>
+		<li>Equipment for specimen mounting</li>
+		<li>Tripod/stand</li>
+		<li>Set of scales and color charts</li>
+		<li>Connection cables, batteries and accessory</li>
+		<li>Logo of your institute</li>
+	</ul>
+	
+	<h3>3.8 Space for infrastructure of external company</h3>
 	<p>If you decide to outsource (part of) the digitisation but plan the digitisation itself in your own
 	institute, make sure you have a spare room where the external company can install their digitisation
 	infrastructure. It should be easily accessible and close to the collections. The space should be suitable
@@ -361,7 +378,7 @@ Some sections of the checklist are still to be developed, as they link closely w
 		<li>Data publishing</li>
 	</ul>
 	
-	<h3>7.2 In house</h3>
+	<h3>7.2 Outsource</h3>
 	<p>Write down detailed procedures for every step you will outsource so that there is no room for discussion.</p>
 	<ul>
 		<li>Tendering</li>
