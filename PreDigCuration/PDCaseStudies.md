@@ -75,6 +75,10 @@ Get in touch with us on our [GitHub](https://github.com/DiSSCo/dissco.github.io/
 	
 </details>
 
+### Detailed inventory of the collections for DiSSCo Flanders
+
+This case study can be found in [this journal article](https://doi.org/10.5281/zenodo.6511351)
+
 ### Estimation of the numbers of the African and Belgian Herbarium Collection at Meise Botanic Garden
 <details>
 	<summary><strong>Click here to expand</strong></summary>
@@ -532,7 +536,7 @@ Get in touch with us on our [GitHub](https://github.com/DiSSCo/dissco.github.io/
 Sofie De Smedt, Ann Bogaerts, Krisztina Lohonya, Tara Wainwright, Peter Wing \
 Meise Botanic Garden, Natural History Museum London.
 ## Contributors
-Lisa French, Frederik Berger, Rob Cubey, Anne Koivunen, Sabine von Mering, Laurence Livermore
+Lisa French, Frederik Berger, Rob Cubey, Helen Hardy, Anne Koivunen, Sabine von Mering, Laurence Livermore
 ## References
 Hardisty A, Livermore L, Walton S, Woodburn M, Hardy H (2020) Costbook of the digitisation infrastructure of DiSSCo. Research Ideas and Outcomes 6: e58915. [https://doi.org/10.3897/rio.6.e58915](https://doi.org/10.3897/rio.6.e58915)\
 Nieva de la Hidalga A, Rosin PL, Sun X, Bogaerts A, De Meeter N, De Smedt S, Strack van Schijndel M,

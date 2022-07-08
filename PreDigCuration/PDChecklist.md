@@ -31,6 +31,8 @@ case studies have been described and are linked to in the checklist.
 
 Some sections of the checklist are still to be developed, as they link closely with other [DiSSCo Prepare](https://www.dissco.eu/dissco-ppp/) work packages. This page will be updated when these tasks are complete.
 
+**A word document containing this checklist can be downloaded [here](https://know.dissco.eu/handle/item/489)**
+
 ## Pre-Digitisation Curation Checklist
 
 ### 1. Detailed inventory of the collection (Number of Specimens)
@@ -296,7 +298,7 @@ Some sections of the checklist are still to be developed, as they link closely w
 		<li>Lens</li>
 		<li>Lighting</li>
 		<li>Table</li>
-		<li>Computer<li>
+		<li>Computer</li>
 		<li>Software</li>
 		<li>IT storage (local, disk, server, cloud, image transfer)</li>
 		<li>Background</li>
@@ -324,7 +326,7 @@ Some sections of the checklist are still to be developed, as they link closely w
 ### 4. Pre-Digitisation curation
 <details>
 	<summary><strong>Click here to expand</strong></summary>
-	<p>More information will be added here a later date</p>
+	<p>Many of the workflows on <a href="/CollectionType.html">this site</a> include a pre-digitisation curation section, which may be helpful to consult when creating your own workflows.</p>
 </details>
 
 ### 5. Staff availability
@@ -349,6 +351,8 @@ Some sections of the checklist are still to be developed, as they link closely w
 	make decisions on the following steps if you want to outsource them or do them yourself.</p>
 	<p>If the imaging/transcription is outsourced with quality control (QC) conducted by the outsourcing
 	partner, we highly recommend you also should have an internal quality control procedure in place.</p>
+	
+	<p>For a case study, download a pdf of an <a href="https://know.dissco.eu/handle/item/488">imaging</a> and <a href="https://know.dissco.eu/handle/item/487">data capture</a> tender written by Meise Botanic Garden for the outsourcing of the African and Belgian herbarium collections</p>
 	
 	<h3>7.1 In house</h3>
 	<ul>
@@ -420,6 +424,8 @@ Some sections of the checklist are still to be developed, as they link closely w
 ### 8. Necessary Workflows
 <details>
 	<summary><strong>Click here to expand</strong></summary>
+	<p>In this section you can find a list of all the workflows you might need in place when you start your own (mass) digitisation project</p>
+	
 	<h3>8.1 Pre-Digitisation Curation</h3>
 	<ul>	
 		<li>Barcoding</li>
@@ -445,9 +451,11 @@ Some sections of the checklist are still to be developed, as they link closely w
 	<h3>8.5 QC Databasing</h3>
 	<p>For a case study see <a href="/PreDigCuration/PDCaseStudies.html#quality-control-procedure-of-meise-botanic-garden-for-the-mass-digitisation-project-doe"> Quality control procedure</a> of Meise Botanic Garden for the mass digitisation project DOE!</p>
 	<h3>8.6 Decontamination</h3>
+	<p>See <a href="/PreDigCuration/PDChecklist.html#1-detailed-inventory-of-the-collection-number-of-specimens">section 1.4.2</a> of this checklist</p> 
 	<h3>8.7 Tracking System</h3>
 	<p>For a case study see <a href="/PreDigCuration/PDCaseStudies.html#tracking-system-collection-move-naturalis">Tracking system:</a> Collection move, Naturalis</p>
 	<h3>8.8 Data storage</h3>
+	See <a href="/PreDigCuration/PDChecklist.html#3-supplies">Section 3.6</a> of this checklist, our <a href="/DataETL/DataETL.html">Data (ETL) best practices</a>  and <a href="https://doi.org/10.3897/BDJ.8.e47051">Nieva de la Hidalga <em>et al.</em>(2020)</a> for more information.
 	<h3>8.9 Data publishing</h3>
 	<ul>
 		<li>Own portal</li>
@@ -478,7 +486,7 @@ More literature can also be found [here](https://know.dissco.eu/handle/item/403/
 Sofie De Smedt & Ann Bogaerts\
 Meise Botanic Garden
 ## Contributors
-Lisa French, Frederik Berger, Rob Cubey, Anne Koivunen, Sabine von Mering, Laurence Livermore
+Lisa French, Frederik Berger, Rob Cubey, Helen Hardy, Anne Koivunen, Sabine von Mering, Laurence Livermore
 ## References
 Hardisty A, Livermore L, Walton S, Woodburn M, Hardy H (2020) Costbook of the digitisation infrastructure of DiSSCo. Research Ideas and Outcomes 6: e58915. https://doi.org/10.3897/rio.6.e58915
 
