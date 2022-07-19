@@ -59,5 +59,7 @@ Natural History Museum, London
 ## Document Control
 1.0
 
+## Changes since last version
+
 ## Citation
 French, L., Kokkini, P. & Livermore, L. (2022) DiSSCo Digitisation Guide: Bat Collection (NHM). version 1.0. Available at: https://dissco.github.io/MicroscopeSlides/MicroscopeSlide.html

@@ -62,5 +62,7 @@ Section for links out to other related resources e.g blog posts, journal article
 
 ## Document Control
 
+## Changes since last version
+
 ## Citation
 

@@ -161,6 +161,7 @@ iDigBio. Workflow Modules and Task Lists. Accessed 22 January 2019. [https://www
 
 ## Document Control
 
+## Changes since last version
 
 ## Citation
 

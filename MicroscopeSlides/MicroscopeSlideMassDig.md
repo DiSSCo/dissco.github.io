@@ -120,5 +120,7 @@ Allan, L. E., Price, B.W., Shchedrina, O., Dupont, S., Livermore, L., & Smith, V
 ## Document Control
 1.0
 
+## Changes since last version
+
 ## Citation
 French, L., Welton, L., Berridge, L. & Livermore, L. (2022) DiSSCo Digitisation Guide: Microscope Slides - Mass Digitisation (NHM). version 1.0. Available at: https://dissco.github.io/MicroscopeSlides/MicroscopeSlide.html
