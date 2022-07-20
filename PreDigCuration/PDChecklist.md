@@ -111,22 +111,19 @@ Some sections of the checklist are still to be developed, as they link closely w
 	<p>While checking the curatorial state of your collection, you can already start making a list of necessary
 	supplies (see <a href="/PreDigCuration/PDChecklist.html#3-supplies">section 3</a> for supply lists).</p>
 	
-	<h4>1.4.2 Curation Status</h4>
-	<ul>
-		<li> Toxicity list & risk assessment</li>
-		<p>Many collections have been treated in the past with chemicals that are now
-		considered as unsafe: herbarium collections could have been treated with mercury,
-		nitrobenzene, naphthalene (in mothballs) or other chemicals; vertebrate skins with
-		arsenic, geology collections store asbestos-containing material or can be radioactive.
-		Liquid collections can contain formaldehyde or other harmful substances. Mould and
-		biological hazards form other problems that can be found in collections.</p>
-		<p>List all the toxins that were used in your collection to make sure that you take the
-		necessary precautions.</p>
-		<p>This is not only necessary for the people who work with the collections on a daily
-		basis but it is also important when you plan to outsource the digitisation of your
-		collection. It is recommended to inform the external company and to make a risk
-		assessment.</p>
-	</ul>
+	<h4>1.4.2 Toxicity list & risk assessment</h4>
+	<p>Many collections have been treated in the past with chemicals that are now
+	considered as unsafe: herbarium collections could have been treated with mercury,
+	nitrobenzene, naphthalene (in mothballs) or other chemicals; vertebrate skins with
+	arsenic, geology collections store asbestos-containing material or can be radioactive.
+	Liquid collections can contain formaldehyde or other harmful substances. Mould and
+	biological hazards form other problems that can be found in collections.</p>
+	<p>List all the toxins that were used in your collection to make sure that you take the
+	necessary precautions.</p>
+	<p>This is not only necessary for the people who work with the collections on a daily
+	basis but it is also important when you plan to outsource the digitisation of your
+	collection. It is recommended to inform the external company and to make a risk
+	assessment.</p>
 	<p>For a case study see <a href="/PreDigCuration/PDCaseStudies.html#decontamination-of-parts-of-the-herbarium-at-meise-botanic-garden">Decontamination of parts of the herbarium</a> at Meise Botanic
 	Garden, and useful literature can be found <a href="https://know.dissco.eu/handle/item/403/simple-search?filterquery=Toxicity&filtername=subject&filtertype=equals">here</a></p>
 	
