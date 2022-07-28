@@ -66,6 +66,8 @@ We published a [paper](https://doi.org/10.3897/BDJ.8.e50503) in 2020 which descr
 ![Image shows a flowchart from the NHM's botanical Chinese Type collection transcription project. Reference Lohonya et al 2020](/images/ElectronicDataCapture/TranscM/TranscFlowChart.jpg?raw=true)
 Figure: Flowchart describing one step of the NHM botanical Chinese Type Collection geo-referencing project, which outlines some of the rules our transcribers followed in this project. Creating a flow chart like this can help ensure consistency between transcribers (Lohonya, et al, 2020).
 
+We have provided an example of one of our transcription spreadsheets [here](https://github.com/DiSSCo/dissco.github.io/blob/main/ElectronicDataCapture/EPT%20-%20Transcription%20-%20Pinned%20ALICE.xlsx) which was used in our [ALICE pinned insect](/PinnedInsect/ALICE.html) Ephemeroptera, Plecoptera and Trichoptera transcription work.
+
 ## Workflow
 ![Image shows a transcription workflow](/images/ElectronicDataCapture/TranscM/TranscWF.PNG?raw=true)
 This shows an example workflow for a transcription project. 
