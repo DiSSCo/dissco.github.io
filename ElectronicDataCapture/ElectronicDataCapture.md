@@ -1,7 +1,7 @@
 ---
 title: Electronic Data Capture
 has_children: true
-nav_order: 8
+nav_order: 3
 parent: Guidance & Best Practices
 ---
 
