@@ -230,7 +230,56 @@ This case study can be found in [this journal article](https://doi.org/10.5281/z
 		in closed boxes as soon as possible</li>
 		<li>Leave room doors, cupboard doors and boxes open unnecessarily</li>
 		<li>Move herbarium material between the different collection rooms.</li>
+		
 	</ul>
+	
+	<table style="empty-cells: hide">
+		<tr>
+			<td></td>
+			<td></td>
+			<td colspan="3"><strong>Exposure Risk - Operation</strong></td>
+		</tr>
+		
+		<tr>
+			<td></td>
+			<td></td>
+			<td>Low (non-contaminated material)</td>
+			<td>High (material contaiminated / in possible contact with contaminated material)</td>
+			<td>Very High (heavily contaiminated or suspected heavy contamination</td>
+		</tr>
+		
+		<tr>
+			<td rowspan="4"><strong>Exposure Risk: Room</strong></td>
+			<td> Low (no use of chemicals in the room)</td>
+			<td rowspan="2" style="background-color: CornflowerBlue; color: white"> Mounting new incoming material </td>
+			<td rowspan="2" style="background-color: DimGray; color: white"> Re-mounting old material, imaging intercalation, collection consultation, transcription </td>
+			<td rowspan="2" style="background-color: DarkOrange; color: white"> All actions </td>
+		</tr>
+		
+		<tr>
+			<td>Offices</td>
+		</tr>
+		
+		<tr>
+			<td>High (use of chemicals in the room)</td>
+			<td rowspan="2" style="background-color: DimGray; color: white"> Mounting new incoming material </td>
+			<td rowspan="2" style="background-color: DarkOrange; color: white"> Re-mounting old material, imaging intercalation, collection consultation, transcription </td>
+			<td rowspan="2" style="background-color: DarkOrange; color: white"> All actions </td>
+		</tr>
+		
+		<tr>
+			<td>Herbarium rooms</td>
+		</tr>
+		
+				
+	</table>
+	<p>Table Key: Wear a lab coat and gloves:</p>
+	<ul>
+		<li><strong>Blue:</strong> Not neccessary</li>
+		<li><strong>Grey:</strong> Recommended</li>
+		<li><strong>Orange:</strong> Obliged</li>
+	</ul>
+	
 </details>
 
 ### Staff List for Mass Digitisation Project DOE! at Meise Botanic Garden
@@ -459,13 +508,50 @@ This case study can be found in [this journal article](https://doi.org/10.5281/z
 	table: when a file has a batch size of 450 records, for example, the sub-sample batch size of 500
 	records will be used. We will use the test level II-Normal, which has the identification letter H. For
 	this code letter a sample size of 50, where penalty points <2 are approved (G1) and ≥2 are rejected
-	(A1). In other words, 1,9 penalty points are approved and 2 penalty points are rejected.</p>
+	(A1). In other words, 1.9 penalty points are approved and 2 penalty points are rejected.</p>
 	
 	<p>Suppose a batch comprises 500 records, thus a sub-sample of 50 records. A single record may not
 	have a penalty point greater than 1. For example, if a single record has 10 mistakes giving it a total of
-	3,8 penalty points this still counts as 1 penalty point. If only one error was counted at 0,5 penalty
-	points then this counts 0,5. The sum of all penalty points determines whether a batch is accepted or
+	3.8 penalty points this still counts as 1 penalty point. If only one error was counted at 0.5 penalty
+	points then this counts 0.5. The sum of all penalty points determines whether a batch is accepted or
 	rejected.</p>
+	
+	<table>
+		<tr>
+			<td><strong>No. records</strong></td>
+			<td rowspan="3">N/A</td>
+			<td>&#8804; 150</td>
+			<td>&#8804; 280</td>
+			<td>&#8804; 500</td>
+			<td>&#8804; 1200</td>
+			<td>&#8804; 3100</td>
+			<td>&#8804; 10000</td>
+		</tr>
+		
+		<tr>
+			<td><strong>Sub-sample size (see table below)</strong></td>
+			<td>20</td>
+			<td>32</td>
+			<td>50</td>
+			<td>80</td>
+			<td>125</td>
+			<td>200</td>
+		</tr>
+		
+		<tr>
+			<td><strong>Accepted when errors</strong></td>
+			<td>&#60; 1</td>
+			<td>&#60; 1</td>
+			<td>&#60; 2</td>
+			<td>&#60; 3</td>
+			<td>&#60; 4</td>
+			<td>&#60; 6</td>
+		</tr>
+	</table>
+	
+	<img src="/images/PreDig/PDSampleSizeCode.png" alt="Shows Sample Size Code Letters for Normal and Special Inspection Levels by Batch/Lot Size"><br>
+	<img src="/images/PreDig/PDSampleSizePlan.png" alt="Shows Acceptable Quality Levels for a Normal Inspection by Sample Size Code Letter"><br>
+	
 </details>
 
 ### Ordering Supplies for Pinned Insect Digitisation: Natural History Museum, London
