@@ -549,8 +549,8 @@ This case study can be found in [this journal article](https://doi.org/10.5281/z
 		</tr>
 	</table>
 	
-	<img src="/images/PreDig/PDSampleSizeCode.png" alt="Shows Sample Size Code Letters for Normal and Special Inspection Levels by Batch/Lot Size"><br>
-	<img src="/images/PreDig/PDSampleSizePlan.png" alt="Shows Acceptable Quality Levels for a Normal Inspection by Sample Size Code Letter"><br>
+	<img src="/images/PreDig/PDSampleSizeCode.PNG" alt="Shows Sample Size Code Letters for Normal and Special Inspection Levels by Batch/Lot Size"><br>
+	<img src="/images/PreDig/PDSampleSizePlan.PNG" alt="Shows Acceptable Quality Levels for a Normal Inspection by Sample Size Code Letter"><br>
 	
 </details>
 
