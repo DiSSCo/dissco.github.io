@@ -133,3 +133,6 @@ The content of this workflow is the property of the Trustees of the Natural Hist
 
 ## Citation
 Jardine, M.D., Lohonya, K., Welton, L. & French, L. (2022) DiSSCo Digitisation Guide: Herbarium sheet digitisation - NHM. version 1.0. Available at: https://dissco.github.io/HerbariumSheets/NHMHerbariumSheetDigitisationWorkflow.html
+
+## Content Last Updated
+27 May 2022

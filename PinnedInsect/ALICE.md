@@ -136,4 +136,6 @@ Natural History Museum (2021). Natural History Museum Data Portal (data.nhm.ac.u
 ## Citation
 French, L., Crowther, R., Holub-Young, K., Lohonya, K. & Livermore, L. (2022) DiSSCo Digitisation Guide: ALICE - Pinned Insects (NHM). version 1.0. Available at: https://dissco.github.io/PinnedInsect/ALICE.html
 
+## Content Last Updated
+26 May 2022
 

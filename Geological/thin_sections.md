@@ -219,3 +219,6 @@ Image sizes updated, links and typos fixed.
 
 ## Citation
 Jardine, M.D. and Harris, S. (2022) DiSSCo Digitisation Guide: Imaging geological thin sections - BGS. version 1.0. Available at: https://dissco.github.io/Geo/thin_sections.html
+
+## Content Last Updated
+6 July 2022

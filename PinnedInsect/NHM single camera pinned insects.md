@@ -98,3 +98,6 @@ The content of this workflow is the property of the Trustees of the Natural Hist
 
 ## Citation
 Jardine, M.D., Wing, P., Kokkini, P. and Lowndes, N. (2022) DiSSCo Digitisation Guide: NHM single camera pinned insects workflow. version 1.0. Available at: https://dissco.github.io/PinnedInsect/NHM%20single%20camera%20pinned%20insects.html
+
+## Content Last Updated
+26 May 2022

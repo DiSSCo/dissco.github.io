@@ -167,3 +167,5 @@ iDigBio. Workflow Modules and Task Lists. Accessed 22 January 2019. [https://www
 
 Cunha, AR, Arsénio P, Figueira R (2021) LISI Herbarium Digitization Workflow, version 1.0. Instituto Superior de Agronomia, Universidade de Lisboa. 18 pp. https://github.com/PORBIOTA/ISA_DMP/blob/main/LISI_DigitizationWorkflow.pdf
 
+## Content Last Updated
+18 March 2022

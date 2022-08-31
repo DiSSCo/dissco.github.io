@@ -635,7 +635,8 @@ Image Quality Management. Biodiversity Data Journal 8: e47051. [https://doi.org/
 
 ## Citation
 
-
+## Content Last Updated
+30 August 2022
 
 
 
