@@ -5,19 +5,22 @@ nav_exclude: true
 title: DiSSCo Digitisation Guides
 #layout: home
 ---
-## Welcome to the DiSSCo Digitisation Guides website
+# DiSSCo Digitisation Guides 
+<span style="font-size:24px">Guidance and workflows for the digitisation of natural science collections</span>
 
-This site contains guidance and workflows to help you digitise your collections, and is being developed as part of the Distributed System of Scientific Collections [(DiSSCo)](https://dissco.eu) project.
+<span class="fs-5">[Workflows](/CollectionType.html){: .btn .btn-blue .mr-8 }</span>  											
+<span class="fs-5">[Guidance & Best Practices](/BestPractice.html){: .btn .btn-blue .mr-8 }</span>
+<span class="fs-5">[Literature & Links](/Literature/Literature.html){: .btn .btn-blue .mr-8 }</span>
 
-We want to increase digitisation capacity across Europe, by helping natural science collection-holding institutions to share best practices.
+This website has been developed by the Distributed System of Scientific Collections [(DiSSCo)](https://dissco.eu). 
 
-[Workflows](/CollectionType.html){: .btn .btn-blue .mr-8 }  											
-[Guidance & Best Practices](/BestPractice.html){: .btn .btn-blue .mr-8 }
-[Literature & Links](/Literature/Literature.html){: .btn .btn-blue .mr-8 }
+DiSSCo aims to improve physical and digital access to natural science collections, by helping to enable and support industrial scale digitisation.
+
+### Notice
 
 All elements of this website are under development. This means you may notice that some sections of the site are incomplete, or that some of the images are difficult to see. 
 
-We welcome feedback, so get in touch with us at lisa.french@nhm.ac.uk or add a new issue to our [GitHub](https://github.com/DiSSCo/dissco.github.io/issues). Please also let us know what guidance you would like to see added to the site, either via e-mail or GitHub, as this will help us to prioritise our next steps.
+We welcome feedback, so get in touch with us at lisa.french@nhm.ac.uk or add a new issue to our [GitHub](https://github.com/DiSSCo/dissco.github.io/issues). 
 
 All institutions are able to contribute to this website, see our [contributor guidance](https://dissco.github.io/Guidance/ContributorGuidance.html) for more information on how to submit a workflow. 
 
