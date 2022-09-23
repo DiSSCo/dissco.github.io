@@ -1,5 +1,5 @@
 title: "Digitisation Guides"
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc2
 search_enabled: true
 description: DiSSCo Digitisation Guides
 color_scheme: DiSSCotheme
