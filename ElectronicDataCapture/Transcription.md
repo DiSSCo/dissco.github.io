@@ -125,7 +125,8 @@ Journal Articles\
 
 ## Authors
 Lisa French, Krisztina Lohonya, Laurence Livermore
-Natural History Museum, London
+Natural History Museum\
+<img src="/images/Logos/NHM.gif" alt="NHM Logo" width="250">
 
 ## Contributors
 Phaedra Kokkini

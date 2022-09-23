@@ -26,3 +26,5 @@ We have put together a few introductory pages covering several aspects of specim
 Feel free to go through these pages in turn or simply to visit those of interest to you.
 
 The links to many of the sources used to create these pages are found in the final section [materials and references](SpecimenImageCapture/conclusion_and_materials.html) where you can also find information on the licensing and citation of this resource.
+
+<img src="/images/Logos/AHRC.png" alt="AHRC Logo" width="250">

@@ -116,9 +116,12 @@ If using **LED** lighting the settings are: ISO = 200; shutter speed = 1/60; ape
 
 ## Authors
 Michael Jardine, Krisztina Lohonya, Larissa Welton, Lisa French.
+Natural History Museum\
+<img src="/images/Logos/NHM.gif" alt="NHM Logo" width="250" style="margin-right:20px;">
+<img src="/images/Logos/AHRC.png" alt="AHRC Logo" width="250">
 
 ## Contributors
-This work is built upon the working practices of the NHM staff.
+This work is built upon the working practices of the NHM staff. The creation of this workflow was funded by the UK Arts & Humanities Research Council
 
 ## Licence
 The content of this workflow is the property of the Trustees of the Natural History Museum and may be used under a [creative commons licence](http://creativecommons.org/licenses/by/4.0/)
@@ -127,9 +130,10 @@ The content of this workflow is the property of the Trustees of the Natural Hist
 1.2
 
 ## Changes since last version
-*Removed detailed instructions on specific software, it now links to a separate page with these instructions. 
-*Added workflow diagrams for pre-digitisation section and specimen image capture.
-*Minor amendments to text
+* Removed detailed instructions on specific software, it now links to a separate page with these instructions. 
+* Added workflow diagrams for pre-digitisation section and specimen image capture.
+* Minor amendments to text
+* Logos added
 
 ## Citation
 Jardine, M.D., Lohonya, K., Welton, L. & French, L. (2022) DiSSCo Digitisation Guide: Herbarium sheet digitisation - NHM. version 1.0. Available at: https://dissco.github.io/HerbariumSheets/NHMHerbariumSheetDigitisationWorkflow.html

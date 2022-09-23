@@ -197,7 +197,10 @@ Blog posts recording the progress of project:\
 [BGS thin sections: 150,000th image taken!](http://britgeopeople.blogspot.com/2012/12/bgs-thin-sections-150000th-image-taken.html)
 
 ## Authors
-Michael Jardine (NHM), Simon Harris (BGS),
+Michael Jardine (Natural History Museum), Simon Harris (British Geological Survey)\
+<img src="/images/Logos/BGS.png" alt="BGS Logo" width="250" style="margin-right:20px;">
+<img src="/images/Logos/NHM.gif" alt="NHM Logo" width="250" style="margin-right:20px;">
+<img src="/images/Logos/AHRC.png" alt="AHRC Logo" width="250">
 
 ## Contributors
 Bob McIntosh (BGS Edinburgh)

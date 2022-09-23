@@ -51,7 +51,8 @@ The next workflow shows the transcription process for the spirit and skull colle
 
 ## Authors
 Phaedra Kokkini, Lisa French, Laurence Livermore\
-Natural History Museum, London
+Natural History Museum\
+<img src="/images/Logos/NHM.gif" alt="NHM Logo" width="250">
 
 ## Licence
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
