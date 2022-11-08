@@ -145,10 +145,13 @@ Walton S., Livermore L., Dillen M., De Smedt S., Groom Q., Koivunen A. & Phillip
 Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. (2016) The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018. https://doi.org/10.1038/sdata.2016.18
 
 ## Licence
+CC-BY
 
 ## Document Control
+1.1
 
-## Citation
+## Changes since last version
+Added link to Introduction to Transcription presentation
 
 ## Content Last Updated
-28 July 2022
+8 November 2022
