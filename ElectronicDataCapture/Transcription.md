@@ -86,7 +86,8 @@ The expertise and knowledge of the transcriber will also influence the speed and
 
 At the NHM, London, we ask our transcribers to record the number of specimens they transcribe each day for each project. This allows us to calculate maximum, minimum and median transcription rates, which we can use during a project to assess whether we need to make any adjustments (e.g. reduce what is being transcribed to meet deadlines), and to make estimates for how long similar projects will take. We can also use this information to calculate the cost of transcription per specimen (using staff costs).
 
-### Impact and Effort Matrix
+
+### Impact and Effort
 ![Image shows an impact effort matrix](/images/ElectronicDataCapture/TranscM/ImpactEffort.PNG?raw=true)
 
 Using an impact effort matrix at the start of a transcription project can help teams to determine what to transcribe. 
@@ -108,6 +109,8 @@ and they may also misinterpret the correct data field. It is particularly diffic
  
 There may be symbols that are not found on the transcriber's keyboard, for example UK keyboards do not typically include accented letters. The [Useful Shortcuts](https://usefulshortcuts.com/alt-codes/accents-alt-codes.php) website can be used to either copy and paste the required letter, or to find the keyboard shortcut
 
+More advice on transcribing languages with non-Latin writing systems, as well as cursive letters and labels written with Latin phrases, see the [Introduction to Transcription](https://figshare.com/articles/presentation/Introduction_to_transcription/21476835/1) presentation slides.
+
 **Multi-specimen sheets:** 
 Multiple specimens can often be found on herbarium sheets. This can be challenging to transcribe, as it is often not clear which labels are associated with each specimen.
 
@@ -117,6 +120,9 @@ Partial dates are often found on transcription labels - for example, only record
 ## Other Sources
 Websites\
 [Darwin Core](https://www.tdwg.org/standards/dwc/)
+
+Presentations\
+[Introduction to Transcription](https://figshare.com/articles/presentation/Introduction_to_transcription/21476835/1), K Lohonya
 
 Journal Articles\
 [A cost analysis of transcription systems](https://doi.org/10.3897/rio.6.e56211)\
