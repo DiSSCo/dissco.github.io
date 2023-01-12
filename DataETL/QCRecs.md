@@ -233,11 +233,23 @@ Nieva de la Hidalga A, van Walsun M, Rosin, P, Sun X, Wijers A (2019) Quality
 Management Methodologies for Digitisation Operations, ICEDIG Project Report.
 <a href="https://doi.org/10.5281/zenodo.3469521">https://doi.org/10.5281/zenodo.3469521</a>
 
-## Licence
+## Authors
+Zhengzhe Wu and Esko Piirainen\
+Finnish Museum of Natural History (Luomus)
 
-## Document Control
+## Contributors
+Lisa French, Laurence Livermore
 
 ## Citation
 
-## Content Last Updated
-28 June 2022
+## References
+
+## Licence
+
+## Document Control
+**Version:** \
+**Changes since last version:** N/A\
+**Last Updated:** 28 June 2022
+
+### Edit This Page
+You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})

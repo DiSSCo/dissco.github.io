@@ -123,20 +123,21 @@ Natural History Museum\
 ## Contributors
 This work is built upon the working practices of the NHM staff. The creation of this workflow was funded by the UK Arts & Humanities Research Council
 
+## Citation
+Jardine, M.D., Lohonya, K., Welton, L. & French, L. (2022) DiSSCo Digitisation Guide: Herbarium sheet digitisation - NHM. version 1.2. Available at: https://dissco.github.io/HerbariumSheets/NHMHerbariumSheetDigitisationWorkflow.html
+
 ## Licence
 The content of this workflow is the property of the Trustees of the Natural History Museum and may be used under a [creative commons licence](http://creativecommons.org/licenses/by/4.0/)
 
 ## Document Control
-1.2
-
-## Changes since last version
+**Version:** 1.2\
+**Changes since last version:** 
 * Removed detailed instructions on specific software, it now links to a separate page with these instructions. 
 * Added workflow diagrams for pre-digitisation section and specimen image capture.
 * Minor amendments to text
 * Logos added
 
-## Citation
-Jardine, M.D., Lohonya, K., Welton, L. & French, L. (2022) DiSSCo Digitisation Guide: Herbarium sheet digitisation - NHM. version 1.0. Available at: https://dissco.github.io/HerbariumSheets/NHMHerbariumSheetDigitisationWorkflow.html
+**Last Updated:** 27 May 2022
 
-## Content Last Updated
-27 May 2022
+### Edit This Page
+You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})

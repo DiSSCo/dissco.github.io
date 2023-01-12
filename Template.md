@@ -52,17 +52,18 @@ This section gives more information about how these workflows have been applied 
 ## Other Sources
 Section for links out to other related resources e.g blog posts, journal articles
 
+## References
+
 ## Authors
 
 ## Contributors
 
-## References
-
-## Licence
-
-## Document Control
-
-## Changes since last version
-
 ## Citation
 
+## Document Control
+**Version:**\
+**Changes since last version:**\
+**Last Updated:**
+
+### Edit This Page
+You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})

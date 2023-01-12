@@ -356,6 +356,7 @@ Pedro Arsénio & Rui Figueira - Universidade de Lisboa
 
 ## Contributors
 
+## Citation
 
 ## References
 Popov D, Roychoudhury P, Hardy H, Livermore L, Norris K (2021) The Value of Digitising Natural
@@ -364,8 +365,9 @@ History Collections. Research Ideas and Outcomes 7: e78844. [https://doi.org/10.
 ## Licence
 
 ## Document Control
+**Version:** \
+**Changes since last version:** N/A\
+**Last Updated:** 17 August 2022
 
-## Citation
-
-## Content Last Updated
-17 August 2022
+### Edit This Page
+You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})

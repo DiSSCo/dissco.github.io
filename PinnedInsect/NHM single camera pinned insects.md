@@ -92,15 +92,16 @@ Robyn Crowther, Krisztina Lohonya, Kate Holub-Young, Larissa Welton, Lisa French
 ## Licence
 The content of this workflow is the property of the Trustees of the Natural History Museum and may be used under a [creative commons licence](http://creativecommons.org/licenses/by/4.0/)
 
-## Document Control
-1.1
+## Citation
+Jardine, M.D., Wing, P., Kokkini, P. and Lowndes, N. (2022) DiSSCo Digitisation Guide: NHM single camera pinned insects workflow. version 1.1. Available at: https://dissco.github.io/PinnedInsect/NHM%20single%20camera%20pinned%20insects.html
 
-## Changes since last version
+## Document Control
+**Version:** 1.1\
+**Changes since last version:**
 * Removed instructions on how to use BardecodeFiler, which is now found on its own software page.
 * Minor edits to text
 
-## Citation
-Jardine, M.D., Wing, P., Kokkini, P. and Lowndes, N. (2022) DiSSCo Digitisation Guide: NHM single camera pinned insects workflow. version 1.0. Available at: https://dissco.github.io/PinnedInsect/NHM%20single%20camera%20pinned%20insects.html
+**Last Updated:** 26 May 2022
 
-## Content Last Updated
-26 May 2022
+### Edit This Page
+You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})

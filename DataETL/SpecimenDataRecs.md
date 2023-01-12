@@ -74,11 +74,16 @@ Lisa French, Laurence Livermore
 Dillen M, Groom Q, & Hardisty A. (2019). Interoperability of Collection Management Systems. Zenodo. <a href="https://doi.org/10.5281/zenodo.3361598">https://doi.org/10.5281/zenodo.3361598</a>\
 Groom Q et al. (2019) Improved standardization of transcribed digital specimen data. Database, Volume 2019, 2019, baz129. <a href="https://doi.org/10.1093/database/baz129">https://doi.org/10.1093/database/baz129</a>
 
+## Citation
+
+## References
+
 ## Licence
 
 ## Document Control
+**Version:** \
+**Changes since last version:** N/A\
+**Last Updated:** 28 June 2022
 
-## Citation
-
-## Content Last Updated
-28 June 2022
+### Edit This Page
+You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})

@@ -125,19 +125,19 @@ Price, Benjamin W., Steen Dupont, Elizabeth L. Allan, Vladimir Blagoderov, Alice
 
 Natural History Museum (2021). Natural History Museum Data Portal (data.nhm.ac.uk). https://data.nhm.ac.uk/object/b22b18c3-93a7-4fb2-a29e-d56b5c5b885f
 
+## Citation
+French, L., Crowther, R., Holub-Young, K., Lohonya, K. & Livermore, L. (2022) DiSSCo Digitisation Guide: ALICE - Pinned Insects (NHM). version 1.0. Available at: https://dissco.github.io/PinnedInsect/ALICE.html
+
 ## Licence
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Document Control
-1.1
-
-## Changes since last version
+**Version:** 1.1\
+**Changes since last version:** 
 * Linked to software page for BardecodeFiler
 * Images updated
 
-## Citation
-French, L., Crowther, R., Holub-Young, K., Lohonya, K. & Livermore, L. (2022) DiSSCo Digitisation Guide: ALICE - Pinned Insects (NHM). version 1.0. Available at: https://dissco.github.io/PinnedInsect/ALICE.html
+**Last Updated:** 26 May 2022
 
-## Content Last Updated
-26 May 2022
-
+### Edit This Page
+You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})

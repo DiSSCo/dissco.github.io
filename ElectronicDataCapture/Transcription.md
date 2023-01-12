@@ -148,10 +148,9 @@ Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. (2016) The FAIR Guiding Pri
 CC-BY
 
 ## Document Control
-1.1
+**Version:** 1.1\
+**Changes since last version:** Added link to Introduction to Transcription presentation\
+**Last Updated:** 8 November 2022
 
-## Changes since last version
-Added link to Introduction to Transcription presentation
-
-## Content Last Updated
-8 November 2022
+### Edit This Page
+You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})

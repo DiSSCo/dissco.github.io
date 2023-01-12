@@ -4,6 +4,7 @@ parent: Vertebrates
 grand_parent: Workflows
 ---
 # Bat/Chiroptera Collection Digitisation
+
 {: .no_toc }
 
   {: .no_toc .text-delta }
@@ -54,16 +55,16 @@ Phaedra Kokkini, Lisa French, Laurence Livermore\
 Natural History Museum\
 <img src="/images/Logos/NHM.gif" alt="NHM Logo" width="250">
 
+## Citation
+French, L., Kokkini, P. & Livermore, L. (2022) DiSSCo Digitisation Guide: Bat Collection (NHM). version 1.0. Available at: https://dissco.github.io/MicroscopeSlides/MicroscopeSlide.html
+
 ## Licence
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Document Control
-1.0
+**Version:** 1.0\
+**Changes since last version:** N/A\
+**Last Updated:** 16 March 2022
 
-## Changes since last version
-
-## Citation
-French, L., Kokkini, P. & Livermore, L. (2022) DiSSCo Digitisation Guide: Bat Collection (NHM). version 1.0. Available at: https://dissco.github.io/MicroscopeSlides/MicroscopeSlide.html
-
-## Content Last Updated
-16 March 2022
+### Edit This Page
+You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})

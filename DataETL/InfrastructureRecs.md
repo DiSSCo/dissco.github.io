@@ -196,12 +196,16 @@ Lisa French, Laurence Livermore
 
 ## References
 
+## Citation
+
+## References
+
 ## Licence
 
 ## Document Control
+**Version:** \
+**Changes since last version:** N/A\
+**Last Updated:** 17 June 2022
 
-## Citation
-
-
-## Content Last Updated
-17 June 2022
+### Edit This Page
+You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})

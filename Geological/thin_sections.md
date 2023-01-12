@@ -214,14 +214,14 @@ Haaland, MM, Czechowski, M, Carpentier, F, Lejay, M, Vandermeulen, B. Documentin
 The content of this workflow is the property of the Trustees of the Natural History Museum and of DiSSCo UK, unless were otherwise stated. It may be used under a [creative commons licence](http://creativecommons.org/licenses/by/4.0/).
 Images and information have been kindly provided by the British Geological Survey (BGS).
 
-## Document Control
-1.1
-
-## Changes since last version
-Image sizes updated, links and typos fixed.
 
 ## Citation
 Jardine, M.D. and Harris, S. (2022) DiSSCo Digitisation Guide: Imaging geological thin sections - BGS. version 1.0. Available at: https://dissco.github.io/Geo/thin_sections.html
 
-## Content Last Updated
-6 July 2022
+## Document Control
+**Version:** 1.1\
+**Changes since last version:** Image sizes updated, links and typos fixed.\
+**Last Updated:** 6 July 2022
+
+### Edit This Page
+You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})

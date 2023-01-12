@@ -148,11 +148,17 @@ Lisa French, Laurence Livermore
 Güntsch et al. (2017) Actionable, long-term stable and semantic web compatible identifiers
 for access to biological collection objects, Database, Volume 2017, 2017, bax003,
 https://doi.org/10.1093/database/bax003
+## Citation
+
+## References
+
 ## Licence
 
 ## Document Control
+**Version:** \
+**Changes since last version:** N/A\
+**Last Updated:** 28 June 2022
 
-## Citation
+### Edit This Page
+You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
 
-## Content Last Updated
-28 June 2022

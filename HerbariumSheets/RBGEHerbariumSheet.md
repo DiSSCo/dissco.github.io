@@ -212,13 +212,15 @@ Drinkwater R, Cubey R, Haston E (2014) The use of Optical Character Recognition 
 
 Nelson G, Paul D, Riccardi G, Mast AR. Five task clusters that enable efficient and effective digitization of biological collections. Zookeys. 2012;(209):19-45. DOI: https://doi.org/10.3897/zookeys.209.3135 
 
-## Licence
-
-## Document Control
-
-## Changes since last version
 
 ## Citation
 
-## Content Last Updated
-13 January 2022
+## Licence
+
+## Document Control
+**Version:** \
+**Changes since last version:** N/A\
+**Last Updated:** 13 January 2022
+
+### Edit This Page
+You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})

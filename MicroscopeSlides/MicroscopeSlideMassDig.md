@@ -115,16 +115,16 @@ Natural History Museum\
 ## References
 Allan, L. E., Price, B.W., Shchedrina, O., Dupont, S., Livermore, L., & Smith, V. S. (2019). Mass-imaging of microscopic and other slides. Zenodo. [https://doi.org/10.5281/zenodo.336448](https://doi.org/10.5281/zenodo.336448)
 
+## Citation
+French, L., Welton, L., Berridge, L. & Livermore, L. (2022) DiSSCo Digitisation Guide: Microscope Slides - Mass Digitisation (NHM). version 1.0. Available at: https://dissco.github.io/MicroscopeSlides/MicroscopeSlide.html
+
 ## Licence
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Document Control
-1.0
+**Version:** 1.0\
+**Changes since last version:** N/A\
+**Last Updated:** 15 March 2022
 
-## Changes since last version
-
-## Citation
-French, L., Welton, L., Berridge, L. & Livermore, L. (2022) DiSSCo Digitisation Guide: Microscope Slides - Mass Digitisation (NHM). version 1.0. Available at: https://dissco.github.io/MicroscopeSlides/MicroscopeSlide.html
-
-## Content Last Updated
-15 March 2022
+### Edit This Page
+You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
