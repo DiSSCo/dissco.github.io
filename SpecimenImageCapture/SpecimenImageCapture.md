@@ -1,8 +1,8 @@
 ---
-title: Specimen Image Capture
+title: Image Capture
 has_children: true
 nav_order: 2
-parent: Guidance & Best Practices
+parent: Digitisation Best Practices
 has_toc: false
 ---
 

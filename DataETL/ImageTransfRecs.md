@@ -1,7 +1,7 @@
 ---
 title: Image Transformation
 parent: Data Processes (ETL)
-grand_parent: Guidance & Best Practices
+grand_parent: Digitisation Best Practices
 ---
 
 # Image Transformation Best Practices

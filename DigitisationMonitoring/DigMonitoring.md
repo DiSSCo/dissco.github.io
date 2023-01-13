@@ -1,7 +1,7 @@
 ---
 title: Digitisation Monitoring
 parent: Digitisation Monitoring
-grand_parent: Guidance & Best Practices
+grand_parent: Digitisation Best Practices
 ---
 
 # Digitisation Monitoring

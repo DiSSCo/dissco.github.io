@@ -1,7 +1,7 @@
 ---
 title: Adobe Lightroom
 parent: Software
-grand_parent: Guidance & Best Practices
+grand_parent: Digitisation Best Practices
 ---
 
 # Adobe LightRoom - NHM Workflow

@@ -1,5 +1,5 @@
 ---
-title: Guidance & Best Practices
+title: Digitisation Best Practices
 has_children: true
 nav_order: 1
 ---

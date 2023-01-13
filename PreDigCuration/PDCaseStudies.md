@@ -2,7 +2,7 @@
 title: Case Studies
 nav_order: 6
 parent: Pre-Digitisation Curation
-grand_parent: Guidance & Best Practices
+grand_parent: Digitisation Best Practices
 nav_order: 2
 ---
 # Pre-Digitisation Curation Case Studies

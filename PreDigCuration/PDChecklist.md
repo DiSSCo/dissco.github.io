@@ -2,7 +2,7 @@
 title: Checklist
 nav_order: 6
 parent: Pre-Digitisation Curation
-grand_parent: Guidance & Best Practices
+grand_parent: Digitisation Best Practices
 nav_order: 1
 ---
 # Pre-Digitisation Curation Checklist

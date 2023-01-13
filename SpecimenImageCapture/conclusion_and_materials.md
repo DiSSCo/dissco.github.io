@@ -1,8 +1,8 @@
 ---
 title: Materials and references
-parent: Specimen Image Capture
+parent: Image Capture
 nav_order: 9
-grand_parent: Guidance & Best Practices
+grand_parent: Digitisation Best Practices
 ---
 
 # 9. Materials and references

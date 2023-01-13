@@ -1,8 +1,8 @@
 ---
 title: Introduction to specimen photography
-parent: Specimen Image Capture
+parent: Image Capture
 nav_order: 1
-grand_parent: Guidance & Best Practices
+grand_parent: Digitisation Best Practices
 ---
 
 # 1. Introduction to specimen photography

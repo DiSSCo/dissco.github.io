@@ -1,7 +1,7 @@
 ---
 title: Manual Transcription
 parent: Electronic Data Capture
-grand_parent: Guidance & Best Practices
+grand_parent: Digitisation Best Practices
 ---
 
 # Manual Transcription

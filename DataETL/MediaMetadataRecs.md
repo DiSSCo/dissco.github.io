@@ -1,7 +1,7 @@
 ---
 title: Media Metadata
 parent: Data Processes (ETL)
-grand_parent: Guidance & Best Practices
+grand_parent: Digitisation Best Practices
 ---
 
 # Media Metadata Best Practices

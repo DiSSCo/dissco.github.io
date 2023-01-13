@@ -1,8 +1,8 @@
 ---
 title: Camera settings and specifications
-parent: Specimen Image Capture
+parent: Image Capture
 nav_order: 3
-grand_parent: Guidance & Best Practices
+grand_parent: Digitisation Best Practices
 ---
 
 # Camera settings and specifications

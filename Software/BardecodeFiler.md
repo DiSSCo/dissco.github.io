@@ -1,7 +1,7 @@
 ---
 title: BardecodeFiler
 parent: Software
-grand_parent: Guidance & Best Practices
+grand_parent: Digitisation Best Practices
 ---
 
 # BardecodeFiler - NHM Workflow

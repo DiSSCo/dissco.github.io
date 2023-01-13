@@ -2,6 +2,6 @@
 title: Data Processes (ETL)
 has_children: true
 nav_order: 4
-parent: Guidance & Best Practices
+parent: Digitisation Best Practices
 ---
 

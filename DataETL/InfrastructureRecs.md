@@ -1,7 +1,7 @@
 ---
 title: IT Infrastructure
 parent: Data Processes (ETL)
-grand_parent: Guidance & Best Practices
+grand_parent: Digitisation Best Practices
 ---
 
 # IT Infrastructure Best Practices
