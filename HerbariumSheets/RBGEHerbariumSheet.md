@@ -43,17 +43,17 @@ There are three key tasks that form the pre-digitisation task cluster at RBGE:
 
 A key part of the pre-digitisation curation is to ensure that key information for the finding of specimens is present and correct on both the genus and species covers.  The collections are organised systematically firstly by family number. Within families the specimens are ordered by genus number. Genera are then organised by geographic regions that the specimens were collected. Within each genus cover the specimens are in species covers, with the species epithet on the bottom right hand corner of the cover. 
 
-![Genus cover overview](/images/HerbariumSheets/RBGE/RBGE%20Genus%20cover%20information.PNG?raw=ture)
+![Genus cover overview](/images/HerbariumSheets/RBGE/RBGE%20Genus%20cover%20information.PNG)
 
-![Species cover overview](/images/HerbariumSheets/RBGE/RBGE%20species%20cover.PNG?raw=ture)
+![Species cover overview](/images/HerbariumSheets/RBGE/RBGE%20species%20cover.PNG)
 
 If either genus or species folders are too full they are split into additional folders to help ensure that the specimens are stored well, to help ensure their long term preservation. 
 
-![An overful Genus cover](/images/HerbariumSheets/RBGE/RBGE%20too%20full%20folder.PNG?raw=true)
+<img src="/images/HerbariumSheets/RBGE/RBGE%20too%20full%20folder.PNG" alt="An over full Genus cover" width="300"/>
 
 If any specimens are particularly large or bulky, they should be placed at the top of the specimen cover to reduce the risk of specimens warping and becoming damaged.
 
-![A bulky specimen causing warping of surrounding specimens](/images/HerbariumSheets/RBGE/RBGE%20bulky%20specimen.PNG?raw=true)
+<img src="/images/HerbariumSheets/RBGE/RBGE%20bulky%20specimen.PNG" alt="A bulky specimen causing warping of surrounding specimens" width="500"/>
 
 **Taxonomy and Names**
 
@@ -63,12 +63,12 @@ For this project the names are entered as they are found in the cabinets, a late
 
 If a name is not present in the database it needs to be added. We are recommending the use of certain online resouces for this purpose:
 
-1. IPNI (https://www.ipni.org/)
-2. Tropicos (www.tropicos.org)
+1. [IPNI](https://www.ipni.org/)
+2. [Tropicos](www.tropicos.org)
 
 Other resources if the name cannot be found above include:
-* The World Flora Online (http://www.worldfloraonline.org/)
-* Plants of the World Online (POWO) (http://www.plantsoftheworldonline.org/)
+* [The World Flora Online](http://www.worldfloraonline.org/)
+* [Plants of the World Online (POWO)](http://www.plantsoftheworldonline.org/)
 
 **Conservation Assessment**
 
@@ -81,31 +81,27 @@ Where possible the repair work is carried out prior to the specimen being imaged
 Examples of conservation interventions:
 
 * Replacing non-brass paperclips or pins - non-brass materials can become rusty and cause damage to the specimen\
-![A rusty paperclip holding a paper capsule closed](/images/HerbariumSheets/RBGE/RBGE%20rusty%20paperclip.PNG?raw=true)
+<img src="/images/HerbariumSheets/RBGE/RBGE%20rusty%20paperclip.PNG" alt="A rusty paperclip holding a paper capsule closed" style="height:300px"/>
 
-* Placing a fragile specimen in a protective cover - if a specimen is on fragile or brittle paper it can be placed in a protective cover to prevent further damage
-
-![A specimen mounted on brittle paper](/images/HerbariumSheets/RBGE/RBGE%20fragile%20specimen.PNG?raw=true)
+* Placing a fragile specimen in a protective cover - if a specimen is on fragile or brittle paper it can be placed in a protective cover to prevent further damage\
+<img src="/images/HerbariumSheets/RBGE/RBGE%20fragile%20specimen.PNG" alt="A specimen mounted on brittle paper" style="height:300px"/>
 
 Examples of repairs:
 
 * Specimens mounted on very small sheets of paper, or attached with pins - these specimens can cause damage to other specimens within the species cover and need to be mounted on to a larger sheet. 
 
-![A very small specimen that needs to be remounted](/images/HerbariumSheets/RBGE/RBGE%20small%20specimen.PNG?raw=true)
-![A small speciemn that has been attached to a larger sheet with a pin](/images/HerbariumSheets/RBGE/RBGE%20specimen%20attached%20with%20pin.PNG?raw=true)
+<img src="/images/HerbariumSheets/RBGE/RBGE%20small%20specimen.PNG" alt="A very small specimen that needs to be remounted" style="height:300px; margin-right:30px;"/>
+<img src="/images/HerbariumSheets/RBGE/RBGE%20specimen%20attached%20with%20pin.PNG" alt="A small specimen that has been attached to a larger sheet with a pin" style="height:300px;"/>
 
-* Specimens with loose or broken pieces - if a specimen is fragile or mounted on too flexible a mounting board it can cause the specimen to break. Depending on the extent of the damage it is possible for small pieces of loose material to be added to a capsule if present on the sheet. If the damage is more extensive it needs to be repaired by the conservator
-
-![A specimen with loose material](/images/HerbariumSheets/RBGE/RBGE%20specimen%20with%20loose%20material.PNG?raw=true)
+* Specimens with loose or broken pieces - if a specimen is fragile or mounted on too flexible a mounting board it can cause the specimen to break. Depending on the extent of the damage it is possible for small pieces of loose material to be added to a capsule if present on the sheet. If the damage is more extensive it needs to be repaired by the conservator\
+<img src="/images/HerbariumSheets/RBGE/RBGE%20specimen%20with%20loose%20material.PNG" alt="A specimen with loose material" style="height:300px;"/>
 
 * Specimens with cellophane covering material or fixed with sellotape - where possible these are imaged following the repair. 
-
-![A specimen with flowers covered with cellophane](/images/HerbariumSheets/RBGE/RBGE%20specimen%20with%20cellophane.PNG?raw=true)
-![A specimen attached to the sheet with sellotape](/images/HerbariumSheets/RBGE/RBGE%20specimen%20with%20sellotape.PNG?raw=true)
+<img src="/images/HerbariumSheets/RBGE/RBGE%20specimen%20with%20cellophane.PNG" alt="A specimen with flowers covered with cellophane" style="height:300px; margin-right:30px;"/>
+<img src="/images/HerbariumSheets/RBGE/RBGE%20specimen%20with%20sellotape.PNG?raw=true" alt="A specimen attached to the sheet with sellotape" style="height:300px;"/>
 
 * Specimens with insect damage - this can be either recent or historic. If the damage appears to be recent specimens are treated to ensure that there is no continuing activity. In either case the specimen is cleaned prioe to imaging.
-
-![Examples of insect damage to specimens](/images/HerbariumSheets/RBGE/RBGE%20insect%20damage.PNG?raw=true)
+<img src="/images/HerbariumSheets/RBGE/RBGE%20insect%20damage.PNG" alt="Examples of insect damage to specimens" style="height:300px"/>
 
 **Electronic Data Capture**
 
@@ -138,9 +134,8 @@ The application checks the barcode to ensure that a record does not already exis
 
 More complex specimens, including multiple specimens mounted on a single sheet, or when a single specimen is mounted across multiple sheets, have additional information entered manually into the specimen records. 
 
-![Multiple specimens mounted on a single sheet](/images/HerbariumSheets/RBGE/RBGE%20multi%20specimen%20sheet.PNG?raw=true)
-
-![A single specimen mounted on multiple sheets](/images/HerbariumSheets/RBGE/RBGE%20multi%20sheet%20specimen.PNG?raw=true)
+<img src="/images/HerbariumSheets/RBGE/RBGE%20multi%20specimen%20sheet.PNG" alt="Multiple specimens mounted on a single sheet" style="height:300px; margin-right:30px;"/>
+<img src="/images/HerbariumSheets/RBGE/RBGE%20multi%20sheet%20specimen.PNG" alt="A single specimen mounted on multiple sheets" width=500>
 
 **Specimen Image Capture**
 
@@ -148,7 +143,7 @@ More complex specimens, including multiple specimens mounted on a single sheet, 
 
 At present there are 3 different imaging stations being used for the imaging of flat herbarium sheets. Whilst each has some slight differences the overall principals for the image capture workflow remain the same. 
 
-![An example of an imaging station](/images/HerbariumSheets/RBGE/RBGE%20example%20imaging%20setup.PNG?raw=true)
+<img src="/images/HerbariumSheets/RBGE/RBGE%20example%20imaging%20setup.PNG" alt="An example of an imaging station" style="height:300px"/>
 
 General principals of the image capture workflow:
 
@@ -204,21 +199,22 @@ This work is built upon the working practices of the RBGE staff.
 
 ## References
 
-Haston, E, Cubey, R & Harris, DJ (2012). Data concepts and their relevance for data capture in large scale digitisation of biological collections. International Journal of Humanities and Arts Computing, 6:1-2, 111-119. DOI: https://doi.org/10.3366/ijhac.2012.0042 
+Haston, E, Cubey, R & Harris, DJ (2012). Data concepts and their relevance for data capture in large scale digitisation of biological collections. International Journal of Humanities and Arts Computing, 6:1-2, 111-119. DOI: [https://doi.org/10.3366/ijhac.2012.0042](https://doi.org/10.3366/ijhac.2012.0042) 
 
-Haston, E, Cubey, R, Pullan, M, Atkins, H, & Harris, D (2012). Developing integrated workflows for the digitisation of herbarium speci-mens using a modular and scalable approach.ZooKeys, 209,93–102. DOI: https://doi.org/10.3897/zookeys.209.3121 
+Haston, E, Cubey, R, Pullan, M, Atkins, H, & Harris, D (2012). Developing integrated workflows for the digitisation of herbarium speci-mens using a modular and scalable approach.ZooKeys, 209,93–102. DOI: [https://doi.org/10.3897/zookeys.209.3121](https://doi.org/10.3897/zookeys.209.3121) 
 
-Drinkwater R, Cubey R, Haston E (2014) The use of Optical Character Recognition (OCR) in the digitisation of herbarium specimen labels. PhytoKeys 38: 15-30. DOI: https://doi.org/10.3897/phytokeys.38.7168 
+Drinkwater R, Cubey R, Haston E (2014) The use of Optical Character Recognition (OCR) in the digitisation of herbarium specimen labels. PhytoKeys 38: 15-30. DOI: [https://doi.org/10.3897/phytokeys.38.7168](https://doi.org/10.3897/phytokeys.38.7168) 
 
-Nelson G, Paul D, Riccardi G, Mast AR. Five task clusters that enable efficient and effective digitization of biological collections. Zookeys. 2012;(209):19-45. DOI: https://doi.org/10.3897/zookeys.209.3135 
-
+Nelson G, Paul D, Riccardi G, Mast AR. Five task clusters that enable efficient and effective digitization of biological collections. Zookeys. 2012;(209):19-45. DOI: [https://doi.org/10.3897/zookeys.209.3135](https://doi.org/10.3897/zookeys.209.3135) 
 
 ## Citation
+Haston, E., Cubey, R., Drinkwater, R. & King, S. (2022) DiSSCo Digitisation Guides: Royal Botanic Garden Edinburgh Herbarium Sheet Mass Digitisation workflow. version 1.0 Available at: [https://dissco.github.io/HerbariumSheets/RBGEHerbariumSheet.html](https://dissco.github.io/HerbariumSheets/RBGEHerbariumSheet.html)
 
 ## Licence
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Document Control
-**Version:** \
+**Version:** 1.0\
 **Changes since last version:** N/A\
 **Last Updated:** 13 January 2022
 
