@@ -19,7 +19,7 @@ grand_parent: Digitisation Best Practices
 
 ## Overview
 
-Digital specimen data should be accessible throughout the data lifecycle, including publishing and CMS portals, and specimens should be assigned with Persistent Identifiers (PID).
+The representations of specimens on the internet should be assigned a Persistent Identifiers (PID) to make them uniquely referenceable.
 
 ## Recommendations
 
@@ -27,18 +27,17 @@ Digital specimen data should be accessible throughout the data lifecycle, includ
 <details>
 	<summary> <strong>Click here to expand:</strong> This best practice describes options for assigning a specimen a persistent identifier.</summary>
 	<p><strong>Level:</strong> Basic </p>
-	<p><strong>Use Case:</strong> As a digitisation manager I want to have the specimens with persistent identifiers so
-	that I can make the digitised specimens retrievable through the whole data lifecycle. </p>
+	<p><strong>Use Case:</strong> As a digitisation manager I want to identify specimens with persistent, globally unique identifiers so
+	that I can make the digitised specimens identifiable anywhere</p>
 	<p><strong>Recommendation:</strong></p>
-	<p>CETAF Stable Identifiers and OpenDS identifier minting</p>
+	<p>CETAF Stable Identifiers</p>
 	<p><strong>Discussion</strong></p>
-	<p>The digitised specimen data has to be accessible through the whole data lifecycle,
-	not only in the ETL processes in the digitisation but also in the publishing and CMS
-	portals. All specimens have to be assigned with Persistent Identifiers (PID). Different
-	technologies are available for PID, such as LSIDs, DOIs, GBIF ‘Triple IDs’ and HTTP
-	URIs. The CETAF identifier system is based on HTTP-URIs and Linked Data principles.
-	The system has been successfully implemented in 14 member institutions, which are
+	<p>All specimens have to be assigned a Persistent Identifiers (PID). Different
+	systems have been used, but the CETAF identifier system based on HTTP-URIs and Linked Open Data principles is the most widely adopted in Europe.
+	The system has been successfully implemented for 79 collections, some of which are
 	listed in the following implementation examples.</p>
+	
+	<p>A full guide to the implementation of CETAF Stable Idenifiers is available on the [Biowikifarm](https://cetafidentifiers.biowikifarm.net/wiki/Main_Page)</p>
 
 	<p>When using the CETAF identifier system, the institution can use their domain name in
 	the identifiers, such as <a href="http://id.luomus.fi/C.460096">this</a> from Luomus. In such cases, the
@@ -142,7 +141,7 @@ Zhengzhe Wu and Esko Piirainen\
 Finnish Museum of Natural History (Luomus)
 
 ## Contributors
-Lisa French, Laurence Livermore
+Lisa French, Laurence Livermore, Quentin Groom
 
 ## References
 Güntsch et al. (2017) Actionable, long-term stable and semantic web compatible identifiers
@@ -155,9 +154,9 @@ https://doi.org/10.1093/database/bax003
 ## Licence
 
 ## Document Control
-**Version:** \
-**Changes since last version:** N/A\
-**Last Updated:** 28 June 2022
+**Version:** 0.2\
+**Changes since last version:** Removed recommendation for OpenDS identifier minting and updated text to reflect this. Added link to guide for CETAF Stable identifiers\
+**Last Updated:** 13 January 2023
 
 ### Edit This Page
 You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
