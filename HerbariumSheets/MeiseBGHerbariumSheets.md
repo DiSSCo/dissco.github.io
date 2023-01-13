@@ -48,15 +48,16 @@ These workflows were followed for all specimens and folders already inserted int
 
 This task was conducted by 15 technicians on a half time basis for 1,5 years. Also volunteers regularly helped. They have checked and prepared 1,2 million specimens this way.
 
-![pre-digitisation curation of the specimens](/images/HerbariumSheets/MeiseBG/voorbereiding.jpg)
+<img src="/images/HerbariumSheets/MeiseBG/voorbereiding.jpg" alt="pre-digitisation curation of the specimens" width="800"/>\
 
 Adding a white folder with a red dot was for marking specimens/sheets that didn’t need to be digitised by the external company. For example, specimens already digitised in previous projects, pictures, literature, manuscripts and photos of herbarium specimens were put in these folders.
 
-![exceptions not to be digitised](/images/HerbariumSheets/MeiseBG/literature.jpg)
+<img src="/images/HerbariumSheets/MeiseBG/literature.jpg" alt="exceptions not to be digitised" width="800"/>\
 
 All exceptions were digitised in house and were extracted from the collection and kept in  separate boxes. For example multi gatherings, specimens completely kept in envelopes, sheets with only label information were kept aside. When a sheet was extracted, it was replaced by a post-it with the collector and number written on it. This way they could be inserted easily after digitisation.
 
-![exceptions to be digitised in house](/images/HerbariumSheets/MeiseBG/exceptions.jpg)
+<img src="/images/HerbariumSheets/MeiseBG/exceptions.jpg" alt="exceptions to be digitised in house" width="600"/>\
+
 
 *2. pre-digitisation of the covers*
 
@@ -144,8 +145,7 @@ DoeDat, a multilingual crowdsourcing platform based on DigiVol, was created to t
 
 The quality of the data was measured using a subsample of the data file. The size of the subsample was determined using the table below:
 
-[![subsample size](/images/HerbariumSheets/MeiseBG/TableQCsubsample.jpg)](/images/HerbariumSheets/MeiseBG/TableQCsubsample.jpg)
- 
+<img src="/images/HerbariumSheets/MeiseBG/TableQCsubsample.jpg" alt="subsample size" width="600"/>\
 
 Two types of errors were distinguished:
 Identification and Transcription errors
@@ -210,14 +210,17 @@ Mathias Dillen
 Michel Giraud, Quentin Groom, Ann Bogaerts, Sofie De Smedt, Mathias Dillen, Hannu Saarenmaa, Noortje Wijkamp, Sarah Philips, Steven ven der Mije, Agnes Wijers, Zhengzhe Wu. Best practice guidelines for imaging of herbarium specimens
 [ICEDIG deliverable 3.6](https://icedig.eu/sites/default/files/deliverable_d3.6_icedig_best_practise_guidelines_for_bulk_imaging_of_herbarium_specimens1.pdf)
 
-Nieva de la Hidalga , Paul L Rosin , Xianfang Sun , Ann Bogaerts , Niko De Meeter , Sofie De Smedt , Maarten Strack van Schijndel , Paul Van Wambeke , Quentin Groom (2020) Designing an Herbarium Digitisation Workflow with Built-In Image Quality Management Biodiversity Data Journal 8: e47051 doi: https://doi.org/10.3897/BDJ.8.e47051
+Nieva de la Hidalga , Paul L Rosin , Xianfang Sun , Ann Bogaerts , Niko De Meeter , Sofie De Smedt , Maarten Strack van Schijndel , Paul Van Wambeke , Quentin Groom (2020) Designing an Herbarium Digitisation Workflow with Built-In Image Quality Management Biodiversity Data Journal 8: e47051 doi: [https://doi.org/10.3897/BDJ.8.e47051](https://doi.org/10.3897/BDJ.8.e47051)
 
 ## Licence
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Citation
+De Smedt, S. & Bogaerts, A. (2022) Meise Botanic Garden Herbarium Sheet Workflow. version 1.0. Available at: [https://dissco.github.io/HerbariumSheets/MeiseBGHerbariumSheets.html](https://dissco.github.io/HerbariumSheets/MeiseBGHerbariumSheets.html)
+
 
 ## Document Control
-**Version:** \
+**Version:** 1.0\
 **Changes since last version:** N/A\
 **Last Updated:** 1 April 2022
 
