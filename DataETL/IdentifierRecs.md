@@ -37,7 +37,7 @@ The representations of specimens on the internet should be assigned a Persistent
 	The system has been successfully implemented for 79 collections, some of which are
 	listed in the following implementation examples.</p>
 	
-	<p>A full guide to the implementation of CETAF Stable Idenifiers is available on the [Biowikifarm](https://cetafidentifiers.biowikifarm.net/wiki/Main_Page)</p>
+	<p>A full guide to the implementation of CETAF Stable Idenifiers is available on the <a href="https://cetafidentifiers.biowikifarm.net/wiki/Main_Page">Biowikifarm</a></p>
 
 	<p>When using the CETAF identifier system, the institution can use their domain name in
 	the identifiers, such as <a href="http://id.luomus.fi/C.460096">this</a> from Luomus. In such cases, the
