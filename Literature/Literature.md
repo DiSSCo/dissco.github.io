@@ -11,28 +11,30 @@ This page provides links to useful digitisation literature and resources. Get in
 
 ## Journal Articles
 
-You can find a link to the full list of journal articles [here](https://know.dissco.eu/handle/item/404), or browse papers by Digitisation Stage and Collection Type. 
+You can find a link to the full list of journal articles [here](https://know.dissco.eu/handle/item/404){:target="_blank"}, or browse papers by Digitisation Stage and Collection Type. 
+
+The links on this page will take you through to the [DiSSCo Knowledgebase](https://know.dissco.eu/){:target="_blank"}, which contains information from all of the DiSSCo-linked projects.
 
 ### Digitisation Stage
 
-[Pre-Digitisation Curation](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Pre-Digitization+Curation+and+Staging&filtername=subject&filtertype=equals)\
-[Specimen Image Capture](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Specimen+Image+Capture&filtername=subject&filtertype=equals)\
-[Specimen Image Processing](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Specimen+Image+Processing&filtername=subject&filtertype=equals)\
-[Electronic Data Capture](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Electronic+Data+Capture&filtername=subject&filtertype=equals)\
-[Georeferencing Specimen Data](https://know.dissco.eu/simple-search?query=georeferencing&sort_by=score&order=desc&rpp=10&etal=0&filtername=subject&filterquery=Georeferencing+Specimen+Data&filtertype=equals)\
-[Preserving and Publishing Data](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Preserving+and+Publishing+Data&filtername=subject&filtertype=equals)
+[Pre-Digitisation Curation](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Pre-Digitization+Curation+and+Staging&filtername=subject&filtertype=equals){:target="_blank"}\
+[Specimen Image Capture](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Specimen+Image+Capture&filtername=subject&filtertype=equals){:target="_blank"}\
+[Specimen Image Processing](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Specimen+Image+Processing&filtername=subject&filtertype=equals){:target="_blank"}\
+[Electronic Data Capture](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Electronic+Data+Capture&filtername=subject&filtertype=equals){:target="_blank"}\
+[Georeferencing Specimen Data](https://know.dissco.eu/simple-search?query=georeferencing&sort_by=score&order=desc&rpp=10&etal=0&filtername=subject&filterquery=Georeferencing+Specimen+Data&filtertype=equals){:target="_blank"}\
+[Preserving and Publishing Data](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Preserving+and+Publishing+Data&filtername=subject&filtertype=equals){:target="_blank"}
 
 ### Collection Type
 
-[Anthropological](https://know.dissco.eu/handle/item/403/simple-search?filterquery=Anthropological&filtername=subject&filtertype=equals)\
-[Herbarium Sheets](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Herbarium+Sheets&filtername=subject&filtertype=equals)\
-[Microscope Slides](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Microscope+Slides&filtername=subject&filtertype=equals)\
-[Mineralogical](https://know.dissco.eu/handle/item/403/simple-search?filterquery=Mineralogical&filtername=subject&filtertype=equals)\
-[Non-insect Invertebrates](https://know.dissco.eu/handle/item/403/simple-search?filterquery=Non-insect+Invertebrates&filtername=subject&filtertype=equals)\
-[Palaeontological](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Palaeontological&filtername=subject&filtertype=equals)\
-[Pinned Insects](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Pinned+Insects&filtername=subject&filtertype=equals)\
-[Spirit (Liquid Preserved) Material](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Spirit+%28liquid+preserved%29+material&filtername=subject&filtertype=equals)\
-[Vertebrates](https://know.dissco.eu/handle/item/403/simple-search?filterquery=Vertebrates+%28dry+preserved%29&filtername=subject&filtertype=equals)
+[Anthropological](https://know.dissco.eu/handle/item/403/simple-search?filterquery=Anthropological&filtername=subject&filtertype=equals){:target="_blank"}\
+[Herbarium Sheets](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Herbarium+Sheets&filtername=subject&filtertype=equals){:target="_blank"}\
+[Microscope Slides](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Microscope+Slides&filtername=subject&filtertype=equals){:target="_blank"}\
+[Mineralogical](https://know.dissco.eu/handle/item/403/simple-search?filterquery=Mineralogical&filtername=subject&filtertype=equals){:target="_blank"}\
+[Non-insect Invertebrates](https://know.dissco.eu/handle/item/403/simple-search?filterquery=Non-insect+Invertebrates&filtername=subject&filtertype=equals){:target="_blank"}\
+[Palaeontological](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Palaeontological&filtername=subject&filtertype=equals){:target="_blank"}\
+[Pinned Insects](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Pinned+Insects&filtername=subject&filtertype=equals){:target="_blank"}\
+[Spirit (Liquid Preserved) Material](https://know.dissco.eu/handle/item/404/simple-search?filterquery=Spirit+%28liquid+preserved%29+material&filtername=subject&filtertype=equals){:target="_blank"}\
+[Vertebrates](https://know.dissco.eu/handle/item/403/simple-search?filterquery=Vertebrates+%28dry+preserved%29&filtername=subject&filtertype=equals){:target="_blank"}
 
 ## Website Resources
 
