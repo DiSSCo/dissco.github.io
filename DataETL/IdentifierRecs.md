@@ -27,7 +27,7 @@ The representations of specimens on the internet should be assigned a Persistent
 <details>
 	<summary> <strong>Click here to expand:</strong> This best practice describes options for assigning a specimen a persistent identifier.</summary>
 	<p><strong>Level:</strong> Basic </p>
-	<p><strong>Use Case:</strong> As a digitisation manager I want to idenify specimens with persistent, globally unique identifiers so
+	<p><strong>Use Case:</strong> As a digitisation manager I want to identify specimens with persistent, globally unique identifiers so
 	that I can make the digitised specimens identifiable anywhere</p>
 	<p><strong>Recommendation:</strong></p>
 	<p>CETAF Stable Identifiers</p>
@@ -141,7 +141,7 @@ Zhengzhe Wu and Esko Piirainen\
 Finnish Museum of Natural History (Luomus)
 
 ## Contributors
-Lisa French, Laurence Livermore
+Lisa French, Laurence Livermore, Quentin Groom
 
 ## References
 Güntsch et al. (2017) Actionable, long-term stable and semantic web compatible identifiers
@@ -154,9 +154,9 @@ https://doi.org/10.1093/database/bax003
 ## Licence
 
 ## Document Control
-**Version:** \
-**Changes since last version:** N/A\
-**Last Updated:** 28 June 2022
+**Version:** 0.2\
+**Changes since last version:** Removed recommendation for OpenDS identifier minting and updated text to reflect this. Added link to guide for CETAF Stable identifiers\
+**Last Updated:** 13 January 2023
 
 ### Edit This Page
 You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
