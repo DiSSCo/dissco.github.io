@@ -1,7 +1,7 @@
 ---
 title: Literature & Links
 has_children: true
-nav_order: 11
+nav_order: 3
 has_toc: false
 ---
 
