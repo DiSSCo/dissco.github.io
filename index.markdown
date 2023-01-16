@@ -8,7 +8,7 @@ title: DiSSCo Digitisation Guides
 # DiSSCo Digitisation Guides 
 <span style="font-size:24px">Guidance and workflows for the digitisation of natural science collections</span>
 
-<span class="fs-5">[Workflows](/CollectionType.html){: .btn .btn-blue .mr-8 }</span>  											
+<span class="fs-5">[Workflows](/Workflow.html){: .btn .btn-blue .mr-8 }</span>  											
 <span class="fs-5">[Guidance & Best Practices](/BestPractice.html){: .btn .btn-blue .mr-8 }</span>
 <span class="fs-5">[Literature & Links](/Literature/Literature.html){: .btn .btn-blue .mr-8 }</span>
 
