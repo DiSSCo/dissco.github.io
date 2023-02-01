@@ -62,7 +62,7 @@ Image processing is performed at the end of the day once all specimens have been
 
 The processing involves using the unique barcodes associated with each specimen to re-name the images. The images are initially given generic names due to the order in which the image was taken. By re-naming the images we are able to identify each image and link the image to other information in the specimen's digital record.
 
-To perform the re-naming step we use the program [BardecodeFiler](https://www.bardecode.com/en1/app/bardecodefiler/). More instructions can be found in our [Software](/Software/BardecodeFiler) page.
+To perform the re-naming step we use the program [BardecodeFiler](https://www.bardecode.com/en1/app/bardecodefiler/). More instructions can be found in our [Software](/DataManagement/Software/BardecodeFiler) page.
 
 ## Requirements
 ### Hardware

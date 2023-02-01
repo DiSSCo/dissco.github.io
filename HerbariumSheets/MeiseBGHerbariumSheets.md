@@ -114,8 +114,7 @@ Label transcription was done by Alembo, a subcontractor of Picturae, based on th
 The following fields were transcribed: 
 filing name, barcode, collector, collector number, country as given, country code, phytoregion, collection date, locality, altitude, altitude unit and coordinates as given
 
-*2. workflow internal process*\
-
+*2. workflow internal process*
 
 [![internal label transcription](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-data%20capture%20internal%20process.jpg)](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-data%20capture%20internal%20process.jpg)
 

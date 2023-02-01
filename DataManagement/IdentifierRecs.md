@@ -1,7 +1,8 @@
 ---
 title: Persistent Identifiers
-parent: Data Processes (ETL)
+parent: Data Management
 grand_parent: Digitisation Best Practices
+nav_order: 5
 ---
 
 # Persistent Identifier Best Practices

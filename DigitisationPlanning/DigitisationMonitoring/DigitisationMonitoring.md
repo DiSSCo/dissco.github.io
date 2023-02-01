@@ -1,7 +1,10 @@
 ---
 title: Digitisation Monitoring
-parent: Digitisation Monitoring
+has_children: true
+nav_order: 6
 grand_parent: Digitisation Best Practices
+parent: Digitisation Planning
+has_toc: false
 ---
 
 # Digitisation Monitoring
@@ -196,7 +199,7 @@ The University of Lisbon case study also includes a monitoring step for data pre
 	
 	<p>All operations involved in three distinct digitization phases (Pre-digitisation curation - tasks occurring prior to databasing or imaging; Digital Image workflow - scanner setup,
 	image capture, image processing and image archiving; Post-digitisation curation - image quality control and data quality control) are described in detail in 
-	the LISI Herbarium <a href="https://github.com/PORBIOTA/ISA_DMP/blob/main/LISI_DigitizationWorkflow.pdfDigitisation">Workflow</a>, as well as represented in the diagrams available at 
+	the LISI Herbarium <a href="https://github.com/PORBIOTA/ISA_DMP/blob/main/LISI_DigitizationWorkflow.pdf">Workflow</a>, as well as represented in the diagrams available at 
 	the LISI Herbarium workflow on this <a href="https://dissco.github.io/HerbariumSheets/LISIULisboa.html">website</a>.</p>
 </details>
 
@@ -235,7 +238,7 @@ to the measurement of downloads from online catalogues or GBIF. With the progres
 be possible in future to better track the usage of collection specimens in research and beyond. 
 
 As shown in case study from the Natural History Museum London below, the economic benefit of digitally available collection objects from
-Natural History Institutions is huge. It will be a task for the [DiSSCo](dissco.eu) community to develop the right
+Natural History Institutions is huge. It will be a task for the DiSSCo community to develop the right
 tools and processes for measuring this impact through digitisation monitoring.
 
 ### Natural History Museum London: Institutional KPIs
@@ -326,7 +329,7 @@ tools and processes for measuring this impact through digitisation monitoring.
 	digitisation, alongside statistics about records downloaded, download events and citations (via	
 	<a href="https://www.gbif.org/resource/search?contentType=literature&publishingOrganizationKey=19456090-b49a-11d8-abeb-b8a03c50a862">GBIF</a>).</p>
 
-	<p>In 2021, the Museum worked with <a href="www.frontier-economics.com">Frontier Economics</a> to build on
+	<p>In 2021, the Museum worked with Frontier Economics to build on
 	this by developing estimates of the economic benefit of digitised collections. This report (<a href="https://doi.org/10.3897/rio.7.e78844">Popov <em>et
 	al.</em>, 2021</a>) identified benefits of some £2bn over 30 years, a seven- to ten- times return on
 	investment. Three methodologies were used to understand the economic benefits; two looking at
@@ -350,22 +353,19 @@ tools and processes for measuring this impact through digitisation monitoring.
 ## Authors
 
 Frederik Berger & Sabine von Mering - Museum für Naturkunde\
-Lisa French, Helen Hardy & Peter Wing - Natural History Museum London\
+Laurence Livermore, Lisa French, Helen Hardy & Peter Wing - Natural History Museum London\
 Elspeth Haston - Royal Botanic Garden Edinburgh\
 Pedro Arsénio & Rui Figueira - Universidade de Lisboa 
-
-## Contributors
-
-## Citation
 
 ## References
 Popov D, Roychoudhury P, Hardy H, Livermore L, Norris K (2021) The Value of Digitising Natural
 History Collections. Research Ideas and Outcomes 7: e78844. [https://doi.org/10.3897/rio.7.e78844](https://doi.org/10.3897/rio.7.e78844)
 
 ## Licence
+CC-BY
 
 ## Document Control
-**Version:** \
+**Version:** 1.0\
 **Changes since last version:** N/A\
 **Last Updated:** 17 August 2022
 

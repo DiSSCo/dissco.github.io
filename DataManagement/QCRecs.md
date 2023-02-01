@@ -1,7 +1,8 @@
 ---
 title: Quality Control
-parent: Data Processes (ETL)
+parent: Data Management
 grand_parent: Digitisation Best Practices
+nav_order: 6
 ---
 
 # Quality Control Best Practices

@@ -1,10 +1,12 @@
 ---
-title: Checklist
-nav_order: 6
-parent: Pre-Digitisation Curation
-grand_parent: Digitisation Best Practices
+title: Pre-Digitisation Curation
+has_children: true
 nav_order: 1
+grand_parent: Digitisation Best Practices
+parent: Digitisation
+has_toc: false
 ---
+
 # Pre-Digitisation Curation Checklist
 {: .no_toc }
 
@@ -44,7 +46,7 @@ Some sections of the checklist are still to be developed, as they link closely w
 	your future digitisation projects.</p>
 	
 	<p>For case studies see <a href="https://doi.org/10.5281/zenodo.6511350">Detailed inventory of the collections for DiSSCo Flanders</a> and 
-	<a href="/PreDigCuration/PDCaseStudies.html#setting-natural-science-data-free-scoping-uk-collections-disscouk">Scoping UK Collections</a>.</p>
+	<a href="/Digitisation/PreDigCuration/PDCaseStudies.html#setting-natural-science-data-free-scoping-uk-collections-disscouk">Scoping UK Collections</a>.</p>
 	
 	<h3>1.1 Kind of collections</h3>
 	<p>The approach to digitising each collection can be very diverse. Therefore, it is very important to
@@ -68,8 +70,8 @@ Some sections of the checklist are still to be developed, as they link closely w
 	a collection is only cost effective above a minimum threshold of the number of specimens.</p>
 	
 	<p>For case studies see  
-	<a href="/PreDigCuration/PDCaseStudies.html#estimation-of-the-numbers-of-the-african-and-belgian-herbarium-collection-at-meise-botanic-garden">Estimation of the herbarium
-	collection at Meise Botanic Garden</a> and <a href="/PreDigCuration/PDCaseStudies.html#estimation-of-collection-size-at-the-nhm-london">Estimation of collection size at NHM London</a>.</p>
+	<a href="/Digitisation/PreDigCuration/PDCaseStudies.html#estimation-of-the-numbers-of-the-african-and-belgian-herbarium-collection-at-meise-botanic-garden">Estimation of the herbarium
+	collection at Meise Botanic Garden</a> and <a href="/Digitisation/PreDigCuration/PDCaseStudies.html#estimation-of-collection-size-at-the-nhm-london">Estimation of collection size at NHM London</a>.</p>
 
 	<h3>1.3 Classification system of the different collections</h3>
 	<p>The classification of your collection is crucial in the way you can set up your digitisation workflow.
@@ -109,7 +111,7 @@ Some sections of the checklist are still to be developed, as they link closely w
 	</ul>
 
 	<p>While checking the curatorial state of your collection, you can already start making a list of necessary
-	supplies (see <a href="/PreDigCuration/PDChecklist.html#3-supplies">section 3</a> for supply lists).</p>
+	supplies (see <a href="/Digitisation/PreDigCuration/PreDigCuration.html#3-supplies">section 3</a> for supply lists).</p>
 	
 	<h4>1.4.2 Toxicity list & risk assessment</h4>
 	<p>Many collections have been treated in the past with chemicals that are now
@@ -124,7 +126,7 @@ Some sections of the checklist are still to be developed, as they link closely w
 	basis but it is also important when you plan to outsource the digitisation of your
 	collection. It is recommended to inform the external company and to make a risk
 	assessment.</p>
-	<p>For a case study see <a href="/PreDigCuration/PDCaseStudies.html#decontamination-of-parts-of-the-herbarium-at-meise-botanic-garden">Decontamination of parts of the herbarium</a> at Meise Botanic
+	<p>For a case study see <a href="/Digitisation/PreDigCuration/PDCaseStudies.html#decontamination-of-parts-of-the-herbarium-at-meise-botanic-garden">Decontamination of parts of the herbarium</a> at Meise Botanic
 	Garden, and useful literature can be found <a href="https://know.dissco.eu/handle/item/403/simple-search?filterquery=Toxicity&filtername=subject&filtertype=equals">here</a></p>
 	
 	<h4>1.4.3 Labels readable</h4>
@@ -159,7 +161,7 @@ Some sections of the checklist are still to be developed, as they link closely w
 	<summary><strong>Click here to expand</strong></summary>
 	<p>Enough supplies are essential when you start digitising your collection. Bear in mind that it is most of
 	the time cheaper to buy material in bulk. This however will possibly mean that you have to tender to
-	get the necessary materials. For a case study, see <a href="/PreDigCuration/PDCaseStudies.html#ordering-supplies-for-pinned-insect-digitisation-natural-history-museum-london">Ordering supplies for pinned insect
+	get the necessary materials. For a case study, see <a href="/Digitisation/PreDigCuration/PDCaseStudies.html#ordering-supplies-for-pinned-insect-digitisation-natural-history-museum-london">Ordering supplies for pinned insect
 	digitization</a>.</p>
 	
 	<h3>3.1 Restoration supplies</h3>
@@ -266,7 +268,7 @@ Some sections of the checklist are still to be developed, as they link closely w
 	
 	<h3>3.6 IT Infrastructure</h3>
 	<p>A reliable IT infrastructure will make or break your digitisation project and is one of the first things
-	you will have to invest in. Especially hardware for storing your images safely. More information can be found in our <a href="/DataETL/InfrastructureRecs.html"> Data (Extract, Tranform and Load)</a> IT Infrastructure Guidance.</p>
+	you will have to invest in. Especially hardware for storing your images safely. More information can be found in our <a href="/DataManagement/InfrastructureRecs.html"> Data Management</a> IT Infrastructure Guidance.</p>
 	<ul>
 		<li>Hardware for long term storage/ cooperation with an external institution specialised in longterm archiving.</li>
 		<li>Hardware for temporary/local storage</li>
@@ -323,14 +325,14 @@ Some sections of the checklist are still to be developed, as they link closely w
 ### 4. Pre-Digitisation curation
 <details>
 	<summary><strong>Click here to expand</strong></summary>
-	<p>Many of the workflows on <a href="/CollectionType.html">this site</a> include a pre-digitisation curation section, which may be helpful to consult when creating your own workflows.</p>
+	<p>Many of the workflows on <a href="/Workflow.html">this site</a> include a pre-digitisation curation section, which may be helpful to consult when creating your own workflows.</p>
 </details>
 
 ### 5. Staff availability
 <details>
 	<summary><strong>Click here to expand</strong></summary>
 	<p>Staff availability is extensively treated in WP2 of DiSSCo Prepare, and this section will be updated once this
-	deliverable is complete. For a case study see <a href="/PreDigCuration/PDCaseStudies.html#staff-list-for-mass-digitisation-project-doe-at-meise-botanic-garden">Staff list</a> for the mass digitisation project DOE! at Meise Botanic
+	deliverable is complete. For a case study see <a href="/Digitisation/PreDigCuration/PDCaseStudies.html#staff-list-for-mass-digitisation-project-doe-at-meise-botanic-garden">Staff list</a> for the mass digitisation project DOE! at Meise Botanic
 	Garden)</p>
 </details>
 
@@ -446,13 +448,13 @@ Some sections of the checklist are still to be developed, as they link closely w
 	<h3>8.4 QC Imaging</h3>
 	<p>For more information see <a href="https://doi.org/10.3897/BDJ.8.e47051">Nieva de la Hidalga <em>et al.</em> (2020)</a>.</p>
 	<h3>8.5 QC Databasing</h3>
-	<p>For a case study see <a href="/PreDigCuration/PDCaseStudies.html#quality-control-procedure-of-meise-botanic-garden-for-the-mass-digitisation-project-doe"> Quality control procedure</a> of Meise Botanic Garden for the mass digitisation project DOE!</p>
+	<p>For a case study see <a href="/Digitisation/PreDigCuration/PDCaseStudies.html#quality-control-procedure-of-meise-botanic-garden-for-the-mass-digitisation-project-doe"> Quality control procedure</a> of Meise Botanic Garden for the mass digitisation project DOE!</p>
 	<h3>8.6 Decontamination</h3>
-	<p>See <a href="/PreDigCuration/PDChecklist.html#1-detailed-inventory-of-the-collection-number-of-specimens">section 1.4.2</a> of this checklist</p> 
+	<p>See <a href="/Digitisation/PreDigCuration/PreDigCuration.html#1-detailed-inventory-of-the-collection-number-of-specimens">section 1.4.2</a> of this checklist</p> 
 	<h3>8.7 Tracking System</h3>
-	<p>For a case study see <a href="/PreDigCuration/PDCaseStudies.html#tracking-system-collection-move-naturalis">Tracking system:</a> Collection move, Naturalis</p>
+	<p>For a case study see <a href="/Digitisation/PreDigCuration/PDCaseStudies.html#tracking-system-collection-move-naturalis">Tracking system:</a> Collection move, Naturalis</p>
 	<h3>8.8 Data storage</h3>
-	See <a href="/PreDigCuration/PDChecklist.html#3-supplies">Section 3.6</a> of this checklist, our <a href="/DataETL/DataETL.html">Data (ETL) best practices</a>  and <a href="https://doi.org/10.3897/BDJ.8.e47051">Nieva de la Hidalga <em>et al.</em>(2020)</a> for more information.
+	See <a href="/Digitisation/PreDigCuration/PreDigCuration.html#3-supplies">Section 3.6</a> of this checklist, our <a href="/DataManagement/Data.html">Data Management</a> page  and <a href="https://doi.org/10.3897/BDJ.8.e47051">Nieva de la Hidalga <em>et al.</em>(2020)</a> for more information.
 	<h3>8.9 Data publishing</h3>
 	<ul>
 		<li>Own portal</li>

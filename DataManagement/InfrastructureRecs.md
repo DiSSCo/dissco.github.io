@@ -1,7 +1,8 @@
 ---
 title: IT Infrastructure
-parent: Data Processes (ETL)
+parent: Data Management
 grand_parent: Digitisation Best Practices
+nav_order: 1
 ---
 
 # IT Infrastructure Best Practices

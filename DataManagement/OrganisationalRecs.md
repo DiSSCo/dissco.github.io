@@ -1,7 +1,8 @@
 ---
 title: Organisational
-parent: Data Processes (ETL)
+parent: Data Management
 grand_parent: Digitisation Best Practices
+nav_order: 2
 ---
 
 # Organisational Best Practices
@@ -32,9 +33,8 @@ the starting of digitisation activities based on an institutions own situations.
 
 ## Recommendations
 
-### Automnation and Software Developers (O1 & O2) ###
-<details>
-	<summary> <strong>Click here to expand:</strong> This best practice describes the benefits of automation and software development.</summary>
+### Automation and Software Developers (O1 & O2) ###
+This best practice describes the benefits of automation and software development.
 <p><strong>Level:</strong> Basic </p>
 <p><strong>Use Case:</strong> As a museum director I want to use limited monetary resources efficiently so that I can provide best value to society.</p>
 <p><strong>Recommendation:</strong></p>
@@ -50,7 +50,6 @@ allow using those staff more efficiently).</p>
 <p>Instead of having staff manually create thumbnails with an image editor,
 develop an image service that does the job; use existing image libraries
 available (such as ImageMagick).</p>
-</details>
 
 ## Authors
 Zhengzhe Wu and Esko Piirainen\

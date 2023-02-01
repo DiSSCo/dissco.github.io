@@ -39,20 +39,20 @@ Figure 1: [Ephemeroptera specimen](https://data.nhm.ac.uk/object/b22b18c3-93a7-4
 [![ALICE Specimen Image Capture workflow](/images/PinnedInsect/ALICE/ALICEImageCap.PNG?raw=true)](/images/PinnedInsect/ALICE/ALICEImageCap.PNG?raw=true)
 * This shows the imaging step. Specimens must be positioned in the ALICE stage with their barcode visible from above.
 * The index lot barcode should be positioned in the top left hand corner.
-* Hardware requirements can be found [below](https://lmfrench.github.io/ALICE.html#hardware)
+* Hardware requirements can be found [below](/PinnedInsect/ALICE.html#hardware)
 
 
 **Specimen Image Processing**
 [![ALICE Specimen Image Processing workflow](/images/PinnedInsect/ALICE/ALICEImageProc.PNG?raw=true)](/images/PinnedInsect/ALICE/ALICEImageProc.PNG?raw=true)
 * This workflow shows the impaging processing steps, some of which are semi-automated. 
-* The software used this workflow is listed [below](https://lmfrench.github.io/ALICE.html#software). BardecodeFiler and Bulk Rename Utility are used to rename the images. XnConvert is used to crop the images. More information about BardecodeFiler can be found on our [software page](/Software/BardecodeFiler).
+* The software used this workflow is listed [below](/PinnedInsect/ALICE.html#software). BardecodeFiler and Bulk Rename Utility are used to rename the images. XnConvert is used to crop the images. More information about BardecodeFiler can be found on our [software page](/DataManagement/Software/BardecodeFiler).
 
 **Electronic Data Capture** 
 [![ALICE Electronic Data Capture workflow](/images/PinnedInsect/ALICE/ALICEData.PNG?raw=true)](/images/PinnedInsect/ALICE/ALICEData.PNG?raw=true)
-* This shows the transcription steps, and are optional depending on the project. The label images are used to transcribe the labels (Figure 2). More information on manual transcription can be found in our [transcription guide](https://lmfrench.github.io/ElectronicDataCapture/Transcription.html).
+* This shows the transcription steps, and are optional depending on the project. The label images are used to transcribe the labels (Figure 2). More information on manual transcription can be found in our [transcription guide](/Digitisation/ElectronicDataCapture/Transcription.html).
 
 <img src="/images/PinnedInsect/ALICE/ALICETranscription.png" alt="shows a series of images taken by ALICE, which can be used to transcribe labels" width="400"/><br> 
-Figure 2: Shows how the ALICE images can be used for transcription. The transcriber can switch between the different images captured to be able to decipher the labels. (http://creativecommons.org/licenses/by/4.0/)
+Figure 2: Shows how the ALICE images can be used for transcription. The transcriber can switch between the different images captured to be able to decipher the labels. 
 
 ## Example Projects
 
@@ -123,7 +123,7 @@ Dupont S, Price BW (2019) **ALICE, MALICE and VILE: High throughput insect speci
 
 Price, Benjamin W., Steen Dupont, Elizabeth L. Allan, Vladimir Blagoderov, Alice J. Butcher, James Durrant, Pieter Holtzhausen, et al. 2018. **ALICE: Angled Label Image Capture and Extraction for High Throughput Insect Specimen Digitisation.** OSF Preprints. November 5. DOI: [10.31219/osf.io/s2p73](https://doi.org/10.31219/osf.io/s2p73)
 
-Natural History Museum (2021). Natural History Museum Data Portal (data.nhm.ac.uk). https://data.nhm.ac.uk/object/b22b18c3-93a7-4fb2-a29e-d56b5c5b885f
+Natural History Museum (2021). Natural History Museum Data Portal (data.nhm.ac.uk). [https://data.nhm.ac.uk/object/b22b18c3-93a7-4fb2-a29e-d56b5c5b885f](https://data.nhm.ac.uk/object/b22b18c3-93a7-4fb2-a29e-d56b5c5b885f)
 
 ## Citation
 French, L., Crowther, R., Holub-Young, K., Lohonya, K. & Livermore, L. (2022) DiSSCo Digitisation Guide: ALICE - Pinned Insects (NHM). version 1.0. Available at: https://dissco.github.io/PinnedInsect/ALICE.html
