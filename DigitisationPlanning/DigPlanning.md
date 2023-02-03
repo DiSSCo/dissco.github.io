@@ -4,7 +4,62 @@ has_children: true
 nav_order: 1
 parent: Digitisation Best Practices
 ---
+# Digitisation Planning
 
+This page provides a checklist of areas to consider when planning a digitisation project. It includes digitisation strategy and planning, how to prioritise areas of the collection to digitise, potential costs and staffing.
 
+We are still working to add information to this page, so please check back soon!
 
+## Digitisation Strategy
+<details>
+	<summary><strong>Click here to expand</strong></summary>
+	<p>A digitisation strategy provides a high-level blueprint for the digitisation of the collections within a specific timeline. It would normally include sections covering the vision, the reasons for digitising, 
+	the intended users of the digitised specimens, the scope and prioritisation, the strategic objectives and metrics of success and impact. Additional sections may also include policy and legal
+	aspects, mission and principles.</p>
+	<p> Examples of digitisation strategies include:</p>
+	<ul>
+		<li><a href="https://bonn.leibniz-lib.de/en/research/collections/digitization-strategy">Forschungs Museum Koenig</a></li>
+		<li><a href="https://www.loc.gov/acq/devpol/Digital%20Collections%20Strategy%20Overview_final.pdf">Library of Congress</a> (opens pdf)</li>
+		<li><a href="https://www.nla.gov.au/about-us/corporate-documents/corporate-strategies/digital-access-collections-digitisation-strategy">National Library of Australia</a></li>
+		<li><a href="https://collectionstrust.org.uk/resource/creating-your-digitisation-strategy/">Collections Trust</a></li>
+		<li><a href="https://www.si.edu/content/pdf/about/2010_si_digitization_plan.pdf">Smithsonian Institute</a> (opens pdf)</li>
+		
+	</ul>
+</details>
+## Digitisation Plan
+<details>
+	<summary><strong>Click here to expand</strong></summary>
+	<p>A digitisation plan provides a detailed, quantifiable and measurable plan of work. It would normally define specific objectives, activities, targets, responsibilities and deadlines for 
+	delivering your digitisation strategy.</p>
+	<p> Examples include:</p>
+	<ul>
+		<li><a href="https://www.artscouncil.org.uk/sites/default/files/download-file/Digital_Policy_Plan_guidelines.pdf">The Arts Council of England</a> (opens pdf)</li>
+		<li><a href="https://www.archives.norfolk.gov.uk/community-archives/digitisation/creating-a-digitisation-plan">Norfolk Record Office</a> </li>
+	</ul>
+</details>
 
+## Collections Inventory
+See our [Collections Inventory](/DigitisationPlanning/CollectionsInventory.html) page.
+
+## Digitisation Prioritisation
+See our [Digitisation Prioritisation](/DigitisationPlanning/DigPrioritisation.html) page.
+
+## Costs & Funding
+There is information available about digitisation costs in these journal articles:
+* Costbook of the digitisation infrastructure of DiSSCo [https://doi.org/10.3897/rio.6.e58915](https://doi.org/10.3897/rio.6.e58915)
+* A cost analysis of transcription systems [https://doi.org/10.3897/rio.6.e56211](https://doi.org/10.3897/rio.6.e56211)
+
+## Staffing
+See our [Staffing](/DigitisationPlanning/Staffing.html) page.
+
+## IT Infrastructure
+See the relevant section in our [Data Management](/DataManagement/InfrastructureRecs.html) pages.
+
+## Document Control
+**Version:** 0.1\
+**Changes since last version:**
+
+**Last Updated:** 3 February 2023
+
+### Edit This Page
+You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
