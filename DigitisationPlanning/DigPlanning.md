@@ -26,6 +26,7 @@ We are still working to add information to this page, so please check back soon!
 		
 	</ul>
 </details>
+
 ## Digitisation Plan
 <details>
 	<summary><strong>Click here to expand</strong></summary>
@@ -55,8 +56,8 @@ See our [Staffing](/DigitisationPlanning/Staffing.html) page.
 ## IT Infrastructure
 See the relevant section in our [Data Management](/DataManagement/InfrastructureRecs.html) pages.
 
-## IT Infrastructure
-See the Digitisation Monitoring(/DigitisationPlanning/DigitisationMonitoring/DigitisationMonitoring.html) page.
+## Digitisation Monitoring
+See the [Digitisation Monitoring](https://dissco.github.io/DigitisationPlanning/DigitisationMonitoring/DigitisationMonitoring.html) page.
 
 ## Authors
 Elspeth Haston, Louise Allan, Lisa French, Quentin Groom, Anne Koivunen, Laurence Livermore, Arnald Marcer, Joaquim Santos, Peter Wing
