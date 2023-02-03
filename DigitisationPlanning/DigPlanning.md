@@ -61,7 +61,7 @@ See the relevant section in our [Data Management](/DataManagement/Infrastructure
 See the [Digitisation Monitoring](https://dissco.github.io/DigitisationPlanning/DigitisationMonitoring/DigitisationMonitoring.html) page.
 
 ## Authors
-Elspeth Haston, Louise Allan, Lisa French, Quentin Groom, Anne Koivunen, Laurence Livermore, Arnald Marcer, Joaquim Santos, Peter Wing
+Elspeth Haston, Louise Allan, Lisa French, Quentin Groom, Anne Koivunen, Laurence Livermore, Arnald Marcer, Joaquim Santos, Peter Wing\
 ![Cost Mobilise Logo](/images/Logos/Mobilise.png)
 
 ## Document Control
