@@ -55,6 +55,13 @@ See our [Staffing](/DigitisationPlanning/Staffing.html) page.
 ## IT Infrastructure
 See the relevant section in our [Data Management](/DataManagement/InfrastructureRecs.html) pages.
 
+## IT Infrastructure
+See the Digitisation Monitoring(/DigitisationPlanning/DigitisationMonitoring/DigitisationMonitoring.html) page.
+
+## Authors
+Elspeth Haston, Louise Allan, Lisa French, Quentin Groom, Anne Koivunen, Laurence Livermore, Arnald Marcer, Joaquim Santos, Peter Wing
+![Cost Mobilise Logo](/images/Logos/Mobilise.png)
+
 ## Document Control
 **Version:** 0.1\
 **Changes since last version:**
