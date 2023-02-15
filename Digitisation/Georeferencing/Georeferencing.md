@@ -1,4 +1,25 @@
-# Georeferencing
+---
+title: Georeferencing
+has_children: true
+nav_order: 1
+grand_parent: Digitisation Best Practices
+parent: Digitisation
+has_toc: false
+---
+
+# Georeferencing Checklist
+{: .no_toc }
+
+  {: .no_toc .text-delta }
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 ## What is Georeferencing?
 Georeferencing is the process of describing a place on Earth with geospatial geometries. A georeference allows us to show where something happened, such as where a specimen was collected, on a map. By enabling an event geospatially in this way, it ultimately enables any other geospatially-enabled data, such as environment, to be linked. 
 
