@@ -124,7 +124,7 @@ French, L., Welton, L., Berridge, L. & Livermore, L. (2022) DiSSCo Digitisation 
 ## Document Control
 **Version:** 1.1\
 **Changes since last version:** Small update to text in Figure 3 caption, broken link in references fixed\
-**Last Updated:** 16 February 2022
+**Last Updated:** 16 February 2023
 
 ### Edit This Page
 You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
