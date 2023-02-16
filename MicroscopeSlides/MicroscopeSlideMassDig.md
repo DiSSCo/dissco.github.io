@@ -32,7 +32,7 @@ The workflow above shows the steps taken in the pre-digitisation curation stage.
 If there is no label for a taxon, or the label information is incorrect, this information is passed to the curator who then updates the CMS.
 
 ![Image on left shows the temporary taxon and location barcodes, image on right an example of how the labels were added to the collection](/images/MicroscopeSlides/NHM/SlideLabel.png?raw=true)
-Figure 1: a) Shows the temporary taxon and location barcodes b) Shows how the temporary labels are inserted into the collection (Allan *et al*, 2019).\
+Figure 1: a) Shows the temporary drawer location and taxon barcodes b) Shows how the temporary labels are inserted into the collection (Allan *et al*, 2019).\
 **Specimen Image Capture**
 [![Image shows the image capture workflow](/images/MicroscopeSlides/NHM/SlideSIC.PNG?raw=true)](/images/MicroscopeSlides/NHM/SlideSIC.PNG?raw=true)
 * The workflow above shows the imaging step. Unique Identifier (UID) barcodes are printed on a self-adhesive 5 x 6mm label. They are attached to the slide glass using forceps, on the upper side of the slide where possible.
