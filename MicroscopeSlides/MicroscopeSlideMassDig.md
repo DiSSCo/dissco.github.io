@@ -113,7 +113,7 @@ Natural History Museum\
 <img src="/images/Logos/NHM.gif" alt="NHM Logo" width="250">
 
 ## References
-Allan, L. E., Price, B.W., Shchedrina, O., Dupont, S., Livermore, L., & Smith, V. S. (2019). Mass-imaging of microscopic and other slides. Zenodo. [https://doi.org/10.5281/zenodo.336448](https://doi.org/10.5281/zenodo.336448)
+Allan, L. E., Price, B.W., Shchedrina, O., Dupont, S., Livermore, L., & Smith, V. S. (2019). Mass-imaging of microscopic and other slides. Zenodo. [https://doi.org/10.5281/zenodo.336448](https://doi.org/10.5281/zenodo.3364481)
 
 ## Citation
 French, L., Welton, L., Berridge, L. & Livermore, L. (2022) DiSSCo Digitisation Guide: Microscope Slides - Mass Digitisation (NHM). version 1.0. Available at: https://dissco.github.io/MicroscopeSlides/MicroscopeSlide.html
@@ -122,9 +122,9 @@ French, L., Welton, L., Berridge, L. & Livermore, L. (2022) DiSSCo Digitisation 
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Document Control
-**Version:** 1.0\
-**Changes since last version:** N/A\
-**Last Updated:** 15 March 2022
+**Version:** 1.1\
+**Changes since last version:** Small update to text in Figure 3 caption, broken link in references fixed\
+**Last Updated:** 16 February 2022
 
 ### Edit This Page
 You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
