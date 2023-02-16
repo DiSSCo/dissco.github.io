@@ -70,30 +70,31 @@ Marcer A, Escobar E, Uribe F, Chapman AD and Wieczorek JR (v.1.0.2023-Beta, in d
 
 ## References and further reading
 
-Bloom TDS, Flower A and DeChaine EG (2018). Why georeferencing matters: Introducing a practical protocol to prepare species occurrence records for spatial analysis. Ecology and Evolution, 8: 765--777. https://doi.org/10.1002/ece3.3516
+Bloom TDS, Flower A and DeChaine EG (2018). Why georeferencing matters: Introducing a practical protocol to prepare species occurrence records for spatial analysis. Ecology and Evolution, 8: 765--777. [https://doi.org/10.1002/ece3.3516](https://doi.org/10.1002/ece3.3516)
 
-Chapman, AD, & Wieczorek, JR (2020). Georeferencing Best Practices. GBIF Secretariat. https://docs.gbif.org/georeferencing-best-practices/1.0/en/
+Chapman, AD, & Wieczorek, JR (2020). Georeferencing Best Practices. GBIF Secretariat. [https://docs.gbif.org/georeferencing-best-practices/1.0/en/](https://docs.gbif.org/georeferencing-best-practices/1.0/en/)
 
-iDigBio Georeferencing website https://www.idigbio.org/wiki/index.php/Georeferencing
+iDigBio Georeferencing website [https://www.idigbio.org/wiki/index.php/Georeferencing](https://www.idigbio.org/wiki/index.php/Georeferencing)
 
-Lohonya K, Livermore L, Penn M. (2020). Georeferencing the Natural History Museum’s Chinese type collection: of plateaus, pagodas and plants. Biodiversity Data Journal, 8: e50503. https://doi.org/10.3897/BDJ.8.e50503
+Lohonya K, Livermore L, Penn M. (2020). Georeferencing the Natural History Museum’s Chinese type collection: of plateaus, pagodas and plants. Biodiversity Data Journal, 8: e50503. [https://doi.org/10.3897/BDJ.8.e50503](https://doi.org/10.3897/BDJ.8.e50503)
 
-Marcer A, Chapman AD, Wieczorek JR, Picó FX, Uribe F, Waller J and Ariño A (2022). Uncertainty matters: ascertaining where specimens in natural history collections come from and its implications for predicting species distributions. Ecography. 2022, e06025. https://doi.org/10.1111/ecog.06025
+Marcer A, Chapman AD, Wieczorek JR, Picó FX, Uribe F, Waller J and Ariño A (2022). Uncertainty matters: ascertaining where specimens in natural history collections come from and its implications for predicting species distributions. Ecography. 2022, e06025. [https://doi.org/10.1111/ecog.06025](https://doi.org/10.1111/ddi.13208)
  
-Marcer A, Haston E, Groom Q, Ariño AH., Chapman AD, Bakken T, Braun P, Dillen M, Ernst M, Escobar A, Fichtmüller D, Livermore L, Nicolson N, Paragamian K, Paul D, Petterson LB Phillips S, Plummer J, Rainer H, Rey I, Robertson T, Röpert D, Santos J, Uribe F, Waller J and Wieczorek JR (2021). Quality issues in georeferencing: From physical collections to digital data repositories for ecological research. Diversity and Distributions, 27: 564–567. https://doi.org/10.1111/ddi.13208
+Marcer A, Haston E, Groom Q, Ariño AH., Chapman AD, Bakken T, Braun P, Dillen M, Ernst M, Escobar A, Fichtmüller D, Livermore L, Nicolson N, Paragamian K, Paul D, Petterson LB Phillips S, Plummer J, Rainer H, Rey I, Robertson T, Röpert D, Santos J, Uribe F, Waller J and Wieczorek JR (2021). Quality issues in georeferencing: From physical collections to digital data repositories for ecological research. Diversity and Distributions, 27: 564–567. [https://doi.org/10.1111/ddi.13208](https://doi.org/10.1111/ddi.13208)
 
-Marcer A, Groom Q, Haston E, Uribe F. (2021). Natural History Collections Georeferencing Survey Report. Current georeferencing practices across institutions worldwide. MOBILISE EU Cost Action CA17106; p. 130. https://doi.org/10.5281/zenodo.4644529
+Marcer A, Groom Q, Haston E, Uribe F. (2021). Natural History Collections Georeferencing Survey Report. Current georeferencing practices across institutions worldwide. MOBILISE EU Cost Action CA17106; p. 130. [https://doi.org/10.5281/zenodo.4644529](https://doi.org/10.5281/zenodo.4644529)
 
 Marcer A, Haston E, Groom Q, Ariño A, Chapman AD, Bakken ., Braun P,
 Dillen M, Ernst M, Escobar A, Fichtmüller D, Livermore L, Nicolson N, Paragamian K,
-Paul D, Petterson LB, Phillips S, Plummer J, Rainer H, Rey I, Robertson T, Röpert D, Santos J, Uribe F, Waller J and Wieczorek JR (2020). Quality issues in georeferencing: From physical collections to digital data repositories for ecological research. Workshop report (p. 33). https://doi.org/10.5281/zenodo.3734848
+Paul D, Petterson LB, Phillips S, Plummer J, Rainer H, Rey I, Robertson T, Röpert D, Santos J, Uribe F, Waller J and Wieczorek JR (2020). Quality issues in georeferencing: From physical collections to digital data repositories for ecological research. Workshop report (p. 33). [https://doi.org/10.5281/zenodo.3734848](https://doi.org/10.5281/zenodo.3734848)
 
 Murphey PC, Guralnick RP, Glaubitz R, Neufeld D, Ryan A (2004). Georeferencing of museum collections: A review of problems and automated tools, and the methodology developed by the Mountain and Plains Spatio-Temporal DatabaseInformatics Initiative (Mapstedi). Phyloinformatics, 3: 1–29.
 
-Zermoglio PF, Chapman AD, Wieczorek JR, Luna MC and Bloom DA (2020). Georeferencing Quick Reference Guide. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/e09p-h128
+Zermoglio PF, Chapman AD, Wieczorek JR, Luna MC and Bloom DA (2020). Georeferencing Quick Reference Guide. Copenhagen: GBIF Secretariat. [https://doi.org/10.35035/e09p-h128](https://doi.org/10.35035/e09p-h128)
 
 ## Authors
-Arnald Marcer, Arthur D. Chapman, John Wieczorek
+Arnald Marcer, Arthur D. Chapman, John Wieczorek\
+![Cost Mobilise Logo](/images/Logos/Mobilise.png)
 
 ## Contributors
 Louise Allan, Lisa French, Quentin Groom, Elspeth Haston, Anne Koivunen, Laurence Livermore, Joaquim Santos, Peter Wing
@@ -102,9 +103,9 @@ Louise Allan, Lisa French, Quentin Groom, Elspeth Haston, Anne Koivunen, Laurenc
 Marcer A.M., Chapman A.D. and Wieczorek J.R. (2023) DiSSCo Digitisation Guide: Georeferencing. Version 1.0. Available at https://dissco.github.io/Digitisation/Georeferencing/Georeferencing.html
 
 ## Document Control
-Version: 1.0
-Changes since last version: -
-Last Updated: 15 February 2023 
+**Version:** 1.0\
+**Changes since last version:** -\
+**Last Updated:** 15 February 2023 
 
 ### Edit This Page
 You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
