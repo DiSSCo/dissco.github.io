@@ -53,7 +53,7 @@ and in these cases the envelope is placed into the template and an image capture
 
 ## Example Projects
 **Phthiraptera**\
-This workflow was piloted at the Natural History Museum, London, in order to digitise our Phthiraptera lice collection, which consists of ~70,000 slides. The table below shows the digitisation rates achieved during this project (Allan *et al.*, 2019.
+This workflow was piloted at the Natural History Museum, London, in order to digitise our Phthiraptera lice collection, which consists of ~70,000 slides. The table below shows the digitisation rates achieved during this project (Allan *et al.*, 2019).
 
 Table: Estimates of digitised slides per person per day (Allan *et al.*, 2019)
 
