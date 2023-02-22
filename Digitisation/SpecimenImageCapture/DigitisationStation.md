@@ -28,6 +28,7 @@ The image below shows an example of a digitisation station at the NHM. It includ
 [Canon RF 100mm f2.8 L Macro IS USM Lens](https://www.wexphotovideo.com/canon-rf-100mm-f2-8-l-macro-is-usm-lens-1775045/)\
 [Canon DR-E6 DC Coupler](https://www.wexphotovideo.com/canon-dr-e6-dc-coupler-1028674/)\
 [Canon AC-E6N Adapter Kit](https://www.wexphotovideo.com/canon-ac-adapter-kit-for-eos-80d-1609686/)\
+[Barcode Reader: Code CR950-K301-C500](https://www.barcodedata.co.uk/cr950-k301-c500)\
 Lightbox - This is currently custom made at the Natural History Museum, London. Please get in touch with us ([dissco-uk@nhm.ac.uk](mailto:dissco-uk@nhm.ac.uk)) for more information.
 
 **Computer Set-up**\
@@ -67,8 +68,8 @@ Natural History Museum, London\
 Allan, L. E., Price, B.W., Shchedrina, O., Dupont, S., Livermore, L., & Smith, V. S. (2019). Mass-imaging of microscopic and other slides. Zenodo. [https://doi.org/10.5281/zenodo.336448](https://doi.org/10.5281/zenodo.3364481)
 
 ## Document Control
-**Version:** 0.1\
-**Changes since last version:** N/A\
+**Version:** 0.2\
+**Changes since last version:** Added information about barcode scanner\
 **Last Updated:** 22 February 2023
 
 ### Edit This Page
