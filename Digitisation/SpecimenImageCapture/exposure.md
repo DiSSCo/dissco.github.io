@@ -108,4 +108,4 @@ Figure 10: same image as Figure 7 but with images stacked. The whole fo the fly'
 
 Depth of field is a highly complex factor to control. If you are interested check out this very [thorough account of depth of field](https://www.largeformatphotography.info/articles/DoFinDepth.pdf)
 
-Next page: [5. Image files](https://dissco.github.io/SpecimenImageCapture/filing.html)
+Next page: [5. Image files](/Digitisation/SpecimenImageCapture/filing.html)

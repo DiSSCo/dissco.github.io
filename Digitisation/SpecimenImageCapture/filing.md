@@ -37,4 +37,4 @@ Photo extension names either refer to the way in which a file type stores data (
 ![Table_of_file-types_and_compression](/images/Photography/compression_table.png?raw=true)
 
 
-Next page: [6. Light and colour](https://dissco.github.io/SpecimenImageCapture/lighting_and_colour.html)
+Next page: [6. Light and colour](/Digitisation/SpecimenImageCapture/lighting_and_colour.html)

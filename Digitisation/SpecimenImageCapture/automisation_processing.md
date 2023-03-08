@@ -54,4 +54,4 @@ Examples of OCR/HTR software:
 [Tesseract](https://github.com/tesseract-ocr/tesseract) 
 [ABBYY](https://pdf.abbyy.com/learning-center/what-is-ocr/)
 
-Next page: [9. Materials and references](https://dissco.github.io/SpecimenImageCapture/conclusion_and_materials.html)
+Next page: [9. Materials and references](/Digitisation/SpecimenImageCapture/conclusion_and_materials.html)

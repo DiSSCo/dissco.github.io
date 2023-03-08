@@ -31,17 +31,17 @@ Below is a list of resources where you can find additional information. Many wer
 
 ## Examples of photography workflows used within DiSSCo
 Pinned insects:
-- [Alice](https://dissco.github.io/PinnedInsect/ALICE.html)
-- [iCollections NHM](https://dissco.github.io/PinnedInsect/NHM%20single%20camera%20pinned%20insects.html)
+- [Alice](/PinnedInsect/ALICE.html)
+- [iCollections NHM](/PinnedInsect/NHM%20single%20camera%20pinned%20insects.html)
 
 Microscope slides:
-- [Mass digitisation - NHM](https://dissco.github.io/MicroscopeSlides/MicroscopeSlideMassDig.html)
+- [Mass digitisation - NHM](/MicroscopeSlides/MicroscopeSlideMassDig.html)
 
 Herbarium sheets:
-- [NHM](https://dissco.github.io/HerbariumSheets/NHMHerbariumSheetDigitisationWorkflow.html)
-- [LISI](https://dissco.github.io/HerbariumSheets/LISIULisboa.html)
-- [RGBE](https://dissco.github.io/HerbariumSheets/RBGEHerbariumSheet.html)
-- [Meise](https://dissco.github.io/HerbariumSheets/MeiseBGHerbariumSheets.html)
+- [NHM](/HerbariumSheets/NHMHerbariumSheetDigitisationWorkflow.html)
+- [LISI](/HerbariumSheets/LISIULisboa.html)
+- [RGBE](/HerbariumSheets/RBGEHerbariumSheet.html)
+- [Meise](/HerbariumSheets/MeiseBGHerbariumSheets.html)
 
 Geological thin sections:
 - [BGS](/Geological/thin_sections.html)

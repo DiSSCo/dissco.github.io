@@ -60,4 +60,4 @@ Figure 3: camera deign is quite conservative. These three cameras are made by th
 
 Finally, remember that the best camera body in the world will not produce decent results if the attached lens is not up to the same standards, so you should budget for the lenses you will need in your calculations. Some cameras will be sold bundled with inexpensive “kit” lenses which are suitable for general photography, but you may also want to look at professional specialist lenses as well. In some cases, second-hand cameras or lenses could provide a more cost effective way to acquire the necessary equipment.
 
-Next page: [3. Camera settings and specifications](https://dissco.github.io/SpecimenImageCapture/camera_and_image_specifications.html)
+Next page: [3. Camera settings and specifications](/Digitisation/SpecimenImageCapture/camera_and_image_specifications.html)

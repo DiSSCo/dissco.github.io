@@ -41,4 +41,4 @@ Photography as means for specimen digitisation is most efficiently applied to sm
 
 Following this page we have a series of modules which take you through various aspects of digital photography. This is not an exhaustive review, but should help those of you who are new to photography with your digitisation projects. If you’re interested, additional links are provided on the final page.
 
-Next page: [2. Cameras - what to use?](https://dissco.github.io/SpecimenImageCapture/intro_to_cameras.html)
+Next page: [2. Cameras - what to use?](/Digitisation/SpecimenImageCapture/intro_to_cameras.html)

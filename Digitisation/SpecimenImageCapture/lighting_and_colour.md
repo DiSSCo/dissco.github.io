@@ -62,4 +62,4 @@ Figure 2: Examples of colour palates used in specimen photography. The left-hand
 Palettes and standards can be bought [online](https://www.xrite.com/) and are a standard feature in photography. Prices generally range between £50 and £100 which may seem a bit steep for what seems like a bit of card, but they are important to produce quality and comparable digital images of specimens.
 
 
-Next page: [7. Photography setups](https://dissco.github.io/SpecimenImageCapture/image_setups.html)
+Next page: [7. Photography setups](/Digitisation/SpecimenImageCapture/image_setups.html)

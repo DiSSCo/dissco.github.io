@@ -62,4 +62,4 @@ The resolution is typically expressed in megapixels, i.e. the number of million 
 
 Although more pixels means better quality images, more pixels also results in larger images, which take up more storage space and are slower to transfer. Also, an increase in image quality may not be observable for some users if their display screen is not also of a high resolution or if the image is not zoomed in enough. When deciding on an image size in megapixels it is important to consider these other factors rather than chasing ever higher numbers of pixels.
 
-Next page: [4. The exposure triangle](https://dissco.github.io/SpecimenImageCapture/exposure.html)
+Next page: [4. The exposure triangle](/Digitisation/SpecimenImageCapture/exposure.html)

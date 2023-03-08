@@ -49,4 +49,4 @@ Figure 3: Example of the live camera view window. Here a slide of *Thrips tabaci
 
 With the live view, we can look through the camera from the comfort of the computer screen which enables us to test the settings and framing of the image we are going to take.
 
-Next page: [8. Automating image processing](https://dissco.github.io/SpecimenImageCapture/automisation_processing.html)
+Next page: [8. Automating image processing](/Digitisation/SpecimenImageCapture/automisation_processing.html)
