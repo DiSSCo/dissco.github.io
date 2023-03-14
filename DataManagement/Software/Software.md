@@ -158,7 +158,7 @@ Anne Koivunen, Laurence Livermore, Arnald Marcer, Deb Paul
 CC-BY-4.0
 
 ## Citation
-Allan, L. (2022) DiSSCo Digitisation Guide: Software. Available at: https://dissco.github.io//DataManagement/Software/Software.html
+Allan, L. (2022) DiSSCo Digitisation Guide: Software. Available at: https://dissco.github.io/DataManagement/Software/Software.html
 
 ## Document Control
 **Version**: 0.1\
