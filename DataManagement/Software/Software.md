@@ -165,5 +165,6 @@ Allan, L. (2022) DiSSCo Digitisation Guide: Software. Available at: https://diss
 **Changes since last version:** N/A\
 **Last Updated:** 14 March 2023
 
-
+### Edit This Page
+You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
 
