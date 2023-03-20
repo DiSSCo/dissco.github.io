@@ -20,21 +20,21 @@ Barcode labels can be used to encode information in a machine-readable format, t
 1. Permanent - encoding specimen/object unique identifiers
 2. Temporary (for digitisation purposes) - encoding information relating to the specimen/object in the collection, such as location in collection, taxonomy, type status etc. See [Slides - Mass Digitisation](/MicroscopeSlides/MicroscopeSlideMassDig.html) for a workflow example.
 
-| Software | Cost | Barcode label creation | Notes |
+| Software | Cost | Barcode Label Creation | Notes |
 | :---- | :---: | :---: | :------- |
 | [BarTender](https://www.seagullscientific.com/) | paid | X | |
 | Collection Management System\* | free & paid | X | Most robust way of generating unique identifiers as it ensures a 1:1 match with the database | 
 | [EntomoLabels](https://labels.entomo.pl/) | free | X | Can be used for all collection and preservation label types |
 | [Label Designer](https://github.com/luomus/laji/tree/development/projects/label-designer) | free | X | Tool used in Kotka and Notebook. Guide for [Label Designer](https://labels.entomo.pl/) available here |
 
-\* various collection management systems are available.
+\* various collection management systems are available
 
 ## Camera Control
 
 Mass digitisation of specimens/objects is generally carried out using a camera or flat-bed scanner, while specialised imaging systems are used for high resolution/diagnostic imaging. 
 More information about cameras, imaging setups and requirements can be found in [Image Capture](/Digitisation/SpecimenImageCapture/SpecimenImageCapture.html).
 
-### Tethered camera control
+### Tethered Camera Control
 
 Tethered photography for specimen/object image capture has many benefits, such as live view on a monitor, controlling camera settings from the connected device and remote trigger.
 
@@ -50,7 +50,7 @@ Tethered photography for specimen/object image capture has many benefits, such a
 
 \* available through third party websites
 
-### Focus Staking (Extended depth of field imaging)
+### Focus Staking (Extended Depth of Field Imaging)
 Certain specimens/objects or imaging approaches may require a deeper depth of field than a single image can provide. This can be achieved using an automated focus rail that moves the camera/specimen or altering the focus of the lens. Some cameras can do in-camera stacking and/or focus bracketing.
 
 | Software | Cost | Lens/Focus Rail Control |
@@ -59,37 +59,37 @@ Certain specimens/objects or imaging approaches may require a deeper depth of fi
 | [Helicon Remote](https://www.heliconsoft.com/heliconsoft-products/helicon-remote/) | paid | X |
 
 ## Image Processing
-Images may require some form of processing, such as renaming, basic/advanced editing, stacking, photogrammetry\* etc. The use of hot folders and automated actions can enable activities, such as image capture and processing, to happen consecutively, significantly reducing post-processing time. More information can be found in [Automating Image Processing](/Digitisation/SpecimenImageCapture/automisation_processing.html) and a workflow example can be found in [Slides - Mass Digitisation](/MicroscopeSlides/MicroscopeSlideMassDig.html).
+Images may require some form of processing, such as renaming, basic/advanced editing, stacking, photogrammetry etc. The use of hot folders and automated actions can enable activities, such as image capture and processing, to happen consecutively, significantly reducing post-processing time. More information can be found in [Automating Image Processing](/Digitisation/SpecimenImageCapture/automisation_processing.html) and a workflow example can be found in [Slides - Mass Digitisation](/MicroscopeSlides/MicroscopeSlideMassDig.html).
 
 ### File Renaming
 Batch and automated file renaming can increase the efficiency of digitisation workflows as well as reduce the potential for human error. One example is to use software to rename image files by extracting information from barcode(s) present in the images.
 
-| Software | Cost | Automated renaming | Batch renaming\* | Notes |
+| Software | Cost | Automated Renaming | Batch Renaming\* | Notes |
 | :------- | :---: | :---: | :---: | :--- |
 | [BardecodeFiler](https://www.bardecode.com/en1/app/bardecodefiler/)  | paid | X | X | Reads multiple barcodes in image and renames file. Guidance available [here](https://dissco.github.io/DataManagement/Software/BardecodeFiler.html) |
-| [Gouda](https://github.com/NaturalHistoryMuseum/gouda) (decodes_barcodes.exe) | free | X | X | Readings single barcode in image and renames file |
+| [Gouda](https://github.com/NaturalHistoryMuseum/gouda) (decodes_barcodes.exe) | free | X | X | Reads single barcode in image and renames file |
 | [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) | free | | X |
 | [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename) (Microsoft PowerToys) | free | | X |
 
-\* scripts can also be used for batch renaming.
+\* scripts can also be used for batch renaming
 
-### Post-processing
+### Post-Processing
 Post-processing of image files can be carried out either in bulk using batch processing or consecutively using hot folders.
 
-| Software | Cost | Basic editing | Advanced editing | Focus stacking\* | Notes |
+| Software | Cost | Basic Editing | Advanced Editing | Focus Stacking\* | Notes |
 | :------- | :---: | :---: | :---: | :---: | :--- |
 | [XnConvert](https://www.xnview.com/en/xnconvert/) | free | X | | | |
 | [Adobe Lightroom](https://www.adobe.com/uk/creativecloud/photography.html?promoid=XXTQGXXJ&mv=other) | paid | X | X | | See [guidance](/DataManagement/Software/Lightroom.html) |
 | [Adobe Photoshop](https://www.adobe.com/uk/creativecloud/photography.html?promoid=XXTQGXXJ&mv=other) | paid | X | X | | |
 | [GIMP](https://www.gimp.org/) | free | X | X | | |
 | [ImageMagick](https://imagemagick.org/) | free | X | X | | Stitch multiple images \*\* |
-| [ImageJ](https://imagej.nih.gov/ij/index.html) | free | X | X | X | Focus stacking available as a plugin (Stack Focuser) |
+| [ImageJ](https://imagej.nih.gov/ij/index.html) | free | X | X | X | Focus stacking available as a plugin ([Stack Focuser](https://imagej.nih.gov/ij/plugins/stack-focuser.html)) |
 | [Helicon Focus](https://www.heliconsoft.com/heliconsoft-products/helicon-focus/) | paid | | | X | |
-| [Zerene Stacker](https://zerenesystems.com/cms/stacker) | paid | | X | |
+| [Zerene Stacker](https://zerenesystems.com/cms/stacker) | paid | | | X |
 | [Inselect](https://naturalhistorymuseum.github.io/inselect/) | free | | | | Automated image segmentation |
 
-\* some cameras can do in-camera stacking and/or focus bracketing.\
-\*\* scripts can also be used for bulk stitching of images.
+\* some cameras can do in-camera stacking and/or focus bracketing\
+\*\* scripts can also be used for bulk stitching of images
 
 ## Electronic Data Capture
 Information about the specimen/object on handwritten or typed labels can be captured manually or using optical character recognition (OCR). More information about transcription project planning, impact versus effort, and the challenges can be found in [Manual Transcription](/Digitisation/ElectronicDataCapture/Transcription.html). The use of data standards such as [Darwin Core](https://dwc.tdwg.org/) (DwC), which is primarily based on taxa and their occurrence, will provide a stable, standard format for sharing information ([Wieczorek et al., 2012](https://doi.org/10.1371/journal.pone.0029715)). 
@@ -108,7 +108,7 @@ Information about the specimen/object on handwritten or typed labels can be capt
 | [Voyant Tools](https://voyant-tools.org/) | free | | X | 'Reading and analysis environment for digital texts'. Web application |
 | [ChatGPT](https://openai.com/blog/chatgpt) | free | | | Parsing OCR output text into Darwin Core fields |
 
-\* various online platforms are available.
+\* various online platforms are available
 
 ## Georeferencing
 Georeferencing is a key process that enables specimens to be used in a variety of ways from geospatial analyses to understanding the history of collections. More information about the importance, pitfalls and recommendations can be found in [Georeferencing Checklist](/Digitisation/Georeferencing/Georeferencing.html).
