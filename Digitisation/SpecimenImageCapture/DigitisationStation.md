@@ -1,22 +1,33 @@
 ---
 title: Digitisation Station
-has_children: true
 nav_order: 5
 grand_parent: Digitisation Best Practices
 parent: Digitisation
-has_toc: false
-
 ---
 
-# Digitisation Station
+# Digitisation Stations
+{: .no_toc }
+
+  {: .no_toc .text-delta }
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Introduction
 
-This page provides an overview of the equipment we use in some of our digitisation workflows at the Natural History Museum, London (NHM). We have listed the equipment we currently use in this setup, although there are others available with similar specifications.
+This page describes the equipment used in digitisation stations at the Natural History Museum, London and Royal Botanic Garden Edinburgh. 
 
-We will be adding more guidance about digitisation equipment, including scanners, cameras and barcode readers, so check back soon!
+We will be adding more guidance about digitisation equipment, including scanners,cameras and barcode readers, so check back soon. Please also see our [Software](/DataManagement/Software/Software.html) page for more information about the software we use in our digitisation workflows.
 
-## Hardware
+## Digitisation Station - Natural History Museum, London
+The equipment listed below is used in some of our digitisation stations at the Natural History Museum, London (NHM). We have listed the equipment we currently use in this setup, although there are others available with similar specifications.
+
+### Hardware
 
 The image below shows an example of a digitisation station at the NHM. It includes a camera, stand and lightbox. Specimens are positioned in the lightbox, and images are captured using a button on the computer.
 
@@ -31,13 +42,13 @@ The image below shows an example of a digitisation station at the NHM. It includ
 [Barcode Reader: Code CR950-K301-C500](https://www.barcodedata.co.uk/cr950-k301-c500)\
 Lightbox - This is currently custom made at the Natural History Museum, London. Please get in touch with us ([dissco-uk@nhm.ac.uk](mailto:dissco-uk@nhm.ac.uk)) for more information.
 
-**Computer Set-up**\
+**Computer**\
 This is the computer set-up we use alongside this digitisation station. See [this page](/DataManagement/Data.html) for more information about IT infrastructure and data management in digitisation projects.\
 Core i5 CPU8\
 GB RAM500GB SSD\
 24" Monitor
 
-## Workflows
+### Workflows
 We use this digitisation set-up for many of our digitisation projects at the NHM, including:\
 [Microscope Slides](/MicroscopeSlides/MicroscopeSlideMassDig.html)\
 [Pinned Insects](/PinnedInsect/NHM%20single%20camera%20pinned%20insects.html)
@@ -59,18 +70,78 @@ Table: Estimates of digitised slides per person per day
 
 *focused testing shows the rate when only digitisation activities are occurring, which is unlikely to be achieved in every day work due to meetings and other interuptions
 
+## Herbarium Sheet Imaging Station - Royal Botanic Garden Edinburgh
+
+This section describes set-up for a herbarium sheet imaging station that is used at the Royal Botanic Gardens Edinburgh (RBGE).
+
+### Hardware
+The digitisation stations at RBGE consist of a camera, lightbox and copy stand, which is set up alongside a computer.\
+
+<img src="/images/Photography/HerbariumStation.png" alt="a picture of a digitisation station. On the lefthand side, there is a person standing next to a lightbox holding a barcode scanner. There is a camera above the lightbox. There is a computer monitor on the right hand side, showing the image of a herbarium sheet that will be captured by the camera" width="500"/>
+
+**Camera Equipment**\
+Following testing of several camera options, we selected a Fujifilm option that gave us good quality images at a reasonable price. These cameras are being installed on more of RBGE's imaging stations to standardise the set-up.
+
+* [Fujifilm GFX 100 Medium Format camera body](https://fujifilm-x.com/global/products/cameras/gfx100/): 102 MP, 43.8mm x 32.9mm sensor size. Given that the power adaptor for this camera has been discontinued, the [GFX 100S camera body](https://fujifilm-x.com/global/products/cameras/gfx100s/) would be an alternative option
+* [Fujifilm GF 63mm f2.8 R WR Lens](https://fujifilm-x.com/global/products/lenses/gf63mmf28-r-wr/)
+* [TetherTools TetherPro USB-C to USB-C 10ft (3m) Orange](https://tethertools.com/product/tetherpro-usb-c-to-usb-c-2/)
+
+**Lightbox**\
+We could not find a lightbox available that fitted our needs, so we worked with two different suppliers/manufacturers to develop suitable products.
+
+Two options currently being used, both custom built to RBGE specifications:
+* [Cirro Lite LEDCloud PhotoBox](https://www.cirrolite.com/)
+* [Stoane Lighting Bespoke photography light box V2](https://stoanelighting.com/) product number 001826
+
+The image below shows the camera set-up above the lightbox.\
+<img src="/images/Photography/HerbariumStationCamera.png" alt="a picture of a camera positioned above a lightbox. There is a hole in the lightbox which the camera is setup above using a copy stand, which allows the camera to take images of herbarium sheets placed within the lightbox." width="500"/>
+
+**Copy Stand**\
+The lightboxes have been constructed to fit the Kaiser copy stand.
+
+* [Kaiser Copy Base Board with Socket and Adjustable Feet 80x60](https://www.kaiser-fototechnik.de/en/produkte/artikel.php?nr=5519)
+* [Kaiser Column 1m with Friction Drive](https://www.kaiser-fototechnik.de/en/produkte/artikel.php?nr=4474)
+* [Kaiser Camera Arm RTX](https://www.kaiser-fototechnik.de/en/produkte/artikel.php?nr=5522)
+
+**Adjustable Table**\
+An adjustable table has been an important part of the RBGE imaging stations, enabling the Lightbox and camera to be set at a suitable, ergonomic height for each individual digitiser.
+
+Two options currently being used, both including customised options from existing products:
+* [ErgoSwiss Table base TA](https://www.ergoswiss.com/en/product-range/table-base-frames/table-base-ta)
+* [Sciquip 4 leg Static Electric Height Laboratory Table, 1800mm](https://sciquip.co.uk/2-leg-static-electric-height-laboratory-tables.html)
+
+**Colour Targets**\
+The colour target is fixed on the imaging set-up, and we therefore wanted dimensions that would fit the dimensions of the specimen as much as possible.
+* [GoldenThread object target](https://www.imagescienceassociates.com/object-level-target-family.html)
+
+**Computer**\
+Having tried both PCs and Mac computers for the imaging stations, we made the decision to use Mac options to reduce any software issues.
+
+* [Mac Mini](https://www.apple.com/uk/mac-mini/) with either an Intel Core i7 Processor, 32GB RAM or a M1 Processor, 16GB RAM
+
+* [BenQ SW2700PT 27 Inch Monitor](https://www.benq.com/en-me/monitor/photographer/sw2700pt.html) or equivalent
+
+**Tethering Software**\
+We have explored several options for tethering software and being able to process images captured in RAW format: [CaptureOne](https://www.captureone.com)
+
+**Image Editing Software**\
+Some simple editing software is needed to manage specimens that need multiple images e.g. material in capsules: [Adobe Photoshop Elements](https://www.adobe.com/uk/products/photoshop-elements.html) 
+
+### Workflows
+This imaging station is used in the [RBGE Herbarium Sheet Mass Digitisation](/HerbariumSheets/RBGEHerbariumSheet.html) workflow.
+
 ## Authors
-Lisa French & Peter Wing\
-Natural History Museum, London\
+Lisa French, Peter Wing, Elspeth Haston, Robyn Drinkwater, Sally King\
+Natural History Museum, London & Royal Botanic Garden, Edinburgh\
 <img src="/images/Logos/AHRC.png" alt="AHRC Logo" width="250">
 
 ## References
 Allan, L. E., Price, B.W., Shchedrina, O., Dupont, S., Livermore, L., & Smith, V. S. (2019). Mass-imaging of microscopic and other slides. Zenodo. [https://doi.org/10.5281/zenodo.336448](https://doi.org/10.5281/zenodo.3364481)
 
 ## Document Control
-**Version:** 0.2\
-**Changes since last version:** Added information about barcode scanner\
-**Last Updated:** 22 February 2023
+**Version:** 0.3\
+**Changes since last version:** Added RBGE Herbarium station\
+**Last Updated:** 30 March 2023
 
 ### Edit This Page
 You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
