@@ -72,7 +72,7 @@ Table: Estimates of digitised slides per person per day
 
 ## Herbarium Sheet Imaging Station - Royal Botanic Garden Edinburgh
 
-This section describes set-up for a herbarium sheet imaging station that is used at the Royal Botanic Gardens Edinburgh (RBGE).
+This section describes the equipment for a herbarium sheet imaging station that is used at the Royal Botanic Gardens Edinburgh (RBGE).
 
 ### Hardware
 The digitisation stations at RBGE consist of a camera, lightbox and copy stand, which is set up alongside a computer.\
