@@ -130,18 +130,31 @@ Some simple editing software is used to manage specimens that need multiple imag
 ### Workflows
 This imaging station is used in the [RBGE Herbarium Sheet Mass Digitisation](/HerbariumSheets/RBGEHerbariumSheet.html) workflow.
 
+## Herbarium Sheet Imaging Station - Royal Horticultural Society
+
+The equipment listed here is used by the Royal Horticultural Society in the UK to image their herbarium sheets.
+
+### Hardware
+
+[Phase 1 XF system camera](https://www.teamworkphoto.com/online-store/cameras/medium-format-cameras/phase-one-xf-camera/)\
+[XF Waist Level Finder](https://www.teamworkphoto.com/online-store/phase-one-system/phase-one-accessories/xf-system-accessories/phase-one-xf-waist-level-finder/)\
+Credo 80 mm lens LS\
+Herbscan imaging station with reflective sides and LED illumination\
+Kaiser Copy Stand with 600 x 800 baseboard and 1000mm column and camera arm\
+Mac Studio with Studio Display
+
 ## Authors
-Lisa French, Peter Wing, Elspeth Haston, Robyn Drinkwater, Sally King\
-Natural History Museum, London & Royal Botanic Garden Edinburgh\
+Lisa French, Peter Wing, Elspeth Haston, Yvette Harvey,  Robyn Drinkwater, Sally King\
+Natural History Museum, London, Royal Botanic Garden Edinburgh & Royal Horticultural Society\
 <img src="/images/Logos/AHRC.png" alt="AHRC Logo" width="250">
 
 ## References
 Allan, L. E., Price, B.W., Shchedrina, O., Dupont, S., Livermore, L., & Smith, V. S. (2019). Mass-imaging of microscopic and other slides. Zenodo. [https://doi.org/10.5281/zenodo.336448](https://doi.org/10.5281/zenodo.3364481)
 
 ## Document Control
-**Version:** 0.4\
-**Changes since last version:** Added RBGE Herbarium station\
-**Last Updated:** 30 March 2023
+**Version:** 0.5\
+**Changes since last version:** Added RBGE Herbarium station (v0.4), Added RHS Herbarium station (v0.5)\
+**Last Updated:** 21 April 2023
 
 ### Edit This Page
 You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
