@@ -101,6 +101,14 @@ Figure 4: a) Shows the imaging set-up: vertically mounted DSLR camera, lightbox 
 |----------------|------------------------------------|
 | Canon 5DS R    | f 1/5.6; ss = 1/80 sec; ISO = 200. |
 
+### Microscope Slide Barcode Specification
+* Base material: 8100M Matt White Polyester
+* Ink: Resin ink (thermal transfer)
+* Adhesive type: Permanent solvent acrylic
+* Dimensions: H=5.00mm W=6.00mm Radius Corners=0.50mm
+* Barcode: 9 digit sequential numbers printed as a Datamatrix code
+
+
 ## Other Sources
 **Papers**\
 [Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides](https://doi.org/10.5281/zenodo.3364481)\
