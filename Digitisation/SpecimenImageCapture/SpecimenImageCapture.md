@@ -4,6 +4,7 @@ has_children: true
 nav_order: 2
 grand_parent: Digitisation Best Practices
 parent: Digitisation
+nav_exclude: true
 has_toc: false
 ---
 
