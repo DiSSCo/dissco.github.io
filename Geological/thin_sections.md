@@ -20,13 +20,19 @@ grand_parent: Workflows
 ## Overview
 Geological thin sections are specimens of geological material which are thin enough to be mounted on microscope slides.
 
-<img src="/images/Geo/thinsections/3_slide_close_up.png" alt="close up of slides" width="300"/>\
+<img src="/images/Geo/thinsections/3_slide_close_up.png" alt="close up of slides" width="200"/>\
 Figure 1: Example of three example thin section slides. Taken with kind permission of the BGS.
 
 Roughly 30 microns thick, these sections are semi-transparent allows them to be viewed under a microscope which reveals how they are constructed. The use of polarising filters allows more information on the structural and chemical makeup of geological specimen to be obtained.
 
-<img src="/images/Geo/thinsections/selection_of_image_examples.png" alt="example of thin section images" width="800"/>\
+<img src="/images/Geo/thinsections/selection_of_image_examples.png" alt="example of thin section images" width="400"/>\
 Figure 2: A selection of thin section images taken using this workflow. Taken with kind permission of the BGS.
+
+## Video
+
+The video below shows the imaging workflow used by the British Geological Survey to image their slide collection.
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/841180566?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Geological Thin Section Imaging"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Workflow
 
@@ -57,7 +63,8 @@ The steps that need to be taken in this section are:
 
 1. **Imaging set up**
 
-![Annotated set up](/images/Geo/thinsections/annotated_set_up.png?raw=true)
+<img src="/images/Geo/thinsections/annotated_set_up.png" alt="shows the set-up of the camera, including polarising lense and slide stand" width="500"/>
+
 Figure 5: Annotated diagram of the set up. The downwards angle keeps the slide in place. Taken with kind permission of the BGS.
 
 The imaging set up is composed of:
@@ -70,11 +77,10 @@ All components are attached to metal beam which keeps all components lined up in
 
 2. **Imaging process**
 
-To image, we place the slide at the front of the slide stand. We position the slide so that the sample is centered and can be seen by the camera. The angled set up will keep the slide in place.
+To image, we place the slide at the front of the slide stand. We position the slide so that the sample is centered and can be seen by the camera. The angled set up will keep the slide in place. We then take the images. Two images are taken.
 
-We then take the images. Two images are taken.
+<img src="/images/Geo/thinsections/imaging_order.png" alt="shows how to set up the camera to show a polarised and non-polarised image" width="700"/>
 
-![imaging order](/images/Geo/thinsections/imaging_order.png?raw=true)
 Figure 6: Diagram of the order of taking the two images showing the filter position and an example image of each. Taken with kind permission of the BGS.
 
 The first image is taken with the removable polarising lens down. The polarised light creates a darker image where some structural features are more distinguishable. The image is taken using the connected remote shutter button. The camera makes a click as the image is taken and after a second it appears on the camera's LCD screen. We check this screen to make sure the photo has been taken correctly.
@@ -109,7 +115,7 @@ We fill in the columns as follows:
 3. The *Light* column is either XL for the first image  where the filter is down (double polarised light), or PPL for the second image where the filter is up (plain polarised light).
 4. In the *Camera number & prefix* column we record the image number as assigned by the camera. These will be filled in in a series on after the other. If a mistake is made, we leave the image in the camera and miss out that number in the column. See the image below for an example (the number 7853 is missed out). It is important to make sure that this column is filled in correctly. Any mistake will result in the wrong image being attached to each specimen.  
 
-<img src="/images/Geo/thinsections/annotated_filled_sheet.png?" alt="shows an annotated recording sheet" width="500"/>\
+<img src="/images/Geo/thinsections/annotated_filled_sheet.png" alt="shows an annotated recording sheet" width="600"/>\
 Figure 9: A focused example of a completed recording sheet with annotations. Reproduced with kind permission of the BGS.
 
 In practice these details were recorded on paper sheets and entered into excel later, but could in principle be directly entered into a spreadsheet.
@@ -130,14 +136,16 @@ Unique identifier barcodes have become the standard in digitisation and have bee
 
 Attaching barcodes to thin section slides would appear like this:
 
-![slide with barcode](/images/Geo/thinsections/slide_with_barcode.png?raw=true)
+<img src="/images/Geo/thinsections/slide_with_barcode.png" alt="shows a thin section with a barcode" width="400"/>
+
 Figure 10: Thin section slide with barcode. The barcode is unique to this specimen and can be read with a scanner or bar code reading software from a specimen image. The barcode does not cover any of the specimen.
 
 2. **3D printed components** - the original imaging set up was designed using available parts that were already available at the BGS. While this was successful for this project, replication of these precise components would be difficult for others.  
 
 To solve this issue, alternative components have been designed using the software [Openscad](https://www.openscad.org/). These components can be 3D printed to produce a replicated imaging set up.
 
-![3D printed set up](/images/Geo/thinsections/annotated_3D_setup.png?raw=true)
+<img src="/images/Geo/thinsections/annotated_3D_setup.png" alt="shows how to set up the camera with 3D printed parts" width="600"/>
+
 Figure 11: Annotated set up using 3D printed parts. The 3D printed parts are a stand to create the angle of te set up, a slide stand which includes  moveable polarising filter, and a light stand to which the light can be fixed to. All are deigned to fix around a squate shaped metal rod.
 
 This set up is fixed to a metal bar and would have the camera at one end. Components are fairly cheap to print and can be easily assembled. A prototype has already been produced and produces quality images or thin section slides.
@@ -219,9 +227,9 @@ Images and information have been kindly provided by the British Geological Surve
 Jardine, M.D. and Harris, S. (2022) DiSSCo Digitisation Guide: Imaging geological thin sections - BGS. version 1.0. Available at: https://dissco.github.io/Geo/thin_sections.html
 
 ## Document Control
-**Version:** 1.1\
-**Changes since last version:** Image sizes updated, links and typos fixed.\
-**Last Updated:** 6 July 2022
+**Version:** 1.2\
+**Changes since last version:** Video added to page, reduced the width of some images.
+**Last Updated:** 7 July 2023
 
 ### Edit This Page
 You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
