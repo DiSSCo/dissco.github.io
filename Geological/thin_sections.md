@@ -91,7 +91,7 @@ Once the first image is taken, the removable polarising lens is lifted and a sec
 
 *Once the last slide in a tray has been imaged, we check that the number of photos taken is two times the number of slides in the drawer. The final image number should also be 2 times the number of slides plus the first image number. If correct, the drawer is returned and a new one is taken. The process then begins again.*
 
-![array of section images order](/images/Geo/thinsections/section_images.png?raw=true)
+![array of section images order](/images/Geo/thinsections/section_images.PNG?raw=true)
 Figure 7: A collection of thin section images after being downloaded from the camera's memory card.
 
 **Specimen Image Processing**
@@ -106,7 +106,7 @@ Images were also converted to the JPEG2 format.
 
 This sheet records data about the specimens and their images, and creates a link between the two so that records can be created.
 
-<img src="/images/Geo/thinsections/focused_sheet_example.png?" alt="shows a blank recording sheet" width="500"/>\
+<img src="/images/Geo/thinsections/focused_sheet_example.PNG" alt="shows a blank recording sheet" width="500"/>\
 Figure 8: A focused example of a blank recording sheet. Reproduced with kind permission of the BGS.
 
 We fill in the columns as follows:
