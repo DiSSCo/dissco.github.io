@@ -113,7 +113,7 @@ and the images from this project can be found on the [NHM Data Portal](https://t
 ## Authors
 Lisa French, Robyn Crowther, Kate Holub-Young, Krisztina Lohonya, Laurence Livermore\
 Natural History Museum\
-<img src="/images/Logos/NHM.gif" alt="NHM Logo" width="250">
+<img src="/images/Logos/NHM.png" alt="NHM Logo" width="250">
 
 
 ## Contributors

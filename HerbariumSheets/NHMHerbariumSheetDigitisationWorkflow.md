@@ -117,7 +117,7 @@ If using **LED** lighting the settings are: ISO = 200; shutter speed = 1/60; ape
 ## Authors
 Michael Jardine, Krisztina Lohonya, Larissa Welton, Lisa French.
 Natural History Museum\
-<img src="/images/Logos/NHM.gif" alt="NHM Logo" width="250" style="margin-right:20px;">
+<img src="/images/Logos/NHM.png" alt="NHM Logo" width="250" style="margin-right:20px;">
 <img src="/images/Logos/AHRC.png" alt="AHRC Logo" width="250">
 
 ## Contributors

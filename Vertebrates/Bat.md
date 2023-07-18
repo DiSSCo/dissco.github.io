@@ -53,7 +53,7 @@ The next workflow shows the transcription process for the spirit and skull colle
 ## Authors
 Phaedra Kokkini, Lisa French, Laurence Livermore\
 Natural History Museum\
-<img src="/images/Logos/NHM.gif" alt="NHM Logo" width="250">
+<img src="/images/Logos/NHM.png" alt="NHM Logo" width="250">
 
 ## Citation
 French, L., Kokkini, P. & Livermore, L. (2022) DiSSCo Digitisation Guide: Bat Collection (NHM). version 1.0. Available at: https://dissco.github.io/MicroscopeSlides/MicroscopeSlide.html

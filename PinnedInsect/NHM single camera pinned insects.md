@@ -80,7 +80,7 @@ ISO = 500; shutter speed = 1/60; aperture = f/10.
 ## Authors
 Michael Jardine, Peter Wing, Phaedra Kokkini, Nicola Lowndes
 Natural History Museum\
-<img src="/images/Logos/NHM.gif" alt="NHM Logo" width="250" style="margin-right:20px;">
+<img src="/images/Logos/NHM.png" alt="NHM Logo" width="250" style="margin-right:20px;">
 <img src="/images/Logos/AHRC.png" alt="AHRC Logo" width="250">
 
 ## Contributors

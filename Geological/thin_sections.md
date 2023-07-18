@@ -207,7 +207,6 @@ Blog posts recording the progress of project:\
 ## Authors
 Michael Jardine (Natural History Museum), Simon Harris (British Geological Survey)\
 <img src="/images/Logos/BGS.png" alt="BGS Logo" width="250" style="margin-right:20px;">
-<img src="/images/Logos/NHM.gif" alt="NHM Logo" width="250" style="margin-right:20px;">
 <img src="/images/Logos/AHRC.png" alt="AHRC Logo" width="250">
 
 ## Contributors
