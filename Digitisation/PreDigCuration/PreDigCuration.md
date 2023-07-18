@@ -234,10 +234,9 @@ See our [Collections Inventory](/DigitisationPlanning/CollectionsInventory.html)
 ### 5. Staff availability
 <details>
 	<summary><strong>Click here to expand</strong></summary>
-	<p>See our <a href="/DigitisationPlanning/Staffing.html"staffing page</a> for more information on digitisation roles and recuirtment 
+	<p>See our <a href="/DigitisationPlanning/Staffing.html">staffing page</a> for more information on digitisation roles and recruitment</p> 
 	<p>Staff availability is extensively treated in WP2 of DiSSCo Prepare, and this section will be updated once this
-	deliverable is complete. For a case study see <a href="/Digitisation/PreDigCuration/PDCaseStudies.html#staff-list-for-mass-digitisation-project-doe-at-meise-botanic-garden">Staff list</a> for the mass digitisation project DOE! at Meise Botanic
-	Garden)</p>
+	deliverable is complete. For a case study see the <a href="/Digitisation/PreDigCuration/PDCaseStudies.html#staff-list-for-mass-digitisation-project-doe-at-meise-botanic-garden">Staff list</a> for the mass digitisation project DOE! at Meise Botanic	Garden</p>
 </details>
 
 ### 6. Costbooks
