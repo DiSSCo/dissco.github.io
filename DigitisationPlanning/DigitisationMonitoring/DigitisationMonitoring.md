@@ -1,7 +1,7 @@
 ---
 title: Digitisation Monitoring
 has_children: true
-nav_order: 6
+nav_order: 7
 grand_parent: Digitisation Best Practices
 parent: Digitisation Planning
 has_toc: false
