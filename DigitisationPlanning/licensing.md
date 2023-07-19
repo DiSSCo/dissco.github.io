@@ -23,7 +23,6 @@ The page provides information on the intellectual property rights associated wit
 This is not legal advice. Each country has different intellectual property law. Here we focus on common principles.
 
 ## Reusability
-
 One of the most important objectives of digitization is to make collection data reusable by anyone anywhere. This includes reuse of images, data and their metadata. Without transparent guidelines on their reuse, digital collections may not be used despite the effort made to create them. For more information on making your data and images reusable see
 [go-fair.org](https://www.go-fair.org/fair-principles/).
 
@@ -35,7 +34,6 @@ require that there is some novel intellectual creation step whereby the work is 
 what preceded it ([Patterson et al. 2014](https://doi.org/10.1186/1756-0500-7-79)).
 Therefore, scientific images of specimens are highly unlikely to fall into this category. No
 matter how much work or skill it has taken to produce material, it is only the individuality in the form of presentation that is protected by copyright.
-
 
 ### Database copyright
 Database copyright protects the structure of a database, if that structure is original. This
@@ -61,7 +59,7 @@ Commons](https://creativecommons.org/) licences. Indeed, these licences are ofte
 datasets and images that do not qualify for copyright or Sui Generis, however, this can be
 beneficial because it expresses the preference of the data provider.
 
-### Creative Commons Zero licence waiver (CC0)
+### [Creative Commons Zero licence waiver (CC0)](https://creativecommons.org/choose/zero/waiver/)
 To remove any ambiguity and ensure maximum reuse of your output, the Creative Commons
 Zero licence waiver allows you to waive any rights you might have automatically have been
 granted in the creation of images and databases. This is compatible with publishing to the
@@ -75,8 +73,7 @@ cite the source of images and data. This licence is also compatible with GBIF.
 Note that It is imperative that you explain how the work should be attributed.
 An example of citation advice from the GBIF website for a dataset.
 
-### [Attribution-NonCommercial (CC BY-NC
-4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+### [Attribution-NonCommercial (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
 The Attribution-NonCommercial 4.0 International licence additionally means that users may
 not use the work for commercial purposes. While use of this licence may seem attractive to
 poorly funded institutions it is highly unlikely to lead to an increase in revenue, but will almost
