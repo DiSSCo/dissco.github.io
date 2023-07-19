@@ -1,5 +1,5 @@
 ---
-title: intellectual property rights
+title: Intellectual property rights
 has_children: true
 nav_order: 3
 grand_parent: Digitisation Best Practices
@@ -34,8 +34,7 @@ between jurisdictions, but nowhere are data copyrightable. Furthermore, most jur
 require that there is some novel intellectual creation step whereby the work is different from
 what preceded it ([Patterson et al. 2014](https://doi.org/10.1186/1756-0500-7-79)).
 Therefore, scientific images of specimens are highly unlikely to fall into this category. No
-matter how much work or skill it has taken to produce material, it is only the creativeness
-that is protected by copyright.
+matter how much work or skill it has taken to produce material, it is only the individuality in the form of presentation that is protected by copyright.
 
 
 ### Database copyright
@@ -46,21 +45,15 @@ those could hold copyright. If the database structure is based on open community
 such as Darwin Core, it would not be considered original.
 
 ### Sui Generis rights
-Within the European Union there is the concept of Sui Generis rights on databases. These
-exist for databases where there has been a substantial investment of time or money in
-*“obtaining, verification or presentation”* of the database. If the database qualifies for Sui
-Generis rights they last for 15 years from the database’s creation date or the data it was
-made public. This can protect the contents of the database from exploitation by others, but it
-only covers data that are obtained, rather than those that are created, such as calculated
-fields ([Labastida & Margoni, 2020](https://doi.org/10.1162/dint_a_00042)).
+Within the European Union there is the concept of Sui Generis rights on databases. These exist for databases where there has been a substantial investment of time or money in *“obtaining, verification or presentation”* of the database. The investment for researching or collecting data is not taken into consideration. If the database qualifies for Sui Generis rights they last for 15 years from the database’s creation date or the date it was
+made public. This can protect the contents of the database as a whole from exploitation by others, but it only covers data that are obtained, rather than those that are created, such as calculated fields ([Labastida & Margoni, 2020](https://doi.org/10.1162/dint_a_00042)).
 
 ## Licensing
 Potential users will not automatically know whether your images or data are eligible for
 copyright or Sui Generis protection, and they should not use images or data without knowing
 whether they have the right to use them. Furthermore, there is a scientific need to show the
 evidence of assertions, and an ethical need to credit the work of others. Therefore, when
-publishing your data and images it is imperative that ownership, provenance and licensing
-are explicit. Even if you do not claim any rights on your digitization output you need to say so
+publishing your data and images it is imperative that provenance and licensing are explicit. Even if you do not claim any rights on your digitization output you need to say so
 in order that users can reuse it. If you do claim rights, you should make sure that users know
 how they can reuse the output. If you intend that your digitization project contributes to
 science and conservation then a frequently used option is to use one of the [Creative
@@ -72,7 +65,7 @@ beneficial because it expresses the preference of the data provider.
 To remove any ambiguity and ensure maximum reuse of your output, the Creative Commons
 Zero licence waiver allows you to waive any rights you might have automatically have been
 granted in the creation of images and databases. This is compatible with publishing to the
-[Global Biodiversity Information Facility](https://www.gbif.org/) (GBIF).
+[Global Biodiversity Information Facility](https://www.gbif.org/) (GBIF). You can also use the [Creative Commons Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/).
 
 ### [Creative Commons Attribution (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 The Creative Commons Attribution 4.0 International licence requires reusers to attribute the
@@ -109,7 +102,7 @@ derived from it. This is largely incompatible with most of the potential objecti
 digitization and is not recommended. Licences with this stipulation are not compatible with
 GBIF or Wikimedia.
 
-References
+## References
 * Labastida, I., & Margoni, T. (2020). Licensing FAIR data for reuse. Data Intelligence, 2(1-2),
 199-207. doi: [10.1162/dint_a_00042](https://doi.org/10.1162/dint_a_00042)
 * Patterson, D.J., Egloff, W., Agosti, D. et al. Scientific names of organisms: attribution, rights,
