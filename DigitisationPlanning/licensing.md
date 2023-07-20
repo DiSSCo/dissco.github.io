@@ -70,8 +70,14 @@ The Creative Commons Attribution 4.0 International licence requires reusers to a
 holder of the rights. This usually works well, and even in this domain, where much of the
 images and data would not qualify for copyright or Sui Genenis rights, there is still a need to
 cite the source of images and data. This licence is also compatible with GBIF.
-Note that It is imperative that you explain how the work should be attributed.
+Note that it is imperative that you explain how the work should be attributed.
+
 An example of citation advice from the GBIF website for a dataset.
+
+```
+Meise Botanic Garden (2023). Meise Botanic Garden Herbarium (BR). Version 1.29. Meise Botanic Garden. Occurrence
+dataset https://doi.org/10.15468/wrthhx accessed via GBIF.org on 2023-07-20.
+```
 
 ### [Attribution-NonCommercial (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
 The Attribution-NonCommercial 4.0 International licence additionally means that users may
