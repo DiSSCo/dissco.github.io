@@ -121,7 +121,7 @@ Natural History Museum\
 <img src="/images/Logos/AHRC.png" alt="AHRC Logo" width="250">
 
 ## Contributors
-This work is built upon the working practices of the NHM staff. The creation of this workflow was funded by the UK Arts & Humanities Research Council
+Authors are those who directly prepared this guide, however this workflow builds upon the working practices and insights of numerous colleagues over many years, particularly the NHM Algae, Fungi & Plants team and previous members of the digitisation team. The creation of this guide was funded by the UK Arts & Humanities Research Council.
 
 ## Citation
 Jardine, M.D., Lohonya, K., Welton, L. & French, L. (2022) DiSSCo Digitisation Guide: Herbarium sheet digitisation - NHM. version 1.2. Available at: https://dissco.github.io/HerbariumSheets/NHMHerbariumSheetDigitisationWorkflow.html
@@ -130,14 +130,15 @@ Jardine, M.D., Lohonya, K., Welton, L. & French, L. (2022) DiSSCo Digitisation G
 The content of this workflow is the property of the Trustees of the Natural History Museum and may be used under a [creative commons licence](http://creativecommons.org/licenses/by/4.0/)
 
 ## Document Control
-**Version:** 1.2\
+**Version:** 1.3\
 **Changes since last version:** 
 * Removed detailed instructions on specific software, it now links to a separate page with these instructions. 
 * Added workflow diagrams for pre-digitisation section and specimen image capture.
 * Minor amendments to text
 * Logos added
+* Contributors updated
 
-**Last Updated:** 27 May 2022
+**Last Updated:** 25 July 2023
 
 ### Edit This Page
 You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
