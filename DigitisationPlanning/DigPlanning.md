@@ -11,7 +11,7 @@ This page provides a checklist of areas to consider when planning a digitisation
 
 Planning a digitisation project or programme for an institution can sometimes be seen as a daunting activity. Whilst there are many activities and preparations which need to be considered, it is possible to carry out some basic planning and then carry out small pilot projects to develop the planning as an iterative process.
 
-For the planning process, the following checklist provides guidance on the activities and tasks that should be considered. We are still working to add information to this page, so please check back soon!
+For the planning process, the following checklist provides guidance on the activities and tasks that should be considered. Guidance on digitisation itself can be found in the Digitisation section. We are still working to add information to this page, so please check back soon!
 
 ## Digitisation Strategy
 <details>
