@@ -68,7 +68,7 @@ See our [Staffing](/DigitisationPlanning/Staffing.html) page.
 See the relevant section in our [Data Management](/DataManagement/InfrastructureRecs.html) pages.
 
 ## Software & Licences
-See the relevant section in our [Data Management](/DataManagement/InfrastructureRecs.html) pages.
+See the relevant section in our [Data Management](/DataManagement/Software/Software.html) pages.
 
 ## Digitisation Monitoring
 See the [Digitisation Monitoring](https://dissco.github.io/DigitisationPlanning/DigitisationMonitoring/DigitisationMonitoring.html) page.
