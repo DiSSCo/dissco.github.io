@@ -2,7 +2,7 @@
 title: Digitisation Quick Start Guide
 has_children: true
 nav_order: 4
-
+has_toc: false
 ---
 
 One of the best ways of learning is by doing but it can be daunting to get started with digitisation. In this Quick Start Guide we aim to give a short overview of digitisation, some important questions to ask yourself, with links to more detailed information.
