@@ -101,4 +101,19 @@ Nelson G, Paul D, Riccardi G, Mast A (2012) Five task clusters that enable effic
 
 [Latimer Core Guidance Documentation](https://github.com/tdwg/cd/wiki)
 
+## Citation
+Livermore, L. & Haston, E. (2023) DiSSCo Digitisation Guide: Digitisation Quick Start Guide. v.1.0. Available at: [https://dissco.github.io/
+](https://dissco.github.io/DigQuickStart.html)
+## Licence
+CC-BY
+
+## Document Control
+**Version:** 1.0\
+**Changes since last version:**
+
+**Last Updated:** 28 July 2023
+
+### Edit This Page
+You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
+
 
