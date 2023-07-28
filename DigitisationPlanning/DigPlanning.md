@@ -58,6 +58,9 @@ See our [Digitisation Prioritisation](/DigitisationPlanning/DigPrioritisation.ht
 * A cost analysis of transcription systems [https://doi.org/10.3897/rio.6.e56211](https://doi.org/10.3897/rio.6.e56211)</p>
 </details>
 
+## Standards
+See our [Standards](/DigitisationPlanning/Standards.html) page.
+
 ## Staffing
 See our [Staffing](/DigitisationPlanning/Staffing.html) page.
 
