@@ -10,3 +10,4 @@ This section of the Digitisation Guide site covers the standards and guidelines 
 <span class="fs-5">[Digitisation Planning](/DigitisationPlanning/DigPlanning.md){: .btn .btn-blue .mr-8 }</span>  											
 <span class="fs-5">[Digitisation](/Digitisation/Digitisation.md){: .btn .btn-blue .mr-8 }</span>
 <span class="fs-5">[Data Management](/DataManagement/Data.md){: .btn .btn-blue .mr-8 }</span>
+<span class="fs-5">[Digitisation Quick Start Guide](/DigQuickStart.md){: .btn .btn-blue .mr-8 }</span>
