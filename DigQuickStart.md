@@ -2,6 +2,7 @@
 title: Digitisation Quick Start Guide
 has_children: true
 nav_order: 4
+parent: Digitisation Best Practices
 has_toc: false
 ---
 
