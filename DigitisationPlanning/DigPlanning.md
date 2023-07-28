@@ -67,8 +67,11 @@ See our [Staffing](/DigitisationPlanning/Staffing.html) page.
 ## IT Infrastructure
 See the relevant section in our [Data Management](/DataManagement/InfrastructureRecs.html) pages.
 
-## Software & Licences
+## Software
 See the relevant section in our [Data Management](/DataManagement/Software/Software.html) pages.
+
+## Licensing & Intellectual Property Rights
+See the relevant section in our [Data Management](/DataManagement/Software/licensing.html) pages.
 
 ## Digitisation Monitoring
 See the [Digitisation Monitoring](https://dissco.github.io/DigitisationPlanning/DigitisationMonitoring/DigitisationMonitoring.html) page.
