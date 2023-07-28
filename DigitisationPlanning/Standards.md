@@ -21,7 +21,7 @@ i.e. if you publish a second version of the dataset the same record should keep 
 
 ### GRSciColl - Global Registry of Scientific Collections
 
-[GRSciColl](https://www.gbif.org/grscicoll)\
+[GRSciColl](https://www.gbif.org/grscicoll)
 
 This is a comprehensive house of information on scientific collections, which builds on previous efforts developed by the Consortium of the Barcode of Life (CBOL) and others. GrSciColl
 includes data on institutions, collections and associated staff members and spans all scientific disciplines, including earth and space sciences, anthropology, archaeology, biology and biomedicine, as well as applied fields
@@ -30,7 +30,7 @@ used in the biodiversity informatics community. Use of these terms enables publi
 
 ### ROR - Research Organization Registry
 
-[ROR](https://ror.org)\
+[ROR](https://ror.org)
 
 This is a global, community-led registry of open persistent identifiers for research organisations. ROR makes it easy for anyone or any system to disambiguate institution names and connect research organisations to 
 researchers and research outputs.
