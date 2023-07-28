@@ -11,6 +11,7 @@ title: DiSSCo Digitisation Guides
 <span class="fs-5">[Workflows](/Workflow.html){: .btn .btn-blue .mr-8 }</span>  											
 <span class="fs-5">[Guidance & Best Practices](/BestPractice.html){: .btn .btn-blue .mr-8 }</span>
 <span class="fs-5">[Literature & Links](/Literature/Literature.html){: .btn .btn-blue .mr-8 }</span>
+<span class="fs-5">[Digitisation Quick Start Guide](/DigQuickStart.md){: .btn .btn-blue .mr-8 }</span>
 
 This website has been developed by the Distributed System of Scientific Collections [(DiSSCo)](https://dissco.eu). 
 
