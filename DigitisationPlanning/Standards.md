@@ -57,4 +57,44 @@ The content of Wikidata is available under a public domain free license and can 
 
 ## Standards
 
+### DwC - Darwin Core
+
+[Darwin Core](https://dwc.tdwg.org/)
+
+Darwin Core is a standard maintained by the Darwin Core Maintenance Interest Group of the Biodiversity Information Standards organisation, that goes by the acronym TDWG. It includes a glossary of terms (in other contexts these might be called properties, elements, fields, columns, attributes, or concepts) intended to facilitate the sharing of information about biological diversity by providing identifiers, labels, and definitions. Darwin Core is primarily based on taxa, their occurrence in nature as documented by observations, specimens, samples, and related information.
+
+This is one of the main standards to take into account if you are digitising your collection, since you will want to eventually make it accessible to the world using FAIR principles. Putting it simply, you can share your dataset using this standard using a Simple Darwin Core as text, which is a basic table in which the columns are Darwin Core fields, and then there is one row for each specimen. A good starting point is the [Darwin Core quick reference guide](https://dwc.tdwg.org/terms/), where you can find the list of terms and understand how they relate to the values you want to digitise from your records.
+
+### ABCD - Access to Biological Collection Data
+
+[ABCD](https://abcd.tdwg.org)
+
+The Access to Biological Collection Data (ABCD) Schema is an evolving comprehensive standard for the access to and exchange of data about specimens and observations (a.k.a. primary biodiversity data). By defining relations between terms, ABCD is a step towards an ontology for biological collections.
+
+It can be viewed as an xml file that reproduces a relational database structure. It has the advantage of being versatile while enabling consistency of data, but on the other hand it is a more complex standard, and thus, more difficult for beginners.
+
+If you have a good knowledge of databases, ontologies, xml, and some other technical aspects, it would be good to take a look into these standards and understand how it might be useful to use in the future to share your data.
+
+### Audubon
+
+[Audobon Core](https://ac.tdwg.org)
+
+The Audubon Core (AC) is a set of vocabularies designed to represent metadata for biodiversity multimedia resources and collections. These vocabularies aim to represent information that will help to determine whether a particular resource or collection will be fit for some particular biodiversity science application before acquiring the media. Among others, the vocabularies address such concerns as the management of the media and collections, descriptions of their content, their taxonomic, geographic, and temporal coverage, and the appropriate ways to retrieve, attribute and reproduce them.
+
+In a practical approach you can use this standard to describe the images of your specimens, if you are making them available as a resource.
+
+
+### DC - Dublin Core
+
+[Dublin Core](https://www.dublincore.org)
+
+The Dublin Core, also known as the Dublin Core Metadata Element Set (DCMES), is a set of fifteen "core" elements (properties) for describing resources. The resources described using the Dublin Core may be digital resources (video, images, web pages, etc.) as well as physical resources such as books or works of art. Dublin Core metadata may be used for multiple purposes, from a simple resource description to combining metadata vocabularies of different metadata standards, to providing interoperability for metadata vocabularies in the linked data cloud and Semantic Web implementations. Regarding collections, it can be used to describe specimens, but it would be more suitable for books and publications.
+
+
 ### ISO - International Organization for Standardization
+
+[ISO](https://www.iso.org)
+
+Given the wide scope of this organisation, you have probably come across some of the ISO standards globally used. Several values in specimens can be potentially written using an ISO standard, such as dates and times, countries and other geography names, or languages.
+
+
