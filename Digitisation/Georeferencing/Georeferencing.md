@@ -66,7 +66,7 @@ Wieczorek C, Wieczorek J (2021). Georeferencing Calculator. Available: http://ge
 ### Ali-Bey
 Marcer A, Escobar A, Garcia-Font V, Uribe F, Marcer A, Uribe F (2022) Ali-Bey - an open collaborative georeferencing web application. Biodiversity Data Journal;10, http://doi.org/10.3897/bdj.10.e81282. GitHub repositories: https://github.com/aescobarr/mcnb-alibey (main application), https://github.com/aescobarr/mcnb-alibey-api (API), https://github.com/aescobarr/mcnb-alibey-docker (Dockerized version)
 ### GeoPick
-Marcer A, Escobar E, Uribe F, Chapman AD and Wieczorek JR (v.1.0.2023-Beta, in development). GeoPick: an online companion tool for easy georeferencing following best practices[web application] [Web application].
+Marcer A, Escobar E, Uribe F, Chapman AD and Wieczorek JR (v.1.0.0, in development). GeoPick: an online companion tool for easy georeferencing following best practices[web application] [Web application].
 
 ## References and further reading
 
