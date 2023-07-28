@@ -3,7 +3,6 @@ title: Standards and Identifiers
 has_children: true
 grand_parent: Digitisation Best Practices
 parent: Digitisation Planning
-published: false
 ---
 
 # Standards and Identifiers
