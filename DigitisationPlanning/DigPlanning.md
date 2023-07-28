@@ -9,7 +9,9 @@ has_toc: false
 
 This page provides a checklist of areas to consider when planning a digitisation project. It includes digitisation strategy and planning, how to prioritise areas of the collection to digitise, potential costs and staffing.
 
-We are still working to add information to this page, so please check back soon!
+Planning a digitisation project or programme for an institution can sometimes be seen as a daunting activity. Whilst there are many activities and preparations which need to be considered, it is possible to carry out some basic planning and then carry out small pilot projects to develop the planning as an iterative process.
+
+For the planning process, the following checklist provides guidance on the activities and tasks that should be considered. We are still working to add information to this page, so please check back soon!
 
 ## Digitisation Strategy
 <details>
@@ -47,9 +49,12 @@ See our [Collections Inventory](/DigitisationPlanning/CollectionsInventory.html)
 See our [Digitisation Prioritisation](/DigitisationPlanning/DigPrioritisation.html) page.
 
 ## Costs & Funding
-There is information available about digitisation costs in these journal articles:
-* Costbook of the digitisation infrastructure of DiSSCo [https://doi.org/10.3897/rio.6.e58915](https://doi.org/10.3897/rio.6.e58915)
-* A cost analysis of transcription systems [https://doi.org/10.3897/rio.6.e56211](https://doi.org/10.3897/rio.6.e56211)
+<details>
+	<summary><strong>Click here to expand</strong></summary>
+	<p>There is information available about digitisation costs in these journal articles:
+		* Costbook of the digitisation infrastructure of DiSSCo [https://doi.org/10.3897/rio.6.e58915](https://doi.org/10.3897/rio.6.e58915)
+		* A cost analysis of transcription systems [https://doi.org/10.3897/rio.6.e56211](https://doi.org/10.3897/rio.6.e56211)</p>
+</details>
 
 ## Staffing
 See our [Staffing](/DigitisationPlanning/Staffing.html) page.
