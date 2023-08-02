@@ -28,13 +28,15 @@ the [ICEDIG](https://icedig.eu) project, with more detail to be found in the [No
 
 **Pre-Digitisation Curation**
 [![Image shows the pre-digitisation curation workflow](/images/MicroscopeSlides/NHM/SlidePreDig.PNG?raw=true)](/images/MicroscopeSlides/NHM/SlidePreDig.PNG?raw=true)
-The workflow above shows the steps taken in the pre-digitisation curation stage. Drawer location and taxon barcode labels are printed from the Museum's Collection Management System (CMS) (Figure 1a). These are then temporarily inserted into the collection (Figure 1b).
-If there is no label for a taxon, or the label information is incorrect, this information is passed to the curator who then updates the CMS.
+The workflow above shows the steps taken in the pre-digitisation curation stage:
+* Drawer location and taxon barcode labels are printed from the Museum's Collection Management System (CMS) (Figure 1a).
+* These are then temporarily inserted into the collection (Figure 1b).
+* If there is no label for a taxon, or the label information is incorrect, this information is passed to the curator to update the CMS.
 
 ![Image on left shows the temporary taxon and location barcodes, image on right an example of how the labels were added to the collection](/images/MicroscopeSlides/NHM/SlideLabel.png?raw=true)
-Figure 1: a) Shows the drawer location and taxon barcode labels that are printed from the Museum's Collection Management System b) Shows how these temporary labels are inserted into the collection (Allan *et al*, 2019).\
+Figure 1: a) Shows the drawer location and taxon barcode labels that are printed from the Museum's Collection Management System b) Shows how these temporary labels are inserted into the collection (Allan *et al*, 2019).
 
-**Specimen Image Capture**
+**Image Capture**
 [![Image shows the image capture workflow](/images/MicroscopeSlides/NHM/SlideSIC.PNG?raw=true)](/images/MicroscopeSlides/NHM/SlideSIC.PNG?raw=true)
 The workflow above shows the image capture steps:
 * Using forceps, the Unique Identifier (UID) barcodes, which are printed on a self-adhesive 5 x 6mm labels, are attached to the glass of the slide, on the upper side of the slide.
@@ -44,9 +46,9 @@ The workflow above shows the image capture steps:
 * The slides is returned to the drawer and the process repeated with the next slide changing the barcode labels for drawer location, taxon etc as required.
 * Metadata associated with the image (e.g. copyright) is automatically added to the file during image capture using EOS Utility.
 
-**Specimen Image Processing & Electronic Data Capture**
+**Image Processing & Electronic Data Capture**
 [![Image shows the image processing and data capture workflow](/images/MicroscopeSlides/NHM/SlideEDC.PNG?raw=true)](/images/MicroscopeSlides/NHM/SlideEDC.PNG?raw=true)
-The workflow above shows the image processing and electronic data capture stages, with most of this process being semi-automated. 
+The workflow above shows the image processing and electronic data capture stages, with most of this process being semi-automated: 
 * File renaming - BardecodeFiler reads the multiple barcodes in the image, then, following predefined rules within the software, it renames the image files using the encoded information before saving the image files in an 'output' folder. For images without UID barcodes (i.e. envelope images, reverse slide images), the image file is renamed using the previously read UID barcode and saved in an 'exceptions' folder, where quality checks can be carried out.
 * Image processing - XnConvert is used to rotate the images 180 degrees, as the camera and the imaging system are in opposite orientations, and to crop out the barcode labels for drawer location, taxon etc. The image files are then saved in a 'cropped' folder.
 * At the end of an imaging session, the image files in the 'exceptions' folder are checked for issues, such as slides being imaged without UIDs having been added, before being rotated and cropped using XnConvert's batch processing.
@@ -59,7 +61,7 @@ The use of hot folders and automated processes enables imaging and processing to
 **Phthiraptera**\
 This workflow was piloted at the Natural History Museum, London, in order to digitise our Phthiraptera lice collection, which consists of ~70,000 slides. The table below shows the digitisation rates achieved during this project (Allan *et al.*, 2019).
 
-Table: Estimates of digitised slides per person per day (Allan *et al.*, 2019)
+Table: Estimates of digitised slides per person per day (Allan *et al.*, 2019).
 
 |                           | Digitisers (focused testing*) | Digitisers (real world) |
 |---------------------------|-------------------------------|------------------------ |
@@ -79,9 +81,9 @@ The following changes have been made to the pilot workflow:
 *Pre-Digitisation Curation:* In addition to the barcode labels for drawer location and taxon, we now include labels encoding type status and, where possible, high level locality information, such as country, island or similar (Figure 3).
 
 ![Image shows a slide with country, non-type, drawer location and taxonomy barcodes](/images/MicroscopeSlides/NHM/SlideTaxonomy.png?raw=true)\
-Figure 3: Shows the updated microscope slide imaging template that can include the following barcode labels: high level collecting locality, type status, drawer location and taxon
+Figure 3: Shows the updated microscope slide imaging template that can include the following barcode labels: high level collecting locality, type status, drawer location and taxon.
 
-*Specimen Image Processing:* We now have an Excel macro that can be used at the end of an imaging session to automatically check the image filenames for a range of data quality issues, including UID discrepancies, thus enabling better quality assurance.
+*Image Processing:* We now have an Excel macro that can be used at the end of an imaging session to automatically check the image filenames for a range of data quality issues, including UID discrepancies, thus enabling better quality assurance.
 
 ## Requirements
 
