@@ -100,8 +100,9 @@ Jardine, M.D., Wing, P., Kokkini, P. and Lowndes, N. (2022) DiSSCo Digitisation 
 **Changes since last version:**
 * Removed instructions on how to use BardecodeFiler, which is now found on its own software page.
 * Minor edits to text
+* Page title changed
 
-**Last Updated:** 26 May 2022
+**Last Updated:** 2 August 2023
 
 ### Edit This Page
 You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
