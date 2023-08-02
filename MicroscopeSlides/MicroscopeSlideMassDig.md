@@ -120,7 +120,7 @@ Figure 4: a) Shows the imaging set-up: vertically mounted DSLR camera, lightbox 
 [Digitising the louse collection: we've been itching to tell you more](https://www.nhm.ac.uk/discover/news/2018/february/digitising-the-louse-collection-we-ve-been-itching-to-tell-you-.html)
 
 ## Authors
-Lisa French, Larissa Welton, Louise Allen, Louise Berridge, Laurence Livermore\
+Lisa French, Larissa Welton, Louise Allan, Louise Berridge, Laurence Livermore\
 Natural History Museum\
 <img src="/images/Logos/NHM.png" alt="NHM Logo" width="250">
 
@@ -134,9 +134,9 @@ French, L., Welton, L., Berridge, L. & Livermore, L. (2022) DiSSCo Digitisation 
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Document Control
-**Version:** 1.1\
-**Changes since last version:** Small update to text in Figure 3 caption, broken link in references fixed\
-**Last Updated:** 16 February 2023
+**Version:** 1.2\
+**Changes since last version:** [Updates](https://github.com/DiSSCo/dissco.github.io/commit/90c055c112b275f2673100c6048bab32986458a5) to workflow description\
+**Last Updated:** 2 August 2023
 
 ### Edit This Page
 You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
