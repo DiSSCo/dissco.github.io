@@ -136,8 +136,9 @@ French, L., Crowther, R., Holub-Young, K., Lohonya, K. & Livermore, L. (2022) Di
 **Changes since last version:** 
 * Linked to software page for BardecodeFiler
 * Images updated
+* Page title updated
 
-**Last Updated:** 26 May 2022
+**Last Updated:** 2 August 2023
 
 ### Edit This Page
 You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
