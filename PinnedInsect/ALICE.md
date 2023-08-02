@@ -1,9 +1,9 @@
 ---
-title: ALICE
+title: Pinned insects - no label removal ALICE
 parent: Pinned Insects
 grand_parent: Workflows
 ---
-# ALICE - Pinned Insect Digitisation
+# Pinned Insects - No Label Removal - ALICE (Multi-Camera Workflow)
 {: .no_toc }
 
   {: .no_toc .text-delta }
@@ -18,7 +18,7 @@ grand_parent: Workflows
  
 ## Overview
 
-ALICE (Angled Label Image Capture and Extraction) is a custom-built multi-camera setup for high throughput pinned insect specimen digitisation, used at the Natural History Museum, London. This method allows for label images to be captured without removing them from the pin.
+ALICE (Angled Label Image Capture and Extraction) is a custom-built multi-camera setup for high throughput pinned insect specimen digitisation, used at the Natural History Museum, London. This method allows for specimen label images to be captured without removing them from the pin.
 
 <img src="/images/PinnedInsect/ALICE/ALICE.PNG" alt="Image shows the ALICE camera set up" width="600"/><br>
 
