@@ -1,9 +1,9 @@
 ---
-title: NHM single camera pinned insects
+title: Pinned insects - label removal
 parent: Pinned Insects
 grand_parent: Workflows
 ---
-# NHM Single Camera Pinned Insects - iCollections
+# Pinned Insects - Label Removal (Single Camera Workflow)
 {: .no_toc }
 
   {: .no_toc .text-delta }
@@ -18,7 +18,7 @@ grand_parent: Workflows
 
 ## Overview
 
-This page details the step involved in the 'iCollections' single camera pinned insects workflow used at the Natural History Museum (NHM) London. This workflow produces images containing a single pinned insect specimen as seen from above, and its associated labels laid out on the right.
+This page details the steps involved in the pinned insect label removal digitisation workflow used at the Natural History Museum (NHM), London (previously known as the 'iCollections' workflow). This workflow produces images of a pinned insect specimen, as seen from above, with its associated labels laid out to the right handside (image captured using a single camera setup).
 
 <img src="/images/PinnedInsect/NHMicol/example_pinned_insect_image.JPG" alt="pinned insect" width="500"/>\
 Figure 1: [Augochlora (Augochlora) festiva](https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/9085950/1652227200000) (http://creativecommons.org/licenses/by/4.0/)
@@ -100,8 +100,9 @@ Jardine, M.D., Wing, P., Kokkini, P. and Lowndes, N. (2022) DiSSCo Digitisation 
 **Changes since last version:**
 * Removed instructions on how to use BardecodeFiler, which is now found on its own software page.
 * Minor edits to text
+* Page title changed
 
-**Last Updated:** 26 May 2022
+**Last Updated:** 2 August 2023
 
 ### Edit This Page
 You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
