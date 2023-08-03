@@ -1,5 +1,5 @@
 ---
-title: Pinned Insects - no label removal
+title: Pinned insects - no label removal (ALICE)
 parent: Pinned Insects
 grand_parent: Workflows
 ---
