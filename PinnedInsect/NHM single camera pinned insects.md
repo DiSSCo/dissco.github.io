@@ -1,5 +1,5 @@
 ---
-title: Pinned insects - label removal
+title: Pinned Insects - label removal
 parent: Pinned Insects
 grand_parent: Workflows
 ---
@@ -29,7 +29,7 @@ This workflow occurs in two separate stages.
 1. Specimens are taken from the collections in drawers for re-housing and curation. During this stage, a unique barcode is attached to the pin of each specimen. A record is created stating that that barcode is associated which that species, but no other information is collected. Records can be created in bulk if there are many specimens per species. 
 2. Specimens are imaged. The specimen's labels and barcode are included in the image which allows information about the specimen to be gathered and link the image to the specimen record.
 
-**Specimen Image Capture**
+**Image Capture**
 
 [![workflow diagram of imaging](/images/PinnedInsect/NHMicol/pinned_insects_workflow_diagram_edit.png?raw=true)](/images/PinnedInsect/NHMicol/pinned_insects_workflow_diagram_edit.png?raw=true)
 Figure 2: Workflow diagram for the imaging of pinned insect specimens.
@@ -56,7 +56,7 @@ We then reverse the process: we move the specimen back onto the plastazote sheet
 
 Once complete, the specimen is returned to its location in the tray. 
  
-**Specimen Image Processing**
+**Image Processing**
 
 Image processing is performed at the end of the day once all specimens have been imaged.
 
@@ -84,7 +84,7 @@ Natural History Museum\
 <img src="/images/Logos/AHRC.png" alt="AHRC Logo" width="250">
 
 ## Contributors
-Robyn Crowther, Krisztina Lohonya, Kate Holub-Young, Larissa Welton, Lisa French
+Authors are those who directly prepared this guide, however this workflow builds upon the working practices and insights of numerous colleagues over many years, particularly Louise Allan, Vlad Blagoderov, Robyn Crowther, Lisa French, Kate Holub-Young, Krisztina Lohonya, Geoff Martin, Larissa Welton and previous members of the digitisation and iCollections teams (Natural History Museum). The creation of this guide was funded by the UK Arts & Humanities Research Council.
 
 ## References
 [Blagoderov et al. 2017. iCollections methodology: workflow, results and lessons learned](https://bdj.pensoft.net/article/19893/)
