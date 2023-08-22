@@ -127,8 +127,7 @@ Natural History Museum\
 <img src="/images/Logos/NHM.png" alt="NHM Logo" width="250">
 
 ## Contributors
-Ben Price, Olha Shchedrina, Vince Smith\
-Natural History Museum
+Authors are those who directly prepared this guide, however this workflow builds upon the working practices and insights of numerous colleagues over many years, particularly Ben Price, Olha Shchedrina and previous members of the digitisation team (Natural History Museum)
 
 ## References
 Allan, E.L., Livermore, L., Price, B.W., Shchedrina, O., & Smith, V.S. (2019). A Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides. Biodiversity Data Journal 7: e32342. [https://doi.org/10.3897/BDJ.7.e32342](https://bdj.pensoft.net/article/32342/)
