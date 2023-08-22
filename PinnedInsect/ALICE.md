@@ -116,8 +116,7 @@ Natural History Museum\
 <img src="/images/Logos/NHM.png" alt="NHM Logo" width="250">
 
 ## Contributors
-Ben Price, Steen Dupont, Louise Allan, Vlad Blagoderov, Alice Butcher, James Durrant, Pieter Holtzhausen, Phaedra Kokkini, Helen Hardy, Vince Smith\
-Natural History Museum
+Authors are those who directly prepared this guide, however this workflow builds upon the working practices and insights of numerous colleagues over many years, particularly Ben Price, Steen Dupont, Louise Allan, Vlad Blagoderov, Alice Butcher, James Durrant, Pieter Holtzhausen, Phaedra Kokkini and previous members of the digitisation team (Natural History Museum)
 
 ## References
 Dupont S, Price BW (2019) **ALICE, MALICE and VILE: High throughput insect specimen digitisation using angled imaging techniques.** Biodiversity Information Science and Standards 3: e37141. DOI: [10.3897/biss.3.37141](https://doi.org/10.3897/biss.3.37141)
