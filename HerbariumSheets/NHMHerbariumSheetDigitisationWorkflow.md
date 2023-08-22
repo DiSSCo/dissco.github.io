@@ -1,10 +1,10 @@
 ---
-title: NHM Herbarium sheet digitisation
+title: NHMUK Herbarium sheet digitisation
 parent: Herbarium Sheets
 grand_parent: Workflows
 ---
 
-# Herbarium sheet digitisation - NHM
+# NHMUK Herbarium Sheet Mass Digitisation
 {: .no_toc }
 
   {: .no_toc .text-delta }
@@ -50,7 +50,7 @@ Some sheets contain multiple specimens. If this is the case, a barcode is added 
 <img src="/images/HerbariumSheets/NHM/two_sheets.JPG" alt="herbarium sheets showing barcodes" width="600"/>\
 Figure 2: Two herbarium sheets. The one on the left contains one specimen so has one barcode, while the one on the right contains two specimens and is given two barcodes. Barcodes are added next to the specimen labels.
 
-**Specimen Image Capture**
+**Image Capture**
 
 [![Specimen Image Capture workflow, described in text below](/images/HerbariumSheets/NHM/HerbariumImage.PNG?raw=true)](/images/HerbariumSheets/NHM/HerbariumImage.PNG?raw=true)
 
@@ -77,7 +77,7 @@ Many herbarium sheets do not lie flat since sheet are usually stacked together a
 ![before and after blu tack sheet](/images/HerbariumSheets/NHM/flattening_sheet.png?raw=true)
 Figure 5: Shows the use blu tack to help flatten sheets, before (left) and after (right). This will help improve the readability of the label when imaged.
 
-**Specimen Image Processing**
+**Image Processing**
 
 Once you have taken images of all your specimens for the day, there are a number of final steps required before the images are ready to be linked with their digital records and to be published and shared. These steps are:
 * Rotating images: We rotate our images so that the top of the sheet is at the top of the screen.
