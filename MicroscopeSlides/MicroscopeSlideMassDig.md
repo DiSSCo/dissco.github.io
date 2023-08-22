@@ -127,7 +127,7 @@ Natural History Museum\
 <img src="/images/Logos/NHM.png" alt="NHM Logo" width="250">
 
 ## Contributors
-Benjamin Price, Olha Shchedrina, Vincent Smith\
+Ben Price, Olha Shchedrina, Vince Smith\
 Natural History Museum
 
 ## References
