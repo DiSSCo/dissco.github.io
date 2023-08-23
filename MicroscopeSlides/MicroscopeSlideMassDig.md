@@ -1,11 +1,11 @@
 ---
-title:  NHMUK Slide Mass Digitisation
+title:  NHM Slide Mass Digitisation
 parent: Microscope Slides
 grand_parent: Workflows
 ---
 
 ---
-# NHMUK Microscope Slides - Mass Digitisation
+# NHM Microscope Slides - Mass Digitisation
 {: .no_toc }
 
   {: .no_toc .text-delta }
@@ -133,7 +133,7 @@ Authors are those who directly prepared this guide, however this workflow builds
 Allan, E.L., Livermore, L., Price, B.W., Shchedrina, O., & Smith, V.S. (2019). A Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides. Biodiversity Data Journal 7: e32342. [https://doi.org/10.3897/BDJ.7.e32342](https://bdj.pensoft.net/article/32342/)
 
 ## Citation
-French, L., Welton, L., Allan, L., Berridge, L. & Livermore, L. (2022) DiSSCo Digitisation Guide: NHMUK Microscope Slides - Mass Digitisation. version 1.0. Available at: https://dissco.github.io/MicroscopeSlides/MicroscopeSlide.html
+French, L., Welton, L., Allan, L., Berridge, L. & Livermore, L. (2022) DiSSCo Digitisation Guide: NHM Microscope Slides - Mass Digitisation. version 1.0. Available at: https://dissco.github.io/MicroscopeSlides/MicroscopeSlide.html
 
 ## Licence
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
