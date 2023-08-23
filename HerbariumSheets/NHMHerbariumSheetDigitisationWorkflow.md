@@ -1,5 +1,5 @@
 ---
-title: NHMUK Herbarium sheet digitisation
+title: NHMUK Herbarium Sheet Digitisation
 parent: Herbarium Sheets
 grand_parent: Workflows
 ---
@@ -18,7 +18,7 @@ grand_parent: Workflows
 </details>
 
 ## Overview
-This workflow covers the steps involved in the digitisation and  imaging of herbarium sheets as performed at the Natural History Museum (NHM) London.
+This workflow covers the steps involved in the digitisation and  imaging of herbarium sheets as performed at the Natural History Museum, London.
 In this process a digital record is created for each specimen with an attached barcode. The record is then later supplemented by producing an image of each specimen.
 
 <img src="/images/HerbariumSheets/NHM/two_sheet_examples.png" alt="herbarium sheet examples" width="500"/>\
@@ -124,7 +124,7 @@ Natural History Museum\
 Authors are those who directly prepared this guide, however this workflow builds upon the working practices and insights of numerous colleagues over many years, particularly the NHM Algae, Fungi & Plants team and previous members of the digitisation team. The creation of this guide was funded by the UK Arts & Humanities Research Council.
 
 ## Citation
-Jardine, M.D., Lohonya, K., Welton, L. & French, L. (2022) DiSSCo Digitisation Guide: Herbarium sheet digitisation - NHM. version 1.2. Available at: https://dissco.github.io/HerbariumSheets/NHMHerbariumSheetDigitisationWorkflow.html
+Jardine, M.D., Lohonya, K., Welton, L. & French, L. (2022) DiSSCo Digitisation Guide: NHMUK Herbarium Sheet Mass Digitisation. version 1.2. Available at: https://dissco.github.io/HerbariumSheets/NHMHerbariumSheetDigitisationWorkflow.html
 
 ## Licence
 The content of this workflow is the property of the Trustees of the Natural History Museum and may be used under a [creative commons licence](http://creativecommons.org/licenses/by/4.0/)
