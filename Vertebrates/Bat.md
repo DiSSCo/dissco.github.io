@@ -1,9 +1,9 @@
 ---
-title: Bat - Spirit, Skulls, Skins
+title: NHM Bat - Spirit, Skulls, Skins
 parent: Vertebrates
 grand_parent: Workflows
 ---
-# Bat/Chiroptera Collection Digitisation
+# NHM Bat/Chiroptera Collection Digitisation - Spirit, Skulls, Skins
 
 {: .no_toc }
 
@@ -18,7 +18,7 @@ grand_parent: Workflows
 </details>
  
 ## Overview
-This workflow describes the digitisation of the bat collection at the Natural History Museum, London, (NHM) funded by a [SYNTHESYS+](synthesys.info) Virtual Access Project. 
+This workflow describes the digitisation of the bat collection at The Natural History Museum, London, funded by [SYNTHESYS+](synthesys.info) Virtual Access. 
 The NHM Bat Collection includes skins, skulls and specimens preserved in spirit. Some of the collection was already partially digitised, and this workflow describes some of the challenges that digitisers can face when dealing with inconsistent data quality from past digitisation efforts.
 This project did not include image capture. \
 ![Image of bat skull](/images/Vertebrates/NHMBat/Bat.PNG?raw=true)
@@ -55,8 +55,11 @@ Phaedra Kokkini, Lisa French, Laurence Livermore\
 Natural History Museum\
 <img src="/images/Logos/NHM.png" alt="NHM Logo" width="250">
 
+## Contributors
+Authors are those who directly prepared this guide, however this workflow builds upon the working practices and insights of numerous colleagues over many years, particularly the NHM Vertebrates team and previous members of the digitisation team (Natural History Museum)
+
 ## Citation
-French, L., Kokkini, P. & Livermore, L. (2022) DiSSCo Digitisation Guide: Bat Collection (NHM). version 1.0. Available at: https://dissco.github.io/MicroscopeSlides/MicroscopeSlide.html
+French, L., Kokkini, P. & Livermore, L. (2022) DiSSCo Digitisation Guide: NHM Bat/Chiroptera Collection Digitisation - Spirit, Skulls, Skins. version 1.0. Available at: https://dissco.github.io/MicroscopeSlides/MicroscopeSlide.html
 
 ## Licence
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
