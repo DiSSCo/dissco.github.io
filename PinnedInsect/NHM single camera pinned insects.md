@@ -1,9 +1,9 @@
 ---
-title: NHMUK Pinned Insects - label removal
+title: NHM Pinned Insects - label removal
 parent: Pinned Insects
 grand_parent: Workflows
 ---
-# NHMUK Pinned Insects - Label Removal (Single Camera Workflow)
+# NHM Pinned Insects - Label Removal (Single Camera Workflow)
 {: .no_toc }
 
   {: .no_toc .text-delta }
@@ -93,7 +93,7 @@ Authors are those who directly prepared this guide, however this workflow builds
 The content of this workflow is the property of the Trustees of the Natural History Museum and may be used under a [creative commons licence](http://creativecommons.org/licenses/by/4.0/)
 
 ## Citation
-Jardine, M.D., Wing, P., Kokkini, P. and Lowndes, N. (2022) DiSSCo Digitisation Guide: NHMUK Pinned Insects - Label Removal (Single Camera Workflow). version 1.1. Available at: https://dissco.github.io/PinnedInsect/NHM%20single%20camera%20pinned%20insects.html
+Jardine, M.D., Wing, P., Kokkini, P. and Lowndes, N. (2022) DiSSCo Digitisation Guide: NHM Pinned Insects - Label Removal (Single Camera Workflow). version 1.1. Available at: https://dissco.github.io/PinnedInsect/NHM%20single%20camera%20pinned%20insects.html
 
 ## Document Control
 **Version:** 1.1\
