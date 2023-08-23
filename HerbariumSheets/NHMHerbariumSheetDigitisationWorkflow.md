@@ -1,10 +1,10 @@
 ---
-title: NHMUK Herbarium Sheet Digitisation
+title: NHM Herbarium Sheet Digitisation
 parent: Herbarium Sheets
 grand_parent: Workflows
 ---
 
-# NHMUK Herbarium Sheet Mass Digitisation
+# NHM Herbarium Sheet Mass Digitisation
 {: .no_toc }
 
   {: .no_toc .text-delta }
@@ -124,7 +124,7 @@ Natural History Museum\
 Authors are those who directly prepared this guide, however this workflow builds upon the working practices and insights of numerous colleagues over many years, particularly the NHM Algae, Fungi & Plants team and previous members of the digitisation team. The creation of this guide was funded by the UK Arts & Humanities Research Council.
 
 ## Citation
-Jardine, M.D., Lohonya, K., Welton, L. & French, L. (2022) DiSSCo Digitisation Guide: NHMUK Herbarium Sheet Mass Digitisation. version 1.2. Available at: https://dissco.github.io/HerbariumSheets/NHMHerbariumSheetDigitisationWorkflow.html
+Jardine, M.D., Lohonya, K., Welton, L. & French, L. (2022) DiSSCo Digitisation Guide: NHM Herbarium Sheet Mass Digitisation. version 1.2. Available at: https://dissco.github.io/HerbariumSheets/NHMHerbariumSheetDigitisationWorkflow.html
 
 ## Licence
 The content of this workflow is the property of the Trustees of the Natural History Museum and may be used under a [creative commons licence](http://creativecommons.org/licenses/by/4.0/)
