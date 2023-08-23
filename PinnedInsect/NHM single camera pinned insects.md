@@ -1,9 +1,9 @@
 ---
-title: Pinned Insects - label removal
+title: NHMUK Pinned Insects - label removal
 parent: Pinned Insects
 grand_parent: Workflows
 ---
-# Pinned Insects - Label Removal (Single Camera Workflow)
+# NHMUK Pinned Insects - Label Removal (Single Camera Workflow)
 {: .no_toc }
 
   {: .no_toc .text-delta }
@@ -18,7 +18,7 @@ grand_parent: Workflows
 
 ## Overview
 
-This page details the steps involved in the pinned insect label removal digitisation workflow used at the Natural History Museum (NHM), London (previously known as the 'iCollections' workflow). This workflow produces images of a pinned insect specimen, as seen from above, with its associated labels laid out to the right handside (image captured using a single camera setup).
+This page details the steps involved in the pinned insect label removal digitisation workflow used at the Natural History Museum, London (previously known as the 'iCollections' workflow). This workflow produces images of a pinned insect specimen, as seen from above, with its associated labels laid out to the right handside (image captured using a single camera setup).
 
 <img src="/images/PinnedInsect/NHMicol/example_pinned_insect_image.JPG" alt="pinned insect" width="500"/>\
 Figure 1: [Augochlora (Augochlora) festiva](https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/9085950/1652227200000) (http://creativecommons.org/licenses/by/4.0/)
@@ -93,7 +93,7 @@ Authors are those who directly prepared this guide, however this workflow builds
 The content of this workflow is the property of the Trustees of the Natural History Museum and may be used under a [creative commons licence](http://creativecommons.org/licenses/by/4.0/)
 
 ## Citation
-Jardine, M.D., Wing, P., Kokkini, P. and Lowndes, N. (2022) DiSSCo Digitisation Guide: NHM single camera pinned insects workflow. version 1.1. Available at: https://dissco.github.io/PinnedInsect/NHM%20single%20camera%20pinned%20insects.html
+Jardine, M.D., Wing, P., Kokkini, P. and Lowndes, N. (2022) DiSSCo Digitisation Guide: NHMUK Pinned Insects - Label Removal (Single Camera Workflow). version 1.1. Available at: https://dissco.github.io/PinnedInsect/NHM%20single%20camera%20pinned%20insects.html
 
 ## Document Control
 **Version:** 1.1\
