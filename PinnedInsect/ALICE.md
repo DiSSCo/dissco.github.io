@@ -1,9 +1,9 @@
 ---
-title: Pinned Insects - no label removal
+title: NHMUK Pinned Insects - no label removal
 parent: Pinned Insects
 grand_parent: Workflows
 ---
-# Pinned Insects - No Label Removal - ALICE (Multi-Camera Workflow)
+# NHMUK Pinned Insects - No Label Removal - ALICE (Multi-Camera Workflow)
 {: .no_toc }
 
   {: .no_toc .text-delta }
@@ -124,7 +124,7 @@ Dupont S, Price BW (2019) **ALICE, MALICE and VILE: High throughput insect speci
 Price, Benjamin W., Steen Dupont, Elizabeth L. Allan, Vladimir Blagoderov, Alice J. Butcher, James Durrant, Pieter Holtzhausen, et al. 2018. **ALICE: Angled Label Image Capture and Extraction for High Throughput Insect Specimen Digitisation.** OSF Preprints. November 5. DOI: [10.31219/osf.io/s2p73](https://doi.org/10.31219/osf.io/s2p73)
 
 ## Citation
-French, L., Crowther, R., Holub-Young, K., Lohonya, K. & Livermore, L. (2022) DiSSCo Digitisation Guide: ALICE - Pinned Insects (NHM). version 1.0. Available at: https://dissco.github.io/PinnedInsect/ALICE.html
+French, L., Crowther, R., Holub-Young, K., Lohonya, K. & Livermore, L. (2022) DiSSCo Digitisation Guide: NHMUK Pinned Insects - No Label Removal - ALICE (Multi-Camera Workflow). version 1.0. Available at: https://dissco.github.io/PinnedInsect/ALICE.html
 
 ## Licence
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
