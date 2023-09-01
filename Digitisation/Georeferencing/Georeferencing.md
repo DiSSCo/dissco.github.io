@@ -93,8 +93,7 @@ Murphey PC, Guralnick RP, Glaubitz R, Neufeld D, Ryan A (2004). Georeferencing o
 Zermoglio PF, Chapman AD, Wieczorek JR, Luna MC and Bloom DA (2020). Georeferencing Quick Reference Guide. Copenhagen: GBIF Secretariat. [https://doi.org/10.35035/e09p-h128](https://doi.org/10.35035/e09p-h128)
 
 ## Authors
-Arnald Marcer, Arthur D. Chapman, John Wieczorek\
-![Cost Mobilise Logo](/images/Logos/Mobilise.png)
+Arnald Marcer, Arthur D. Chapman, John Wieczorek
 
 ## Contributors
 Louise Allan, Lisa French, Quentin Groom, Elspeth Haston, Anne Koivunen, Laurence Livermore, Joaquim Santos, Peter Wing
