@@ -15,7 +15,7 @@ title: DiSSCo Digitisation Guides
 
 This website has been developed by the Distributed System of Scientific Collections [(DiSSCo)](https://dissco.eu). 
 
-DiSSCo aims to improve physical and digital access to natural science collections, by helping to enable and support industrial scale digitisation. For further information about this project, and our funding, see the [About](/about) page
+DiSSCo aims to improve physical and digital access to natural science collections, by helping to enable and support industrial scale digitisation. For further information about this project and our funding, see the [About](/about) page
 
 All institutions are able to contribute to this website, see our [contributor guidance](https://dissco.github.io/Guidance/ContributorGuidance.html) for more information on how to submit a workflow. 
-We welcome feedback, get in touch with us at lisa.french@nhm.ac.uk or add a new issue to our [GitHub](https://github.com/DiSSCo/dissco.github.io/issues).
+We welcome feedback, get in touch with us at [dissco-uk@nhm.ac.uk](mailto:dissco-uk@nhm.ac.uk) or add a new issue to our [GitHub](https://github.com/DiSSCo/dissco.github.io/issues).

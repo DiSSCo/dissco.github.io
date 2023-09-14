@@ -16,7 +16,11 @@ We are grateful to have also received funding from [COST Mobilise](https://www.m
 <img src="/images/Logos/Mobilise.png" alt="The COST Mobilise Logo, showing dark blue floating text saying 'Mobilise'" width="250;" style="margin-right:30px">
 <img src="/images/Logos/AHRC.png" alt="The AHRC logo, saying 'UKRI' on the left in white with a purple background, and Arts and Humanities Research Council in purple on the right" width="250">
 
-### Grants
+## Feedback
+
+We welcome feedback on any of the workflows and guidance on this site - feel free to either add an issue to our [GitHub](https://github.com/DiSSCo/dissco.github.io/issues) or email [dissco-uk@nhm.ac.uk](mailto:dissco-uk@nhm.ac.uk)
+
+## Grants
 DiSSCo Prepare, Horizon 2020, H2020-INFRADEV-2019-2020 – Grant Agreement No. 871043\
 MOBILISE, the EU COST Action CA17106 on “Mobilising Data, Experts and Policies in Scientific Collections”\
 UK Arts and Humanities Research Council (AHRC) Grant number AH/W006715/1

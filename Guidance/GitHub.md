@@ -1,30 +1,31 @@
 ---
-title: Contributing a Workflow
+title: Contributor Guidance
 parent: Contributor Guidance
 nav_order: 1
 ---
 
-# Contributing Workflows
+# Adding or Updating Workflows and Guidance
 
 ## Overview
 
-This page describes how you can contribute a workflow and standard operating procedure to the digitisation guides.
+There are two options to contribute to the site: You can either contact one of the site administrators ([dissco-uk@nhm.ac.uk](mailto:dissco-uk@nhm.ac.uk)) or you can directly contribute through our GitHub. All submissions will be reviewed before publication.
 
-There are two options: You can either contact one of the site administrators, who will help you write the workflow (including guidance on how to create BPMN diagrams), or you can directly contribute through our GitHub.
+## New Workflows
 
-## Guidance on Creating Workflows
+We have created a [template](https://dissco.github.io/Template.html) to use when writing a workflow: most of the headings are optional, but please follow this structure rather than creating your own. This helps users to compare workflows, so they can choose the one which best suits their situation. You can either use this template as a basis for writing a workflow in a word processor, or you can contribute directly in GitHub (see below for more information)
 
-We have created a [template](https://dissco.github.io/Template.html) to use when writing a workflow: most of the headings are optional, but please follow this structure rather than creating your own. This helps users to compare workflows, so they can choose the one which best suits their situation.
+The [BPMN page](https://dissco.github.io/Guidance/BPMN.html) provides guidance on how to create the workflow diagrams.
 
-The [BPMN page](https://dissco.github.io/Guidance/BPMN.html) provides guidance on how to create the workflow diagrams. We will soon be adding some guidance on the suggested level of detail to include in the workflows, but in the mean time you can get in touch with us for help (see contact details above).
+## New Guidance
 
-## 1. Contact Details
-This site is currently being developed as part of [DiSSCo Prepare](https://www.dissco.eu/dissco-prepare/). You can contact Lisa French (lisa.french@nhm.ac.uk) at the Natural History Museum, London, or email info@dissco.eu
+Please [get in touch with us](mailto:dissco-uk@nhm.ac.uk) if you would like to contribute guidance to the site (there is no template for guidance, each page is different).
 
-## 2. GitHub Contributions
+## Suggesting Edits to Existing Guidance
 
-New workflows and standard operating procedures can also be submitted through the [DiSSCo Digitisation Guides GitHub](https://github.com/DiSSCo/dissco.github.io). You can do this by cloning or forking the repository, making your own changes, and then creating a pull request. We will then get a notification about your pull request, which will allow us to review the new workflow before we add it to the website.
+Suggestions to improve our guidance and workflows can either be made by e-mailing [dissco-uk@nhm.ac.uk](mailto:dissco-uk@nhm.ac.uk), adding an issue to our [GitHub Page](https://github.com/DiSSCo/dissco.github.io/issues) or by clicking the 'Edit this Page' link found at the bottom of all of our guides. These suggestions will be reviewed before publication.
 
-We suggest using the [template page](https://github.com/DiSSCo/dissco.github.io/blob/main/Template.md) on GitHub as a starting point to writing your workflow. Markdown can be used for most of the formatting on a page, but we sometimes use html as well.
+## GitHub Contributions
 
-If this is your first time using GitHub, and you would like to learn how to use it, we would be happy to talk you through the process. You can contact Lisa French (lisa.french@nhm.ac.uk). GitHub also provides [guidance](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) on how to use pull requests.
+New workflows can be submitted through the [DiSSCo Digitisation Guides GitHub](https://github.com/DiSSCo/dissco.github.io). You can do this by cloning or forking the repository, making your own changes, and then creating a pull request. We will then get a notification about your pull request, which will allow us to review the new workflow before we add it to the website.
+
+We suggest using the [template page](https://github.com/DiSSCo/dissco.github.io/blob/main/Template.md) on GitHub as a starting point to writing your workflow. Markdown can be used for most of the formatting on a page, although you can use html as well.
