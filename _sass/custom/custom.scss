@@ -1,15 +1,19 @@
+/* reduces size of nav bar and fixes bug where nav bar overlaps with main content when window is at 1100px - see issue #54*/
 .side-bar {
-    @include mq(lg) {
-      width: $nav-width;
-      min-width: $nav-width;
-    }
+  @include mq(lg) {
+    width: $nav-width;
+    min-width: $nav-width;
   }
+}
 
 .main{
   @include mq(lg) {
     margin-left: $nav-width;
+  
   }
 }
+
+/*centers the dissco uk logo - default is left center*/
 
 .site-logo{
   background-position: center;
