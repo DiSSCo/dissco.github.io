@@ -1,11 +1,11 @@
 ---
-title:  Slides - Mass Digitisation
+title:  NHM Slide Mass Digitisation
 parent: Microscope Slides
 grand_parent: Workflows
 ---
 
 ---
-# Microscope Slides - Mass Digitisation (ICEDIG, NHM)
+# NHM Microscope Slides - Mass Digitisation
 {: .no_toc }
 
   {: .no_toc .text-delta }
@@ -20,7 +20,7 @@ grand_parent: Workflows
  
 ## Overview
 This page outlines the semi-automated mass digitisation workflow used by the Natural History Museum, London, to digitise its microscope slide collection. It provides a short summary of the workflow developed as part of
-the [ICEDIG](https://icedig.eu) project, with more detail to be found in the [Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides](https://doi.org/10.5281/zenodo.3364481) paper (Allan *et al.*, 2019).
+the [SYNTHESYS](https://know.dissco.eu/handle/item/175) and [ICEDIG](https://icedig.eu) projects, with more detail to be found in the [Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides](https://doi.org/10.5281/zenodo.3364481) paper (Allan *et al.*, 2019).
 
 ![Image shows a barcode being added to a microscope slide](/images/MicroscopeSlides/NHM/SlideFront.png?raw=true)
 
@@ -55,7 +55,7 @@ The workflow above shows the image processing and electronic data capture stages
 * All image files are then quality checked using Excel macros and manual checks, if required.
 * The image files are then ingested into the CMS using various scripts as follows: 1) for specimens that do not yet have a record in the CMS: a new specimen record is created using the UID, drawer location and taxon information encoded in the image file name, to which the image file (CMS multimedia record) is then attached; 2) for specimens with existing records in the CMS: the corresponding specimen record is identified using the UID, to which the image file (CMS multimedia record) is then attached.
 
-The use of hot folders and automated processes enables imaging and processing to happen simultaneously i.e. the 'image capture' folder is watched by BardecodeFiler, while the 'output' folder is watched by XnConvert. More information on all these steps can be found in the Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides [paper](https://doi.org/10.5281/zenodo.3364481) (Allan *et al.*, 2019).
+The use of hot folders and automated processes enables imaging and processing to happen simultaneously i.e. the 'image capture' folder is watched by BardecodeFiler, while the 'output' folder is watched by XnConvert. More information on all these steps can be found in the [Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides](https://doi.org/10.5281/zenodo.3364481) paper (Allan *et al.*, 2019).
 
 ## Example Projects
 **Phthiraptera**\
@@ -126,11 +126,14 @@ Lisa French, Larissa Welton, Louise Allan, Louise Berridge, Laurence Livermore\
 Natural History Museum\
 <img src="/images/Logos/NHM.png" alt="NHM Logo" width="250">
 
+## Contributors
+Authors are those who directly prepared this guide, however this workflow builds upon the working practices and insights of numerous colleagues over many years, particularly Ben Price, Olha Shchedrina and previous members of the digitisation team (Natural History Museum)
+
 ## References
-Allan, L. E., Price, B.W., Shchedrina, O., Dupont, S., Livermore, L., & Smith, V. S. (2019). Mass-imaging of microscopic and other slides. Zenodo. [https://doi.org/10.5281/zenodo.336448](https://doi.org/10.5281/zenodo.3364481)
+Allan, E.L., Livermore, L., Price, B.W., Shchedrina, O., & Smith, V.S. (2019). A Novel Automated Mass Digitisation Workflow for Natural History Microscope Slides. Biodiversity Data Journal 7: e32342. [https://doi.org/10.3897/BDJ.7.e32342](https://bdj.pensoft.net/article/32342/)
 
 ## Citation
-French, L., Welton, L., Berridge, L. & Livermore, L. (2022) DiSSCo Digitisation Guide: Microscope Slides - Mass Digitisation (NHM). version 1.0. Available at: https://dissco.github.io/MicroscopeSlides/MicroscopeSlide.html
+French, L., Welton, L., Allan, L., Berridge, L. & Livermore, L. (2022) DiSSCo Digitisation Guide: NHM Microscope Slides - Mass Digitisation. version 1.0. Available at: https://dissco.github.io/MicroscopeSlides/MicroscopeSlide.html
 
 ## Licence
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
