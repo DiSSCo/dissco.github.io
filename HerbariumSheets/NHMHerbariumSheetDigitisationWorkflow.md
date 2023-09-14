@@ -1,10 +1,10 @@
 ---
-title: NHM Herbarium sheet digitisation
+title: NHM Herbarium Sheet Digitisation
 parent: Herbarium Sheets
 grand_parent: Workflows
 ---
 
-# Herbarium sheet digitisation - NHM
+# NHM Herbarium Sheet Mass Digitisation
 {: .no_toc }
 
   {: .no_toc .text-delta }
@@ -18,7 +18,7 @@ grand_parent: Workflows
 </details>
 
 ## Overview
-This workflow covers the steps involved in the digitisation and  imaging of herbarium sheets as performed at the Natural History Museum (NHM) London.
+This workflow covers the steps involved in the digitisation and  imaging of herbarium sheets as performed at the Natural History Museum, London.
 In this process a digital record is created for each specimen with an attached barcode. The record is then later supplemented by producing an image of each specimen.
 
 <img src="/images/HerbariumSheets/NHM/two_sheet_examples.png" alt="herbarium sheet examples" width="500"/>\
@@ -50,7 +50,7 @@ Some sheets contain multiple specimens. If this is the case, a barcode is added 
 <img src="/images/HerbariumSheets/NHM/two_sheets.JPG" alt="herbarium sheets showing barcodes" width="600"/>\
 Figure 2: Two herbarium sheets. The one on the left contains one specimen so has one barcode, while the one on the right contains two specimens and is given two barcodes. Barcodes are added next to the specimen labels.
 
-**Specimen Image Capture**
+**Image Capture**
 
 [![Specimen Image Capture workflow, described in text below](/images/HerbariumSheets/NHM/HerbariumImage.PNG?raw=true)](/images/HerbariumSheets/NHM/HerbariumImage.PNG?raw=true)
 
@@ -77,7 +77,7 @@ Many herbarium sheets do not lie flat since sheet are usually stacked together a
 ![before and after blu tack sheet](/images/HerbariumSheets/NHM/flattening_sheet.png?raw=true)
 Figure 5: Shows the use blu tack to help flatten sheets, before (left) and after (right). This will help improve the readability of the label when imaged.
 
-**Specimen Image Processing**
+**Image Processing**
 
 Once you have taken images of all your specimens for the day, there are a number of final steps required before the images are ready to be linked with their digital records and to be published and shared. These steps are:
 * Rotating images: We rotate our images so that the top of the sheet is at the top of the screen.
@@ -124,7 +124,7 @@ Natural History Museum\
 Authors are those who directly prepared this guide, however this workflow builds upon the working practices and insights of numerous colleagues over many years, particularly the NHM Algae, Fungi & Plants team and previous members of the digitisation team. The creation of this guide was funded by the UK Arts & Humanities Research Council.
 
 ## Citation
-Jardine, M.D., Lohonya, K., Welton, L. & French, L. (2022) DiSSCo Digitisation Guide: Herbarium sheet digitisation - NHM. version 1.2. Available at: https://dissco.github.io/HerbariumSheets/NHMHerbariumSheetDigitisationWorkflow.html
+Jardine, M.D., Lohonya, K., Welton, L. & French, L. (2022) DiSSCo Digitisation Guide: NHM Herbarium Sheet Mass Digitisation. version 1.2. Available at: https://dissco.github.io/HerbariumSheets/NHMHerbariumSheetDigitisationWorkflow.html
 
 ## Licence
 The content of this workflow is the property of the Trustees of the Natural History Museum and may be used under a [creative commons licence](http://creativecommons.org/licenses/by/4.0/)
