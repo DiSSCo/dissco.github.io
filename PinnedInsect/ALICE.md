@@ -1,9 +1,9 @@
 ---
-title: Pinned Insects - no label removal
+title: NHM Pinned Insects - no label removal
 parent: Pinned Insects
 grand_parent: Workflows
 ---
-# Pinned Insects - No Label Removal - ALICE (Multi-Camera Workflow)
+# NHM Pinned Insects - No Label Removal - ALICE (Multi-Camera Workflow)
 {: .no_toc }
 
   {: .no_toc .text-delta }
@@ -24,7 +24,7 @@ ALICE (Angled Label Image Capture and Extraction) is a custom-built multi-camera
 
 ## Workflow
 **Getting Started**\
-This workflow assumes that the ALICE stage has already been set-up. More information about the camera arrangement can be found in the [ALICE paper](https://doi.org/10.31219/osf.io/s2p73).
+This workflow assumes that the ALICE stage has already been set-up. More information about the camera arrangement can be found in the [ALICE](https://doi.org/10.31219/osf.io/s2p73) paper (Price _et al._, 2018).
 
 **Pre-Digitisation Curation**
 [![ALICE PreDigitisation Curation workflow](/images/PinnedInsect/ALICE/ALICEPreDig.PNG?raw=true)](/images/PinnedInsect/ALICE/ALICEPreDig.PNG?raw=true)
@@ -35,14 +35,14 @@ This workflow assumes that the ALICE stage has already been set-up. More informa
 <img src="/images/PinnedInsect/ALICE/ALICEBarcode.PNG" alt="Image shows an Ephemeroptera specimen, showing the barcode label when viewed from above" width="200"/><br> 
 Figure 1: [Ephemeroptera specimen](https://data.nhm.ac.uk/object/b22b18c3-93a7-4fb2-a29e-d56b5c5b885f/1642032000000) with barcode label visible from above (http://creativecommons.org/licenses/by/4.0/)
 
-**Specimen Image Capture**
+**Image Capture**
 [![ALICE Specimen Image Capture workflow](/images/PinnedInsect/ALICE/ALICEImageCap.PNG?raw=true)](/images/PinnedInsect/ALICE/ALICEImageCap.PNG?raw=true)
 * This shows the imaging step. Specimens must be positioned in the ALICE stage with their barcode visible from above.
 * The index lot barcode should be positioned in the top left hand corner.
 * Hardware requirements can be found [below](/PinnedInsect/ALICE.html#hardware)
 
 
-**Specimen Image Processing**
+**Image Processing**
 [![ALICE Specimen Image Processing workflow](/images/PinnedInsect/ALICE/ALICEImageProc.PNG?raw=true)](/images/PinnedInsect/ALICE/ALICEImageProc.PNG?raw=true)
 * This workflow shows the impaging processing steps, some of which are semi-automated. 
 * The software used this workflow is listed [below](/PinnedInsect/ALICE.html#software). BardecodeFiler and Bulk Rename Utility are used to rename the images. XnConvert is used to crop the images. More information about BardecodeFiler can be found on our [software page](/DataManagement/Software/BardecodeFiler).
@@ -56,7 +56,7 @@ Figure 2: Shows how the ALICE images can be used for transcription. The transcri
 
 ## Example Projects
 
-### EPT
+### High throughput digitisation of the EPT pinned collection
 ALICE has been used to digitise the Ephemeroptera (mayflies), Plecoptera (stoneflies) and Trichoptera (caddisflies) (EPT) collection in the Natural History Museum, London. This project was funded by the [SYNTHESYS+](https://www.synthesys.info/) Virtual Access. More information can be found on [our blog](https://naturalhistorymuseum.blog/2021/02/17/digitisation-on-demand-riverflies-and-redlists-digital-collections/), 
 and the images from this project can be found on the [NHM Data Portal](https://t.co/CuO15EC1S0).
 
@@ -115,18 +115,16 @@ Lisa French, Robyn Crowther, Kate Holub-Young, Krisztina Lohonya, Laurence Liver
 Natural History Museum\
 <img src="/images/Logos/NHM.png" alt="NHM Logo" width="250">
 
-
 ## Contributors
+Authors are those who directly prepared this guide, however this workflow builds upon the working practices and insights of numerous colleagues over many years, particularly Ben Price, Steen Dupont, Louise Allan, Vlad Blagoderov, Alice Butcher, James Durrant, Pieter Holtzhausen, Phaedra Kokkini and previous members of the digitisation team (Natural History Museum)
 
 ## References
 Dupont S, Price BW (2019) **ALICE, MALICE and VILE: High throughput insect specimen digitisation using angled imaging techniques.** Biodiversity Information Science and Standards 3: e37141. DOI: [10.3897/biss.3.37141](https://doi.org/10.3897/biss.3.37141)
 
 Price, Benjamin W., Steen Dupont, Elizabeth L. Allan, Vladimir Blagoderov, Alice J. Butcher, James Durrant, Pieter Holtzhausen, et al. 2018. **ALICE: Angled Label Image Capture and Extraction for High Throughput Insect Specimen Digitisation.** OSF Preprints. November 5. DOI: [10.31219/osf.io/s2p73](https://doi.org/10.31219/osf.io/s2p73)
 
-Natural History Museum (2021). Natural History Museum Data Portal (data.nhm.ac.uk). [https://data.nhm.ac.uk/object/b22b18c3-93a7-4fb2-a29e-d56b5c5b885f](https://data.nhm.ac.uk/object/b22b18c3-93a7-4fb2-a29e-d56b5c5b885f)
-
 ## Citation
-French, L., Crowther, R., Holub-Young, K., Lohonya, K. & Livermore, L. (2022) DiSSCo Digitisation Guide: ALICE - Pinned Insects (NHM). version 1.0. Available at: https://dissco.github.io/PinnedInsect/ALICE.html
+French, L., Crowther, R., Holub-Young, K., Lohonya, K. & Livermore, L. (2022) DiSSCo Digitisation Guide: NHM Pinned Insects - No Label Removal - ALICE (Multi-Camera Workflow). version 1.0. Available at: https://dissco.github.io/PinnedInsect/ALICE.html
 
 ## Licence
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
