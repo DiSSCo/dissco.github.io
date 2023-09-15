@@ -129,7 +129,7 @@ Joaquim Santos, Elspeth Haston, Louise Allan, Lisa French, Quentin Groom, Anne K
 ## Document Control
 **Version:** 0.2\
 **Changes since last version:** \
-Added references, mentioned ABCD EFG, added section on globally unique identifiers
+Added references, mentioned ABCD EFG, added section on globally unique identifiers\
 **Last Updated:** 15 September 2023
 
 ### Edit This Page
