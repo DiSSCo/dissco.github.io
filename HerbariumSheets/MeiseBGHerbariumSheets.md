@@ -67,7 +67,7 @@ The vascular plant herbarium specimens of BR are kept in 3 different subcollecti
 
 The specimens are stored in an alphabetical order by family, genus and species. There is a name tag every time the filing name changes. A QR barcode was added to the cover every time the name was different from the previous one. If the name wasn’t fully written on the first folder with that name, this name needed to be written on the folder so the external company could capture the complete name and no errors could be made.
 
-**Specimen Image Capture**
+**Image Capture**
 
 As mentioned before they were two streams of imaging:
 1. the bulk part on a conveyor belt system by Picturae, 
@@ -96,7 +96,7 @@ name operator/project/date
 
 The specimens are renamed automatically after imaging. The filename of the image is changed into the barcode which is used afterwards for linking with the label data.
 
-**Specimen Image Processing**
+**Image Processing**
 
 [![specimen image processing](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-image%20QC%20and%20processing.jpg)](/images/HerbariumSheets/MeiseBG/overview%20mass%20digitisation%20workflow%20DOE!-image%20QC%20and%20processing.jpg)
 
@@ -156,7 +156,7 @@ For each field, a penalty calculation was made and determined on the retrievabil
 This information was made available to the contractor via one of the tender annexes.
 
 
-**Georeferencing Specimen Data**
+**Georeferencing**
 
 No georeferencing was requested to the contractor or was done in house. Only when the coordinates were available on the sheet, they were transcribed as they appeared on the label.
 

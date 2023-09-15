@@ -137,9 +137,9 @@ More complex specimens, including multiple specimens mounted on a single sheet, 
 <img src="/images/HerbariumSheets/RBGE/RBGE%20multi%20specimen%20sheet.PNG" alt="Multiple specimens mounted on a single sheet" style="height:300px; margin-right:30px;"/>
 <img src="/images/HerbariumSheets/RBGE/RBGE%20multi%20sheet%20specimen.PNG" alt="A single specimen mounted on multiple sheets" width=500>
 
-**Specimen Image Capture**
+**Image Capture**
 
-[![Specimen Image Capture workflow](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Specimen%20Image%20Capture.PNG?raw=true)](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Specimen%20Image%20Capture.PNG?raw=true)
+[![Image Capture workflow](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Specimen%20Image%20Capture.PNG?raw=true)](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Specimen%20Image%20Capture.PNG?raw=true)
 
 At present there are 3 different imaging stations being used for the imaging of flat herbarium sheets. Whilst each has some slight differences the overall principals for the image capture workflow remain the same. 
 
@@ -152,7 +152,7 @@ General principals of the image capture workflow:
 * Barcodes are scanned manually using a barcode scanner.
 * The processing of RAW files to TIFFs is done automatically by the software with a small number of software based modifications e.g. the application of sharpening
 
-**Specimen Image Processing**
+**Image Processing**
 
  [![Specimen Image Processing workflow](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Specimen%20Image%20Processing.PNG?raw=true)](/images/HerbariumSheets/RBGE/RBGE%20BPMN%20Specimen%20Image%20Processing.PNG?raw=true)
  
