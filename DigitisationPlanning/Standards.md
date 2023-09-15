@@ -3,9 +3,21 @@ title: Standards and Identifiers
 has_children: true
 grand_parent: Digitisation Best Practices
 parent: Digitisation Planning
+has_toc: false
 ---
 
 # Standards and Identifiers
+{: .no_toc }
+
+  {: .no_toc .text-delta }
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 Digitised data will eventually be available to the public, possibly through an aggregation portal. It is important that the values you publish fall into 
 standards that are available, so that the final users are able to find the data, understand it, cite it, aggregate it, and potentially reuse it. 
@@ -22,9 +34,9 @@ i.e. if you publish a second version of the dataset the same record should keep 
 
 [GRSciColl](https://www.gbif.org/grscicoll)
 
-This is a comprehensive house of information on scientific collections, which builds on previous efforts developed by the Consortium of the Barcode of Life (CBOL) and others. GrSciColl
-includes data on institutions, collections and associated staff members and spans all scientific disciplines, including earth and space sciences, anthropology, archaeology, biology and biomedicine, as well as applied fields
-like agriculture, veterinary medicine and technology. GRSciColl also serves as the registry for InstitutionCodes and CollectionCodes - elements used in the DarwinCore data standard 
+This is a comprehensive house of information on scientific collections, which builds on previous efforts developed by the Consortium of the Barcode of Life (CBOL) and others. GrSciColl includes data on institutions, collections and associated staff members and spans all scientific disciplines, including earth and space sciences, anthropology, archaeology, biology and biomedicine, as well as applied fields like agriculture, veterinary medicine and technology. 
+
+GRSciColl also serves as the registry for InstitutionCodes and CollectionCodes - elements used in the DarwinCore data standard 
 used in the biodiversity informatics community. Use of these terms enables publications and databases to point unambiguously to collections and their contents.
 
 ### ROR - Research Organization Registry
@@ -75,6 +87,8 @@ It can be viewed as an xml file that reproduces a relational database structure.
 
 If you have a good knowledge of databases, ontologies, xml, and some other technical aspects, it would be good to take a look into these standards and understand how it might be useful to use in the future to share your data.
 
+There is an extension to ABCD for geological collections - [ABCD EFG](https://github.com/tdwg/efg).
+
 ### Audubon
 
 [Audobon Core](https://ac.tdwg.org)
@@ -97,4 +111,26 @@ The Dublin Core, also known as the Dublin Core Metadata Element Set (DCMES), is 
 
 Given the wide scope of this organisation, you have probably come across some of the ISO standards globally used. Several values in specimens can be potentially written using an ISO standard, such as dates and times, countries and other geography names, or languages.
 
+## Globally unique identifiers
+Museum and herbarium accession numbers (e.g. barcodes) are not guaranteed to be globally unique. By globally unique we mean a code that is completely unique to that specimen in any context. Various systems have been proposed, but the system of [CETAF Stable Identifiers](http://cetafidentifiers.biowikifarm.net/wiki/Main_Page) has gained strong traction within Europe.
 
+## References
+Güntsch A, Groom Q, Hyam R, Chagnoux S, Röpert D, Berendsohn W, Casino A, Droege G, Gerritsen W, Holetschek J, Marhold K, Mergen P, Rainer H, Smith V, Triebel D (2018) Standardised Globally Unique Specimen Identifiers. Biodiversity Information Science and Standards 2: e26658. [https://doi.org/10.3897/biss.2.26658](https://doi.org/10.3897/biss.2.26658)
+
+Nelson G, Sweeney P, Gilbert E. Use of globally unique identifiers (GUIDs) to link herbarium specimen records to physical specimens. Appl Plant Sci. 2018 Mar 7;6(2):e1027. doi: 10.1002/aps3.1027. PMID: 29732258; PMCID: PMC5851565.
+
+
+## Authors
+Joaquim Santos, Elspeth Haston, Louise Allan, Lisa French, Quentin Groom, Anne Koivunen, Laurence Livermore, Arnald Marcer, Peter Wing\
+![Cost Mobilise Logo](/images/Logos/Mobilise.png)
+
+## Citation
+
+## Document Control
+**Version:** 0.2\
+**Changes since last version:** \
+Added references, mentioned ABCD EFG, added section on globally unique identifiers
+**Last Updated:** 15 September 2023
+
+### Edit This Page
+You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
