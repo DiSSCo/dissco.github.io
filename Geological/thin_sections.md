@@ -59,7 +59,7 @@ The steps that need to be taken in this section are:
 3. **Specimen ordering** - in our system, thin section specimens have a unique identifier within each tray (e.g. E1, E2, E3, E4 etc). We order the tray in alphanumeric order. If there is a missing slide number, a gap is left. This ordering helps organise the imaging process.
 
 
-**Specimen Image Capture**
+**Image Capture**
 
 1. **Imaging set up**
 
@@ -94,7 +94,7 @@ Once the first image is taken, the removable polarising lens is lifted and a sec
 ![array of section images order](/images/Geo/thinsections/section_images.PNG?raw=true)
 Figure 7: A collection of thin section images after being downloaded from the camera's memory card.
 
-**Specimen Image Processing**
+**Image Processing**
 
 Image files are downloaded from the camera's memory card. Images are then matched to their record using the image and section number.  
 
@@ -112,7 +112,7 @@ Figure 8: A focused example of a blank recording sheet. Reproduced with kind per
 We fill in the columns as follows:
 1. The *Section number* column is the unique number the slide is given in the collection (e.g. E27746, E27747 etc).
 2. The *Suf.* column is for section numbers that include extra notation. Sometimes two slides have been created from the sample and thereby have the same section number, but are differentiated by their suffix (e.g. E27747 and E27747A).
-3. The *Light* column is either XL for the first image  where the filter is down (double polarised light), or PPL for the second image where the filter is up (plain polarised light).
+3. The *Light* column is either XL for the first image  where the filter is down (double polarised light), or PPL for the second image where the filter is up (plane polarised light).
 4. In the *Camera number & prefix* column we record the image number as assigned by the camera. These will be filled in in a series on after the other. If a mistake is made, we leave the image in the camera and miss out that number in the column. See the image below for an example (the number 7853 is missed out). It is important to make sure that this column is filled in correctly. Any mistake will result in the wrong image being attached to each specimen.  
 
 <img src="/images/Geo/thinsections/annotated_filled_sheet.png" alt="shows an annotated recording sheet" width="600"/>\
@@ -184,12 +184,12 @@ The workflow presented here uses:
 
 ### Software
 Microsoft Excel
-[Adobe photoshop](https://www.adobe.com/uk/products/photoshop.html)
+[Adobe Photoshop](https://www.adobe.com/uk/products/photoshop.html)
 
 **Future requirements** may include:
-[Openscad](https://www.openscad.org/) - for 3D printing of components.
-[Image magick](https://imagemagick.org/) - for automated image processing.
-[Code for moving filter](https://github.com/MichaelJardine/lmfrench.github.io/blob/main/Geo/thin_section_files/britrocks.sh)
+* [Openscad](https://www.openscad.org/) - for 3D printing of components.
+* [Image magick](https://imagemagick.org/) - for automated image processing.
+* [Code for moving filter](https://github.com/MichaelJardine/lmfrench.github.io/blob/main/Geo/thin_section_files/britrocks.sh)
 
 ### Camera Settings
 The camera is set to 'aperture priority'. With no slide present this results settings of:
@@ -198,6 +198,27 @@ The camera is set to 'aperture priority'. With no slide present this results set
 * ISO = 200
 
  Images are saved from the camera in the JPEG format.
+
+## Resources
+### Digitisation Rates
+The estimated digitisation rate for this workflow is 1 minute per slide (including image capture and image processing). This assumes the collection has already been organised and the pre-digitisation curation step is complete.
+
+ For one tray of 60 slides (shown in the video), we estimate the image capture stage will take roughly 30 minutes:
+* Remove tray and appraise – 5 minutes
+* Generate list of samples in trays, complete with spaces to record XP and PPL images – 5 minutes
+* Photograph 5 lines of 12 slides and record numbers – 10 minutes
+* Ensure slides are back in tray, sort out any problems like loose labels – 5 minutes
+* Break – 5 minutes
+
+During the BritRocks project, the image processing step would be completed once there was a batch of 10,000 images (5000 slides). This would take roughly a full day to complete, and would include:
+*	Splitting images into plane polarised (PPL) and cross polarised (XL) light
+* Checking there are the same number of PPL and XL images
+*	Checking images are correct – all PPL images should be pale, XP should be dark
+*	Basic batch image processing in Photoshop
+*	Linking images to the database using a join query against specimen number 
+*	Spot checks of images against slides to check the linking is correct
+*	Converting to JP2 files and transering files to corporate server
+Many of these steps will be dependent on an institution's IT infrastructure (e.g. collections management system, software available to do batch image processing), and therefore the rates may vary.
 
 ## Other Sources
 Blog posts recording the progress of project:\
@@ -223,12 +244,12 @@ Images and information have been kindly provided by the British Geological Surve
 
 
 ## Citation
-Jardine, M.D. and Harris, S. (2022) DiSSCo Digitisation Guide: Imaging geological thin sections - BGS. version 1.0. Available at: https://dissco.github.io/Geo/thin_sections.html
+Jardine, M.D. and Harris, S. (2022) DiSSCo Digitisation Guide: Imaging geological thin sections - BGS. version 1.3. Available at: https://dissco.github.io/Geo/thin_sections.html
 
 ## Document Control
-**Version:** 1.2\
-**Changes since last version:** Video added to page, reduced the width of some images.
-**Last Updated:** 7 July 2023
+**Version:** 1.3\
+**Changes since last version:** Digitisation rates added\
+**Last Updated:** 15 September 2023
 
 ### Edit This Page
 You can suggest changes to this page on our [GitHub]({{ site.github.repository_url }}/blob/main/{{ page.path }})
