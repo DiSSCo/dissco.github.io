@@ -1,12 +1,13 @@
 ---
-title: Intellectual property rights
+title: Intellectual Property Rights
 has_children: true
 nav_order: 6
 grand_parent: Digitisation Best Practices
 parent: Digitisation Planning
+has_toc: false
 ---
 
-# licensing
+# Licensing
 {: .no_toc }
 
   {: .no_toc .text-delta }
