@@ -44,7 +44,7 @@ There is information available about digitisation costs in these journal article
 * Costbook of the digitisation infrastructure of DiSSCo [https://doi.org/10.3897/rio.6.e58915](https://doi.org/10.3897/rio.6.e58915)
 * A cost analysis of transcription systems [https://doi.org/10.3897/rio.6.e56211](https://doi.org/10.3897/rio.6.e56211)
 
-## Standards
+## Standards & identifiers
 See our [Standards](/DigitisationPlanning/Standards.html) page.
 
 ## Staffing
