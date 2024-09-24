@@ -63,7 +63,7 @@ See the relevant section in our [Data Management](/DataManagement/Software/Softw
 See the relevant section in our [Workflows](https://dissco.github.io/Workflow.html) pages.
 
 ## Licensing & Intellectual Property Rights
-See the relevant section in our [Data Management](/DataManagement/Software/licensing.html) pages.
+See the relevant section in our [Data Management](/DigitisationPlanning/licensing.html) pages.
 
 ## Digitisation monitoring
 See the [Digitisation Monitoring](https://dissco.github.io/DigitisationPlanning/DigitisationMonitoring/DigitisationMonitoring.html) page.
